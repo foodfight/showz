@@ -11,18 +11,40 @@ Panel
 * Nathen? Lusis?
 
 
-What's Hot
-=========
+What's Hot!
+===========
+
 
 
 What's Cold
 ===========
 
+
+
 Show Outline
 ============
 
+* What is TDI? Why is it worth it our time?
+* If TDI is so awesome, why weren't we doing it before?
 * Testing Approaches
-
+    * unit testing
+    * bdd
+    * integration testing
+* different testing tools, what are the strengths of each?
+    * minitest
+    * rspec
+    * cucumber
+* what current testing tools are available for Chef?
+    * cuken
+    * simple_cuke
+    * cucumber-chef
+    * toft
+    * minitest-chef-handler
+* What is enough testing? What is too much?
+* what if testing my cookbooks requires loading other cookbooks? how
+  I handle those dependencies?
+* how would you structure your chef-repo or cookbook for testing?
+* What holds us back from doing TDI as it should be done?
 
 
 Picks
