@@ -21,8 +21,13 @@ What's Cold
 Show Outline
 ============
 
-* Testing Approaches
+Why do we write tests?
 
+The different levels that we can test Chef cookbooks at
+
+More detailed discussion of individual tools you can use today
+
+Challenges
 
 
 Picks
