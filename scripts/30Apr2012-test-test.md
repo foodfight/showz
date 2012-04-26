@@ -59,7 +59,7 @@ Show Outline
   I handle those dependencies?
 * how would you structure your chef-repo or cookbook for testing?
 * What holds us back from doing TDI as it should be done?
-
+* How should someone get started with testing?
 
 Picks
 =====
