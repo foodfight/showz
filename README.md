@@ -26,4 +26,6 @@ Food Fight Shows
 DevOps Delicacies
 =================
 
+Shorter-format show that focusses on exciting tools and developments in our community.
+
 * [0 - Librarian with Jay Feldblum](http://www.foodfightshow.org/2012/04/devops-delicacy-0-librarian-with-jay.html)
