@@ -26,6 +26,8 @@ Delicacy as long as you meet our basic standards for audio quality and
 content rating. i.e. the only people who get to curse are those that
 are as amusing as Artur Bergman or Fujin :)
 
+Also, Chef Hackday on Tuesday, May 15, 13:00 - 21:00 
+focus, likely testing!
 
 What's Cold
 ===========
