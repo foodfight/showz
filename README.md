@@ -3,6 +3,12 @@ showz
 
 da showz be here
 
+[Subscribe with iTunes](http://itunes.apple.com/us/podcast/the-food-fight-show/id495577922#)
+
+[Follow us on Twitter](https://twitter.com/#!/foodfightshow)
+
+[Send us feedback](mailto:info@foodfightshow.org)
+
 Food Fight Shows
 =================
 
