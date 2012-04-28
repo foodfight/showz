@@ -56,3 +56,9 @@ library
 8. Drag and drop it onto the master track
 9. export to mp3 again and you're done!
   
+Editing
+-------
+
+1. don't spend too much time on it, content is king
+2. Edit after you have used levelator, long quiet periods will be very
+easy to see after the speaking volumes are equalized
