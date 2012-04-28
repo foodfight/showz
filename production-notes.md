@@ -15,9 +15,9 @@ professional shows use Apple's Logic
 * [Soundflower](http://www.macupdate.com/app/mac/14067/soundflower)
  let's you hijack various audio input streams and combine them into
  one, thus combine your skype and microphone input into one audio stream
-* (Linein)[http://www.macupdate.com/app/mac/11333/linein] let's you
+* [Linein](http://www.macupdate.com/app/mac/11333/linein) let's you
  pass your microphone output to soundflower
-* (Levelator)[http://www.conversationsnetwork.org/levelator] equalizes
+* [Levelator](http://www.conversationsnetwork.org/levelator) equalizes
  the speaking volumes of different people talking on your podcast,
  this way some people aren't quiet and others loud
 * ffmpeg installed w/ homebrew, you need this for levelator
