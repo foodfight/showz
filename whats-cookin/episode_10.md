@@ -158,7 +158,7 @@ down of which were updated.
  
 ### Reminders and announcements
 
-A quick Public Service Announcment:  If you publish a cookbook on the community site, please include a CHANGELOG.md or at least a link to the cookbook's repository github.  This makes it much easier for everyone to see what's changed between versions.
+A quick Public Service Announcment:  If you publish a cookbook on the community site, please include a CHANGELOG.md or at least a link to the cookbook's repository.  This makes it much easier for everyone to see what's changed between versions.
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
