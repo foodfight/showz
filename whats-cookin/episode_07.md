@@ -1,3 +1,5 @@
+29-Mar-2012
+
 Of course, the big cookbook news is that Opscode has moved all of their cookbooks into a new github organization.  You'll now find all of the cookbooks as individual repos in the opscode-cookbooks.
 
 Pretty great...
