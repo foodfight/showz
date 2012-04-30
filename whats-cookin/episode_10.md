@@ -1,3 +1,5 @@
+30-Apr-2012
+
 ## In the News
 
 
@@ -66,6 +68,33 @@
 ### [modules](http://community.opscode.com/cookbooks/modules) v0.1.0 - [guilhemfr](http://community.opscode.com/users/guilhemfr)
  * Manage modules on linux
 
+
+## Opscode Cookbook Releases
+
+### [apache2](http://community.opscode.com/cookbooks/apache2) v1.1.8 - [opscode](http://community.opscode.com/users/opscode)
+ * Installs and configures all aspects of apache2 using Debian style symlinks with helper definitions
+
+### [ntp](http://community.opscode.com/cookbooks/ntp) v1.1.8 - [opscode](http://community.opscode.com/users/opscode)
+ * Installs and configures ntp as a client or server
+
+### [nginx](http://community.opscode.com/cookbooks/nginx) v0.101.2 - [opscode](http://community.opscode.com/users/opscode)
+ * Installs and configures nginx
+
+### [rsyslog](http://community.opscode.com/cookbooks/rsyslog) v1.1.0 - [opscode](http://community.opscode.com/users/opscode)
+ * Installs and configures rsyslog
+
+### [postfix](http://community.opscode.com/cookbooks/postfix) v1.2.0 - [opscode](http://community.opscode.com/users/opscode)
+ * Installs and configures postfix for client or outbound relayhost, or to do SASL auth
+
+### [powershell](http://community.opscode.com/cookbooks/powershell) v1.0.6 - [opscode](http://community.opscode.com/users/opscode)
+ * Installs/Configures PowerShell 2.0 on the Windows platform
+
+### [apt](http://community.opscode.com/cookbooks/apt) v1.4.2 - [opscode](http://community.opscode.com/users/opscode)
+ * Configures apt and apt services and LWRPs for managing apt repositories and preferences
+
+### [resolver](http://community.opscode.com/cookbooks/resolver) v1.0.2 - [opscode](http://community.opscode.com/users/opscode)
+ * Configures /etc/resolv.conf via attributes
+ 
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
