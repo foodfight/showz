@@ -4,6 +4,7 @@ Show Ideas
 * Chef Executive view(George Moberly/Chris Brown)
 * Advanced Chef: how to make the most out of data_bags, roles,
  environments, lwrps, libraries, and search
+* Hiring and getting hired - discussion w/ David Zwieback of Knewton about the challenges of hiring DevOps generalists
 * More Object-Oriented Design and Chef -- build on earlier interview
  w/ Nikolay Sturm
 * Chef Best Practices (jtimberman, yfeldblum, +windows dude?) -- How can
