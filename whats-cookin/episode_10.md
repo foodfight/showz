@@ -2,6 +2,20 @@
 
 ## In the News
 
+* [Carlos Sanchez](http://twitter.com/csanchez) recently wrote a blog post titled [Learning Puppet or Chef? Check out Vagrant!](http://blog.carlossanchez.eu/2012/03/29/learning-puppet-or-chef-check-out-vagrant/) it starts off with a very simple idea "If you are starting to use Puppet or Chef, you must have Vagrant." From there, it provides a quick intro to getting started with Vagrant.
+
+* [Huang Liang](https://twitter.com/#!/exceedhl) added a wiki to github that describes a process for [using toft and cucumber to test Chef cookbooks](https://github.com/exceedhl/toft/wiki/How-to-use-toft-gem-and-cucumber-to-test-chef-cookbooks)
+
+* ...and now for a bit of shamless self-promotion... RailsConf 2012 was held last week in Austin.  Many of the talks included information on how people are running their Rails apps in production.  [Nathen Harvey](http://twitter.com/nathenharvey) gave a talk about [How Operations Enables Developer Productivity](http://speakerdeck.com/u/nathenharvey/p/taming-the-kraken-how-operations-enables-developer-productivity).  Slides are available on Speaker Deck and videos of this and all other RailsConf presentations will be available soon.
+
+## Events
+
+* ChefConf get your tickets before the event sells out!  The countdown to ChefConf has begun.  Be sure to follow @chefconf on twitter for all the latest updates and announcements.
+
+* [Pre-ChefConf Hacknight](http://www.meetup.com/San-Francisco-DevOps/events/62187472/) will be held at the MoPub headquarters in San Franciso starting at 8:00 PM on Monday night.
+
+* There will be a Chefconf Pre-event Hack day on Tuesday, May 15 from 1:00 - 7:00 PM at the location of Chefconf.
+
 
 ## Cookbook Updates
 
@@ -142,7 +156,10 @@ down of which were updated.
  * Configures /etc/resolv.conf via attributes
  * 'node' went missing in the template.
  
-CHANGELOG.md / link to github.
+### Reminders and announcements
+
+A quick Public Service Announcment:  If you publish a cookbook on the community site, please include a CHANGELOG.md or at least a link to the cookbook's repository github.  This makes it much easier for everyone to see what's changed between versions.
+
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
 Be sure to follow @foodfightshow on twitter!
