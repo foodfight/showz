@@ -1,4 +1,7 @@
-30-Apr-2012
+# What's Cookin'
+
+* 30-Apr-2012
+* [mp3 recording](https://s3.amazonaws.com/nathenharvey/whats_cooking/whats_cooking_episode10.mp3)
 
 ## In the News
 
