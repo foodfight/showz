@@ -68,7 +68,7 @@ Delicacies
 * pry 
 * debugging w/ shef
 * chef + jenkins
-* bag_config with Chris Roberts
+* bag_config and runlist_modifiers with Chris Roberts
 
 
 
