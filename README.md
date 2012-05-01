@@ -12,6 +12,7 @@ da showz be here
 Food Fight Shows
 =================
 
+* [10 - TESTALLTHETHINGS, Testing Infrastructure with Jim Hopp, Stephen Nelson-Smith, and Andrew Crump](http://www.foodfightshow.org/2012/04/episode-10-testallthethings-testing.html)
 * [9 - Chefconf with Jesse Robbins and Mandi Walls](http://www.foodfightshow.org/2012/04/episode-9-chefconf-with-jesse-robbins.html)
 * [8 - Back to the Kernel with Greg Kroah-Hartman](http://www.foodfightshow.org/2012/04/episode-8-back-to-kernel-with-greg.html)
 * [7 - Distro Dancing with Bryan T. McClellan](http://www.foodfightshow.org/2012/03/episode-7-distro-dancing-with-brian-t.html)
