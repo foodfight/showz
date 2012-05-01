@@ -1,3 +1,4 @@
+
 Show Date: 30 April 2011 09:00 PDT, 17:00 BST(GMT)
 
 Panel
@@ -39,9 +40,14 @@ Show Outline
     * cuken
     * simple_cuke
     * cucumber-chef
+    * chefspec
     * toft
     * minitest-chef-handler
 * What is enough testing? What is too much?
+* Can I test without converging a node? How meaningful is that?
+* Should I run tests in production as well?
+* Should tests be included in community cookbooks?
+* What does Opscode use for testing its cookbooks/roles/databags/etc?
 * what if testing my cookbooks requires loading other cookbooks? how
   I handle those dependencies?
 * how would you structure your chef-repo or cookbook for testing?
