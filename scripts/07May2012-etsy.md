@@ -3,8 +3,9 @@ Show Date: 07 May 201  tentative
 Panel
 ====
 
-* Jon Cowie, system engineer at Etsy
-* 2 others from Etsy
+* Jon Cowie, Web Operations Engineer at Etsy github/twitter: jonlives blog: [blog.mycrot.ch](http://blog.mycrot.ch)
+* Patrick McDonnell, Web Operations Engineer at Etsy
+* Mike Rembetsy, Operations Engineering Manager at Etsy twitter: mrembetsy
 * Bryan Berry github/twitter/irc bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey  github/twitter: nathenharvey, [blog](http://www.nathenharvey.com/)
 
