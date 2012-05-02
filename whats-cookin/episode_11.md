@@ -1,6 +1,6 @@
 ## In the News
 
-* ProfFalken (IRL Matthew Wallace) posted a talk on how to deploy code effectively, you can watch the [video](http://vimeo.com/40922357) or listen to the (audio)[http://os.greenandsecure.co.uk/PagerWhatPager.mp3]
+* ProfFalken (IRL Matthew Wallace) posted a talk on how to deploy code effectively, you can watch the [video](http://vimeo.com/40922357)
 
 * [Bryan Berry](http://twitter.comy/bryanwb) posted a new article on his [devopsanywhere](http://devopsanywhere.blogspot.it/2012/04/real-tests-real-simple-with-minitest.html) blog titled "Real Tests, Real Simple with Minitest, Vagrant, and Toft."  In this post Bryan provides a gentle introduction to the tools mentioned in the title and shares a bit of his current workflow.  Thanks for sharing, Bryan!
 
