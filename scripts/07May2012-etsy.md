@@ -81,6 +81,9 @@ equipment,etc.? Do you have a massive configuration management
 database?
 * for your physical machines, do u use a virtualization solution like
   KVM? Xen? Do you have SANs?
+* Do your developers have root access to the machines they work on?
+* how much of your cloud infrastructure is based on openstack? how
+  much of it isn't
 * What version of *nix do use and why? Do you use a mix? Will you stick
 with it?
 * Linux questions
