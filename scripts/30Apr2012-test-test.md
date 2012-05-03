@@ -19,21 +19,8 @@ that you can help us plan shows, submit questions, and otherwise
 collaborate.
 https://github.com/foodfight/showz
 
-Remember that while the foodfight show format features a panel of
-guests on a somewhat general topic, Devops Delicacies are more focused
-shows with only a few participants. Also, anyone can record a DevOps
-Delicacy as long as you meet our basic standards for audio quality and
-content rating. i.e. the only people who get to curse are those that
-are as amusing as Artur Bergman or Fujin :)
-
-
-What's Cold
-===========
-
-Bash, it just doesn't cut it anymore. You can't automate your
-infrastructure with Bash or zsh or ksh. Don't kid yourself. Time to
-put on your big boy pants and use a full-featured programming language
-to automate your infrastructure.
+Also, Chef Hackday on Tuesday, May 15, 13:00 - 21:00 
+focus, testing!
 
 Show Outline
 ============
