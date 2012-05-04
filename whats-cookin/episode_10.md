@@ -9,7 +9,7 @@
 
 * [Huang Liang](https://twitter.com/#!/exceedhl) added a wiki to github that describes a process for [using toft and cucumber to test Chef cookbooks](https://github.com/exceedhl/toft/wiki/How-to-use-toft-gem-and-cucumber-to-test-chef-cookbooks)
 
-* ...and now for a bit of shamless self-promotion... RailsConf 2012 was held last week in Austin.  Many of the talks included information on how people are running their Rails apps in production.  [Nathen Harvey](http://twitter.com/nathenharvey) gave a talk about [How Operations Enables Developer Productivity](http://speakerdeck.com/u/nathenharvey/p/taming-the-kraken-how-operations-enables-developer-productivity).  Slides are available on Speaker Deck and videos of this and all other RailsConf presentations will be available soon.
+* ...and now for a bit of shamless self-promotion... RailsConf 2012 was held last week in Austin.  Many of the talks included information on how people are running their Rails apps in production.  [Nathen Harvey](http://twitter.com/nathenharvey) gave a talk about [How Operations Enables Developer Productivity](http://speakerdeck.com/u/nathenharvey/p/taming-the-kraken-how-operations-enables-developer-productivity).  Slides are available on Speaker Deck and videos of this and all other RailsConf presentations will be available soon.  **Update** [video is now available here](http://www.confreaks.com/videos/882-railsconf2012-taming-the-kraken-how-operations-enables-developer-productivity).
 
 ## Events
 
