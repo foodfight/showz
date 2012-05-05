@@ -169,6 +169,8 @@ pls send ideas feedback to info@foodfightshow.org
 Please take the time to rate us on itunes and to send your cookbook
 news to info@foodfightshow.org
 
+Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
+
 Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
 
 Until next time, Keep it Hot!
