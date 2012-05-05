@@ -3,11 +3,11 @@ Show Date: 07 May 2012  12:00 NY Time EDT
 Panel
 ====
 
-* Jon Cowie, Web Operations Engineer at Etsy github/twitter: jonlives blog: [blog.mycrot.ch](http://blog.mycrot.ch)
+* Jon Cowie, Web Operations Engineer at Etsy [github](http://github.com/jonlives), [twitter](http://twitter.com/jonlives), [blog](http://blog.mycrot.ch)
 * Patrick McDonnell, Web Operations Engineer at Etsy
-* Mike Rembetsy, Operations Engineering Manager at Etsy twitter: mrembetsy
-* Bryan Berry github/twitter/irc bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Nathen Harvey  github/twitter: nathenharvey, [blog](http://www.nathenharvey.com/)
+* Mike Rembetsy, Operations Engineering Manager at Etsy [twitter](http://twitter.com/mrembetsy)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Nathen Harvey  [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://www.nathenharvey.com/)
 
 
 What's Hot!
