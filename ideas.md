@@ -4,7 +4,6 @@ Show Ideas
 * Chef Executive view(George Moberly/Chris Brown)
 * Advanced Chef: how to make the most out of data_bags, roles,
  environments, lwrps, libraries, and search
-* Hiring and getting hired - discussion w/ David Zwieback of Knewton about the challenges of hiring DevOps generalists
 * More Object-Oriented Design and Chef -- build on earlier interview
  w/ Nikolay Sturm
 * Chef Best Practices (jtimberman, yfeldblum, +windows dude?) -- How can
@@ -57,6 +56,11 @@ Delicacies
 ==========
 
 * librarian w/ yfeldblum DONE
+* How to succeed in DevOps without really trying - a chat with Dave Zwieback (@davezwieback), Head of Systems at Knewton.
+  The success of DevOps (either in your org, or the movement as a whole) requires, above all, tech generalists. 
+  They are rare. How do we find them in an industry (and culture) which mostly values and rewards specialists? 
+  How do we build orgs that attract and nurture generalists?
+  And, on an individual level, how does one follow the way of the generalist? ;)
 * foodcritic
 * graphite and graphing
 * logstash
