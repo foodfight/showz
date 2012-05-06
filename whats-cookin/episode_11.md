@@ -1,5 +1,7 @@
 ## In the News
 
+* The guys at Base 2 Interactive wrote [Vagrants and Chefs and Librarians - Oh my!](http://blog.base2.io/2012/05/01/vagrants-and-chefs-and-librarians-oh-my/) a nice tutorial on using chef, librarian, and vagrant together
+* Nicolas Rakoto wrote [Vagrant Provisioning, Chef-Solo, and Librarian-Chef](http://tumblr.nrako.com/post/22320729770/vagrant-chef-librarian)
 * ProfFalken (IRL Matthew Wallace) posted a talk on how to deploy code effectively, you can watch the [video](http://vimeo.com/40922357)
 
 * [Bryan Berry](http://twitter.comy/bryanwb) posted a new article on his [devopsanywhere](http://devopsanywhere.blogspot.it/2012/04/real-tests-real-simple-with-minitest.html) blog titled "Real Tests, Real Simple with Minitest, Vagrant, and Toft."  In this post Bryan provides a gentle introduction to the tools mentioned in the title and shares a bit of his current workflow.  Thanks for sharing, Bryan!
