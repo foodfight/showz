@@ -11,6 +11,8 @@
 
 ## Cookbook Updates
 
+There are now 464 cookbooks on the [community site](http://community.opscode.com).
+
 ### [hipchat](http://community.opscode.com/cookbooks/hipchat) v0.0.4 - [cwjohnston](http://community.opscode.com/users/cwjohnston)
  * [Cameron Johnston](http://twitter.com/cwjohnston)'s Campfire cookbook was mentioned during last week's episode.  He's back this week with hipchat.
  * The hipchat cookbook provides an LWRP for sending messages to HipChat rooms
@@ -45,6 +47,17 @@
  * Fixes a missing package dependency for JRuby on Ubuntu/Debian, addresses several foddcritic linting errors, and adds 
    TravisCI/foodcritic action on git push. 
  * [Full changelog](https://github.com/fnichol/chef-ruby_build/blob/master/CHANGELOG.md)
+
+### [chef-rbenv](http://fnichol.github.com/chef-rbenv/) v0.6.8 - [fnichol](http://community.opscode.com/users/fnichol)
+ * In episode 10, we mentioned Jamie Winsor's rbenv which is published on the community site.  
+   [Fletcher Nichol](https://twitter.com/#!/fnichol) maintains an 
+   [alternate rbenv cookbook on his github site](http://fnichol.github.com/chef-rbenv) and recently made some updates:
+     * add TravisCI/Foodcritic checking on git push
+     * several Foodcritic-driven updates/fixes
+     * rbenv initialization support for user based installs
+     * a fix which fires `ruby_block[update-java-alternatives]` before JRuby is built
+     * confirmation of Debian support  
+     * [Full chnagelog](https://github.com/fnichol/chef-rbenv/blob/master/CHANGELOG.md)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
