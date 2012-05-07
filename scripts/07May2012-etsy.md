@@ -159,6 +159,7 @@ Picks
 * Nathen
   * [Ignite #ChefConf](http://chefconf.opscode.com/ignite-chefconf/)
   * [ShowOff Presentation Software](https://github.com/schacon/showoff)
+  * [Ruby Freelancers Podcast](http://rubyfreelancers.com/) - Episode 13 on DevOps, mentioned @foodfightshow
 
 
 
