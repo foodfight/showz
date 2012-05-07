@@ -1,5 +1,5 @@
 Delicacy: How to Succeed in DevOps without really trying
-Show Date: tbd
+Show Date: Tuesday May 22, 15:15 EDT
 
 Participants
 ===========
