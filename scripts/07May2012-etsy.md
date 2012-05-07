@@ -156,7 +156,9 @@ at Etsy in the years to come?
 Picks
 =====
 
-
+* Nathen
+  * [Ignite #ChefConf](http://chefconf.opscode.com/ignite-chefconf/)
+  * [ShowOff Presentation Software](https://github.com/schacon/showoff)
 
 
 
