@@ -30,7 +30,7 @@
  * http://www.liquibase.org/
 
 ### [rbenv](http://community.opscode.com/cookbooks/rbenv) v1.3.1 - [reset](http://community.opscode.com/users/reset)
- * [Jamin Winsor](https://twitter.com/resetexistence) with help from [Wes Morgan](https://twitter.com/wesmorgan)
+ * [Jamie Winsor](https://twitter.com/resetexistence) with help from [Wes Morgan](https://twitter.com/wesmorgan)
  * Installs and configures rbenv
  * add support for a rbenv_ruby global attribute
  * install libreadline-dev in Ubuntu & Debian so irb will work
