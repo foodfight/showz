@@ -49,3 +49,5 @@
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
 Be sure to follow @foodfightshow on twitter!
+
+[Twitter list of people mentioned in this week's cookbook news](https://twitter.com/#!/foodfightshow/cooking-11/members)
