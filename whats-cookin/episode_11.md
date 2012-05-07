@@ -1,8 +1,22 @@
 ## In the News
 
-* The guys at Base 2 Interactive wrote [Vagrants and Chefs and Librarians - Oh my!](http://blog.base2.io/2012/05/01/vagrants-and-chefs-and-librarians-oh-my/) a nice tutorial on using chef, librarian, and vagrant together
-* Nicolas Rakoto wrote [Vagrant Provisioning, Chef-Solo, and Librarian-Chef](http://tumblr.nrako.com/post/22320729770/vagrant-chef-librarian)
-* ProfFalken (IRL Matthew Wallace) posted a talk on how to deploy code effectively, you can watch the [video](http://vimeo.com/40922357)
+One tool many Chefs use to develop and test their cookbooks is Vagrant.  Today's news features 3 articles that include Vagrant.
+
+* In our first news item, Vagrant's creator, [Mitchell Hashimoto](https://twitter.com/#!/mitchellh), recently uploaded official Ubuntu 12.04 boxes for Vagrant.
+  * [32 bit](http://files.vagrantup.com/precise32.box)
+  * [64 bit](http://files.vagrantup.com/precise64.box)
+
+* The guys at [Base 2 Interactive](http://base2.io) wrote [Vagrants and Chefs and Librarians - Oh my!](http://blog.base2.io/2012/05/01/vagrants-and-chefs-and-librarians-oh-my/) a nice tutorial on using chef, librarian, and vagrant together
+
+* [Nicolas Rakoto](https://twitter.com/#!/nrako) wrote [Vagrant Provisioning, Chef-Solo, and Librarian-Chef](http://tumblr.nrako.com/post/22320729770/vagrant-chef-librarian)
+
+* [ProfFalken](http://twitter.com/proffalken) (IRL Matthew Wallace) posted a talk on how to deploy code effectively, you can watch the video for [Pager?  What Pager?](http://vimeo.com/40922357).  Check the show notes for a link.
+
+* Episode 10 was all about testing.  One of our panelists, [Jim Hopp](https://github.com/jimhopp/) recently wrote an article, [Cookout at Lookout - Testing Chef](http://hackers.mylookout.com/2012/04/cookout-at-lookout-with-chef/) over on the [lookout hackers](http://hackers.mylookout.com/) blog.
+
+* [Sam Johnston](https://twitter.com/#!/samj) recently finished building his new home lab.  He's invited everyone who listens to the show to stop by his house to check it out.  If you can't make it, you might enjoy reading about how he got OpenStack up and running in his home lab.  Go read his article, [Getting started with OpenStack in your lab](http://samj.net/2012/05/getting-started-with-openstack-in-your.html).
+
+* [Jez Humble](https://twitter.com/#!/jezhumble) presented recently at the goto conference.  In his presentation, he discusses how to deal with risk management, regulation compliance, ITIL, audit requirements in a large organization that intends to adopt devops.  Checkout the video for [Scaling Devops - Breaking Down the Barriers between Development and IT Operations](http://www.infoq.com/presentations/Scaling-Devops) over on the InfoQ site.
 
 * [Bryan Berry](http://twitter.comy/bryanwb) posted a new article on his [devopsanywhere](http://devopsanywhere.blogspot.it/2012/04/real-tests-real-simple-with-minitest.html) blog titled "Real Tests, Real Simple with Minitest, Vagrant, and Toft."  In this post Bryan provides a gentle introduction to the tools mentioned in the title and shares a bit of his current workflow.  Thanks for sharing, Bryan!
 
