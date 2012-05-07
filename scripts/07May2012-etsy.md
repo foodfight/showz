@@ -4,8 +4,8 @@ Panel
 ====
 
 * Jon Cowie, Web Operations Engineer at Etsy [github](http://github.com/jonlives), [twitter](http://twitter.com/jonlives), [blog](http://blog.mycrot.ch)
-* Patrick McDonnell, Web Operations Engineer at Etsy [twitter](http://twitter.com/mcdonnps)
-* Mike Rembetsy, Operations Engineering Manager at Etsy [twitter](http://twitter.com/mrembetsy)
+* Patrick McDonnell, Senior Web Operations Engineer at Etsy [twitter](http://twitter.com/mcdonnps)
+* Mike Rembetsy, Operations Engineering Director at Etsy [twitter](http://twitter.com/mrembetsy)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey  [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://www.nathenharvey.com/)
 
