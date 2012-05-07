@@ -63,7 +63,7 @@ There are now 464 cookbooks on the [community site](http://community.opscode.com
  * [Full changelog](https://github.com/fnichol/chef-ruby_build/blob/master/CHANGELOG.md)
 
 ### [chef-rbenv](http://fnichol.github.com/chef-rbenv/) v0.6.8 - [fnichol](http://community.opscode.com/users/fnichol)
- * In episode 10, we mentioned Jamie Winsor's rbenv which is published on the community site.  
+ * In episode 10, we mentioned [Jamie Winsor](https://twitter.com/resetexistence)'s [rbenv cookbook](http://community.opscode.com/cookbooks/rbenv) which is published on the community site.  
    [Fletcher Nichol](https://twitter.com/#!/fnichol) maintains an 
    [alternate rbenv cookbook on his github site](http://fnichol.github.com/chef-rbenv) and recently made some updates:
      * add TravisCI/Foodcritic checking on git push
