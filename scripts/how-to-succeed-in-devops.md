@@ -6,6 +6,7 @@ Participants
 
 * David Zwieback
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Nathen Harvey
 
 Outline
 =======
