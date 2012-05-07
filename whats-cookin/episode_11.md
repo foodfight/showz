@@ -11,6 +11,40 @@
 
 ## Cookbook Updates
 
+### [hipchat](http://community.opscode.com/cookbooks/hipchat) v0.0.4 - [cwjohnston](http://community.opscode.com/users/cwjohnston)
+ * [Cameron Johnston](http://twitter.com/cwjohnston)'s Campfire cookbook was mentioned during last week's episode.  He's back this week with hipchat.
+ * The hipchat cookbook provides an LWRP for sending messages to HipChat rooms
+
+### [el2centos](http://community.opscode.com/cookbooks/el2centos) v0.0.3 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+ * [Eric G. Wolfe](http://twitter.com/atomic_penguin) is back this week with a new cookbook:  el2centos
+ * This cookbook converts an Enterprise Linux system to a CentOS system
+ * It should go without saying, but you should use caution with this cookbook.  It might leave you with a "frankenstein" system.
+
+### [artifact](http://community.opscode.com/cookbooks/artifact) v0.9.5 - [reset](http://community.opscode.com/users/reset)
+ * [Jamie Winsor](https://twitter.com/#!/resetexistence) merged some fixes from [Michael Ivey](https://twitter.com/#!/ivey) into the artifact cookbook.
+
+### [redisio](http://community.opscode.com/cookbooks/redisio) v1.0.3 - [geekbri](http://community.opscode.com/users/geekbri)
+ * [Brian Bianco](http://twitter.com/brianwbianco) updated the redisio cookbook to version 1.0.3.
+ * This release includes a handful of additional configuration options and a changelog file to make it easier to see the differences between versions.
+
+### [user](http://community.opscode.com/cookbooks/user) v0.2.12 - [fnichol](http://community.opscode.com/users/fnichol)
+ * [Fletcher Nichol](https://twitter.com/#!/fnichol)
+ * A convenient Chef LWRP to manage user accounts and SSH keys (this is not the opscode users cookbook)
+ * Fixes LWRP notifications, adds foodcritic linting via TravisCI, and updates the README
+ * [Full changelog](https://github.com/fnichol/chef-user/blob/master/CHANGELOG.md)
+ * This cookbook is also a sandbox where Fletcher been experimenting with the notion of unit testing a cookbook. So far there's 
+   spec coverage for the LWRP resource, the default attributes and a start on the LWRP provider. His goal is a very basic level 
+   of coverage that TravisCI can run on commit, not necessarily to exercise the cookbook in a full isolated integration test 
+   (a-la mintiest-chef-handler)--we still absolutley need integration tests. If we as a community can crack this nut even a bit, 
+   the auto-Pull Request testing that TravisCI is rolling out could drastically disrupt the quality and stability of cookbooks
+   (for the better!). Look for Fletcher at #ChefConf to discuss these ideas more!
+
+### [ruby_build](http://community.opscode.com/cookbooks/ruby_build) v0.6.2 - [fnichol](http://community.opscode.com/users/fnichol)
+ * [Fletcher Nichol](https://twitter.com/#!/fnichol)
+ * Manages the ruby-build framework and its installed rubies. A LWRP is also defined.
+ * Fixes a missing package dependency for JRuby on Ubuntu/Debian, addresses several foddcritic linting errors, and adds 
+   TravisCI/foodcritic action on git push. 
+ * [Full changelog](https://github.com/fnichol/chef-ruby_build/blob/master/CHANGELOG.md)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
