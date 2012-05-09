@@ -47,9 +47,9 @@ business. guest =>  John Cowie
 * Joyent - talk about SmartOS, Illumos, and their infrastructure
 * Filesystems
 * Backup
-* Illumos
+* Illumos  
 * [Mark Imbriaco](http://twitter.com/markimbriaco], VP, Technical Ops at @LivingSocial. 
-
+  Living it up at LivingSocial w/ Mark Imbriaco, like Etsy show, maybe w/ an additional engineer
 
 
 Delicacies 
