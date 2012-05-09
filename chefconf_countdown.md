@@ -8,3 +8,4 @@
 * 10 days til #chefconf - The program schedule is complete, start planning your sessions http://chefconf.opscode.com/program/ 
 * 9 days til #chefconf - Still not sure if you'll go?  Contact us for a 15% discount http://chefconf.opscode.com
 * 8 days til #chefconf - Submit your proposal for Ignite #ChefConf - http://chefconf.opscode.com/ignite-chefconf/
+7 days til #chefconf - You heard Etsy on episode 11, now come hear @mcdonnps discuss how to avoid kitchen nightmares http://bit.ly/IMCyjs
