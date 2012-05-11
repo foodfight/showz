@@ -1,20 +1,23 @@
-# DevOps Delicacy with Chris Roberts - bag_config and runlist_modifiers
+# DevOps Delicacy with Chris Roberts
+# bag_config and runlist_modifiers
 
 ### Intro
 
-For this DevOps Delicacy, I met with Chris Roberts, author of a number of cookbooks that are on the 
-[community site](http://community.opscode.com).  We talked about bag_config, runlist_modifers, and more.  Thanks for tuning in, let's
-get to the show.
+For this DevOps Delicacy, I met with [Chris Roberts](http://community.opscode.com/users/chrisroberts), author of a number of 
+cookbooks that are on the [community site](http://community.opscode.com).  We talked about 
+[bag_config](http://community.opscode.com/cookbooks/bag_config), 
+[runlist_modifiers](http://community.opscode.com/cookbooks/runlist_modifiers), and more. Thanks for tuning in, let's get to the show.
 
 ### Chris Roberts
 
 Hi, Chris.  Thanks for coming on the show today!  We've mentioned the [bag_config](http://community.opscode.com/cookbooks/bag_config)
-cookbook a couple of times on the [Food Fight Show](http://foodfightshow.org) but had some trouble grokking how it would be uesd.  
-You've also written a few other cookbooks that are available on the community site.  Before we get into the discussion would you take a minute to introduce yourself to our listeners?
+cookbook a couple of times on the [Food Fight Show](http://foodfightshow.org) but had some trouble grokking how it would be uesd.
+You've also written a [few other cookbooks](#other-cookbooks) that are available on the community site.  Before we get into the
+discussion would you take a minute to introduce yourself to our listeners?
 
 ### bag_config
 
-* Why did you create bag_config?
+* Why did you create [bag_config](http://community.opscode.com/cookbooks/bag_config)?
 * What problem does the bag_config cookbook solve?
 * How did you get around the issue before the bag_config cookbook?
 * How is this better than overriding an attribute in a role that's unique to the node?
