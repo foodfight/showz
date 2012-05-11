@@ -15,6 +15,8 @@ cookbook a couple of times on the [Food Fight Show](http://foodfightshow.org) bu
 You've also written a [few other cookbooks](#other-cookbooks) that are available on the community site.  Before we get into the
 discussion would you take a minute to introduce yourself to our listeners?
 
+* Can you talk a little bit about what your employer, HeavyWater, does and how they use Chef?
+
 ### bag_config
 
 * Why did you create [bag_config](http://community.opscode.com/cookbooks/bag_config)?
@@ -44,7 +46,9 @@ What other cookbooks have you published on the community site?
   * [sortable_mash](http://community.opscode.com/cookbooks/sortable_mash)
 
 ### Wrap-up
+* Are there any new cookbooks, LWRPs, plugins that you are working on that will make our lives easier?
 
+* You colleague Sean Escriva is giving a talk about metrics and Chef, could you tell us a little bit about that?
 * Are there any knife plugins you use on a regular basis?
 * What new, exciting things are you playing with or trying to learn?
 * Will you be at #ChefConf
