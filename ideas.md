@@ -48,7 +48,7 @@ business. guest =>  John Cowie
 * Filesystems
 * Backup
 * Illumos  
-* [Mark Imbriaco](http://twitter.com/markimbriaco], VP, Technical Ops at @LivingSocial. 
+* [Mark Imbriaco](http://twitter.com/markimbriaco), VP, Technical Ops at @LivingSocial. 
   Living it up at LivingSocial w/ Mark Imbriaco, like Etsy show, maybe w/ an additional engineer
 * Inside Sonian, talk w/ Pete Cheslock and Alex Porter how operations are run at Sonian
 * At home with Heroku, how heroku manages their ops, w/ Jason Dixon (obfuscurity) + ops manager?
