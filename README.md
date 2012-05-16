@@ -15,7 +15,7 @@ LIVE from #ChefConf
 * [Live from #ChefConf - Steve Danna on Common Problems and Solutions](http://www.foodfightshow.org/2012/05/chefconf-update-4-steve-danna-on-common.html)
 * [Live from #ChefConf - Workshops and Hackday](http://www.foodfightshow.org/2012/05/chefconf-update-3-workshops-hackday.html)
 * [Live from #ChefConf - Fletcher Nichol on rvm and rbenv](http://www.foodfightshow.org/2012/05/live-from-chefconf-1-fletcher-nichol-on.html)
-* [Live from #ChefConf](http://www.foodfightshow.org/2012/05/live-from-chefconf-0.html)
+* [Live from #ChefConf - Recap of the pre-game hallway track](http://www.foodfightshow.org/2012/05/live-from-chefconf-0.html)
 
 Food Fight Shows
 =================
