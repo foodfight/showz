@@ -12,6 +12,10 @@ da showz be here
 Food Fight Shows
 =================
 
+* [Live from #ChefConf - Steve Danna on Common Problems and Solutions](http://www.foodfightshow.org/2012/05/chefconf-update-4-steve-danna-on-common.html)
+* [Live from #ChefConf - Workshops and Hackday](http://www.foodfightshow.org/2012/05/chefconf-update-3-workshops-hackday.html)
+* [Live from #ChefConf - Fletcher Nichol on rvm and rbenv](http://www.foodfightshow.org/2012/05/live-from-chefconf-1-fletcher-nichol-on.html)
+* [Live from #ChefConf](http://www.foodfightshow.org/2012/05/live-from-chefconf-0.html)
 * [11 - Episode 11: Etsy Examined - How the Best Do Their Business](http://www.foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html)
 * [10 - TESTALLTHETHINGS, Testing Infrastructure with Jim Hopp, Stephen Nelson-Smith, and Andrew Crump](http://www.foodfightshow.org/2012/04/episode-10-testallthethings-testing.html)
 * [9 - Chefconf with Jesse Robbins and Mandi Walls](http://www.foodfightshow.org/2012/04/episode-9-chefconf-with-jesse-robbins.html)
@@ -30,4 +34,5 @@ DevOps Delicacies
 
 Shorter-format show that focusses on exciting tools and developments in our community.
 
+* [1 - bag_config and runlist_modifiers with Chris Roberts](http://www.foodfightshow.org/2012/05/devops-delicacy-1-bagconfig-and.html)
 * [0 - Librarian with Jay Feldblum](http://www.foodfightshow.org/2012/04/devops-delicacy-0-librarian-with-jay.html)
