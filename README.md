@@ -12,6 +12,7 @@ da showz be here
 LIVE from #ChefConf
 ==================
 
+* [Live from #ChefConf - Daniel DeLeo on whyrun mode](http://www.foodfightshow.org/2012/05/chefconf-update-5-daniel-deleo-on.html)
 * [Live from #ChefConf - Steve Danna on Common Problems and Solutions](http://www.foodfightshow.org/2012/05/chefconf-update-4-steve-danna-on-common.html)
 * [Live from #ChefConf - Workshops and Hackday](http://www.foodfightshow.org/2012/05/chefconf-update-3-workshops-hackday.html)
 * [Live from #ChefConf - Fletcher Nichol on rvm and rbenv](http://www.foodfightshow.org/2012/05/live-from-chefconf-1-fletcher-nichol-on.html)
