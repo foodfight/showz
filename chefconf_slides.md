@@ -1,3 +1,7 @@
+Please let us know where to find other slides and videos.
+
+Pull Requests are appreciated!
+
 ## Slides from ChefConf 2012
 
 * [Automating Application Configuration](http://blog.geeksgonemad.com/2012/05/automating-application-configuration.html)
