@@ -12,6 +12,7 @@ da showz be here
 LIVE from #ChefConf
 ==================
 
+* [Episode 13 - #ChefConf Recap](http://www.foodfightshow.org/2012/05/episode-13-chefconf-recap.html)
 * [Live from #ChefConf - Daniel DeLeo on whyrun mode](http://www.foodfightshow.org/2012/05/chefconf-update-5-daniel-deleo-on.html)
 * [Live from #ChefConf - Steve Danna on Common Problems and Solutions](http://www.foodfightshow.org/2012/05/chefconf-update-4-steve-danna-on-common.html)
 * [Live from #ChefConf - Workshops and Hackday](http://www.foodfightshow.org/2012/05/chefconf-update-3-workshops-hackday.html)
@@ -21,6 +22,7 @@ LIVE from #ChefConf
 Food Fight Shows
 =================
 
+* [Episode 13 - #ChefConf Recap](http://www.foodfightshow.org/2012/05/episode-13-chefconf-recap.html)
 * [11 - Episode 11: Etsy Examined - How the Best Do Their Business](http://www.foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html)
 * [10 - TESTALLTHETHINGS, Testing Infrastructure with Jim Hopp, Stephen Nelson-Smith, and Andrew Crump](http://www.foodfightshow.org/2012/04/episode-10-testallthethings-testing.html)
 * [9 - Chefconf with Jesse Robbins and Mandi Walls](http://www.foodfightshow.org/2012/04/episode-9-chefconf-with-jesse-robbins.html)
