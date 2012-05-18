@@ -13,6 +13,7 @@ Pull Requests are appreciated!
 * [Lessons from Etsy: Avoiding Kitchen Nightmares](http://www.slideshare.net/mcdonnps/lessons-from-etsy-avoiding-kitchen-nightmares-chefconf-2012)
 * [Spiceweasel:  Your Infrastructure as Code Table of Contents](http://www.slideshare.net/mattray/chefconf-2012-spiceweasel)
 * [The Joy of Cooking:  Whip up a Rails Environment with Chef](https://speakerdeck.com/u/nathenharvey/p/whip-up-a-rails-environment-with-chef-chefconf)
+* [DevOps isn't just for the Web](https://speakerdeck.com/u/juanje/p/devops-isnt-just-for-the-web)
 
 ## Videos from ChefConf 2012
 
