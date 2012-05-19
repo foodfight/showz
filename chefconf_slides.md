@@ -7,13 +7,14 @@ Pull Requests are appreciated!
 * [Automating Application Configuration](http://blog.geeksgonemad.com/2012/05/automating-application-configuration.html)
 * [Chefing Your Development Environment (The Pivotal Way)](http://dl.dropbox.com/u/14813764/presentations/pivotal_workstation_chefconf/slides.html)
 * [Cloud Foundry BOSH Where the Platform rubber meets the Infrastructure road](http://www.slideshare.net/chanezon/cloud-foundry-bosh-where-the-platform-rubber-meets-the-infrastructure-road-chefconf)
+* [DevOps isn't just for the Web](https://speakerdeck.com/u/juanje/p/devops-isnt-just-for-the-web)
 * [Enough Ruby To Be Dangerous](http://ampledata.org/enough_ruby_to_be_dangerous.html)
 * [Five Things You Always Wanted To Know About Chef](https://speakerdeck.com/u/nathenharvey/p/5-things-you-always-wanted-to-know-about-chef)
 * [Ignite the Chef Community!](https://speakerdeck.com/u/nathenharvey/p/ignite-chef-community)
+* [Ironfan: Build a Hadoop Cluster in 20 minutes](http://www.slideshare.net/temujin9/chefconf-2012)
 * [Lessons from Etsy: Avoiding Kitchen Nightmares](http://www.slideshare.net/mcdonnps/lessons-from-etsy-avoiding-kitchen-nightmares-chefconf-2012)
 * [Spiceweasel:  Your Infrastructure as Code Table of Contents](http://www.slideshare.net/mattray/chefconf-2012-spiceweasel)
 * [The Joy of Cooking:  Whip up a Rails Environment with Chef](https://speakerdeck.com/u/nathenharvey/p/whip-up-a-rails-environment-with-chef-chefconf)
-* [DevOps isn't just for the Web](https://speakerdeck.com/u/juanje/p/devops-isnt-just-for-the-web)
 
 ## Videos from ChefConf 2012
 
@@ -25,3 +26,6 @@ Pull Requests are appreciated!
 * [Test-driven Development for Chef Practitioners](http://www.youtube.com/watch?v=o2e0aZUAVGw)
 * [Why Chef](http://www.youtube.com/watch?v=UpHKVkLDBtU&feature=plcp)
 
+## Follow-up Community Coverage
+
+* [ChefConf 2012 – San Francisco](http://www.ducea.com/2012/05/18/chefconf-2012-san-francisco/) by, [Marius Ducea](http://twitter.com/mariusducea)
