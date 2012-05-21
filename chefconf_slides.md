@@ -15,6 +15,7 @@ Pull Requests are appreciated!
 * [Lessons from Etsy: Avoiding Kitchen Nightmares](http://www.slideshare.net/mcdonnps/lessons-from-etsy-avoiding-kitchen-nightmares-chefconf-2012)
 * [Spiceweasel:  Your Infrastructure as Code Table of Contents](http://www.slideshare.net/mattray/chefconf-2012-spiceweasel)
 * [The Joy of Cooking:  Whip up a Rails Environment with Chef](https://speakerdeck.com/u/nathenharvey/p/whip-up-a-rails-environment-with-chef-chefconf)
+* [A Gestalt Informant: Chef driven monitoring, metrics and alerting](http://gestalt-informant.heroku.com/)
 
 ## Videos from ChefConf 2012
 
