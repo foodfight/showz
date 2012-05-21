@@ -34,7 +34,7 @@ cookbooks for them
 * Zookeeper
 * chef and ci -- pennyworth, travis ci,
 * Etsy Examined: in-depth examination of how the best do their
-business. guest =>  John Cowie 
+business. guest =>  John Cowie
 * Full Stack Awareness w/  @crucially (Artur Bergman)
 * Matthias Meyer - chef, riak, travis awesomeness
 * Mitchell Hashimoto on using Vagrant w/ cheff
@@ -47,21 +47,21 @@ business. guest =>  John Cowie
 * Joyent - talk about SmartOS, Illumos, and their infrastructure
 * Filesystems
 * Backup
-* Illumos  
-* [Mark Imbriaco](http://twitter.com/markimbriaco), VP, Technical Ops at @LivingSocial. 
+* Illumos
+* [Mark Imbriaco](http://twitter.com/markimbriaco), VP, Technical Ops at @LivingSocial.
   Living it up at LivingSocial w/ Mark Imbriaco, like Etsy show, maybe w/ an additional engineer
 * Inside Sonian, talk w/ Pete Cheslock and Alex Porter how operations are run at Sonian
 * At home with Heroku, how heroku manages their ops, w/ Jason Dixon (obfuscurity) + ops manager?
-                                                                     
 
 
-Delicacies 
+
+Delicacies
 ==========
 
 * librarian w/ yfeldblum DONE
 * How to succeed in DevOps without really trying - a chat with Dave Zwieback (@davezwieback), Head of Systems at Knewton.
-  The success of DevOps (either in your org, or the movement as a whole) requires, above all, tech generalists. 
-  They are rare. How do we find them in an industry (and culture) which mostly values and rewards specialists? 
+  The success of DevOps (either in your org, or the movement as a whole) requires, above all, tech generalists.
+  They are rare. How do we find them in an industry (and culture) which mostly values and rewards specialists?
   How do we build orgs that attract and nurture generalists?
   And, on an individual level, how does one follow the way of the generalist? ;)
 * foodcritic
@@ -73,15 +73,12 @@ Delicacies
 * spice github.com/danryan/spice
 * awesome knife plugins
 * advanced knife usage
-* pry 
+* pry - try #pry on irc.freenode.net and look for horseman
 * debugging w/ shef
 * chef + jenkins
 * bag_config and runlist_modifiers with Chris Roberts
 
-
-
 Matt’s list of ideas
-
 * Mitchell Hashimoto Vagrant
 * Patrick Debois DevOps Days, Veewee, etc.
 * R.I. Penaar to talk about MCollective
@@ -95,4 +92,4 @@ Chef in their PaaS
 * grab people at ChefConf for future guests :)
 
 
- 
+
