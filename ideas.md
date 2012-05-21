@@ -1,41 +1,36 @@
 Show Ideas
 ==========
 
+* Seth Chisamore and Andrew Crump on Kitchen
+* Jason Stowe, HPC in the cloud (BryanWB's top pick)
 * Chef Executive view(George Moberly/Chris Brown)
 * Advanced Chef: how to make the most out of data_bags, roles,
  environments, lwrps, libraries, and search
 * Hiring and getting hired - discussion w/ David Zwieback of Knewton about the challenges of hiring DevOps generalists
 * More Object-Oriented Design and Chef -- build on earlier interview
  w/ Nikolay Sturm
-* Chef Best Practices (jtimberman, yfeldblum, +windows dude?) -- How can
+* Chef Best Practices (jtimberman, fnichol, +windows dude?) -- How can
 we sum up what a n00b should know in 60 mins?
-* Talk w/ James Turnbull, to focus on what Chef can learn from latest
-developments in Puppet/Mcollective
-* Talk w/ Kevin Smith about roadmap for chef-server, esp. transition to
-Erlang and mysql/postgresql
+* Talk w/ Kevin Smith and Seth Falcon  about roadmap for chef-server,
+  esp. transition to Erlang and mysql/postgresql
 * The author of the foodcritic gem, Andrew Crump
 * Perhaps someone from Heroku to talk about their use of Chef
 * One of the Mercado Libre guys to talk about their use of open source
 Chef Server and OpenStack for the 6th largest retail site in the world --> Leandro Reox and/or Alejandro Comisario
 * Messaging and orchestration talk, or “do we really need mcollective?”
 (Adam Jacob + Ranjib Dey would be a good guests for that)
-* Someone from Opscode Support (Steve Danna?), the wiki and how keep
-users happy
-* Noah Kantrowitz on PyChef and Application cookbooks refactor
+* Noah Kantrowitz and Andrea Campi on PyChef and Application cookbooks refactor
 * Joshua Timberman on maintaining the cookbook repos
 * Seth Chisamore/John Keiser on Windows support (and Paula Deen)
 * Monitoring sucks - panel of sysadmins, what monitoring tools do u use?
 what do u like about them? hate?
 * Sensu w/ Alex Porter
-* Webservers, general talk about webservers and the quality of the
-cookbooks for them
-* Proxies and related cookbooks, have Miah Johnson as guest?
+* Webservers and reverse proxies, general talk about webservers and
+  the quality of the cookbooks for them, and SSL management
 * Databases and related cookbooks
 * High Availability and related cookbooks
 * Zookeeper
 * chef and ci -- pennyworth, travis ci,
-* Etsy Examined: in-depth examination of how the best do their
-business. guest =>  John Cowie 
 * Full Stack Awareness w/  @crucially (Artur Bergman)
 * Matthias Meyer - chef, riak, travis awesomeness
 * Mitchell Hashimoto on using Vagrant w/ cheff
@@ -44,19 +39,25 @@ business. guest =>  John Cowie
 * Adam Jacob: origins of Chef, founding of Opscode
 * Chris Brown: Opscode CTO, Amazon, Microsoft, road map
 * Anthony Goddard Chef @ Woods Hole
-* Leandro Reox and/or Alejandro Comisario to talk about Mercado Libre
-* Joyent - talk about SmartOS, Illumos, and their infrastructure
+* Joyent - talk about SmartOS, Illumos, and their infrastructure - ben
+  rockwood
+* Bryan Cantrill on SmartOS and Illumos
 * Filesystems
 * Backup
-* Illumos
 * [Mark Imbriaco](http://twitter.com/markimbriaco], VP, Technical Ops at @LivingSocial. 
-
-
+* Boyd Hemphill - Database Eye for the DevOps Guy, what sysadmins
+  should know about databases
+* Mitchell Hashimoto Vagrant
+* Patrick Debois DevOps Days, Veewee, etc.
+* R.I. Penaar to talk about MCollective
+* anyone from Heroku, Rightscale or Engine Yard who can talk about
+Chef in their PaaS
+* Dan Nemec on application management w/ Chef
+* Tod Hoff, the guy who runs highscalability.com
 
 Delicacies 
 ==========
 
-* librarian w/ yfeldblum DONE
 * foodcritic
 * graphite and graphing
 * logstash
@@ -69,23 +70,16 @@ Delicacies
 * pry 
 * debugging w/ shef
 * chef + jenkins
+
+
+Done
+====
+
+* librarian w/ yfeldblum
 * bag_config and runlist_modifiers with Chris Roberts
-
-
-
-Matt’s list of ideas
-
-* Mitchell Hashimoto Vagrant
-* Patrick Debois DevOps Days, Veewee, etc.
-* R.I. Penaar to talk about MCollective
-* Adam Jacob: origins of Chef, founding of Opscode
-* Jesse Robbins: founding of Opscode, Amazon, Chef Conf
-* Chris Brown: Opscode CTO, Amazon, Microsoft, road map
-* Anthony Goddard Chef @ Woods Hole
-* Leandro Reox and/or Alejandro Comisario to talk about Mercado Libre
-* anyone from Heroku, Rightscale or Engine Yard who can talk about
-Chef in their PaaS
-* grab people at ChefConf for future guests :)
-
+* Someone from Opscode Support (Steve Danna?), the wiki and how keep
+users happy
+* Etsy Examined: in-depth examination of how the best do their
+business. guest =>  John Cowie 
 
  
