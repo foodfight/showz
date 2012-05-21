@@ -6,7 +6,6 @@ Show Ideas
 * Chef Executive view(George Moberly/Chris Brown)
 * Advanced Chef: how to make the most out of data_bags, roles,
  environments, lwrps, libraries, and search
-* Hiring and getting hired - discussion w/ David Zwieback of Knewton about the challenges of hiring DevOps generalists
 * More Object-Oriented Design and Chef -- build on earlier interview
  w/ Nikolay Sturm
 * Chef Best Practices (jtimberman, fnichol, +windows dude?) -- How can
@@ -47,17 +46,19 @@ what do u like about them? hate?
 * [Mark Imbriaco](http://twitter.com/markimbriaco], VP, Technical Ops at @LivingSocial. 
 * Boyd Hemphill - Database Eye for the DevOps Guy, what sysadmins
   should know about databases
-* Mitchell Hashimoto Vagrant
-* Patrick Debois DevOps Days, Veewee, etc.
-* R.I. Penaar to talk about MCollective
 * anyone from Heroku, Rightscale or Engine Yard who can talk about
 Chef in their PaaS
 * Dan Nemec on application management w/ Chef
 * Tod Hoff, the guy who runs highscalability.com
+* Illumos
+* Inside Sonian, talk w/ Pete Cheslock and Alex Porter how operations are run at Sonian
+* At home with Heroku, how heroku manages their ops, w/ Jason Dixon (obfuscurity) + ops manager?
 
-Delicacies 
+
+Delicacies
 ==========
 
+* librarian w/ yfeldblum DONE
 * foodcritic
 * graphite and graphing
 * logstash
@@ -67,7 +68,7 @@ Delicacies
 * spice github.com/danryan/spice
 * awesome knife plugins
 * advanced knife usage
-* pry 
+* pry - try #pry on irc.freenode.net and look for horseman
 * debugging w/ shef
 * chef + jenkins
 
@@ -75,6 +76,7 @@ Delicacies
 Done
 ====
 
+* bag_config and runlist_modifiers with Chris Roberts
 * librarian w/ yfeldblum
 * bag_config and runlist_modifiers with Chris Roberts
 * Someone from Opscode Support (Steve Danna?), the wiki and how keep
@@ -82,4 +84,4 @@ users happy
 * Etsy Examined: in-depth examination of how the best do their
 business. guest =>  John Cowie 
 
- 
+
