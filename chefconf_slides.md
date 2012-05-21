@@ -18,13 +18,17 @@ Pull Requests are appreciated!
 
 ## Videos from ChefConf 2012
 
+* [A Few Words of Encouragement from Artur Bergman](http://www.youtube.com/watch?v=qRnTejOMbZU)
 * [Building the Next Big Game](http://www.youtube.com/watch?v=VzihagU1fmw&feature=plcp)
 * [Concentrated Awesome: Building the HP Cloud](http://www.youtube.com/watch?v=O8kfqWonJlY&feature=plcp)
+* [CycleCloud + Chef = 50,000-core Utility Supercomputer for Science](http://www.youtube.com/watch?v=cEaQB6e7G0Q)
+* [Fidelity IT's Journey to Cloud and Click2Compute](http://www.youtube.com/watch?v=NXhV8sFdPV0)
 * [Operations Secret Sauce: Incident Managment](http://www.youtube.com/watch?v=4d38Ena1Abo)
 * [Opscode Chef Open Source Visualization w/ Gource](http://www.youtube.com/watch?v=ZIlWCE4FCqw)
 * [Opscode Chef State of the Union Part 1: Chef, Past and Present](http://www.youtube.com/watch?v=bAWjqE5FCxI)
+* [Opscode Chef State of the Union Part 2: Chef, the Future](http://www.youtube.com/watch?v=Lv89JG81-9M)
 * [Test-driven Development for Chef Practitioners](http://www.youtube.com/watch?v=o2e0aZUAVGw)
-* [Why Chef](http://www.youtube.com/watch?v=UpHKVkLDBtU&feature=plcp)
+* [Transformation to Continuous Delivery at Ancestry](http://www.youtube.com/watch?v=J6g10f83yVE)
 
 ## Follow-up Community Coverage
 
