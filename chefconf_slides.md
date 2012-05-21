@@ -33,3 +33,4 @@ Pull Requests are appreciated!
 ## Follow-up Community Coverage
 
 * [ChefConf 2012 – San Francisco](http://www.ducea.com/2012/05/18/chefconf-2012-san-francisco/) by, [Marius Ducea](http://twitter.com/mariusducea)
+* [ChefConf 2012: I was there!](http://www.jaimegago.com/chefconf-2012-i-was-there/) by, [Jaime Gago](https://twitter.com/#!/JaimeGagoTech)
