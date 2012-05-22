@@ -8,7 +8,7 @@
 
 * What do chimps and 90's-era R&B star Montell Jordan have in common?  They both like to tell the world "how they do it."  Over on the [Infochimps blog](http://blog.infochimps.com), [Nathaniel Eliot](http://twitter.com/temujin9) posted an article titled [How We Do It](http://blog.infochimps.com/2012/05/18/how-we-do-it/).  The article is a look at the hiring process, management style, career development, and more.  A great read for any team working in this space.
 
-* [John Willis](http://twitter.com/botchagalupe) has written a two-part series on Devops culture on the [IT Revolution Press](http://itrevolution.com/) blog.  Check the show notes for links to [part one](http://itrevolution.com/devops-culture-part-1/) and [part two](http://itrevolution.com/devops-culture-part-2/)
+* [John Willis](http://twitter.com/botchagalupe) has written a two-part series on Devops culture on the [IT Revolution Press](http://itrevolution.com/) blog.  Check the show notes for links to [part one](http://itrevolution.com/devops-culture-part-1/) and [part two](http://itrevolution.com/devops-culture-part-2/).
 
 * Are you looking for some reasons to implement Puppet?  Over on the Tribily  blog, you'll find [8 reasons to implement Configuration Management using Puppet](http://tribily.com/blog/2011/12/07/8-reasons-implement-configuration-management-using-puppet).  Of course, these 8 reasons apply equally well to Chef and can serve as a nice way to help convince your team that automated configuration management with Chef or Puppet is the "right" way to go.
 
