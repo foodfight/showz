@@ -20,7 +20,10 @@
 
 * [Jesse Robbins](http://twitter.com/jesserobbins) was recently interviewed by O'Reilly Radar  on the [state of infrastructure automation](http://radar.oreilly.com/2012/05/infrastructure-automation-jesse-robbins.html).
 
+* [Andrew Crump](http://twitter.com/#!/acrmp) plans to extend foodcritic so that it can critique roles and environments. He would like to know what kind of rules you would like to see implemented. You can give him suggestions on this github issue for [foodcritic](https://github.com/acrmp/foodcritic/issues/19)
+
 * The last item in our news for today is a link to the Food Fight github account and to a page where we've been collecting a list of slides, videos, and follow-up blog posts from #ChefConf.  Checkout some of the great content from the conference.  I you have something that should be added to the list, or know someone who does, pleas submit a pull request!   [https://github.com/foodfight/showz/blob/master/chefconf_slides.md](https://github.com/foodfight/showz/blob/master/chefconf_slides.md)
+
 
 ## Cookbook Updates
 
@@ -67,6 +70,7 @@
 
 ### [deploy_wrapper](http://community.opscode.com/cookbooks/deploy_wrapper) v0.0.1 - [cwjohnston](http://community.opscode.com/users/cwjohnston)
   * Provides a definition that sets up an ssh key and ssh wrapper script for use with deploy or deploy_revision resources
+
 
 ### Updated Cookbooks include:
 
