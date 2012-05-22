@@ -33,46 +33,60 @@
 
 14 new cookbooks were added to the community site since our last episode.  That's almost one new cookbook per day!
 
-### [kronos](http://community.opscode.com/cookbooks/kronos) v0.0.5 - [cixelsyd](http://community.opscode.com/users/cixelsyd)
-  * Kronos manages windows scheduled tasks
-
-### [rsdns](http://community.opscode.com/cookbooks/rsdns) v0.0.3 - [evan4498](http://community.opscode.com/users/evan4498)
-  * Installs/Configures rsdns Rackspace Cloud DNS cli tool
-
-### [nginx-fastcgi](http://community.opscode.com/cookbooks/nginx-fastcgi) v0.0.2 - [melezhik](http://community.opscode.com/users/melezhik)
-  * create nginx site to run your fastcgi application under nginx frontend
-
 ### [forkable_client](http://community.opscode.com/cookbooks/forkable_client) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
-  * Provides forked chef-client runs
+  * Like modifying code on the fly? Like reworking internals of running code to do interesting things? Like not losing a huge chunk of memory because some jerk cookbook decided to load a 100M json file just for the hell of it? Then this cookbook is for you!
+  * This cookbook adds forking support to chef-client runs. It is based on the work within [CHEF-3104](http://tickets.opscode.com/browse/CHEF-3104). After this cookbook has loaded, client runs will fork themselves and then converge. What this provides is less worry about what cookbooks may be doing (and loading) that is going to bloat out the memory of the process. It's just that simple.
 
-### [raxmon-cli](http://community.opscode.com/cookbooks/raxmon-cli) v0.0.3 - [evan4498](http://community.opscode.com/users/evan4498)
-  * Installs/Configures raxmon-cli
-
-### [zncrypt](http://community.opscode.com/cookbooks/zncrypt) v0.0.2 - [egarcia](http://community.opscode.com/users/egarcia)
-  * Installs/Configures zNcrypt
-
-### [magic_shell](http://community.opscode.com/cookbooks/magic_shell) v0.1.2 - [nathenharvey](http://community.opscode.com/users/nathenharvey)
-  * Installs/Configures command_alias
+### [log_rotations](http://community.opscode.com/cookbooks/log_rotations) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * [Chris Roberts](https://github.com/chrisroberts)
+  * This cookbook provides an extremely simple way to create log rotations via attributes. It depends on the logrotate cookbook.
 
 ### [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) v0.1.0 - [dcrosta](http://community.opscode.com/users/dcrosta)
+  * [Dan Crosta](http://twitter.com/lazlofruvous)
   * Simple LWRP and recipe for managing iptables rules
 
 ### [disco](http://community.opscode.com/cookbooks/disco) v0.1.0 - [dcrosta](http://community.opscode.com/users/dcrosta)
-  * Installs/Configures Disco
+  * [Dan Crosta](http://twitter.com/lazlofruvous)
+  * Installs the Disco map-reduce framework using the default settings.
 
 ### [gitlab](http://community.opscode.com/cookbooks/gitlab) v0.2.1 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-  * Installs/Configures gitlab
-
-### [log_rotations](http://community.opscode.com/cookbooks/log_rotations) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
-  * Rotates logs
-
-### [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) v0.0.10 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-  * Installs/Configures sptoolkit
+  * [Eric G. Wolfe](https://twitter.com/#!/atomic_penguin)
+  * This cookbook will deploy gitlab; a free project and repository management application.  The github repo for this cookbook includes TravisCI build status. 
 
 ### [readline](http://community.opscode.com/cookbooks/readline) v0.0.3 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-  * Installs readline binaries and libraries
+  * [Eric G. Wolfe](https://twitter.com/#!/atomic_penguin)
+  * Installs platform specific readline binaries, and development libraries.
+
+### [rsdns](http://community.opscode.com/cookbooks/rsdns) v0.0.3 - [evan4498](http://community.opscode.com/users/evan4498)
+  * [Evan Ochs](http://twitter.com/njhorn)
+  * Installs/Configures rsdns Rackspace Cloud DNS cli tool
+
+### [raxmon-cli](http://community.opscode.com/cookbooks/raxmon-cli) v0.0.3 - [evan4498](http://community.opscode.com/users/evan4498)
+  * [Evan Ochs](http://twitter.com/njhorn)
+  * Installs the python-pip package in Debian and RedHat based systems, and then uses pip to install the Rackspace Cloud Monitoring client, raxmon-cli, via pip
+
+### [kronos](http://community.opscode.com/cookbooks/kronos) v0.0.5 - [cixelsyd](http://community.opscode.com/users/cixelsyd)
+  * [Steven C](http://twitter.com/cixelsyd)
+  * Kronos manages windows scheduled tasks
+
+### [nginx-fastcgi](http://community.opscode.com/cookbooks/nginx-fastcgi) v0.0.2 - [melezhik](http://community.opscode.com/users/melezhik)
+  * Alexey Melezhik
+  * create nginx site to run your fastcgi application under nginx frontend
+
+### [zncrypt](http://community.opscode.com/cookbooks/zncrypt) v0.0.2 - [egarcia](http://community.opscode.com/users/egarcia)
+  * Eddie Garcia
+  * Installs/Configures zNcrypt
+
+### [magic_shell](http://community.opscode.com/cookbooks/magic_shell) v0.1.2 - [nathenharvey](http://community.opscode.com/users/nathenharvey)
+  * [Nathen Harvey](http://twitter.com/nathenharvey)
+  * Installs/Configures an LWRP that enables you to easily create a command_alias
+
+### [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) v0.0.10 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
+  * [Gerald Hevener](http://twitter.com/jackl0phty)
+  * Installs/Configures Simple Phish Toolkit (SPT)
 
 ### [deploy_wrapper](http://community.opscode.com/cookbooks/deploy_wrapper) v0.0.1 - [cwjohnston](http://community.opscode.com/users/cwjohnston)
+  * [Cameron Johnston](http://twitter.com/cwjohnston)
   * Provides a definition that sets up an ssh key and ssh wrapper script for use with deploy or deploy_revision resources
 
 
