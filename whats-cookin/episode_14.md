@@ -39,9 +39,9 @@
   * [Chris Roberts](https://github.com/chrisroberts)
   * This cookbook provides an extremely simple way to create log rotations via attributes. It depends on the logrotate cookbook.
 
-### [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) v0.1.0 - [dcrosta](http://community.opscode.com/users/dcrosta)
+### [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) v0.1.1 - [dcrosta](http://community.opscode.com/users/dcrosta)
   * [Dan Crosta](http://twitter.com/lazlofruvous)
-  * Simple LWRP and recipe for managing iptables rules
+  * Simple LWRP and recipe for managing iptables rules.  Includes TravisCI running Foodcirtic tests.
 
 ### [disco](http://community.opscode.com/cookbooks/disco) v0.1.0 - [dcrosta](http://community.opscode.com/users/dcrosta)
   * [Dan Crosta](http://twitter.com/lazlofruvous)
