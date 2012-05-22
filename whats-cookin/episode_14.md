@@ -1,5 +1,7 @@
 ## In the News
 
+* Chef 0.10.10 released.  Read the news on the [Opscode Blog](http://www.opscode.com/blog/2012/05/11/chef-0-10-10-released/).
+
 * Productivity is the greatest scourge a workplace can face. You want to make sure your workers aren’t too productive, but how do you do that?  Fear not!  Jeremy Bingham just wrote up a [blog post](http://time.to.pullthepl.ug/blog/2012/5/21/a-chef-cookbook-for-dwarf-fortress/) that will help!  The blog post announces a new [Chef Cookbook](https://github.com/ctdk/dwarf_fortress) that will install and manage Dwarf Fortress on your workstation.
 
 * [Matt Ray](http://twitter.com/mattray) released Spiceweasel 1.1.  This release adds support for extracting knife/json/yaml infrastructure & Ruby 1.8 support.  I was able to attend Matt's [#ChefConf presentation on Spiceweasel](http://www.slideshare.net/mattray/chefconf-2012-spiceweasel) and we're starting to use it this week.  Definitely worth checking out.
