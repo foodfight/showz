@@ -20,6 +20,8 @@
 
 * [Jesse Robbins](http://twitter.com/jesserobbins) was recently interviewed by O'Reilly Radar  on the [state of infrastructure automation](http://radar.oreilly.com/2012/05/infrastructure-automation-jesse-robbins.html).
 
+* [Andrew Crump](http://twitter.com/#!/acrmp) released [version 1.3.0](https://github.com/acrmp/foodcritic/blob/master/CHANGELOG.md#130-21st-may-2012) of foodcritic. It features a number of bug fixes and new features such as FC026: Conditional execution block attribute contains only string rule added (related issue). Thanks to @mkocher for proposing this rule. Foodcritic now accepts multiple cookbook paths as arguments and supports linting of individual files only. Big thanks to @cgriego for these changes. These lay the groundwork for his new guard-foodcritic project.
+
 * [Andrew Crump](http://twitter.com/#!/acrmp) plans to extend foodcritic so that it can critique roles and environments. He would like to know what kind of rules you would like to see implemented. You can give him suggestions on this github issue for [foodcritic](https://github.com/acrmp/foodcritic/issues/19)
 
 * The last item in our news for today is a link to the Food Fight github account and to a page where we've been collecting a list of slides, videos, and follow-up blog posts from #ChefConf.  Checkout some of the great content from the conference.  I you have something that should be added to the list, or know someone who does, pleas submit a pull request!   [https://github.com/foodfight/showz/blob/master/chefconf_slides.md](https://github.com/foodfight/showz/blob/master/chefconf_slides.md)
