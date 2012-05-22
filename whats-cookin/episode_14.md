@@ -14,7 +14,7 @@
 
 * Are you looking for some reasons to implement Puppet?  Over on the Tribily  blog, you'll find [8 reasons to implement Configuration Management using Puppet](http://tribily.com/blog/2011/12/07/8-reasons-implement-configuration-management-using-puppet).  Of course, these 8 reasons apply equally well to Chef and can serve as a nice way to help convince your team that automated configuration management with Chef or Puppet is the "right" way to go.
 
-* [Zac Stevens](http://twitter.com/zts) is back with another post on his [Cryptocracy](http://www.cryptocracy.com) blog this one will show you [how ubuntu-vm-buildercan be used to go from zero to fully-installed Chef client in under 2 minutes.](http://www.cryptocracy.com/blog/2012/05/12/bootstrapping-chef/) 
+* [Zac Stevens](http://twitter.com/zts) is back with another post on his [Cryptocracy](http://www.cryptocracy.com) blog this one will show you [how ubuntu-vm-builder can be used to go from zero to fully-installed Chef client in under 2 minutes.](http://www.cryptocracy.com/blog/2012/05/12/bootstrapping-chef/) 
 
 * There's a new post on [Evolving towards cookbook reusability in Chef](http://realityforge.org/code/2012/05/12/evolving-towards-cookbook-reusability-in-chef.html).  Find the article on the [RealityForge](http://realityforge.org/) blog and a link in the show notes.
   
