@@ -18,9 +18,9 @@
   
 * The Godfather of DevOps, [Patrick Debois](http://twitter.com/patrickdebois) is back with another thought-provoking and detailed blog post:  [Devops Areas - Codifying devops practices](http://jedi.be/blog/2012/05/12/codifying-devops-area-practices/).  This is a first stab at providing a structure to codify devops practices.  The wording, descriptions are pretty much work in progress, but he's looking for your feedback.  Checkout the article and let Patrick know what you think.
 
-* http://radar.oreilly.com/2012/05/infrastructure-automation-jesse-robbins.html
+* [Jesse Robbins](http://twitter.com/jesserobbins) was recently interviewed by O'Reilly Radar  on the [state of infrastructure automation](http://radar.oreilly.com/2012/05/infrastructure-automation-jesse-robbins.html).
 
-* https://github.com/foodfight/showz/blob/master/chefconf_slides.md
+* The last item in our news for today is a link to the Food Fight github account and to a page where we've been collecting a list of slides, videos, and follow-up blog posts from #ChefConf.  Checkout some of the great content from the conference.  I you have something that should be added to the list, or know someone who does, pleas submit a pull request!   [https://github.com/foodfight/showz/blob/master/chefconf_slides.md](https://github.com/foodfight/showz/blob/master/chefconf_slides.md)
 
 ## Cookbook Updates
 
