@@ -24,8 +24,6 @@
 
 * [Andrew Crump](http://twitter.com/#!/acrmp) plans to extend foodcritic so that it can critique roles and environments. He would like to know what kind of rules you would like to see implemented. You can give him suggestions on this github issue for [foodcritic](https://github.com/acrmp/foodcritic/issues/19).
 
-* In even more [Andrew Crump](http://twitter.com/#!/acrmp) news, Andrew and his wife are expecting the birth of their first child any day now. Let's wish him and his growing family all the best.
-
 * The last item in our news for today is a link to the Food Fight github account and to a page where we've been collecting a list of slides, videos, and follow-up blog posts from #ChefConf.  Checkout some of the great content from the conference.  I you have something that should be added to the list, or know someone who does, pleas submit a pull request!   [https://github.com/foodfight/showz/blob/master/chefconf_slides.md](https://github.com/foodfight/showz/blob/master/chefconf_slides.md)
 
 
