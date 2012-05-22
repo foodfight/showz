@@ -20,6 +20,7 @@ And, on an individual level, how does one follow the way of the generalist? ;)
 * What does it mean to be a generalist? what skills does one need and
 how long does it take?
     * how much math and what math?
+    * how much statistics? Do sysadmins need to learn R?
     * how much computer science, whether at school or self taught?
     * Knowledge of protocols, filesystems, hardware?
     * how critical is Chef or another configuration management system
@@ -28,6 +29,7 @@ how long does it take?
       accounting, budgeting?
     * how many years of experience does one need to be considered a
       technology generalist? 2 years, 5 years, 10 years?
+    * what will happen to sysadmins who lack these skills?
 * Let's Talk $$$$
     * How much do these technology generalists earn and where do they
       have to go?
@@ -36,6 +38,7 @@ how long does it take?
     * How is performance measured?  Regardless of how much an individual is paid,
       there are always questions like "how well is so-and-so doing his job?"
     * What does the career path look like?
+ * What about process? Do Tech Generalists need to know ITIL, Prince2, PMBOK, CMMI?
 
 * How would someone new to our field get started on the path to
   becoming a technology generalist?
