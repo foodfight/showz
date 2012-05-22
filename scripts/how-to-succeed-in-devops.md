@@ -4,7 +4,7 @@ Show Date: Tuesday May 22, 15:15 EDT
 Participants
 ===========
 
-* David Zwieback
+* David Zwieback [twitter](https://twitter.com/#!/davezwieback)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -33,6 +33,10 @@ how long does it take?
       have to go?
     * Do technology generalists have to move to NYC or SV or can they work remotely?
     * Is there a lot of demand for such technology generalists?
+    * How is performance measured?  Regardless of how much an individual is paid,
+      there are always questions like "how well is so-and-so doing his job?"
+    * What does the career path look like?
+
 * How would someone new to our field get started on the path to
   becoming a technology generalist?
 
