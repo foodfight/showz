@@ -4,6 +4,7 @@ Pull Requests are appreciated!
 
 ## Slides from ChefConf 2012
 
+* [A Gestalt Informant: Chef driven monitoring, metrics and alerting](http://gestalt-informant.heroku.com/)
 * [Automating Application Configuration](http://blog.geeksgonemad.com/2012/05/automating-application-configuration.html)
 * [Chefing Your Development Environment (The Pivotal Way)](http://dl.dropbox.com/u/14813764/presentations/pivotal_workstation_chefconf/slides.html)
 * [Cloud Foundry BOSH Where the Platform rubber meets the Infrastructure road](http://www.slideshare.net/chanezon/cloud-foundry-bosh-where-the-platform-rubber-meets-the-infrastructure-road-chefconf)
@@ -15,7 +16,6 @@ Pull Requests are appreciated!
 * [Lessons from Etsy: Avoiding Kitchen Nightmares](http://www.slideshare.net/mcdonnps/lessons-from-etsy-avoiding-kitchen-nightmares-chefconf-2012)
 * [Spiceweasel:  Your Infrastructure as Code Table of Contents](http://www.slideshare.net/mattray/chefconf-2012-spiceweasel)
 * [The Joy of Cooking:  Whip up a Rails Environment with Chef](https://speakerdeck.com/u/nathenharvey/p/whip-up-a-rails-environment-with-chef-chefconf)
-* [A Gestalt Informant: Chef driven monitoring, metrics and alerting](http://gestalt-informant.heroku.com/)
 
 ## Videos from ChefConf 2012
 
