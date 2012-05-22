@@ -21,8 +21,35 @@
   The article is a look at the hiring process, management style, career 
   development, and more.  A great read for any team working in this space.
 
-* 
+* [John Willis](http://twitter.com/botchagalupe) has written a two-part 
+  series on Devops culture on the [IT Revolution Press](http://itrevolution.com/) 
+  blog.  Check the show notes for links to [part one](http://itrevolution.com/devops-culture-part-1/)
+  and [part two](http://itrevolution.com/devops-culture-part-2/)
 
+* Are you looking for some reasons to implement Puppet?  Over on the Tribily
+  blog, you'll find [8 reasons to implement Configuration Management using Puppet](http://tribily.com/blog/2011/12/07/8-reasons-implement-configuration-management-using-puppet).
+  Of course, these 8 reasons apply equally well to Chef and can serve as a
+  nice way to help convince your team that automated configuration management
+  with Chef or Puppet is the "right" way to go.
+
+* [Zac Stevens](http://twitter.com/zts) is back with another post on his
+  [Cryptocracy](http://www.cryptocracy.com) blog this one will show you 
+  [how ubuntu-vm-buildercan be used to go from zero to fully-installed Chef client in under 2 minutes.](http://www.cryptocracy.com/blog/2012/05/12/bootstrapping-chef/)
+
+* There's a new post on [Evolving towards cookbook reusability in Chef](http://realityforge.org/code/2012/05/12/evolving-towards-cookbook-reusability-in-chef.html).
+  Find the article on the [RealityForge](http://realityforge.org/) blog and
+  a link in the show notes.
+
+* The Godfather of DevOps, [Patrick Debois](http://twitter.com/patrickdebois) 
+  is back with another thought-provoking and detailed blog post:  
+  [Devops Areas - Codifying devops practices](http://jedi.be/blog/2012/05/12/codifying-devops-area-practices/).
+  This is a first stab at providing a structure to codify devops practices. 
+  The wording, descriptions are pretty much work in progress, but he's looking
+  for your feedback.  Checkout the article and let Patrick know what you think.
+
+* http://radar.oreilly.com/2012/05/infrastructure-automation-jesse-robbins.html
+
+* https://github.com/foodfight/showz/blob/master/chefconf_slides.md
 
 ## Cookbook Updates
 
