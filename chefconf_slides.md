@@ -16,6 +16,8 @@ Pull Requests are appreciated!
 * [Lessons from Etsy: Avoiding Kitchen Nightmares](http://www.slideshare.net/mcdonnps/lessons-from-etsy-avoiding-kitchen-nightmares-chefconf-2012)
 * [Spiceweasel:  Your Infrastructure as Code Table of Contents](http://www.slideshare.net/mattray/chefconf-2012-spiceweasel)
 * [The Joy of Cooking:  Whip up a Rails Environment with Chef](https://speakerdeck.com/u/nathenharvey/p/whip-up-a-rails-environment-with-chef-chefconf)
+* [Cross-node Orchestrations with Chef and Noah](https://speakerdeck.com/u/lusis/p/cross-node-orchestration-with-chef-and-noah)
+* [Logging Patterns with Logstash and Chef](https://speakerdeck.com/u/lusis/p/logging-patterns-with-logstash-and-chef)
 
 ## Videos from ChefConf 2012
 
