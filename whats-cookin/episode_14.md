@@ -24,6 +24,113 @@
 
 ## Cookbook Updates
 
+14 new cookbooks were added to the community site since our last episode.  That's almost one new cookbook per day!
+
+### [nfs](http://community.opscode.com/cookbooks/nfs) v0.2.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs and configures nfs, and NFS exports
+
+### [kronos](http://community.opscode.com/cookbooks/kronos) v0.0.5 - [cixelsyd](http://community.opscode.com/users/cixelsyd)
+  * Kronos manages windows scheduled tasks
+
+### [openvas](http://community.opscode.com/cookbooks/openvas) v0.0.38 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
+  * Installs/Configures openvas
+
+### [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.3.1 - [peter_donald](http://community.opscode.com/users/peter_donald)
+  * Installs/Configures Glassfish
+
+### [x264](http://community.opscode.com/cookbooks/x264) v0.3.0 - [reset](http://community.opscode.com/users/reset)
+  * Installs and configures the x264 video encoding library
+
+### [rsdns](http://community.opscode.com/cookbooks/rsdns) v0.0.3 - [evan4498](http://community.opscode.com/users/evan4498)
+  * Installs/Configures rsdns Rackspace Cloud DNS cli tool
+
+### [nginx-fastcgi](http://community.opscode.com/cookbooks/nginx-fastcgi) v0.0.2 - [melezhik](http://community.opscode.com/users/melezhik)
+  * create nginx site to run your fastcgi application under nginx frontend
+
+### [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.11 - [melezhik](http://community.opscode.com/users/melezhik)
+  * CPAN modules provider (cpan_client provider LWRP)
+
+### [zabbix](http://community.opscode.com/cookbooks/zabbix) v0.0.28 - [laradji](http://community.opscode.com/users/laradji)
+  * Installs/Configures zabbix Agent/Server
+
+### [forkable_client](http://community.opscode.com/cookbooks/forkable_client) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * Provides forked chef-client runs
+
+### [raxmon-cli](http://community.opscode.com/cookbooks/raxmon-cli) v0.0.3 - [evan4498](http://community.opscode.com/users/evan4498)
+  * Installs/Configures raxmon-cli
+
+### [zncrypt](http://community.opscode.com/cookbooks/zncrypt) v0.0.2 - [egarcia](http://community.opscode.com/users/egarcia)
+  * Installs/Configures zNcrypt
+
+### [authbind](http://community.opscode.com/cookbooks/authbind) v0.1.2 - [peter_donald](http://community.opscode.com/users/peter_donald)
+  * Installs/Configures authbind and defines resources for managing authorization
+
+### [magic_shell](http://community.opscode.com/cookbooks/magic_shell) v0.1.2 - [nathenharvey](http://community.opscode.com/users/nathenharvey)
+  * Installs/Configures command_alias
+
+### [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) v0.1.0 - [dcrosta](http://community.opscode.com/users/dcrosta)
+  * Simple LWRP and recipe for managing iptables rules
+
+### [gnome](http://community.opscode.com/cookbooks/gnome) v0.0.3 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs gnome for Oracle requirements
+
+### [x-windows](http://community.opscode.com/cookbooks/x-windows) v0.0.3 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs x-windows for Oracle requirements
+
+### [robottest](http://community.opscode.com/cookbooks/robottest) v0.1.1 - [pbatopscode](http://community.opscode.com/users/pbatopscode)
+  * Runs robot tests
+
+### [robot](http://community.opscode.com/cookbooks/robot) v0.1.1 - [pbatopscode](http://community.opscode.com/users/pbatopscode)
+  * Installs/Configures robot framework
+
+### [disco](http://community.opscode.com/cookbooks/disco) v0.1.0 - [dcrosta](http://community.opscode.com/users/dcrosta)
+  * Installs/Configures Disco
+
+### [generic-users](http://community.opscode.com/cookbooks/generic-users) v0.1.3 - [mpasternacki](http://community.opscode.com/users/mpasternacki)
+  * Sets up user accounts
+
+### [catalyst](http://community.opscode.com/cookbooks/catalyst) v0.0.6 - [melezhik](http://community.opscode.com/users/melezhik)
+  * catalyst application resource provider (LWRP)
+
+### [gitlab](http://community.opscode.com/cookbooks/gitlab) v0.2.1 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs/Configures gitlab
+
+### [log_rotations](http://community.opscode.com/cookbooks/log_rotations) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * Rotates logs
+
+### [sortable_mash](http://community.opscode.com/cookbooks/sortable_mash) v0.0.2 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * Adds sorting to Mash
+
+### [catalyst-fastcgi](http://community.opscode.com/cookbooks/catalyst-fastcgi) v0.0.4 - [melezhik](http://community.opscode.com/users/melezhik)
+  * 1) Configures catalyst as fastcgi server 2) Configure apache virtual host for it
+
+### [dry-run](http://community.opscode.com/cookbooks/dry-run) v0.0.3 - [melezhik](http://community.opscode.com/users/melezhik)
+  * run chef templates in dryrun mode
+
+### [squid](http://community.opscode.com/cookbooks/squid) v0.2.0 - [mray](http://community.opscode.com/users/mray)
+  * Installs/Configures squid as a simple caching proxy
+
+### [runlist_modifiers](http://community.opscode.com/cookbooks/runlist_modifiers) v0.1.2 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * Provides run list modifications via node attributes
+
+### [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) v0.0.10 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
+  * Installs/Configures sptoolkit
+
+### [krb5](http://community.opscode.com/cookbooks/krb5) v0.0.7 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs and configures krb5 authentication
+
+### [artifact](http://community.opscode.com/cookbooks/artifact) v0.9.6 - [reset](http://community.opscode.com/users/reset)
+  * Provides your cookbooks with the Artifact Deploy LWRP
+
+### [readline](http://community.opscode.com/cookbooks/readline) v0.0.3 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs readline binaries and libraries
+
+### [deploy_wrapper](http://community.opscode.com/cookbooks/deploy_wrapper) v0.0.1 - [cwjohnston](http://community.opscode.com/users/cwjohnston)
+  * Provides a definition that sets up an ssh key and ssh wrapper script for use with deploy or deploy_revision resources
+
+### [mcollective](http://community.opscode.com/cookbooks/mcollective) v0.9.1 - [zts](http://community.opscode.com/users/zts)
+  * Installs/Configures mcollective
+
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
