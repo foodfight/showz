@@ -45,3 +45,4 @@ Pull Requests are appreciated!
 
 * [ChefConf 2012 – San Francisco](http://www.ducea.com/2012/05/18/chefconf-2012-san-francisco/) by, [Marius Ducea](http://twitter.com/mariusducea)
 * [ChefConf 2012: I was there!](http://www.jaimegago.com/chefconf-2012-i-was-there/) by, [Jaime Gago](https://twitter.com/#!/JaimeGagoTech)
+* [Hungry for Operational Excellence? ChefConf 2012 satisfies!](http://robhirschfeld.com/2012/05/23/opscode-chefconf-2012-devops/) by, [Rob Hirschfeld](http://twitter.com/zehicle)
