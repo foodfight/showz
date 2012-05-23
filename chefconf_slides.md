@@ -23,6 +23,7 @@ Pull Requests are appreciated!
 ## Videos from ChefConf 2012
 
 * [A Few Words of Encouragement from Artur Bergman](http://www.youtube.com/watch?v=qRnTejOMbZU)
+* [Abusing databags for fun and profit](http://www.youtube.com/watch?v=qIxpK_VK9fE)
 * [Build a Hadoop Cluster in 20 Minutes with Ironfan](http://www.youtube.com/watch?v=DxRXqW-rc-Y)
 * [Building the Next Big Game](http://www.youtube.com/watch?v=VzihagU1fmw&feature=plcp)
 * [ChefConf Crowbar Essex and Knife OpenStack](http://www.youtube.com/watch?feature=player_embedded&v=IXLKS-NHplU)
@@ -30,7 +31,9 @@ Pull Requests are appreciated!
 * [Consistent Local Development with Vagrant and Chef](http://www.youtube.com/watch?v=eunKAKowabs)
 * [CycleCloud + Chef = 50,000-core Utility Supercomputer for Science](http://www.youtube.com/watch?v=cEaQB6e7G0Q)
 * [Fidelity IT's Journey to Cloud and Click2Compute](http://www.youtube.com/watch?v=NXhV8sFdPV0)
+* [How Opscode Migrated Hosted Chef API to Erlang & Changed Databases Without Breaking](http://www.youtube.com/watch?v=FRFekZrLNas)
 * [Ignite: Dell Crowbar History](http://www.youtube.com/watch?feature=player_embedded&v=N8gHwGazfek)
+* [It's Not Just for Servers: Chefing Your Development Environment (The Pivotal Way)](http://www.youtube.com/watch?v=kfQy8UzBUvY)
 * [Lessons from Etsy: Avoiding Kitchen Nightmares](http://www.youtube.com/watch?v=nSnJCJiZDDU)
 * [Operations Secret Sauce: Incident Managment](http://www.youtube.com/watch?v=4d38Ena1Abo)
 * [Opscode Chef Open Source Visualization w/ Gource](http://www.youtube.com/watch?v=ZIlWCE4FCqw)
