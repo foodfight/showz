@@ -18,6 +18,7 @@ Pull Requests are appreciated!
 * [Logging Patterns with Logstash and Chef](https://speakerdeck.com/u/lusis/p/logging-patterns-with-logstash-and-chef)
 * [Spiceweasel:  Your Infrastructure as Code Table of Contents](http://www.slideshare.net/mattray/chefconf-2012-spiceweasel)
 * [The Joy of Cooking:  Whip up a Rails Environment with Chef](https://speakerdeck.com/u/nathenharvey/p/whip-up-a-rails-environment-with-chef-chefconf)
+* [Using Rundeck and Chef to Build DevOps Toolchains](http://www.slideshare.net/AnthonyShortland/dto-chefconf2012)
 
 ## Videos from ChefConf 2012
 
