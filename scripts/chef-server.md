@@ -13,7 +13,31 @@ Panel
 Show Outline
 ============
 
-
+* On the server-side Chef has undergone a lot of changes in that last
+  several months. What motivated those changes and what are the changes?
+* What are the different versions of Chef Server available? private
+  chef, hosted chef, stay-at-home chef?
+* What does private chef offer that the open-source Chef server does
+  not? (multi-tenancy?)
+* Why rewrite much of the backend in Erlang? Why not a more enterprise
+  friendly language like java, Scala, or clojure?
+* What database did u choose to replace CouchDB
+* what changes happening in the Web UI?
+* Why use Rails 3 for the Web UI and not just consolidate everything into Erlang?
+* Do you still need Solr for search? Couldn't you just use tsearch in
+  postgresql instead? That would mean one less component
+* Will the current all ruby chef-server continue to be maintained by Opscode?
+* What will the upgrade path look like for people running the
+  open-source chef-server?
+* Will Open-source chef-server ever get multi-tenancy?
+* When will the new version of chef-server be open-sourced? and how
+  much of it will be open-sourced?
+* Now that you have improved the performance and memory management for
+  chef-server, what's next for Chef-server? What kind of new features
+  can we expect to see?
+* In the DevOps Cafe interview, CB hinted about running analytics on
+  the information collected by Chef, perhaps to predict hardware
+  failures. Can you provide more details on this?
 
 
 CLOSE
