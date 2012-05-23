@@ -1,4 +1,4 @@
-Show Date: 07 May 2012  12:00 NY Time EDT
+Show Date: TBD
 
 Panel
 ====
