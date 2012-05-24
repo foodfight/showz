@@ -25,7 +25,7 @@ Pull Requests are appreciated!
 * Enough Ruby To Be Dangerous [slides](http://ampledata.org/enough_ruby_to_be_dangerous.html), [video](http://www.youtube.com/watch?v=Q0B-H3Qo_s4)
 * Fidelity IT's Journey to Cloud and Click2Compute [video](http://www.youtube.com/watch?v=NXhV8sFdPV0)
 * Five Things You Always Wanted To Know About Chef [slides](https://speakerdeck.com/u/nathenharvey/p/5-things-you-always-wanted-to-know-about-chef), [video](http://www.youtube.com/watch?v=uREL4FFPddo)
-* How Opscode Migrated Hosted Chef API to Erlang & Changed Databases Without Breaking [video](http://www.youtube.com/watch?v=FRFekZrLNas)
+* How Opscode Migrated Hosted Chef API to Erlang & Changed Databases Without Breaking [slides](https://speakerdeck.com/u/sfalcon/p/how-we-moved-hosted-chef-to-erlang-mysql-and-why-you-didnt-notice), [video](http://www.youtube.com/watch?v=FRFekZrLNas)
 * Ignite the Chef Community! [slides](https://speakerdeck.com/u/nathenharvey/p/ignite-chef-community)
 * Ignite: Dell Crowbar History [video](http://www.youtube.com/watch?feature=player_embedded&v=N8gHwGazfek)
 * Ironfan: Build a Hadoop Cluster in 20 minutes [slides](http://www.slideshare.net/temujin9/chefconf-2012), [video](http://www.youtube.com/watch?v=DxRXqW-rc-Y)
