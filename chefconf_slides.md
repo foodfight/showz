@@ -6,7 +6,7 @@ Pull Requests are appreciated!
 
 * A Few Words of Encouragement from Artur Bergman [video](http://www.youtube.com/watch?v=qRnTejOMbZU)
 * A Gestalt Informant: Chef driven monitoring, metrics and alerting [slides](http://gestalt-informant.heroku.com/), [video](http://www.youtube.com/watch?v=BXxtdE-Paco)
-* Abusing databags for fun and profit [video](http://www.youtube.com/watch?v=qIxpK_VK9fE)
+* Abusing databags for fun and profit [slides](https://speakerdeck.com/u/thommay/p/abusing-databags-for-fun-and-profit), [video](http://www.youtube.com/watch?v=qIxpK_VK9fE)
 * Automating Application Configuration [blog post](http://blog.geeksgonemad.com/2012/05/automating-application-configuration.html)
 * Building the Next Big Game [video](http://www.youtube.com/watch?v=VzihagU1fmw&feature=plcp)
 * Business Intelligence in the Cloud with Chef [video](http://www.youtube.com/watch?v=mAo-mPMSeng)
