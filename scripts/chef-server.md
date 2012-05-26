@@ -32,6 +32,16 @@ Show Outline
 * Will Open-source chef-server ever get multi-tenancy?
 * When will the new version of chef-server be open-sourced? and how
   much of it will be open-sourced?
+* some listeners have expressed frustration that the current
+  open-source chef-server isn't better supported. They point to a
+  large number of open issues that don't seem to be receiving much
+  attention from Opscode's engineering team. What do you say to that sentiment?
+* will open-source Chef-server see maintenance love after the switch
+  to Erlang/mysql?
+* While I don't use the web gui very often, there are a few features I
+  would love to see. When might we expect to see them?
+   * dashboard showing last chef-client run
+   * dashboard showing failed runs w/ stack-trace
 * Now that you have improved the performance and memory management for
   chef-server, what's next for Chef-server? What kind of new features
   can we expect to see?
