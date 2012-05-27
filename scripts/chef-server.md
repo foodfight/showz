@@ -42,6 +42,7 @@ Show Outline
   would love to see. When might we expect to see them?
    * dashboard showing last chef-client run
    * dashboard showing failed runs w/ stack-trace
+* Do all the changes to chef-server impact chef-solo in any way? I would assume not, but guess it is possible.
 * Now that you have improved the performance and memory management for
   chef-server, what's next for Chef-server? What kind of new features
   can we expect to see?
