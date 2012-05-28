@@ -3,6 +3,7 @@ Show Ideas
 
 * Seth Chisamore and Andrew Crump on Kitchen
 * Jason Stowe, HPC in the cloud (BryanWB's top pick)
+* Werner Vogels (CTO Amazon) cuz he's damn smart
 * Chef Executive view(George Moberly/Chris Brown)
 * Advanced Chef: how to make the most out of data_bags, roles,
  environments, lwrps, libraries, and search
