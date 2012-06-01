@@ -49,7 +49,9 @@ Show Outline
 * In the DevOps Cafe interview, CB hinted about running analytics on
   the information collected by Chef, perhaps to predict hardware
   failures. Can you provide more details on this?
-
+* What features would you like to see in the future?
+* Will chef and chef-server always be locked into the model of running the chef-client periodically rather than actively asserting system state?
+  Will it be able to evolve into a [next-gen configuration management tool](http://blog.lusis.org/blog/2012/05/24/configuration-drift-and-next-gen-cm/)?
 
 CLOSE
 =====
