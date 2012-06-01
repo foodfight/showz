@@ -1,4 +1,4 @@
-Show Date: TBD
+Show Date: Friday, 1 June 2012
 
 Panel
 ====
