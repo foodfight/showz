@@ -1,10 +1,7 @@
 ## In the News
 
 
-## Cookbook Updates
-### [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.13 - [melezhik](http://community.opscode.com/users/melezhik)
-  * CPAN modules provider (cpan_client provider LWRP)
-
+## New Cookbooks
 ### [mplayer](http://community.opscode.com/cookbooks/mplayer) v0.0.1 - [devesc](http://community.opscode.com/users/devesc)
   * Installs/Configures mplayer
 
@@ -23,35 +20,14 @@
 ### [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) v0.0.1 - [devesc](http://community.opscode.com/users/devesc)
   * Installs/Configures beanstalkd
 
-### [zabbix](http://community.opscode.com/cookbooks/zabbix) v0.0.29 - [laradji](http://community.opscode.com/users/laradji)
-  * Installs/Configures zabbix Agent/Server
-
 ### [gow](http://community.opscode.com/cookbooks/gow) v0.0.2 - [jwitrick](http://community.opscode.com/users/jwitrick)
   * Installs/Configures gow on windows
 
 ### [helios](http://community.opscode.com/cookbooks/helios) v0.0.5 - [cixelsyd](http://community.opscode.com/users/cixelsyd)
   * Installs/Configures helios, a basic windows x509 certificate import utility
 
-### [yumrepo](http://community.opscode.com/cookbooks/yumrepo) v0.16.0 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-  * Installs and configures EPEL, ELFF, Dell, and VMware yum repositories.
-
-### [certificate](http://community.opscode.com/cookbooks/certificate) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-  * Installs/Configures certificates, private keys, CA root bundles from encrypted data bags.
-
-### [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.4.45 - [peter_donald](http://community.opscode.com/users/peter_donald)
-  * Installs/Configures GlassFish Application Server
-
-### [sensu](http://community.opscode.com/cookbooks/sensu) v0.0.9 - [portertech](http://community.opscode.com/users/portertech)
-  * Installs/Configures Sensu
-
 ### [stoplight](http://community.opscode.com/cookbooks/stoplight) v0.1.2 - [sethvargo](http://community.opscode.com/users/sethvargo)
   * Installs/Configures Stoplight
-
-### [percona-install](http://community.opscode.com/cookbooks/percona-install) v0.1.3 - [nathenharvey](http://community.opscode.com/users/nathenharvey)
-  * Installs Percona apt/yum repostiory, client, and server
-
-### [nginx-fastcgi](http://community.opscode.com/cookbooks/nginx-fastcgi) v0.0.5 - [melezhik](http://community.opscode.com/users/melezhik)
-  * create nginx site to run your fastcgi application under nginx frontend
 
 ### [fpm](http://community.opscode.com/cookbooks/fpm) v0.0.1 - [brettgailey](http://community.opscode.com/users/brettgailey)
   * Installs Effin' Package Manager by Jordan Sissel.
@@ -97,6 +73,33 @@
 
 ### [supervisord](http://community.opscode.com/cookbooks/supervisord) v0.1.0 - [mpasternacki](http://community.opscode.com/users/mpasternacki)
   * Installs/Configures supervisord
+
+
+## Updated Cookbooks
+
+### [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.13 - [melezhik](http://community.opscode.com/users/melezhik)
+  * CPAN modules provider (cpan_client provider LWRP)
+
+### [zabbix](http://community.opscode.com/cookbooks/zabbix) v0.0.29 - [laradji](http://community.opscode.com/users/laradji)
+  * Installs/Configures zabbix Agent/Server
+
+### [yumrepo](http://community.opscode.com/cookbooks/yumrepo) v0.16.0 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs and configures EPEL, ELFF, Dell, and VMware yum repositories.
+
+### [certificate](http://community.opscode.com/cookbooks/certificate) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs/Configures certificates, private keys, CA root bundles from encrypted data bags.
+
+### [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.4.45 - [peter_donald](http://community.opscode.com/users/peter_donald)
+  * Installs/Configures GlassFish Application Server
+
+### [sensu](http://community.opscode.com/cookbooks/sensu) v0.0.9 - [portertech](http://community.opscode.com/users/portertech)
+  * Installs/Configures Sensu
+
+### [percona-install](http://community.opscode.com/cookbooks/percona-install) v0.1.3 - [nathenharvey](http://community.opscode.com/users/nathenharvey)
+  * Installs Percona apt/yum repostiory, client, and server
+
+### [nginx-fastcgi](http://community.opscode.com/cookbooks/nginx-fastcgi) v0.0.5 - [melezhik](http://community.opscode.com/users/melezhik)
+  * create nginx site to run your fastcgi application under nginx frontend
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
