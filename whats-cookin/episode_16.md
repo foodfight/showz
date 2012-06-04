@@ -28,6 +28,8 @@ Hello Chefs!  This is Nathen Harvey we've got a great show for you today about C
 
 * [Provision Your Laptop With Chef: Part 1](http://technology.customink.com/blog/2012/05/28/provision-your-laptop-with-chef-part-1/)
 
+* [Philly DevOps](http://phillydevops.org/)
+
 ## New Cookbooks
 
 Congratulations!  There are now over 500 cookbooks available on the community site.  Sure, it's an arbitrary number but it is an exciting milestone.  We announced passing the 400 cookbook milestone back in April so that's 100 new cookbooks in less than two months. 
