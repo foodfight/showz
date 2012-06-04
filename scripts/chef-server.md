@@ -3,15 +3,18 @@ Show Date: Friday, 1 June 2012
 Panel
 ====
 
-* Seth Falcon
-* Kevin Smith
-* Matt Ray
-* Lusis
+* Kevin Smith, Director of Engineering [twitter](http://twitter.com/kevsmith), [github](https://github.com/kevsmith)
+* Seth Falcon, Development Lead [twitter](http://twitter.com/sfalcon), [github](https://github.com/seth)
+* Matt Ray [twitter](https://twitter.com/#!/mattray), [github](https://github.com/mattray)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Nathen Harvey  [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://www.nathenharvey.com/)
 
 Show Outline
 ============
+
+* Chef server rewrite
+* Open source, private, and hosted Chef server
+* 
 
 * On the server-side Chef has undergone a lot of changes in that last
   several months. What motivated those changes and what are the changes?
