@@ -14,7 +14,20 @@ Show Outline
 
 * Chef server rewrite
 * Open source, private, and hosted Chef server
-* 
+* Erlang
+
+Picks
+* Kevin
+  * [Paxos Made Moderately Complex](http://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf)
+  * [Foundations of Multidimensional and Metric Data Structures](http://www.amazon.com/Foundations-Multidimensional-Structures-Kaufmann-Computer/dp/0123694469)
+* Seth
+  * git rerere mod
+    * git config --global rerere.enabled 1
+    * http://www.kernel.org/pub/software/scm/git/docs/v1.5.6/git-rerere.html
+* Bryan
+  * [Ilya Grigorik's blog](httP://igvita.com)
+* lusis
+  * Clojure 
 
 * On the server-side Chef has undergone a lot of changes in that last
   several months. What motivated those changes and what are the changes?
