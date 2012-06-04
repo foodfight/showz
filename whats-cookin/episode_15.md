@@ -8,7 +8,7 @@ Hello Chefs!  This is Nathen Harvey we've got a great show for you today about C
 
 ## In the News
 
-
+* [Etsy's Winning Secret: Don't Play The Blame Game!](http://www.businessinsider.com/etsy-chad-dickerson-blameless-post-mortem-2012-5)
 
 ## New Cookbooks
 
