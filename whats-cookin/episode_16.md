@@ -46,7 +46,7 @@ Congratulations!  There are now over 500 cookbooks available on the community si
 ### [uwsgi](http://community.opscode.com/cookbooks/uwsgi) v0.0.1 - [idyedov](http://community.opscode.com/users/idyedov)
   * Installs/Configures uWSGI
 
-### [gqlplus](http://community.opscode.com/cookbooks/gqlplus) v1.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+### [gqlplus](http://community.opscode.com/cookbooks/gqlplus) v0.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
   * Installs/Configures gqlplus
  
 ### [recognizer](http://community.opscode.com/cookbooks/recognizer) v0.0.4 - [portertech](http://community.opscode.com/users/portertech)
