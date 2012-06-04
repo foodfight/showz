@@ -8,7 +8,25 @@ Hello Chefs!  This is Nathen Harvey we've got a great show for you today about C
 
 ## In the News
 
+* [Blameless PostMortems and a Just Culture](http://codeascraft.etsy.com/2012/05/22/blameless-postmortems/)
+
 * [Etsy's Winning Secret: Don't Play The Blame Game!](http://www.businessinsider.com/etsy-chad-dickerson-blameless-post-mortem-2012-5)
+
+* [7 Application Deployment Best Practices](http://java.dzone.com/articles/7-application-deployment-best)
+
+* [10 Twitter Accounts To Follow About DevOps, Scaling & Web Performance](http://www.tracelytics.com/blog/10-twitter-accounts-about-devops-scaling/?utm_source=twitter&utm_medium=social&utm_content=83836ee8-b7fa-4cee-9c77-bcf7b42f7820)...or at least 8 or 9
+
+* [Chef-BOSTON User Group](http://www.meetup.com/Chef-BOSTON/)
+
+* [Using monitoring and metrics to learn in development](http://www.slideshare.net/jedi4ever/using-monitoring-and-metrics-to-learn-in-development)
+
+* [On (not) Being Post-Technical](http://nomadic-developer.com/2012/05/30/on-not-being-post-technical/)
+
+* [DevOps Hiring](http://www.slideshare.net/kshep/devops-13030503)
+
+* [Configuration Drift and Next-gen CM](http://blog.lusis.org/blog/2012/05/24/configuration-drift-and-next-gen-cm/)
+
+* [Provision Your Laptop With Chef: Part 1](http://technology.customink.com/blog/2012/05/28/provision-your-laptop-with-chef-part-1/)
 
 ## New Cookbooks
 
