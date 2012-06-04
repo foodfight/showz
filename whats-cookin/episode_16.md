@@ -34,7 +34,9 @@ Hello Chefs!  This is Nathen Harvey we've got a great show for you today about C
 
 Congratulations!  There are now over 500 cookbooks available on the community site.  Sure, it's an arbitrary number but it is an exciting milestone.  We announced passing the 400 cookbook milestone back in April so that's 100 new cookbooks in less than two months. 
 
-Escape Studios Development recently published 6 new cookbooks on the Community site.
+18 Cookbooks have been added since the last Food Fight Show.
+
+We'll start with the 6 new cookbooks form Escape Studios Development.
 
 ### [mplayer](http://community.opscode.com/cookbooks/mplayer) v0.0.1 - [devesc](http://community.opscode.com/users/devesc)
   * Installs/Configures mplayer
@@ -102,8 +104,8 @@ Eric G. Wolfe continues to add and update cookbooks on the community site.  He's
   * mail_alias provider
 
 ## Updated Cookbooks
-### [artifact](http://community.opscode.com/cookbooks/artifact) v0.9.7 - [reset](http://community.opscode.com/users/reset)  
-  * Provides your cookbooks with the Artifact Deploy LWRP
+
+13 Cookbooks have been updated recently.
 
 ### [artifact](http://community.opscode.com/cookbooks/artifact) v0.9.7 - [reset](http://community.opscode.com/users/reset)  
   * Provides your cookbooks with the Artifact Deploy LWRP
@@ -111,17 +113,8 @@ Eric G. Wolfe continues to add and update cookbooks on the community site.  He's
 ### [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.13 - [melezhik](http://community.opscode.com/users/melezhik)  
   * CPAN modules provider (cpan_client provider LWRP)
 
-### [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.13 - [melezhik](http://community.opscode.com/users/melezhik)  
-  * CPAN modules provider (cpan_client provider LWRP)
-
 ### [datadog](http://community.opscode.com/cookbooks/datadog) v0.0.9 - [miketheman](http://community.opscode.com/users/miketheman)  
   * Installs/Configures datadog components
-
-### [datadog](http://community.opscode.com/cookbooks/datadog) v0.0.9 - [miketheman](http://community.opscode.com/users/miketheman)  
-  * Installs/Configures datadog components
-
-### [disco](http://community.opscode.com/cookbooks/disco) v0.1.2 - [dcrosta](http://community.opscode.com/users/dcrosta)  
-  * Installs/Configures Disco
 
 ### [disco](http://community.opscode.com/cookbooks/disco) v0.1.2 - [dcrosta](http://community.opscode.com/users/dcrosta)  
   * Installs/Configures Disco
@@ -129,17 +122,8 @@ Eric G. Wolfe continues to add and update cookbooks on the community site.  He's
 ### [ffmpeg](http://community.opscode.com/cookbooks/ffmpeg) v0.2.1 - [reset](http://community.opscode.com/users/reset)  
   * Installs and configures FFMPEG from source or package
 
-### [ffmpeg](http://community.opscode.com/cookbooks/ffmpeg) v0.2.1 - [reset](http://community.opscode.com/users/reset)  
-  * Installs and configures FFMPEG from source or package
-
 ### [htpasswd](http://community.opscode.com/cookbooks/htpasswd) v1.0.1 - [guilhemfr](http://community.opscode.com/users/guilhemfr)  
   * Provider for htpasswd
-
-### [htpasswd](http://community.opscode.com/cookbooks/htpasswd) v1.0.1 - [guilhemfr](http://community.opscode.com/users/guilhemfr)  
-  * Provider for htpasswd
-
-### [iscsi](http://community.opscode.com/cookbooks/iscsi) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)  
-  * Installs configures open-iscsi for storage arrays
 
 ### [iscsi](http://community.opscode.com/cookbooks/iscsi) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)  
   * Installs configures open-iscsi for storage arrays
@@ -147,38 +131,20 @@ Eric G. Wolfe continues to add and update cookbooks on the community site.  He's
 ### [multipath](http://community.opscode.com/cookbooks/multipath) v0.0.8 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)  
   * Installs and configures device-mapper-multipath
 
-### [multipath](http://community.opscode.com/cookbooks/multipath) v0.0.8 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)  
-  * Installs and configures device-mapper-multipath
-
-### [networking_basic](http://community.opscode.com/cookbooks/networking_basic) v0.0.5 - [fred](http://community.opscode.com/users/fred)  
-  * Install Basic Networking Tools and Utilities on Debian, Centos RedHat and Ubuntu
-
 ### [networking_basic](http://community.opscode.com/cookbooks/networking_basic) v0.0.5 - [fred](http://community.opscode.com/users/fred)  
   * Install Basic Networking Tools and Utilities on Debian, Centos RedHat and Ubuntu
 
 ### [nfs](http://community.opscode.com/cookbooks/nfs) v0.2.3 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)  
   * Installs and configures nfs, and NFS exports
 
-### [nfs](http://community.opscode.com/cookbooks/nfs) v0.2.3 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)  
-  * Installs and configures nfs, and NFS exports
-
 ### [openvas](http://community.opscode.com/cookbooks/openvas) v0.0.46 - [jackl0phty](http://community.opscode.com/users/jackl0phty)  
   * Installs/Configures openvas
-
-### [openvas](http://community.opscode.com/cookbooks/openvas) v0.0.46 - [jackl0phty](http://community.opscode.com/users/jackl0phty)  
-  * Installs/Configures openvas
-
-### [supervisord](http://community.opscode.com/cookbooks/supervisord) v0.1.0 - [mpasternacki](http://community.opscode.com/users/mpasternacki)  
-  * Installs/Configures supervisord
 
 ### [supervisord](http://community.opscode.com/cookbooks/supervisord) v0.1.0 - [mpasternacki](http://community.opscode.com/users/mpasternacki)  
   * Installs/Configures supervisord
 
 ### [zabbix](http://community.opscode.com/cookbooks/zabbix) v0.0.29 - [laradji](http://community.opscode.com/users/laradji)  
   * Installs/Configures zabbix Agent/Server
-
-### [zabbix](http://community.opscode.com/cookbooks/zabbix) v0.0.29 - [laradji](http://community.opscode.com/users/laradji)  
-  * Installs/Configures zabbix Agent/Server 
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
