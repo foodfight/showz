@@ -158,3 +158,7 @@ Congratulations!  There are now over 500 cookbooks available on the community si
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow)!
+
+## On to the show...
+
+On this episode of the Food Fight Show, Kevin Smith & Seth Falcon from Opscode join our panel to discuss Chef Server.  They discuss the recent Chef Server rewrite, the various flavors of Chef Server, and Erlang.  It's a great episode so let's get to it.
