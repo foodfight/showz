@@ -1,7 +1,37 @@
+## Introduction
+
+This episode of the Food Fight Show is brought to you by
+
+Are you, or someone you know interested in sponsoring the Food Fight Show?  We're looking for people to help us with hosting and equipment costs.  Please let us know if you're willing and able to help out.  Contact us at info@foodfightshow.org
+
+Hello Chefs!  This is Nathen Harvey we've got a great show for you today about Chef Server.  Before we get to that, let's what's cookin'
+
 ## In the News
 
 
+
 ## New Cookbooks
+
+Congratulations!  There are now over 500 cookbooks available on the community site.  Sure, it's an arbitrary number but it is an exciting milestone.  We announced passing the 400 cookbook milestone back in April so that's 100 new cookbooks in less than two months. 
+
+### [ncurses](http://community.opscode.com/cookbooks/ncurses) v0.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs/Configures ncurses
+
+### [yumrepo](http://community.opscode.com/cookbooks/yumrepo) v0.16.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs and configures EPEL, ELFF, Dell, and VMware yum repositories.
+
+### [netcobol](http://community.opscode.com/cookbooks/netcobol) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs/Configures Fujitsu NetCOBOL.  Batteries not included.
+
+### [uwsgi](http://community.opscode.com/cookbooks/uwsgi) v0.0.1 - [idyedov](http://community.opscode.com/users/idyedov)
+  * Installs/Configures uWSGI
+
+### [gqlplus](http://community.opscode.com/cookbooks/gqlplus) v1.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs/Configures gqlplus
+ 
+### [recognizer](http://community.opscode.com/cookbooks/recognizer) v0.0.4 - [portertech](http://community.opscode.com/users/portertech)
+  * Installs & configures Recognizer, a Graphite Carbon impostor that sends metrics to Librato Metrics.
+
 ### [mplayer](http://community.opscode.com/cookbooks/mplayer) v0.0.1 - [devesc](http://community.opscode.com/users/devesc)
   * Installs/Configures mplayer
 
@@ -20,9 +50,9 @@
 ### [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) v0.0.1 - [devesc](http://community.opscode.com/users/devesc)
   * Installs/Configures beanstalkd
 
-### [gow](http://community.opscode.com/cookbooks/gow) v0.0.2 - [jwitrick](http://community.opscode.com/users/jwitrick)
+### [gow](http://community.opscode.com/cookbooks/gow) v0.0.3 - [jwitrick](http://community.opscode.com/users/jwitrick)
   * Installs/Configures gow on windows
-
+ 
 ### [helios](http://community.opscode.com/cookbooks/helios) v0.0.5 - [cixelsyd](http://community.opscode.com/users/cixelsyd)
   * Installs/Configures helios, a basic windows x509 certificate import utility
 
@@ -83,7 +113,7 @@
 ### [zabbix](http://community.opscode.com/cookbooks/zabbix) v0.0.29 - [laradji](http://community.opscode.com/users/laradji)
   * Installs/Configures zabbix Agent/Server
 
-### [yumrepo](http://community.opscode.com/cookbooks/yumrepo) v0.16.0 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+### [yumrepo](http://community.opscode.com/cookbooks/yumrepo) v0.16.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
   * Installs and configures EPEL, ELFF, Dell, and VMware yum repositories.
 
 ### [certificate](http://community.opscode.com/cookbooks/certificate) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
@@ -100,6 +130,10 @@
 
 ### [nginx-fastcgi](http://community.opscode.com/cookbooks/nginx-fastcgi) v0.0.5 - [melezhik](http://community.opscode.com/users/melezhik)
   * create nginx site to run your fastcgi application under nginx frontend
+
+### [minitest-handler](http://community.opscode.com/cookbooks/minitest-handler) v0.0.6 - [btm](http://community.opscode.com/users/btm)
+  * Installs and configures minitest-chef-handler
+ 
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
