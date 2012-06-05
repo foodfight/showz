@@ -4,6 +4,11 @@
 
 ## Cookbook Updates
 
+## [minitest-handler-cookbook](http://community.opscode.com/cookbooks/minitest-handler)  v0.0.7                                              
+
+* Add better examples to the readme                                                                                                          
+* pass foodcritic                                                                                                                            * MINITEST-HANDLER-COOKBOOK-12 ensure minitest gem used and not the standard library in 1.9                                                  * MINITEST-HANDLER-COOKBOOK-11 Add support for Chef-Solo                                                                                    
+
 ## rbenv_system_pkgs Initial Release (a.k.a. the I've-had-it-waiting-for-Ruby-to-compile-all-day-long edition)
 
 The basic idea:
