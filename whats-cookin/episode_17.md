@@ -16,7 +16,7 @@
 
 ## [bind v0.0.5](http://community.opscode.com/cookbooks/bind) by Eric G. Wolfe
 
-Allows you to create zones from databags or pull them from LDAP
+Allows you to populate zone configuration in your named.conf from databags or from LDAP
 
 ## rbenv_system_pkgs Initial Release (a.k.a. the I've-had-it-waiting-for-Ruby-to-compile-all-day-long edition)
 
