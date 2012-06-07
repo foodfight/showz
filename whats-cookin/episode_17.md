@@ -1,6 +1,8 @@
 ## In the News
 
 * [MVT:  Foodcritic and TravisCI](http://nathenharvey.com/blog/2012/05/29/mvt-foodcritic-and-travis-ci/)
+* [Three languages every sysadmin should know](http://commandlion.com/2012/06/03/every-sysadmin-three-languages/)
+* [Chef interoperability with Windows Azure](http://www.opscode.com/press-releases/opscode-announces-interoperability-with-windows-azure/), see [knife-azure](https://github.com/opscode/knife-azure)
 
 ## Cookbook Updates
 
@@ -10,6 +12,10 @@
 * pass foodcritic
 * MINITEST-HANDLER-COOKBOOK-12 ensure minitest gem used and not the standard library in 1.9
 * MINITEST-HANDLER-COOKBOOK-11 Add support for Chef-Solo
+
+## [bind v0.0.5](http://community.opscode.com/cookbooks/bind) by Eric G. Wolfe
+
+Allows you to create zones from databags or pull them from LDAP
 
 ## rbenv_system_pkgs Initial Release (a.k.a. the I've-had-it-waiting-for-Ruby-to-compile-all-day-long edition)
 
