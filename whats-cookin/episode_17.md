@@ -3,6 +3,7 @@
 * [MVT:  Foodcritic and TravisCI](http://nathenharvey.com/blog/2012/05/29/mvt-foodcritic-and-travis-ci/)
 * [Three languages every sysadmin should know](http://commandlion.com/2012/06/03/every-sysadmin-three-languages/)
 * [Chef interoperability with Windows Azure](http://www.opscode.com/press-releases/opscode-announces-interoperability-with-windows-azure/), see [knife-azure](https://github.com/opscode/knife-azure)
+* [jclouds-chef](https://github.com/jclouds/jclouds-chef) java and clojure interface the chef-server API
 
 ## Cookbook Updates
 
