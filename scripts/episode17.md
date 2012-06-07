@@ -21,7 +21,7 @@ Testing Tools and Process
 
 Brought to you by...
 
-Why don't you introduce yourselves.
+#### Why don't you introduce yourselves.
 
 * Eric
 * Fletcher
@@ -29,13 +29,14 @@ Why don't you introduce yourselves.
 Who are you?  Where are you working?  How can people get in touch with you?
 
 
-What's the state of the art?
+#### Tools & Frameworks
 
 Frameworks fall into three basic categories
   
   * pre-converge
   * pseudo-converge
   * post-converge
+
 
 Brief intro / overview of the tools available
 
@@ -45,13 +46,15 @@ Brief intro / overview of the tools available
   * cucumber-chef
   * what else?
 
-* Hackday Approach
+#### ChefConf Hackday 
+
   * What did you do?
   * How did it work?
   * Which tools did you use?
   * What did you learn?
 
-* Post-chefconf
+#### After ChefConf
+  
   * How have you applied what you learned?
   * What have you changed?
 
@@ -62,8 +65,16 @@ Brief intro / overview of the tools available
 * Getting started
   * I'm not doing any testing of my cookbooks, where should I start?
 
-* minitest-capistrano
+
+Not directly related to Chef, but if there's time maybe Fletcher can give a brief intro to [minitest-capistrano](https://github.com/fnichol/minitest-capistrano)
 
 
 
+#### Picks
 
+* Eric
+
+* Fletcher
+
+* Nathen
+  * [Stoplight](https://github.com/customink/stoplight)
