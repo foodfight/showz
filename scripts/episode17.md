@@ -4,7 +4,7 @@ Panel
 =====
 
 * Eric G. Wolfe [twitter](https://twitter.com/#!/atomic_penguin), [github](http://github.com/atomic-penguin)
-* Fletcher Nichol [twitter](http://twitter.com/fnichol), [githbu](https://github.com/fnichol)
+* Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline
