@@ -31,14 +31,20 @@ historically it has been harder to automate Windows, due to being GUI-centric
 * Most *nix folks look down on the Windows Operating
 System, perhaps unfairly. What are some good parts of the Windows OS that may
 be new and perhaps unknown to *nix people?
+* What is winRM?
 * Tell us about powershell. Is it as good as or better than the *nix
 shells? how well does it integrate with chef? What aout the upcoming
 script_resource?
 * What aspects of chef on Windows need the most improvement? What part
 can Chef work on? What does MS need to improve
 * What has been your experience teaching ruby to windows devs and sysadmins?
-* 
-
+* Does Windows have a package manager yet? Or any way to resolve
+package dependencies (.msi)?
+* Does using a windows stack add special considerations for
+application deployment?
+* Do you use ssh keys in windowsland? If not how do your users log on?
+* Do you use SSH on your windows machines?
+* What is the state of the community around Windows-related cookbooks?
 
 
 #### Picks
