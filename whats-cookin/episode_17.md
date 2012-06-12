@@ -73,6 +73,87 @@ The massive Changelog: https://github.com/fnichol/chef-rvm/blob/master/CHANGELOG
 
 ### [logstash_handler](https://github.com/lusis/logstash_handler) - v0.0.1 - [@lusis](http://twitter.com/lusis)
 * A cookbook for a chef_handler that sends reports and exceptions to Logstash over a TCP input in native json_event format
+
+### [keystone](http://community.opscode.com/cookbooks/keystone) v0.0.1 - [mray](http://community.opscode.com/users/mray)
+  * The OpenStack Identity service Keystone.
+
+### [horizon](http://community.opscode.com/cookbooks/horizon) v0.0.1 - [mray](http://community.opscode.com/users/mray)
+  * The OpenStack Dashboard service Horizon.
+
+### [swift](http://community.opscode.com/cookbooks/swift) v0.0.1 - [mray](http://community.opscode.com/users/mray)
+  * The OpenStack Object Storage service Swift.
+
+### [glance](http://community.opscode.com/cookbooks/glance) v0.0.1 - [mray](http://community.opscode.com/users/mray)
+  * The OpenStack Image service Glance.
+
+### [nova](http://community.opscode.com/cookbooks/nova) v0.0.1 - [mray](http://community.opscode.com/users/mray)
+  * The OpenStack Compute service Nova.
+
+### [logstash](http://community.opscode.com/cookbooks/logstash) v0.1.0 - [lusis](http://community.opscode.com/users/lusis)
+  * Installs/Configures logstash
+
+### [ruby_installer](http://community.opscode.com/cookbooks/ruby_installer) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * Installs ruby
+
+### [gem_installer](http://community.opscode.com/cookbooks/gem_installer) v0.1.2 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * Installs/Update Ruby Gems
+
+### [omnibus_updater](http://community.opscode.com/cookbooks/omnibus_updater) v0.0.2 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * Chef omnibus package updater and installer
+
+### [chef_gem](http://community.opscode.com/cookbooks/chef_gem) v0.0.3 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+  * Provides proper chef_gem resource support for Chef versions < 0.10.12
+
+### [datadog](http://community.opscode.com/cookbooks/datadog) v0.0.11 - [miketheman](http://community.opscode.com/users/miketheman)
+  * Installs/Configures datadog components
+
+### [tasseo](http://community.opscode.com/cookbooks/tasseo) v0.0.1 - [scriptfu](http://community.opscode.com/users/scriptfu)
+  * Installs/Configures tasseo
+
+### [logster](http://community.opscode.com/cookbooks/logster) v0.0.3 - [shr3kst3r](http://community.opscode.com/users/shr3kst3r)
+  * Chef cookbook for logster
+
+### [netcfg](http://community.opscode.com/cookbooks/netcfg) v0.0.2 - [captspify](http://community.opscode.com/users/captspify)
+  * Installs/Configures netcfg using nslookup
+
+### [cloudpassage](http://community.opscode.com/cookbooks/cloudpassage) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
+  * Installs/Configures cloudpassage
+
+### [stoplight](http://community.opscode.com/cookbooks/stoplight) v0.1.4 - [sethvargo](http://community.opscode.com/users/sethvargo)
+  * Installs/Configures Stoplight
+
+### [rsdns](http://community.opscode.com/cookbooks/rsdns) v0.0.4 - [evan4498](http://community.opscode.com/users/evan4498)
+  * Installs/Configures raxmon-cli
+
+### [raxmon-cli](http://community.opscode.com/cookbooks/raxmon-cli) v0.0.4 - [evan4498](http://community.opscode.com/users/evan4498)
+  * Installs/Configures raxmon-cli
+
+### [httplivestreamsegmenter](http://community.opscode.com/cookbooks/httplivestreamsegmenter) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
+  * Installs/Configures httplivestreamsegmenter
+
+### [hollandbackup](http://community.opscode.com/cookbooks/hollandbackup) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
+  * Installs/Configures hollandbackup
+
+### [cerberus](http://community.opscode.com/cookbooks/cerberus) v0.1.3 - [cixelsyd](http://community.opscode.com/users/cixelsyd)
+  * Installs/Configures Cerberus firewall manager for Windows 2003 and 2008
+
+### [bind](http://community.opscode.com/cookbooks/bind) v0.0.5 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+  * Installs/Configures dns
+
+### [rails](http://community.opscode.com/cookbooks/rails) v0.9.2 - [jtimberman](http://community.opscode.com/users/jtimberman)
+  * Installs rails and provides a sample template for use with passenger
+
+### [django](http://community.opscode.com/cookbooks/django) v0.8.0 - [jtimberman](http://community.opscode.com/users/jtimberman)
+  * Installs DJango
+
+### [zncrypt](http://community.opscode.com/cookbooks/zncrypt) v0.1.1 - [egarcia](http://community.opscode.com/users/egarcia)
+  * Installs/Configures zNcrypt
+
+### [ldapknife](http://community.opscode.com/cookbooks/ldapknife) v0.0.8 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
+  * Installs ldapknife.pl to /usr/local/bin
+
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
+
+
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow)!
