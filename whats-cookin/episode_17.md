@@ -4,6 +4,9 @@
 * [Three languages every sysadmin should know](http://commandlion.com/2012/06/03/every-sysadmin-three-languages/)
 * [Chef interoperability with Windows Azure](http://www.opscode.com/press-releases/opscode-announces-interoperability-with-windows-azure/), see [knife-azure](https://github.com/opscode/knife-azure)
 * [jclouds-chef](https://github.com/jclouds/jclouds-chef) java and clojure interface the chef-server API
+* [Running IT like a Rock band](http://dlutzy.wordpress.com/2012/05/31/running-it-like-a-rock-band/) - [David Lutzy](http://twitter.com/dlutzy)
+* [Monitoring Sucking Just a Little Bit Less](http://blog.lusis.org/blog/2012/06/05/monitoring-sucking-just-a-little-bit-less/) - [@lusis](http://twitter.com/lusis)
+* [What is DevOps](http://radar.oreilly.com/2012/06/what-is-devops.html) - O'Reilly Radar article by [Mike Loukides](http://twitter.com/mikeloukides)
 
 ## Cookbook Updates
 
@@ -59,9 +62,17 @@ I'm amazed and thankful to report this release had 9 new committers contributing
 Site: http://fnichol.github.com/chef-rvm/
 The massive Changelog: https://github.com/fnichol/chef-rvm/blob/master/CHANGELOG.md
 
+### [chef-tasseo](https://github.com/danryan/chef-tasseo) - [Dan Ryan](https://github.com/danryan)
+* Tasseo is a lightweight, easily configurable, real-time dashboard for Graphite events.
 
+### [chef-zabbix-custom-checks](https://github.com/StephenKing/chef-zabbix-custom-checks) - v0.1.0 - [Steffen Gebert](https://github.com/StephenKing)
+* Collection of custom checks for the Zabbix monitoring software used in the Server Admin team of the TYPO3 project.
 
+### [chef-logstash](https://github.com/lusis/chef-logstash) - v0.1.0 - [@lusis](http://twitter.com/lusis)
+* This is the semi-official 'all-in-one' Logstash cookbook.
 
+### [logstash_handler](https://github.com/lusis/logstash_handler) - v0.0.1 - [@lusis](http://twitter.com/lusis)
+* A cookbook for a chef_handler that sends reports and exceptions to Logstash over a TCP input in native json_event format
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow)!
