@@ -32,7 +32,7 @@
 ### [tasseo](http://community.opscode.com/cookbooks/tasseo) v0.0.1 - [scriptfu](http://community.opscode.com/users/scriptfu)
 * Tasseo is a lightweight, easily configurable, real-time dashboard for Graphite events.
 
-* [rbenv_system_pkgs](http://fnichol.github.com/chef-rbenv_system_pkgs/) v0.1.0
+### [rbenv_system_pkgs](http://fnichol.github.com/chef-rbenv_system_pkgs/) v0.1.0 - [Fletcher Nichol](http://twitter.com/fnichol)
   * Installs pre-built rbenv Ruby version tarballs in a system install. It does this by subscribing to an rbenv post-init hook resource in the rbenv cookbook and extracting the tarball packages into the versions/ directory before rbenv tries to build any Ruby versions. With the directory pre-existing a source compile will not be initiated. This cookbook only supports rbenv installed system-wide because the install path is known and likely to not break (since the build target path and extraction path match).
   * The cookbook's README has instructions that you can follow to build your own system tarball packages. The cookbook currently includes tarballs for Ubuntu 10.04 through 12.04 on 32 and 64-bit covering some common Ruby versions.
 
