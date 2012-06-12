@@ -1,12 +1,12 @@
 ## In the News
 
-* [MVT:  Foodcritic and TravisCI](http://nathenharvey.com/blog/2012/05/29/mvt-foodcritic-and-travis-ci/)
-* [Three languages every sysadmin should know](http://commandlion.com/2012/06/03/every-sysadmin-three-languages/)
 * [Chef interoperability with Windows Azure](http://www.opscode.com/press-releases/opscode-announces-interoperability-with-windows-azure/), see [knife-azure](https://github.com/opscode/knife-azure)
-* [jclouds-chef](https://github.com/jclouds/jclouds-chef) java and clojure interface the chef-server API
-* [Running IT like a Rock band](http://dlutzy.wordpress.com/2012/05/31/running-it-like-a-rock-band/) - [David Lutzy](http://twitter.com/dlutzy)
 * [Monitoring Sucking Just a Little Bit Less](http://blog.lusis.org/blog/2012/06/05/monitoring-sucking-just-a-little-bit-less/) - [@lusis](http://twitter.com/lusis)
+* [MVT:  Foodcritic and TravisCI](http://nathenharvey.com/blog/2012/05/29/mvt-foodcritic-and-travis-ci/) - [Nathen Harvey](http://twitter.com/nathenharvey)
+* [Running IT like a Rock band](http://dlutzy.wordpress.com/2012/05/31/running-it-like-a-rock-band/) - [David Lutzy](http://twitter.com/dlutzy)
+* [Three languages every sysadmin should know](http://commandlion.com/2012/06/03/every-sysadmin-three-languages/) - [Joseph Kern](http://twitter.com/josephkern)
 * [What is DevOps](http://radar.oreilly.com/2012/06/what-is-devops.html) - O'Reilly Radar article by [Mike Loukides](http://twitter.com/mikeloukides)
+* [jclouds-chef](https://github.com/jclouds/jclouds-chef) java and clojure interface the chef-server API
 
 ## New Cookbooks
 
@@ -32,15 +32,10 @@
 ### [tasseo](http://community.opscode.com/cookbooks/tasseo) v0.0.1 - [scriptfu](http://community.opscode.com/users/scriptfu)
 * Tasseo is a lightweight, easily configurable, real-time dashboard for Graphite events.
 
-## rbenv_system_pkgs Initial Release (a.k.a. the I've-had-it-waiting-for-Ruby-to-compile-all-day-long edition)
+* [rbenv_system_pkgs](http://fnichol.github.com/chef-rbenv_system_pkgs/) v0.1.0
+  * Installs pre-built rbenv Ruby version tarballs in a system install. It does this by subscribing to an rbenv post-init hook resource in the rbenv cookbook and extracting the tarball packages into the versions/ directory before rbenv tries to build any Ruby versions. With the directory pre-existing a source compile will not be initiated. This cookbook only supports rbenv installed system-wide because the install path is known and likely to not break (since the build target path and extraction path match).
+  * The cookbook's README has instructions that you can follow to build your own system tarball packages. The cookbook currently includes tarballs for Ubuntu 10.04 through 12.04 on 32 and 64-bit covering some common Ruby versions.
 
-The basic idea:
-
-> Installs pre-built rbenv Ruby version tarballs in a system install. It does this by subscribing to an rbenv post-init hook resource in the rbenv cookbook and extracting the tarball packages into the versions/ directory before rbenv tries to build any Ruby versions. With the directory pre-existing a source compile will not be initiated. This cookbook only supports rbenv installed system-wide because the install path is known and likely to not break (since the build target path and extraction path match).
-
-The cookbook's README has instructions that you can follow to build your own system tarball packages. Currently I've only built tarballs for Ubuntu 10.04 through 12.04 on 32 and 64-bit covering some common Ruby versions.
-
-Site: http://fnichol.github.com/chef-rbenv_system_pkgs/
 
 ## Cookbook Updates
 
