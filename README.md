@@ -22,6 +22,10 @@ LIVE from #ChefConf
 Food Fight Shows
 =================
 
+* [Episode 17: Testing with Eric G. Wolfe & Fletcher Nichol](http://www.foodfightshow.org/2012/06/episode-17-testing-with-eric-g-wolfe.html)
+* [Episode 16: Chef Server with Kevin Smith & Seth Falcon](http://www.foodfightshow.org/2012/06/episode-16-chef-server-with-kevin-smith.html)
+* [Episode 15: How to Succeed in DevOps with Dave Zwieback](http://www.foodfightshow.org/2012/05/episode-15-how-to-succeed-in-devops.html)
+* [Episode 14: Live Post-Mortem with David Zwieback, John Allspaw, and Mike Rembetsy](http://www.foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html)
 * [Episode 13 - #ChefConf Recap](http://www.foodfightshow.org/2012/05/episode-13-chefconf-recap.html)
 * [11 - Episode 11: Etsy Examined - How the Best Do Their Business](http://www.foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html)
 * [10 - TESTALLTHETHINGS, Testing Infrastructure with Jim Hopp, Stephen Nelson-Smith, and Andrew Crump](http://www.foodfightshow.org/2012/04/episode-10-testallthethings-testing.html)
