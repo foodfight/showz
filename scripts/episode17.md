@@ -81,6 +81,6 @@ Not directly related to Chef, but if there's time maybe Fletcher can give a brie
   * [direnv](https://github.com/zimbatm/direnv) - [examples](https://github.com/fnichol/chef-bootstrap-repo)
 
 * Nathen
-  * [Stoplight](https://github.com/customink/stoplight)
+  * [Stoplight](http://technology.customink.com/blog/2012/06/12/introducing-stoplight-greenscreen-2-dot-0/)
   * [Test-driven Development for Chef Practitioners](http://www.youtube.com/watch?v=o2e0aZUAVGw)
   * [Episode 10: TESTALLTHETHINGS, Testing Infrastructure](http://www.foodfightshow.org/2012/04/episode-10-testallthethings-testing.html)
