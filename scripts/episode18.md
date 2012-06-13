@@ -6,6 +6,7 @@ Panel
 =====
 * Dan Gilmer, ancestry.com
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 
 Outline
 =======
@@ -49,3 +50,7 @@ application deployment?
 
 #### Picks
 
+* Bryan
+** [The Singularity is Near](http://en.wikipedia.org/wiki/The_Singularity_Is_Near)
+** [eshell](http://www.gnu.org/software/emacs/manual/html_mono/eshell.html) works nicely w/ tmux, tks to LordCope for introducing me to it
+  
