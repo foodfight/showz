@@ -46,11 +46,14 @@ application deployment?
 * Do you use ssh keys in windowsland? If not how do your users log on?
 * Do you use SSH on your windows machines?
 * What is the state of the community around Windows-related cookbooks?
+* How realistic is it that a given cookbook support both windows and linux? Is it even a good idea?
+* What do you have to do to make a cookbook support both windows and linux?
 
 
 #### Picks
 
 * Bryan
-** [The Singularity is Near](http://en.wikipedia.org/wiki/The_Singularity_Is_Near)
-** [eshell](http://www.gnu.org/software/emacs/manual/html_mono/eshell.html) works nicely w/ tmux, tks to LordCope for introducing me to it
+  * [The Singularity is Near](http://en.wikipedia.org/wiki/The_Singularity_Is_Near)
+  * [Stephen Eley](https://github.com/sfeley), founder of [escapepod](http://escapepod.org) and contributor to Cucumber-Chef
+
   
