@@ -71,6 +71,7 @@
 * [logster](http://community.opscode.com/cookbooks/logster) v0.0.3 - [shr3kst3r](http://community.opscode.com/users/shr3kst3r)
 * [cloudpassage](http://community.opscode.com/cookbooks/cloudpassage) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
 * [stoplight](http://community.opscode.com/cookbooks/stoplight) v0.1.4 - [sethvargo](http://community.opscode.com/users/sethvargo)
+  * Here's a [introductory blog post](http://technology.customink.com/blog/2012/06/12/introducing-stoplight-greenscreen-2-dot-0/)
 * [rsdns](http://community.opscode.com/cookbooks/rsdns) v0.0.4 - [evan4498](http://community.opscode.com/users/evan4498)
 * [raxmon-cli](http://community.opscode.com/cookbooks/raxmon-cli) v0.0.4 - [evan4498](http://community.opscode.com/users/evan4498)
 * [httplivestreamsegmenter](http://community.opscode.com/cookbooks/httplivestreamsegmenter) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
