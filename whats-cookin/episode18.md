@@ -12,3 +12,7 @@ Do you have cookbook news that you'd like to share or feedback on the show?  Ple
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow)!
 
 ### [minitest-handler](https://github.com/btm/minitest-handler-cookbook) v0.0.9 now has Windows support thanks to dpetzel
+
+### [pxe_dust v1.2.2](http://community.opscode.com/cookbooks/pxe_dust) Ubuntu 12.04, aka Precise Pangolin support
+* pxe_dust is for setting up automated pxe boot operating system installations, complete with the Chef client.
+* currently supports Ubuntu 10.04 and later, Debian 6.
