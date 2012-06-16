@@ -1,10 +1,12 @@
-Show Date:  TBD
+Show Date:  Thursday, June 21 15:00 EDT
 
-Windows Roundtable
+Monitoringsucks, a Status Update
 
 Panel
 =====
-* Dan Gilmer, ancestry.com
+* Patrick Debois
+* Lusis
+* MattRay
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 
@@ -20,34 +22,27 @@ Brought to you by...
 
 Who are you?  Where are you working?  How can people get in touch with you?
 
-### Windows
+### Topic: Monitoring Sucks
 
-* Why does your company use a primarily Windows stack?
-* Which versions Windows OS do you run? Win2k8? Win2k8 Server Core?
-* How well does Chef currently support Windows?
-* How receptive are windows admins to automation, esp. since
-historically it has been harder to automate Windows, due to being GUI-centric
-* How well does Ruby currently support Windows? Do parts of the Stdlib
- like FileUtils and Net::ssh, Net::*, work properly?
-* Most *nix folks look down on the Windows Operating
-System, perhaps unfairly. What are some good parts of the Windows OS that may
-be new and perhaps unknown to *nix people?
-* What is winRM?
-* Tell us about powershell. Is it as good as or better than the *nix
-shells? how well does it integrate with chef? What aout the upcoming
-script_resource?
-* What aspects of chef on Windows need the most improvement? What part
-can Chef work on? What does MS need to improve
-* What has been your experience teaching ruby to windows devs and sysadmins?
-* Does Windows have a package manager yet? Or any way to resolve
-package dependencies (.msi)?
-* Does using a windows stack add special considerations for
-application deployment?
-* Do you use ssh keys in windowsland? If not how do your users log on?
-* Do you use SSH on your windows machines?
-* What is the state of the community around Windows-related cookbooks?
-* How realistic is it that a given cookbook support both windows and linux? Is it even a good idea?
-* What do you have to do to make a cookbook support both windows and linux?
+* [Original blog post](http://blog.lusis.org/blog/2011/06/05/why-monitoring-sucks/)
+* Why does monitoring suck?
+* Lusis recently you wrote a [status update](http://blog.lusis.org/blog/2012/06/05/monitoring-sucking-just-a-little-bit-less/)
+* What's gotten better? what's coming?
+  * Presence-based Discovery
+  * Self-service & culture
+  * application health by default
+* What about crazy math stuff by moving averages and reservoir
+ sampling (Coda Hale)? 
+* what is happening in the [monitoringsucks github repo](https://github.com/monitoringsucks/tool-repos)?
+* Jim Hopp runs his integration tests along w/ regular chef runs, does
+that blur the line b/w monitoring and testing? should we use testing for monitoring?
+* What are u using for monitoring your infrastructure right now?
+* What are you excited about in this space?
+* What are the biggest challenges to making monitoring suck less?
+* What do you think of Boundary's monitoring service? Is it monitoring
+so hard a problem so we should just use Boundary instead?
+* Are there security risks in a self-service monitoring environment?
+
 
 
 #### Picks
@@ -57,3 +52,18 @@ application deployment?
   * [Stephen Eley](https://github.com/sfeley), founder of [escapepod](http://escapepod.org) and contributor to Cucumber-Chef
 
   
+
+CLOSE
+=====
+
+We are looking for guests for a Windows + chef show. If you are
+interested to talk about this, let us know.
+
+Please take the time to rate us on itunes and to send your cookbook
+news to info@foodfightshow.org
+
+Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
+
+Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
+
+Until next time, Keep it Hot!
