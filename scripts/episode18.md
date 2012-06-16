@@ -33,7 +33,10 @@ Who are you?  Where are you working?  How can people get in touch with you?
   * application health by default
 * What about crazy math stuff by moving averages and reservoir
  sampling (Coda Hale)? 
-* what is happening in the [monitoringsucks github repo](https://github.com/monitoringsucks/tool-repos)?
+* what is happening in the [monitoringsucks github
+* repo](https://github.com/monitoringsucks/tool-repos)? What tools in
+   * the tools-repo are you particularly intereted in?
+   * what metrics?
 * Jim Hopp runs his integration tests along w/ regular chef runs, does
 that blur the line b/w monitoring and testing? should we use testing for monitoring?
 * What are u using for monitoring your infrastructure right now?
