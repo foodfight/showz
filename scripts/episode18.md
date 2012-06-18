@@ -4,9 +4,9 @@ Monitoringsucks, a Status Update
 
 Panel
 =====
-* Patrick Debois
-* Lusis
-* MattRay
+* Patrick Debois [github](http://github.com/jedi4ever), [twitter](http://twitter.com/patrickdebois), irc: jedi4ever, [blog](http://www.jedi.be/blog/)
+* Lusis [github](http://github.com/lusis), [twitter](http://twitter.com/lusis), irc: lusis, [blog](http://blog.lusis.org)
+* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 
