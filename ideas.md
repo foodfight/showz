@@ -54,7 +54,8 @@ Chef in their PaaS
 * Illumos
 * Inside Sonian, talk w/ Pete Cheslock and Alex Porter how operations are run at Sonian
 * At home with Heroku, how heroku manages their ops, w/ Jason Dixon (obfuscurity) + ops manager?
-
+* Pete Fritchman petef, of logstash fame http://fetep.net/picc12/ his
+ presentation at piccl conf
 
 Delicacies
 ==========
