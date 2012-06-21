@@ -54,6 +54,19 @@ so hard a problem so we should just use Boundary instead?
   * [The Singularity is Near](http://en.wikipedia.org/wiki/The_Singularity_Is_Near)
   * [Stephen Eley](https://github.com/sfeley), founder of [escapepod](http://escapepod.org) and contributor to Cucumber-Chef
 
+
+nathen
+  - pager-duty
+  - chef-nagios cookbook
+  - 
+
+lusis 
+ - logstash cookbook
+ - continuum TV show
+
+patrick
+ - ci with puppet
+ - american roadtrip
   
 
 CLOSE
