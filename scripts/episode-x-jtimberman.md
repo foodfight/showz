@@ -13,3 +13,11 @@ Outline
 * ...content...
 * Close
 
+Topics
+=====
+
+* Where is training headed?
+* What process does Opscode use for developing Cookbooks?
+* Why are so many people obsessed with testing?
+
+
