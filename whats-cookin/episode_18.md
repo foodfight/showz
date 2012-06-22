@@ -2,6 +2,23 @@
 
 * [Chef Cuts](http://chefcuts.tumblr.com/) - Tips, Tricks and Short 'cuts' for Chef. [site](http://chefcuts.tumblr.com/), [twitter](http://twitter.com/chefcuts)
 
+* [Data center pros push systems automation limits with Chef](http://searchdatacenter.techtarget.com/news/2240158449/Data-center-pros-push-systems-automation-limits-with-Chef) - SearchDataCenter that talks about both Edmunds.com and Ancestry.com.  Edmunds made the jump to Chef after realizing the potential for disaster recovery and Ancestry for continuous deployment.
+
+* [Opscode Roadtrip!](http://www.opscode.com/blog/2012/06/14/summer-events/) Opscode is on the road this summer! If you plan on attending any of the following events, stop by the Opscode booth and get answers to your automation questions.
+  * Velocity
+  * Google I/O
+  * DevOps Days Mountain View
+  * VMWorld
+  * CloudOpen
+  * HPC on Wall St.
+  
+* New to Chef?  Just getting started?  Check out the [New One Day Introduction to Chef Workshops](http://www.opscode.com/blog/2012/06/14/new-one-day-introduction-to-chef-workshops-available/) from Opscode.  Opscode will be offering this class in Santa Clara, New York, Boston, Washington D.C., Seattle, and San Francisco
+
+* Attending Velocity?  Check-out the special [Chef Full Day Workshop on Thursday, June 28](http://www.opscode.com/blog/2012/06/14/attending-velocity-andor-devopsdays-weve-added-a-special-workshop-day-sign-up-now/).
+
+* [DevOps Prisoner's Dilemma](http://java.dzone.com/articles/devops-prisoner%E2%80%99s-dilemma) - Does development "rat out" operations?
+
+* Datadog and Chef [Ask your systems: "What's going on?"](http://www.miketheman.net/2011/11/28/ask-your-systems-whats-going-on/) a great post from Mike Fiedler about how got get your Chef runs reporting to datadog.
 
 ## Cookbook Updates
 
