@@ -31,8 +31,6 @@ Before we get to the show, let's jump in to "What's Cookin'" your source for all
 
 * [DevOps Prisoner's Dilemma](http://java.dzone.com/articles/devops-prisoner%E2%80%99s-dilemma) - Does development "rat out" operations?
 
-* Datadog and Chef [Ask your systems: "What's going on?"](http://www.miketheman.net/2011/11/28/ask-your-systems-whats-going-on/) a great post from Mike Fiedler about how got get your Chef runs reporting to datadog.
-
 ## Cookbook Updates
 
 ### [spice](https://github.com/danryan/spice) v1.0.0 - [danryan](https://github.com/danryan)
