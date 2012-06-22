@@ -66,20 +66,6 @@
 ### [locale](http://community.opscode.com/cookbooks/locale) v0.0.2 - [dje](http://community.opscode.com/users/dje)
   * Installs/Configures locale
 
-### [keystone](http://community.opscode.com/cookbooks/keystone) v0.0.1 - [mray](http://community.opscode.com/users/mray)
-  * The OpenStack Identity service Keystone.
-
-### [horizon](http://community.opscode.com/cookbooks/horizon) v0.0.1 - [mray](http://community.opscode.com/users/mray)
-  * The OpenStack Dashboard service Horizon.
-
-### [swift](http://community.opscode.com/cookbooks/swift) v0.0.1 - [mray](http://community.opscode.com/users/mray)
-  * The OpenStack Object Storage service Swift.
-
-### [glance](http://community.opscode.com/cookbooks/glance) v0.0.1 - [mray](http://community.opscode.com/users/mray)
-  * The OpenStack Image service Glance.
-
-### [nova](http://community.opscode.com/cookbooks/nova) v0.0.1 - [mray](http://community.opscode.com/users/mray)
-  * The OpenStack Compute service Nova.
  
 
 
