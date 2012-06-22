@@ -1,3 +1,16 @@
+Welcome to the Food Fight Show!
+
+I'm Bryan Berry @bryanwb on twitter
+
+and I'm Nathen Harvey @nathenharvey on twitter. 
+
+While you're on Twitter updating you followers, be sure to follow @foodfightshow!
+
+We've got a great show for you today talking about #monitoringsucks with @lusis and @patrickdebois.  
+
+Before we get to the show, let's jump in to "What's Cookin'" your source for all the latest Chef news and Cookbook updates!
+
+
 ## In the News
 
 * [Chef Cuts](http://chefcuts.tumblr.com/) - Tips, Tricks and Short 'cuts' for Chef. [site](http://chefcuts.tumblr.com/), [twitter](http://twitter.com/chefcuts)
@@ -93,4 +106,5 @@ Bryan, have you noticed the recent trend with adding TravisCI build status widge
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
-Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow)!
+
+Great show today talking about monitoring with Patrick Debois, Jon Vincent, and Matt Ray.  Let's get to the show!
