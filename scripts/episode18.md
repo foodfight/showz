@@ -13,14 +13,6 @@ Panel
 Outline
 =======
 
-### Introductions
-
-Brought to you by...
-
-#### Why don't you introduce yourselves.
-
-
-Who are you?  Where are you working?  How can people get in touch with you?
 
 ### Topic: Monitoring Sucks
 
@@ -32,11 +24,8 @@ Who are you?  Where are you working?  How can people get in touch with you?
   * Self-service & culture
   * application health by default
 * What about crazy math stuff by moving averages and reservoir
- sampling (Coda Hale)? 
-* what is happening in the [monitoringsucks github
-* repo](https://github.com/monitoringsucks/tool-repos)? What tools in
-   * the tools-repo are you particularly intereted in?
-   * what metrics?
+ sampling (Coda Hale)? [Coda Hale's Metrics library](https://github.com/codahale/metrics)
+* The [monitoringsucks github repo](https://github.com/monitoringsucks/tool-repos)
 * Jim Hopp runs his integration tests along w/ regular chef runs, does
 that blur the line b/w monitoring and testing? should we use testing for monitoring?
 * What are u using for monitoring your infrastructure right now?
@@ -47,26 +36,23 @@ so hard a problem so we should just use Boundary instead?
 * Are there security risks in a self-service monitoring environment?
 
 
-
 #### Picks
 
 * Bryan
   * [The Singularity is Near](http://en.wikipedia.org/wiki/The_Singularity_Is_Near)
   * [Stephen Eley](https://github.com/sfeley), founder of [escapepod](http://escapepod.org) and contributor to Cucumber-Chef
 
-
 nathen
-  - pager-duty
-  - chef-nagios cookbook
-  - 
+  - [pager-duty](http://pagerduty.com)
+  - [chef-nagios cookbook](https://github.com/opscode-cookbooks/nagios)
 
 lusis 
- - logstash cookbook
- - continuum TV show
+ - [logstash cookbook](https://github.com/lusis/chef-logstash)
+ - [continuum TV show](http://www.imdb.com/title/tt1954347/)
 
 patrick
- - ci with puppet
- - american roadtrip
+ - continuous integration with puppet
+ - the all-American roadtrip
   
 
 CLOSE
