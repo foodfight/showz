@@ -1,4 +1,4 @@
-Show Date:  Tuesday, 10 June 2012 17:00 (Rome), 11:00 (DC), 10:00 (Austin), 9:00 (Denver)
+Show Date:  Tuesday, 10 July 2012 17:00 (Rome), 11:00 (DC), 10:00 (Austin), 9:00 (Denver)
 
 Panel
 =====
@@ -8,8 +8,13 @@ Panel
 
 Outline
 =======
-* Introduction - work out order of people saying their names
-* What's Cookin'
+* Introduction & What's Cookin'
+  * Bryan
+  * Nathen
+* Introductions
+  * Lusis
+  * Matt
+  * Joshua
 * ...content...
 * Close
 
