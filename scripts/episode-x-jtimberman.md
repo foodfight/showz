@@ -45,6 +45,14 @@ Topic - Joshua Timberman, King of Sysadmins
   tickets and pull requests, what is the plan for scaling up support
   of opscode-cookbooks?
 
+Picks
+=====
+
+Bryan
+  - [logstash](http://logstash.net) and [logstash-cli](https://github.com/jedi4ever/logstash-cli)
+  - [Drowned Cities](http://www.amazon.com/The-Drowned-Cities-Paolo-Bacigalupi/dp/0316056243/ref=sr_1_1?s=books&ie=UTF8&qid=1340605354&sr=1-1&keywords=drowned+cities) by Paolo Bacigalupi
+  - [eshell](http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/)
+
 
 CLOSE
 =====
