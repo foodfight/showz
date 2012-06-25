@@ -4,6 +4,9 @@ Panel
 =====
 
 * Joshua Timberman [twitter](https://twitter.com/#!/jtimberman), [github](http://github.com/jtimberman)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Matt Ray [twitter](https://twitter.com/#!/mattray), [github](https://github.com/mattray)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline
