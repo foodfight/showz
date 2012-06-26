@@ -26,6 +26,11 @@ Topic - Joshua Timberman, King of Sysadmins
 
 * Where is training headed?
 * What process does Opscode use for developing Cookbooks?
+* What is the process for contributing for opscode-cookbooks? Please talk about how best to manage commit history
+  * git rebase off of head
+  * good commit messages
+  * how many changes should be in an individual commit
+  * talk about managing commit history
 * Why are so many people obsessed with testing?
 * What's happening with Kitchen (more testing)?
 * What are the biggest recent changes to the opscode-cookbooks repo?
@@ -56,10 +61,6 @@ Topic - Joshua Timberman, King of Sysadmins
 Picks
 =====
 
-Bryan
-  - [logstash](http://logstash.net) and [logstash-cli](https://github.com/jedi4ever/logstash-cli)
-  - [Drowned Cities](http://www.amazon.com/The-Drowned-Cities-Paolo-Bacigalupi/dp/0316056243/ref=sr_1_1?s=books&ie=UTF8&qid=1340605354&sr=1-1&keywords=drowned+cities) by Paolo Bacigalupi
-  - [eshell](http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/)
 
 
 CLOSE

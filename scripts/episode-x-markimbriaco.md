@@ -25,8 +25,34 @@ Outline
 Topics
 ==========================
 
+* What does LivingSocial do?
+* What is your current infrastructure? physical? cloud? a mix? Do you use virtualization?
+  * How many physical machines? How many VMs?
+  * Have your own datacenters or co-located?
+* Why develop your own PAAS?
+* what are the challenges to developing your own PAAS?
+* Why Openstack? Why not Cloudstack, CloudFoundry, or roll your own from scratch?
+* How mature is Openstack as a platform? Do Python and its notorious GIL present a scaling bottleneck?
+* Have you extended OpenStack with your own tooling?
+* Do you use an orchestration tool or framework like Zookeeper?
+* LivingSocial has hired many of the most prominent Ruby developers. Why?
+* You guys hired River Phoenix, the creator of Rubinius and Puma, do you use Rubinius and Puma at LS?
+* You also hired Tony Arcieri, do Celluloid and DCell play a significant role in your infrastructure?
+* How do you use Chef?
+  * Your cookbook workflow? Do devs use Chef? write cookbooks?
+  * Have you open-sourced any of your cookbooks?
+  * Do you use CI with your cookbooks?
+* How do you manage your application deployments? with capistrano or Chef?
+* Does LS have a distributed team for operations or is everyone co-located?
+* How do manage communication among the team? via IRC, group chat? Weekly, daily meetings?
+
 Picks
 =====
+
+Bryan
+  - [logstash](http://logstash.net) and [logstash-cli](https://github.com/jedi4ever/logstash-cli)
+  - [Drowned Cities](http://www.amazon.com/The-Drowned-Cities-Paolo-Bacigalupi/dp/0316056243/ref=sr_1_1?s=books&ie=UTF8&qid=1340605354&sr=1-1&keywords=drowned+cities) by Paolo Bacigalupi
+  - [eshell](http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/)
 
 
 CLOSE
