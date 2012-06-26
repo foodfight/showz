@@ -37,7 +37,7 @@ Topics
 * Do you use an orchestration tool or framework like Zookeeper?
 * How do you handle monitoring and metrics? Do you use tools like graphite and logstash, which were mentioned in our last show?
 * LivingSocial has hired many of the most prominent Ruby developers. Why?
-* You guys hired River Phoenix, the creator of Rubinius and Puma, do you use Rubinius and Puma at LS?
+* You guys hired Evan Phoenix, the creator of Rubinius and Puma, do you use Rubinius and Puma at LS?
 * You also hired Tony Arcieri, do Celluloid and DCell play a significant role in your infrastructure?
 * How do you use Chef?
   * Your cookbook workflow? Do devs use Chef? write cookbooks?
