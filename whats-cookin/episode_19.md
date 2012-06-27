@@ -7,6 +7,7 @@
 * [Puppet Feature #778](http://projects.puppetlabs.com/issues/7788) extending Puppet via rubygems
 * Opscode and Google I/O rumor, hopefully will be reality by show date
 * [Tips for Vagrant and Chef](http://techportal.inviqa.com/2012/06/26/tips-for-vagrant-and-chef/) from Nick Peirson at Inviqa
+* [Chef for Openstack](http://www.opscode.com/blog/2012/06/27/chef-for-openstack/)
 
 ## Cookbook Updates
 

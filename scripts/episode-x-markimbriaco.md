@@ -43,6 +43,8 @@ Topics
   * Your cookbook workflow? Do devs use Chef? write cookbooks?
   * Have you open-sourced any of your cookbooks?
   * Do you use CI with your cookbooks?
+  * What are your pain points using chef?
+  * what features would u most like to see in Chef?
 * How do you manage your application deployments? with capistrano or Chef?
 * Does LS have a distributed team for operations or is everyone co-located?
 * How do manage communication among the team? via IRC, group chat? Weekly, daily meetings?
