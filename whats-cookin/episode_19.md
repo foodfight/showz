@@ -6,7 +6,9 @@
 * [Etsy dashboard](https://github.com/etsy/dashboard) source code for Etsy's dashboards framework
 * [Puppet Feature #778](http://projects.puppetlabs.com/issues/7788) extending Puppet via rubygems
 *  [Chef + Google Compute Engine](http://googledevelopers.blogspot.it/2012/06/google-compute-engine-computing-without.html)
-Opscode named as partner for Google's new cloud computing platform
+[Opscode named as a
+* partner](http://www.opscode.com/press-releases/opscode-announces-integration-with-google-compute-engine/)
+for Google's new cloud computing platform, check out [knife-google](https://github.com/opscode/knife-google)
 * [Tips for Vagrant and Chef](http://techportal.inviqa.com/2012/06/26/tips-for-vagrant-and-chef/) from Nick Peirson at Inviqa
 * [Chef for Openstack](http://www.opscode.com/blog/2012/06/27/chef-for-openstack/)
 * [Project Glass](https://plus.google.com/111626127367496192147/posts) that is the most exciting thing I have seen in a long-time. What does Project Glass have to do w/ DevOps? Well, behind every mobile technology like this one are a ton of backend services. Who keeps these services running? We do. Operations teams. As people continue to integrate technology into their lives, we are going to have a lot more opportunities and a lot more responsibility.
