@@ -45,7 +45,16 @@ Topics
   * what features would u most like to see in Chef?
 * How do you manage your application deployments? with capistrano or Chef?
 * Does LS have a distributed team for operations or is everyone co-located?
+    * How is the team organized?
+* How many applications does it take to sell a daily deal?
+    * How are the engineering teams orgainzed?
 * How do manage communication among the team? via IRC, group chat? Weekly, daily meetings?
+* How do you interact with the development teams?
+    * production issues and troubleshooting
+    * new applications
+    * maintenance & upgrades of existing applications
+* I think you were at Velocity and DevOps Days last week.  Any themes or take-aways stand-out?
+* Is LivingSocail hiring? Ha!  of course you are ;)
 
 Picks
 =====
