@@ -27,8 +27,6 @@ Topics
 
 * What does LivingSocial do?
 * What is your current infrastructure? physical? cloud? a mix? Do you use virtualization?
-  * How many physical machines? How many VMs?
-  * Have your own datacenters or co-located?
 * Why develop your own PAAS?
 * what are the challenges to developing your own PAAS?
 * Why Openstack? Why not Cloudstack, CloudFoundry, or roll your own from scratch?
