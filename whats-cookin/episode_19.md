@@ -9,6 +9,7 @@
 * [Tips for Vagrant and Chef](http://techportal.inviqa.com/2012/06/26/tips-for-vagrant-and-chef/) from Nick Peirson at Inviqa
 * [Chef for Openstack](http://www.opscode.com/blog/2012/06/27/chef-for-openstack/)
 * [Project Glass](https://plus.google.com/111626127367496192147/posts) that is the most exciting thing I have seen in a long-time. What does Project Glass have to do w/ DevOps? Well, behind every mobile technology like this one are a ton of backend services. Who keeps these services running? We do. Operations teams. As people continue to integrate technology into their lives, we are going to have a lot more opportunities and a lot more responsibility.
+* [Full-stack Omnibus installers for Chef-client released](http://www.opscode.com/blog/2012/06/29/omnibus-chef-packaging/)
 
 ## Cookbook Updates
 
