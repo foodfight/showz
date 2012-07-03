@@ -63,6 +63,11 @@ Bryan
   - [Drowned Cities](http://www.amazon.com/The-Drowned-Cities-Paolo-Bacigalupi/dp/0316056243/ref=sr_1_1?s=books&ie=UTF8&qid=1340605354&sr=1-1&keywords=drowned+cities) by Paolo Bacigalupi
   - [eshell](http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/)
 
+Nathen
+  - [Changing Culture & Being a Force for Awesome](http://www.youtube.com/watch?v=OU8ihx3nT6I) - Jesse Robbins' Velocity talk
+  - [Blameless Postmortems](http://www.foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html)
+  - [Octopress](http://octopress.org/)
+
 
 CLOSE
 =====
