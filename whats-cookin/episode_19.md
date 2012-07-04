@@ -1,30 +1,28 @@
 ## In the News
 
-* Oh, no!  I have a node that hasn't checked in with Chef server for days!  Why didn't I know about that?  I'll have to start using [knife ohno](http://rubygems.org/gems/knife-ohno), a knife plugin and now a ruby gem from [Mandi Walls](http://twitter.com/lnxchk).  `gem install knife-ohno` then find any node whose last check-in is more than six hours old using `knife ohno 6`
+**N** * Oh, no!  I have a node that hasn't checked in with Chef server for days!  Why didn't I know about that?  I'll have to start using [knife ohno](http://rubygems.org/gems/knife-ohno), a knife plugin and now a ruby gem from [Mandi Walls](http://twitter.com/lnxchk).  `gem install knife-ohno` then find any node whose last check-in is more than six hours old using `knife ohno 6`
 
-* [Asgard: Web-based Cloud Management and Deployments](http://techblog.netflix.com/2012/06/asgard-web-based-cloud-management-and.html), open-sourced by Netflix, their custom Grails tool for deploying Netflix applications and infrastructure to Amazon. Bryan's opinion: Netflix doesn't use Puppet or Chef because they have essentially written their own CM framework in Groovy.
+**B** * [Asgard: Web-based Cloud Management and Deployments](http://techblog.netflix.com/2012/06/asgard-web-based-cloud-management-and.html), open-sourced by Netflix, their custom Grails tool for deploying Netflix applications and infrastructure to Amazon. Bryan's opinion: Netflix doesn't use Puppet or Chef because they have essentially written their own CM framework in Groovy.
 
-* Another interesting post from the Netflix Tech Blog was [Netflix Operations: Part I, Going Distributed](http://techblog.netflix.com/2012/06/netflix-operations-part-i-going.html).  This article talks about how they've moved from centralized deployment and operations team to an organization where there responsibilities are distributed throughout the development organization. 
+**N** * Another interesting post from the Netflix Tech Blog was [Netflix Operations: Part I, Going Distributed](http://techblog.netflix.com/2012/06/netflix-operations-part-i-going.html).  This article talks about how they've moved from centralized deployment and operations team to an organization where there responsibilities are distributed throughout the development organization. 
 
-* [Berkshelf](http://berkshelf.com/) tool for managing cookbook or an application's cookbook dependencies, from Jamie Winsor and company at RiotGames. Looks quite similar to librarian-chef.
+**B** * [Berkshelf](http://berkshelf.com/) tool for managing cookbook or an application's cookbook dependencies, from Jamie Winsor and company at RiotGames. Looks quite similar to librarian-chef.
 
-* [Setting up logstash+elasticsearch using Chef and Berkshelf](http://devopsanywhere.blogspot.it/2012/07/stash-those-logs-set-up-logstash.html)
+**N** * [Setting up logstash+elasticsearch using Chef and Berkshelf](http://devopsanywhere.blogspot.it/2012/07/stash-those-logs-set-up-logstash.html)
 
-* [Etsy dashboard](https://github.com/etsy/dashboard) source code for Etsy's dashboards framework
+**B** * [Etsy dashboard](https://github.com/etsy/dashboard) source code for Etsy's dashboards framework
 
-* [Puppet Feature #778](http://projects.puppetlabs.com/issues/7788) extending Puppet via rubygems
+**N** *  Velocity, DevOps Days, and Google I/O.  Last week was a great conference week for anyone in our community!  [Chef + Google Compute Engine](http://googledevelopers.blogspot.it/2012/06/google-compute-engine-computing-without.html) [Opscode named as a partner](http://www.opscode.com/press-releases/opscode-announces-integration-with-google-compute-engine/)for Google's new cloud computing platform, check out [knife-google](https://github.com/opscode/knife-google)
 
-*  [Chef + Google Compute Engine](http://googledevelopers.blogspot.it/2012/06/google-compute-engine-computing-without.html) [Opscode named as a partner](http://www.opscode.com/press-releases/opscode-announces-integration-with-google-compute-engine/)for Google's new cloud computing platform, check out [knife-google](https://github.com/opscode/knife-google)
+**B** * [Puppet Feature #778](http://projects.puppetlabs.com/issues/7788) extending Puppet via rubygems
 
-* [Tips for Vagrant and Chef](http://techportal.inviqa.com/2012/06/26/tips-for-vagrant-and-chef/) from Nick Peirson at Inviqa.  Keep Your Base Boxes Up To Date, Vagrantfile - not just static configuration!, knife_ec2 - Not the Sharpest Tool in the Box, Does Your Source Control Match Your Deployed Recipes?
+**N** * [Tips for Vagrant and Chef](http://techportal.inviqa.com/2012/06/26/tips-for-vagrant-and-chef/) from Nick Peirson at Inviqa.  Keep Your Base Boxes Up To Date, Vagrantfile - not just static configuration!, knife_ec2 - Not the Sharpest Tool in the Box, Does Your Source Control Match Your Deployed Recipes?
 
-* An interesting tool that Nick mentioned in the blog post is [Health inspector](http://bmarini.github.com/health_inspector/).  This is a gem you can install and run to see if your chef repo is in sync with your chef server.
+**N** * An interesting tool that Nick mentioned in the blog post is [Health inspector](http://bmarini.github.com/health_inspector/).  This is a gem you can install and run to see if your chef repo is in sync with your chef server.
 
-* [Project Glass](https://plus.google.com/111626127367496192147/posts) that is the most exciting thing I have seen in a long-time. What does Project Glass have to do w/ DevOps? Well, behind every mobile technology like this one are a ton of backend services. Who keeps these services running? We do. Operations teams. As people continue to integrate technology into their lives, we are going to have a lot more opportunities and a lot more responsibility.
+**B** * [Project Glass](https://plus.google.com/111626127367496192147/posts) that is the most exciting thing I have seen in a long-time. What does Project Glass have to do w/ DevOps? Well, behind every mobile technology like this one are a ton of backend services. Who keeps these services running? We do. Operations teams. As people continue to integrate technology into their lives, we are going to have a lot more opportunities and a lot more responsibility.
 
-* [Full-stack Omnibus installers for Chef-client released](http://www.opscode.com/blog/2012/06/29/omnibus-chef-packaging/)
-
-* There were some pretty significant issues with the Internet this past week, too.  First was a massive thunderstorm system that hit the mid-Atlantic region of the US.  This caused service interruptions for some Amazon customers.  Amazon has posted a  [Summary of the AWS Service Event in the US East Region](http://aws.amazon.com/message/67457/), check the show notes for details.  Then, on Saturday, the international time keepers gave everyone an extra second. I live in Annapolis, Maryland and lost power after Friday's storm.  My home was without power for about 71 hours and one second.
+**N** * There were some pretty significant issues with the Internet this past week, too.  First was a massive thunderstorm system that hit the mid-Atlantic region of the US.  This caused service interruptions for some Amazon customers.  Amazon has posted a  [Summary of the AWS Service Event in the US East Region](http://aws.amazon.com/message/67457/), check the show notes for details.  Then, on Saturday, the international time keepers gave everyone an extra second. I live in Annapolis, Maryland and lost power after Friday's storm.  My home was without power for about 71 hours and one second.
 
 
 ## Cookbook News
