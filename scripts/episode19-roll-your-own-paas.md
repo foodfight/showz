@@ -6,7 +6,6 @@ Panel
 * Mark Imbriaco [github](https://github.com/imbriaco), [twitter](https://twitter.com/#!/markimbriaco/)
 * Alex Howells [github](https://github.com/nixgeek), [twitter](https://twitter.com/#!/nixgeek)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Matt Ray [twitter](https://twitter.com/#!/mattray), [github](https://github.com/mattray)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -27,8 +26,6 @@ Topics
 
 * What does LivingSocial do?
 * What is your current infrastructure? physical? cloud? a mix? Do you use virtualization?
-  * How many physical machines? How many VMs?
-  * Have your own datacenters or co-located?
 * Why develop your own PAAS?
 * what are the challenges to developing your own PAAS?
 * Why Openstack? Why not Cloudstack, CloudFoundry, or roll your own from scratch?
@@ -47,7 +44,16 @@ Topics
   * what features would u most like to see in Chef?
 * How do you manage your application deployments? with capistrano or Chef?
 * Does LS have a distributed team for operations or is everyone co-located?
+    * How is the team organized?
+* How many applications does it take to sell a daily deal?
+    * How are the engineering teams orgainzed?
 * How do manage communication among the team? via IRC, group chat? Weekly, daily meetings?
+* How do you interact with the development teams?
+    * production issues and troubleshooting
+    * new applications
+    * maintenance & upgrades of existing applications
+* I think you were at Velocity and DevOps Days last week.  Any themes or take-aways stand-out?
+* Is LivingSocail hiring? Ha!  of course you are ;)
 
 Picks
 =====
@@ -56,6 +62,11 @@ Bryan
   - [logstash](http://logstash.net) and [logstash-cli](https://github.com/jedi4ever/logstash-cli)
   - [Drowned Cities](http://www.amazon.com/The-Drowned-Cities-Paolo-Bacigalupi/dp/0316056243/ref=sr_1_1?s=books&ie=UTF8&qid=1340605354&sr=1-1&keywords=drowned+cities) by Paolo Bacigalupi
   - [eshell](http://www.masteringemacs.org/articles/2010/12/13/complete-guide-mastering-eshell/)
+
+Nathen
+  - [Changing Culture & Being a Force for Awesome](http://www.youtube.com/watch?v=OU8ihx3nT6I) - Jesse Robbins' Velocity talk
+  - [Blameless Postmortems](http://www.foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html)
+  - [Octopress](http://octopress.org/)
 
 
 CLOSE
