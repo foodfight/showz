@@ -17,8 +17,9 @@ for Google's new cloud computing platform, check out [knife-google](https://gith
 
 ## Cookbook Updates
 ## New Cookbooks
+## New Cookbooks
 
-*N* This week we've got a few new cookbooks to cover.  The first are from first-time contributors to the community site!  Martha Greenberg has published two cookbooks for use with Solaris:
+**N** This week we've got a few new cookbooks to cover.  The first are from first-time contributors to the community site!  Martha Greenberg has published two cookbooks for use with Solaris:
 
 ### [pkgutil](http://community.opscode.com/cookbooks/pkgutil) v0.0.2 - [marthag](http://community.opscode.com/users/marthag) Martha Greenberg
   * Lightweight resource and provider to manage pkgutil packages for Solaris.  It will install, remove, or upgrade packages using `pkgutil`
@@ -26,16 +27,16 @@ for Google's new cloud computing platform, check out [knife-google](https://gith
 ### [zone](http://community.opscode.com/cookbooks/zone) v0.0.3 - [marthag](http://community.opscode.com/users/marthag)
   * Installs/Configures Solaris zones
   
-*B* Another first-time contributor this week is David Joos.  He's released:
+**B** Another first-time contributor this week is David Joos.  He's released:
 
 ### [cloudfuse](http://community.opscode.com/cookbooks/cloudfuse) v0.0.1 - [djoos](http://community.opscode.com/users/djoos)  David Joos
   * Installs/Configures CloudFuse which can be used to mount Rackspace Cloud Files
 
-*B* Hey, Nathen, do you find ever find yourself needing to build debian packages?  
+**B** Hey, Nathen, do you find ever find yourself needing to build debian packages?  
 
-*N* Yes, from time-to-time I do.  I typically use [FPM](https://github.com/jordansissel/fpm/) to build [Ruby packages](https://gist.github.com/2634212).
+**N** Yes, from time-to-time I do.  I typically use [FPM](https://github.com/jordansissel/fpm/) to build [Ruby packages](https://gist.github.com/2634212).
 
-*B* Oh yeah, FPM is great.  Everyone should give Jordan Sissel a hug for that one!  Of course, FPM isn't the only way to build packages.  This week, Maciej Pasternacki brings us two cookbooks that are for building and managing debian packages:
+**B** Oh yeah, FPM is great.  Everyone should give Jordan Sissel a hug for that one!  Of course, FPM isn't the only way to build packages.  This week, Maciej Pasternacki brings us two cookbooks that are for building and managing debian packages:
 
 ### [freight](http://community.opscode.com/cookbooks/freight) v0.1.0 - [mpasternacki](http://community.opscode.com/users/mpasternacki) 
   * This cookbook installs Freight, a modern take on the Debian archive.
@@ -43,20 +44,20 @@ for Google's new cloud computing platform, check out [knife-google](https://gith
 ### [freightyard](http://community.opscode.com/cookbooks/freightyard) v0.1.0 - [mpasternacki](http://community.opscode.com/users/mpasternacki)
   * Configures a builder account for building and hosting deb packages with Freight and Freightyard.
 
-*N* Next-up in our list of new cookbooks:
+**N** Next-up in our list of new cookbooks:
 
 ### [interfaces](http://community.opscode.com/cookbooks/interfaces) v0.0.1 - [captspify](http://community.opscode.com/users/captspify)  Kyel Woodard
   * Installs/Configures the interfaces file using nslookup
   * This is similar to Kyel's [netcfg cookbook](http://community.opscode.com/cookbooks/netcfg) but this one applies the IP to the default Debian Interfaces file rather than using netcfg. 
 
-*B* Our last new cookbook for this week is avahi-daemon:
+**B** Our last new cookbook for this week is avahi-daemon:
 
 ### [avahi-daemon](http://community.opscode.com/cookbooks/avahi-daemon) v0.0.10 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
     * Installs/Configures avahi-daemon 
 
 
 ## Updated Cookbooks
-*N* Lots of cookbooks were updated this week, too.  I'll run down the list of them, be sure to check the show notes for links:
+**N** Lots of cookbooks were updated this week, too.  I'll run down the list of them, be sure to check the show notes for links:
 
 ### [httplivestreamsegmenter](http://community.opscode.com/cookbooks/httplivestreamsegmenter) v0.0.4 - [devesc](http://community.opscode.com/users/devesc)
   * Installs/Configures httplivestreamsegmenter
