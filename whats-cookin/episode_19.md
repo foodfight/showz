@@ -15,9 +15,7 @@ for Google's new cloud computing platform, check out [knife-google](https://gith
 * [Project Glass](https://plus.google.com/111626127367496192147/posts) that is the most exciting thing I have seen in a long-time. What does Project Glass have to do w/ DevOps? Well, behind every mobile technology like this one are a ton of backend services. Who keeps these services running? We do. Operations teams. As people continue to integrate technology into their lives, we are going to have a lot more opportunities and a lot more responsibility.
 * [Full-stack Omnibus installers for Chef-client released](http://www.opscode.com/blog/2012/06/29/omnibus-chef-packaging/)
 
-## Cookbook Updates
-## New Cookbooks
-## New Cookbooks
+## Cookbook News
 
 **N** This week we've got a few new cookbooks to cover.  The first are from first-time contributors to the community site!  Martha Greenberg has published two cookbooks for use with Solaris:
 
@@ -53,7 +51,7 @@ for Google's new cloud computing platform, check out [knife-google](https://gith
 **B** Our last new cookbook for this week is avahi-daemon:
 
 ### [avahi-daemon](http://community.opscode.com/cookbooks/avahi-daemon) v0.0.10 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-    * Installs/Configures avahi-daemon 
+  * Installs/Configures avahi-daemon 
 
 
 ## Updated Cookbooks
@@ -100,4 +98,4 @@ for Google's new cloud computing platform, check out [knife-google](https://gith
 
 Remember, if you have cookbook news, please send it to us at info@foodfightshow.com or get in touch with us on twitter @foodfightshow.
 
-We've got a great Independence Day show for you this weeks.  Free yourself from the bonds of your PaaS provider by rolling your own PaaS.  A fun talk with Mark Imbriaco and Alex Howells from LivingSocial!
+We've got a great Independence Day show for you this week.  Free yourself from the bonds of your PaaS provider by rolling your own PaaS.  A fun talk with Mark Imbriaco and Alex Howells from LivingSocial!
