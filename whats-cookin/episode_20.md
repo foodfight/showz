@@ -1,6 +1,7 @@
 ## In the News
 
 * Jon Cowie's presentation at Velocity 2012, [Michelin Starred Cooking with Chef](http://www.slideshare.net/jonlives/michelin-starred-cooking-with-chef)
+* [Visual guide to Chef](http://www.mynameiskate.com/visual-guide-to-chef/) from Kate Leroux
 
 ## Cookbook Updates
 
