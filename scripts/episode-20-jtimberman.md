@@ -107,10 +107,15 @@ CLOSE
 Joshua, thanks for coming on the show!  How can people get in touch with 
 you?
 
+We've got a few other guests already lined up including 
+[Jason Dixon](http://twitter.com/obfuscurity) and 
+[Jesse Robbins](http://twitter.com/jesserobbins).  We're looking for 
+questions and participation from our listeners for these shows.  Please
+watch our twitter account, [@foodfightshow](http://twitter.com/foodfightshow), 
+for updates and more information.
+
 Please take the time to rate us on itunes and to send your cookbook
 news to info@foodfightshow.org
-
-Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
 
 Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
 
