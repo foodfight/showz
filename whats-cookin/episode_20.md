@@ -2,9 +2,25 @@
 
 * Jon Cowie's presentation at Velocity 2012, [Michelin Starred Cooking with Chef](http://www.slideshare.net/jonlives/michelin-starred-cooking-with-chef)
 * [Visual guide to Chef](http://www.mynameiskate.com/visual-guide-to-chef/) from Kate Leroux
+* [git_to_chef](https://github.com/cjs226/git_to_chef) will compare the 
+  cookbooks in Git to those in a Chef Environment If there are new and/or
+  updated cookbooks in Git, it'll either log it or upload/freeze the 
+  affected cookbooks, update the stated environment, upload databags, 
+  upload roles then send an email notification.
+* [Knife::Server](http://fnichol.github.com/knife-server/) - An Opscode 
+  Chef knife plugin to manage Chef Servers.  Bootstrap a new Chef Server
+  on Amazon's EC2 or a standalone server. Backup and restore your Chef 
+  Server or Hosted Chef's node, role, data bag, and environment JSON data.
+* [DevOpsDays Delhi](http://www.devopsdays.org/events/2012-india/registration/) - July 21 & 22
+* [MVT:  knife test with Travis CI](http://nathenharvey.com/blog/2012/07/06/mvt-knife-test-and-travisci/)
+* Opscode training - use discount code **REDACTED, listen to get the code** to save 10% on sessions.
+* [Food Fight Show](http://foodfightshow.org) website.  You can now support us using Flattr, the microdonation platform.
+
 
 ## Cookbook Updates
 
+
+## Closing
 
 You may have noticed our site has a new look! We have migrated from Blogger to Github Pages using the Octopress framework.
 
