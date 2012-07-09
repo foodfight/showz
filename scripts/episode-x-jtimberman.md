@@ -18,8 +18,9 @@ Outline
   * Lusis
   * Matt
   * Joshua
-* ...content...
-* Close
+* [Content](#topic---joshua-timberman-king-of-sysadmins)
+* [Picks](#picks)
+*[Close](#close)
 
 Topic - Joshua Timberman, King of Sysadmins
 ==========================
@@ -54,7 +55,12 @@ Topic - Joshua Timberman, King of Sysadmins
   * Does Opscode review the cookbooks that are published?
 
 ### Testing
+* You recently published a gist with some basic foodcritic integration
+  with knife cookbook test
 * Why are so many people obsessed with testing?
+  * Is this all just the "theatre of testing"?
+* Does it really make sense to automate cookbook testing?
+  * At what level or stage? pre-converge, pseudo-converge, post-converge?
 * What's happening with Kitchen (more testing)?
 
 ### jtimberman-specific
@@ -89,6 +95,9 @@ Picks
 
 CLOSE
 =====
+
+Joshua, thanks for coming on the show!  How can people get in touch with 
+you?
 
 Please take the time to rate us on itunes and to send your cookbook
 news to info@foodfightshow.org
