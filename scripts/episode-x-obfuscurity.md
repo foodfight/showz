@@ -13,9 +13,11 @@ Outline / Questions
 -------------------
 
 * What kinds of monitoring are there?
-  * basic os stuff, cpu, disk
-  * application-level, arbitrary or computed (requests/s)
+  * basic os stuff, cpu, disk, memory, network
+  * application-level, transactional, arbitrary or computed (requests/s)
   * alerting and visualization
+  * real-time vs historical trending
+  * business intelligence (not sure if we want to address this)
 * What tools are available and where should people start?
   * Should I start w/ Nagios or go straight to Sensu?
   * visualization
@@ -35,6 +37,8 @@ Picks<a name="picks"></a>
 #### lusis  
 
 #### Nathen  
+
+#### Jason 
 
 
 CLOSE
