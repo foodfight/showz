@@ -99,7 +99,10 @@ Topic - Joshua Timberman, King of Sysadmins
 Picks
 =====
 
-
+Bryan
+* haproxy - I do all of my http routing w/ it
+* Bon Iver - beautiful music but really depressing
+* anti-pick - Launchpad, it sucks
 
 CLOSE
 =====
