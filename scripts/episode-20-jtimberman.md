@@ -92,6 +92,8 @@ Topic - Joshua Timberman, King of Sysadmins
 * What do you think about next-gen cm? What about actively asserting system state
   using inotify, dtrace or systemtap?
 
+* What process will there be in the short term to handle abandoned cookbooks on the community site?
+
 ### Training
 * What are the biggest challenges faced by people new to Chef?
 * Where is training headed?
