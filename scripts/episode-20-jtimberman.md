@@ -78,6 +78,14 @@ Topic - Joshua Timberman, King of Sysadmins
 * What is your favorite linux distro and what is your default one?
 * What sucks about linux? what rocks about linux?
 * What are some new technologies/tools that are excited to play with?
+* What is the release process for opscode-managed cookbooks? If a
+  commit I make is accepted, how soon can I expect the cookbook to be
+  updated?
+* Do you have any recommendations for managing local forked verisions
+  of cookbooks in a way that will make it easy to integrate upstream
+  changes with my local changes (assuming that the upstream changes
+  include my local changes -- i.e. that a new version is released
+  with my changes included)?
 
 * What resources are missing from the available defaults in the Chef
   DSL?
