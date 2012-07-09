@@ -1,4 +1,7 @@
-Show Date:  Tuesday, 11 July 2012 17:00 Rome, 11:00 EDT
+Changing Culture & Being a Force for Awesome
+============================================
+
+Show Date:  Tuesday, 19 July 2012 20:00 Rome, 14:00 EDT, 11:00 PDT
 
 Panel<a name="panel"></a>
 -----
