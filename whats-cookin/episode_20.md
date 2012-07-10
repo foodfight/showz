@@ -32,6 +32,7 @@ In the News<a name="news"></a>
 **B** * [DevOpsDays Delhi](http://www.devopsdays.org/events/2012-india/registration/) - July 21 & 22
 
 **N** * chefspec and rspec-chef are great tools for unit-testing your chef cookbooks, but it's often cumbersome to mock out all your node's ohai data. Even a clean operating system yields a few thousand lines of ohai data, so it's easy to quickly pollute your tests with more mock and less test. This not only increases the time required to write tests, but it's not extensible and isn't sustainable across large projects. That's why [Seth Vargo](hhttp://twitter.com/sethvargo) at [CustomInk](http://www.customink.com) cooked up [fauxhai](https://github.com/customink/fauxhai) - a community supported gem for easily mocking ohai data. 
+
     * command line tool for generating and contributing fauxhai data
     * easily override any attributes
     * specify default versions
@@ -63,7 +64,7 @@ Tasks such as updating tickets when build artifacts have been generated, self-ge
 **B** * [zpool](http://community.opscode.com/cookbooks/zpool) v0.0.1 - [marthag](http://community.opscode.com/users/marthag)
 Lightweight resource and provider to create or destroy simple zpools in Solaris zpools.
 
-**N*  * [zfs](http://community.opscode.com/cookbooks/zfs) v0.0.2 - [marthag](http://community.opscode.com/users/marthag)
+**N**  * [zfs](http://community.opscode.com/cookbooks/zfs) v0.0.2 - [marthag](http://community.opscode.com/users/marthag)
 Lightweight resource and provider to manage Solaris zfs file systems. Currently, only a limited sub-set of options are supported.
 
 **B** * [emailer](http://community.opscode.com/cookbooks/emailer) v1.0.1 - [cixelsyd](http://community.opscode.com/users/cixelsyd) (steven c)
