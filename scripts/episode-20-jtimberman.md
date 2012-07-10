@@ -86,18 +86,6 @@ When it comes to cookbook collaboration there are a number of choices:  Opscode 
       cookbooks on the community site?
   * Does Opscode review the cookbooks that are published?
 
-### Testing
-* You recently published a gist with some basic foodcritic integration
-  with knife cookbook test
-
-* Why are so many people obsessed with testing?
-  * Is this all just the "theatre of testing"?
-
-* Does it really make sense to automate cookbook testing?
-  * At what level or stage? pre-converge, pseudo-converge, post-converge?
-
-* What's happening with Kitchen (more testing)?
-
 ### Knife, Shef, and Ohai
 
 Knife, Shef, and Ohai are powerful tools that are easy to take for granted or overlook completely.
@@ -109,6 +97,18 @@ Knife, Shef, and Ohai are powerful tools that are easy to take for granted or ov
   * knife role from file
 * How did Shef get its name?
 * Do you use Shef in your workflow?
+
+### Testing
+* You recently published a gist with some basic foodcritic integration
+  with knife cookbook test
+
+* Why are so many people obsessed with testing?
+  * Is this all just the "theatre of testing"?
+
+* Does it really make sense to automate cookbook testing?
+  * At what level or stage? pre-converge, pseudo-converge, post-converge?
+
+* What's happening with Kitchen (more testing)?
 
 ### Training
 * What are the biggest challenges faced by people new to Chef?
