@@ -20,7 +20,7 @@ Outline
   * Joshua
 * [Content](#topic---joshua-timberman-king-of-sysadmins)
 * [Picks](#picks)
-*[Close](#close)
+* [Close](#close)
 
 Topic - Joshua Timberman, King of Sysadmins
 ==========================
