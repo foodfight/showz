@@ -1,7 +1,19 @@
+Show Date:  Thursday August 1st, 18:00 (Rome) 12:00 Alabama 09:00 LA
+
+Panel<a name="panel"></a>
+-----
+
+* Jamie Winsor
+* Michael Ivey
+* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
-Outline
--------
+Outline/Questions
+-----------------
+
 
 * What is Riot Games? What is the architecture of their applications?
   where are servers hosted? Why do u need Chef? Do you open-source
@@ -34,3 +46,31 @@ Outline
 * What features would u most like to see in Chef?
 * Do you use anything to handle server orchestration? anything in
   addition to knife or on top of it?
+
+
+
+Picks<a name="picks"></a>
+-----
+
+#### Bryan  
+
+#### lusis  
+
+#### Nathen  
+
+
+
+CLOSE
+-----
+
+Please take the time to rate us on itunes and to send your cookbook
+news to info@foodfightshow.org
+
+Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
+
+Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
+
+
+
+Download
+--------
