@@ -45,7 +45,10 @@ In the News<a name="news"></a>
 
 **B** * Opscode training - use discount code **REDACTED, listen to get the code** to save 10% on sessions.
 
+
 **N** * [Food Fight Show](http://foodfightshow.org) website.  You can now support us using Flattr, the microdonation platform.
+
+**N** * [Evolving towards cookbook reusability slides](http://realityforge.org/presentations/cookbook-reusability/#1)
 
 
 Cookbook News<a name="cookbooks"></a>
@@ -85,6 +88,9 @@ Installs/Configures Mail gems and provides library for quick email messages from
 * [pkgutil](http://community.opscode.com/cookbooks/pkgutil) v0.0.3 - [marthag](http://community.opscode.com/users/marthag)
 Manages Solaris pkgutil packages
 * [helios](http://community.opscode.com/cookbooks/helios) v1.0.1 - [cixelsyd](http://community.opscode.com/users/cixelsyd)
+* [logstash](https://github.com/lusis/chef-logstash) v0.2.1 - [lusis](https://github.com/lusis)
+* [elasticsearch](https://github.com/karmi/cookbook-elasticsearch)
+v0.0.2 - [Karel Minarik](https://github.com/karmi)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
