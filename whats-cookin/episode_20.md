@@ -1,4 +1,18 @@
-## In the News
+Introduction
+------------
+
+Hello, and welcome to episode XX of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
+
+I'm Nathen Harvey, @n-a-t-h-e-n-h-a-r-v-e-y on Twitter.
+
+And, I'm Bryan Berry, @b-r-y-a-n-w-b on Twitter.
+
+While you're over on Twitter, be sure to follow @foodfightshow!
+
+We'll start this episode with "What's Cookin'" - your source for Chef and Cookbook news.
+
+In the News<a name="news"></a>
+-----------
 
 * Jon Cowie's presentation at Velocity 2012, [Michelin Starred Cooking with Chef](http://www.slideshare.net/jonlives/michelin-starred-cooking-with-chef)
 * [Visual guide to Chef](http://www.mynameiskate.com/visual-guide-to-chef/) from Kate Leroux
@@ -17,10 +31,18 @@
 * [Food Fight Show](http://foodfightshow.org) website.  You can now support us using Flattr, the microdonation platform.
 
 
-## Cookbook Updates
+ookbook News<a name="cookbooks"></a>
+-------------
+### New Cookbooks
 
+### Updated Cookbooks
 
-## Closing
+Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
+
+Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
+
+On to the show...
+----------------
 
 You may have noticed our site has a new look! We have migrated from Blogger to Github Pages using the Octopress framework.
 
@@ -28,6 +50,4 @@ Thanks to Simon Griffee for migrating our site from Blogger to Octopress. Simon 
 developer](http://hypertexthero.com/about/) and [photographer](http://simongriffee.com). [Contact](http://hypertexthero.com/contact/) him at
 simon@hypertexthero.com
 
-Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
-
-Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
+Let's get on to the show:  An interview with Opscode's Joshua Timberman...
