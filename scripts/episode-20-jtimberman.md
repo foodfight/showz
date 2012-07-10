@@ -156,6 +156,10 @@ Nathen
 * music pick - [Neko Case](http://www.nekocase.com/)
 * beer pick - [Fordham Copperhead Ale](http://fordhambrewing.com/our-brews/)
 
+Matt
+* Mythical Man Month - https://en.wikipedia.org/wiki/The_Mythical_Man-Month
+* Tobolowsky Files - https://stephentobolowsky.wordpress.com/the-tobolowsky-files/
+
 CLOSE
 =====
 
