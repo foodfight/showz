@@ -38,11 +38,14 @@ In the News<a name="news"></a>
     * specify default versions
     * fetch remote server data (coming soon!)
 
+
 **B** * [MVT:  knife test with Travis CI](http://nathenharvey.com/blog/2012/07/06/mvt-knife-test-and-travisci/)
 
-**N** * Opscode training - use discount code **REDACTED, listen to get the code** to save 10% on sessions.
+**N** * [What Production Means](http://blog.lusis.org/blog/2012/07/09/what-production-means/) - recent blog post by [@lusis](http://twitter.com//lusis)
 
-**B** * [Food Fight Show](http://foodfightshow.org) website.  You can now support us using Flattr, the microdonation platform.
+**B** * Opscode training - use discount code **REDACTED, listen to get the code** to save 10% on sessions.
+
+**N** * [Food Fight Show](http://foodfightshow.org) website.  You can now support us using Flattr, the microdonation platform.
 
 
 Cookbook News<a name="cookbooks"></a>
