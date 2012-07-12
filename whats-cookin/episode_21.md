@@ -13,7 +13,8 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 
 In the News<a name="news"></a>
 -----------
-* [vim replace string for FC001](http://bit.ly/M4BbgH)
+* [On Resilience in Automated Systems](http://www.paperplanes.de/2012/7/10/on-resilience-in-automated-systems-failures-and-human-factor.html) by Matthias Meyer - would be a great topic for the show
+
 
 
 Cookbook News<a name="cookbooks"></a>
