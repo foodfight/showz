@@ -19,6 +19,8 @@ In the News<a name="news"></a>
 
 * [Monitoring Sucks. But Monitoring as Testing Sucks a Lot More](http://swreflections.blogspot.com/2012/07/monitoring-sucks-but-monitoring-as.html?utm_source=twitterfeed&utm_medium=twitter)
 
+* [logstash + you + me](https://gist.github.com/3088552) a nice gist that is actually a letter to the logstash and larger devops community written by Jordan Sissel, one of the founders of the logstash project. One of the things that Jordan points out, that it would make financial sense for someone to pay him to work full-time on logstash rather than paying for splunk licenses. Hey Github! I think we have found your next Githubber.
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
