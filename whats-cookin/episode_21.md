@@ -17,6 +17,8 @@ In the News<a name="news"></a>
 
 * [vim replace string for FC001](http://bit.ly/M4BbgH)
 
+* [Monitoring Sucks. But Monitoring as Testing Sucks a Lot More](http://swreflections.blogspot.com/2012/07/monitoring-sucks-but-monitoring-as.html?utm_source=twitterfeed&utm_medium=twitter)
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
