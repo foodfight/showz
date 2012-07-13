@@ -21,6 +21,13 @@ In the News<a name="news"></a>
 
 * [logstash + you + me](https://gist.github.com/3088552) a nice gist that is actually a letter to the logstash and larger devops community written by Jordan Sissel, one of the founders of the logstash project. One of the things that Jordan points out, that it would make financial sense for someone to pay him to work full-time on logstash rather than paying for splunk licenses. Hey Github! I think we have found your next Githubber.
 
+* [librarian-chef vs
+  berkshelf](http://christian-trabold.de/librarian-chef-vs-berkshelf)
+  nice comparison by Christian Trabold
+* [new release of berkshelf](http://berkshelf.com) let's you source
+  cookbooks from your own chef-server so you can treat it like an
+  artifact server
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
