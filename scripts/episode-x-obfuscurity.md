@@ -20,12 +20,16 @@ Outline / Questions
   * business intelligence (not sure if we want to address this)
 * What tools are available and where should people start?
   * Should I start w/ Nagios or go straight to Sensu?
-  * visualization
-  *
+  * visualization - graphite, ganglia
 * Collecting metrics, logstash, collectd, statsd
+  * what should I use to collect system metrics? collectd or diamond?
+  * when do I need to use amqp and  message bus to ship around my
+  metrics? 
+  * why are standard deviation and 90th percentile important?
+  * how should you represent your metrics so that they are meaningful?
+  * What #'s do you care about most?
 * Creating dashboards
-* Where do metrics fit in?
-* What about self-service metrics? coda hale's metrics library
+* What about self-service metrics? like coda hale's metrics library
 
 
 
@@ -33,6 +37,8 @@ Picks<a name="picks"></a>
 -----
 
 #### Bryan  
+* The Sharpe books by Bernard Cornwell
+* The Economist
 
 #### lusis  
 
