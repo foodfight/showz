@@ -30,6 +30,8 @@ In the News<a name="news"></a>
 
 * [elasticsearch company announced](http://www.elasticsearch.com/)
 
+* [how to build your own ruby rpms](https://www.dropbox.com/s/en0t795ogu96bge/Building%20Ruby%201.9%20RPMs.pdf) from Jon Scherff
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
