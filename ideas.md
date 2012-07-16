@@ -60,6 +60,7 @@ Chef in their PaaS
 * Atlassian ops team
 * Jamie Winsor and Riot Games team on Berkshelf and other topics
 * Matthias Meyer and John Allspaw on resilience engineering
+* How github does it, talk w/ ops team at github @wfarr, @jnewland, @rodjek, and @tmm1
 
 Delicacies
 ==========
