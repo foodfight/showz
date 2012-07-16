@@ -69,6 +69,9 @@ Outline / Questions
   * Third-party services - Ducksboard (only supports push)
   * Why are there no "pretty" dashboard services that support pull (e.g. from Graphite API)?
 * What about self-service metrics? like coda hale's metrics library
+* jason, how do you feel about the overrall health of the graphite project? Are there any design features or 
+aspects of the project that might limit it long-term?
+* Jason, since you work w/ graphite then you must have to use launchpad. What do you think of launchpad?
 * Let's summarize for n00bs, I start w/ A then proceed to B, then C . . .
 
 
