@@ -9,6 +9,11 @@ Panel<a name="panel"></a>
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis    )
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+Intro
+-----
+
+Jason and Dysinger, what are your backgrounds? where do you live?
+
 Outline / Questions
 -------------------
 
@@ -64,6 +69,7 @@ Outline / Questions
   * Third-party services - Ducksboard (only supports push)
   * Why are there no "pretty" dashboard services that support pull (e.g. from Graphite API)?
 * What about self-service metrics? like coda hale's metrics library
+* Let's summarize for n00bs, I start w/ A then proceed to B, then C . . .
 
 
 Picks<a name="picks"></a>
