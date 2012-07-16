@@ -28,6 +28,8 @@ In the News<a name="news"></a>
   cookbooks from your own chef-server so you can treat it like an
   artifact server
 
+* [elasticsearch company announced](http://www.elasticsearch.com/)
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
