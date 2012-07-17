@@ -23,6 +23,24 @@ In the News<a name="news"></a>
 
 * Have you seen what they're cookin' up over in [Bill's Kitchen](https://github.com/tknerr/bills-kitchen)?  Wait...who's Bill?  Bill's Kitchen is a package from Torben Knerr.  It includes all you need for cooking with Chef and Vagrant on Windows, shrink-wrapped in a portable package.  A pre-configured Chef Repo with Vagrantfile, devkit enhanced Ruby 1.9.3, other supporting tools, and a tutorial and example cookbooks!
 
+* [librarian-chef vs
+  berkshelf](http://christian-trabold.de/librarian-chef-vs-berkshelf)
+  nice comparison by Christian Trabold
+* [new release of berkshelf](http://berkshelf.com) let's you source
+  cookbooks from your own chef-server so you can treat it like an
+  artifact server
+
+* [elasticsearch company announced](http://www.elasticsearch.com/)
+
+* [how to build your own ruby rpms](https://www.dropbox.com/s/en0t795ogu96bge/Building%20Ruby%201.9%20RPMs.pdf) from Jon Scherff
+
+* [Logstash 1.1.1 released](https://groups.google.com/forum/?fromgroups#!topic/logstash-users/ojlDLYvyNsY), a billion new options thanks to Pete Fritchman, Jordan Sissel, Lusis and many others for their hard work on this release
+
+* [Visualizing log data with Logstash, statsd, and Graphite](http://blog.pkhamre.com/2012/07/05/visualizing-logdata-with-logstash-statsd-and-graphite/) great blog post from Pal Christian Hamre
+
+* Great discussion on the mailing list between Brian Bianco, Jay Feldblum, and Peter Donald. How to propagate notifications from an LWRP if
+resources w/in an LWRP have changes. Peter Donald wrote  new provider [notifying_action](http://realityforge.org/code/2012/07/17/lwrp-notify-on-changed-resources.html) and blog post based on Yfeldblum's gist to deal w/ this issue.
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks

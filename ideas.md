@@ -56,9 +56,11 @@ Chef in their PaaS
 * At home with Heroku, how heroku manages their ops, w/ Jason Dixon (obfuscurity) + ops manager?
 * Pete Fritchman petef, of logstash fame http://fetep.net/picc12/ his
  presentation at piccl conf
-* Mitchellh on vagrant 2.0
+* Mitchellh and pdebois on vagrant 2.0
 * Atlassian ops team
 * Jamie Winsor and Riot Games team on Berkshelf and other topics
+* Matthias Meyer and John Allspaw on resilience engineering
+* How github does it, talk w/ ops team at github @wfarr, @jnewland, @rodjek, and @tmm1
 
 Delicacies
 ==========
@@ -69,12 +71,10 @@ Delicacies
 * logstash
 * graylog2
 * cucumber
-* ironfan internals
 * spice github.com/danryan/spice
 * awesome knife plugins
 * advanced knife usage
 * pry - try #pry on irc.freenode.net and look for horseman
-* debugging w/ shef
 * chef + jenkins
 
 
