@@ -21,3 +21,22 @@ For this DevOps Delicacy, I met with [David Bock](https://github.com/bokmann) to
 * What sort of takeaways do you expect to leave the class with?
 * What itch are you hoping to scratch by taking the class?  What's the first thing you expect to do with Chef?
 
+## Class Notes
+
+* Introductions
+* Overview of Chef
+* Workshop Objectives
+* Configure chef on the wokstation
+* bootstrap the ec2 instance
+*
+
+## Lunch Break
+
+* 
+
+## After Class
+
+* What kind of hands on exercises would help reinforce the material better? 
+
+## Two weeks out
+
