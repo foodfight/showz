@@ -32,6 +32,11 @@ In the News<a name="news"></a>
 
 * [how to build your own ruby rpms](https://www.dropbox.com/s/en0t795ogu96bge/Building%20Ruby%201.9%20RPMs.pdf) from Jon Scherff
 
+* [Logstash 1.1.1 released](https://groups.google.com/forum/?fromgroups#!topic/logstash-users/ojlDLYvyNsY), a billion new options thanks to Pete Fritchman, Jordan Sissel, Lusis and many others for their hard work on this release
+
+* Great discussion on the mailing list between Brian Bianco, Jay Feldblum, and Peter Donald. How to propagate notifications from an LWRP if
+resources w/in an LWRP have changes. Peter Donald wrote  new provider [notifying_action](http://realityforge.org/code/2012/07/17/lwrp-notify-on-changed-resources.html) and blog post based on Yfeldblum's gist to deal w/ this issue.
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
