@@ -119,6 +119,9 @@ Picks<a name="picks"></a>
 
 #### Jason 
 
+* John Rauser's Velocity keynotes
+  * [Velocity 2011: Look at Your Data](http://www.youtube.com/watch?v=coNDCIMH8bk)
+  * [Velocity 2012: Investigating Anomalies](http://www.youtube.com/watch?v=-3dw09N5_Aw)
 * [Riemann](http://aphyr.github.com/riemann/)
   * Impressed by Kyle's work and his dedication to performance. Really smart dude.
   * It solves a real problem with [high performance] Complex Event Processing in the event stream model.
