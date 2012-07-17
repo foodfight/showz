@@ -108,11 +108,14 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 * The Sharpe books by Bernard Cornwell
-* The Economist
+* [The Economist](http://economist.com)
 
 #### lusis  
 
-#### Nathen  
+* [collectd](http://collectd) > 1.4.15 
+* [Logstash 1.1.1 released](https://groups.google.com/forum/?fromgroups#!topic/logstash-users/ojlDLYvyNsY)
+* someon should hire [jordan sissel](https://gist.github.com/3088552) to work on logstash full-time
+
 
 #### Jason 
 
