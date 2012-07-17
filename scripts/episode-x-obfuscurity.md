@@ -4,7 +4,7 @@ Panel<a name="panel"></a>
 -----
 
 * Pete Fritchman?
-* Jason Dixon  [github](https://github.com/obfuscurity/), [twitter](http://twitter.com/obfuscurity), [blog](http://obfuscurity.com/)
+* Jason Dixon  [github](https://github.com/obfuscurity/), [twitter](http://twitter.com/obfuscurity), irc: jdixon, [blog](http://obfuscurity.com/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis    )
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
@@ -94,7 +94,7 @@ aspects of the project that might limit it long-term?
 
 * Jason, since you work w/ graphite then you must have to use launchpad. What do you think of launchpad?
   * Well, now I'm biased. But even if you'd asked me this a month ago I'd have the same answer. I hate LP.
-  * Their "answers" product is pretty nice for constructing an organic FAQ and searchability.
+  * Their "answers" product is nice for assembling an organic FAQ and searchability.
   * Tracking branches and submitting changes is a hassle.
   * Finding anything in their UI is a hassle.
   * Oh, and it's painfully slow.
