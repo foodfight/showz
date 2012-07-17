@@ -21,6 +21,8 @@ In the News<a name="news"></a>
 
 * [logstash + you + me](https://gist.github.com/3088552) a nice gist that is actually a letter to the logstash and larger devops community written by Jordan Sissel, one of the founders of the logstash project. One of the things that Jordan points out, that it would make financial sense for someone to pay him to work full-time on logstash rather than paying for splunk licenses. Hey Github! I think we have found your next Githubber.
 
+* Have you seen what they're cookin' up over in [Bill's Kitchen](https://github.com/tknerr/bills-kitchen)?  Wait...who's Bill?  Bill's Kitchen is a package from Torben Knerr.  It includes all you need for cooking with Chef and Vagrant on Windows, shrink-wrapped in a portable package.  A pre-configured Chef Repo with Vagrantfile, devkit enhanced Ruby 1.9.3, other supporting tools, and a tutorial and example cookbooks!
+
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
