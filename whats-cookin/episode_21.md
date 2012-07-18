@@ -9,10 +9,9 @@ I'm Nathen Harvey
 
 We'll start this episode with "What's Cookin'" - your source for Chef and Cookbook news.
 
-**N**
 In the News<a name="news"></a>
 -----------
-* [On Resilience in Automated Systems](http://www.paperplanes.de/2012/7/10/on-resilience-in-automated-systems-failures-and-human-factor.html) by Matthias Meyer - would be a great topic for the show
+**N** * [On Resilience in Automated Systems](http://www.paperplanes.de/2012/7/10/on-resilience-in-automated-systems-failures-and-human-factor.html) by Matthias Meyer - would be a great topic for the show
 
 **B** * Fletcher Nichol tweeted a handy [vim replace string for FC001](http://bit.ly/M4BbgH) 
 
@@ -46,17 +45,17 @@ Cookbook News<a name="cookbooks"></a>
 ### New Cookbooks
 
 **N** 
-* [testswarm](http://community.opscode.com/cookbooks/testswarm) v0.0.1 - [hdorio](http://community.opscode.com/users/hdorio) Hadrien Dorio, (First Cookbook on the community site)
+* [testswarm](http://community.opscode.com/cookbooks/testswarm) v0.0.1 - [hdorio](http://community.opscode.com/users/hdorio) Hadrien Dorio, (First Cookbook on the community site)  
 Installs and configures TestSwarm a distributed continuous integration testing environment for JavaScript.
-* [nano](http://community.opscode.com/cookbooks/nano) v1.0.0 - [josephholsten](http://community.opscode.com/users/josephholsten) (First Cookbook on the community site)
+* [nano](http://community.opscode.com/cookbooks/nano) v1.0.0 - [josephholsten](http://community.opscode.com/users/josephholsten) (First Cookbook on the community site)  
 Installs nano
-* [lesscss](http://community.opscode.com/cookbooks/lesscss) v0.0.1 - [geoffreytran](http://community.opscode.com/users/geoffreytran) (First Cookbook on the community site)
+* [lesscss](http://community.opscode.com/cookbooks/lesscss) v0.0.1 - [geoffreytran](http://community.opscode.com/users/geoffreytran) (First Cookbook on the community site)  
 Installs the lesscss npm_package.  LESS extends CSS with dynamic behavior such as variables, mixins, operations and functions. LESS runs on both the client-side (Chrome, Safari, Firefox) and server-side, with Node.js and Rhino.
 
 **B**
-* [stud](http://community.opscode.com/cookbooks/stud) v0.0.2 - [freerobby](http://community.opscode.com/users/freerobby)
+* [stud](http://community.opscode.com/cookbooks/stud) v0.0.2 - [freerobby](http://community.opscode.com/users/freerobby)  
 Installs/Configures stud.  stud is a network proxy that terminates TLS/SSL connections and forwards the unencrypted traffic to some backend. It's designed to handle 10s of thousands of connections efficiently on multicore machines.
-* [symantec](http://community.opscode.com/cookbooks/symantec) v0.0.1 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+* [symantec](http://community.opscode.com/cookbooks/symantec) v0.0.1 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)  
 Installs Symantec Endpoint Protection from internal package repository.
 
 
