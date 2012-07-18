@@ -1,21 +1,22 @@
 Introduction
 ------------
 
-**N* Hello, and welcome to episode 21 of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
+**N** Hello, and welcome to episode 21 of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
 
 I'm Nathen Harvey
 
-**B* And, I'm Bryan Berry
+**B** And, I'm Bryan Berry
 
 We'll start this episode with "What's Cookin'" - your source for Chef and Cookbook news.
 
-**N** In the News<a name="news"></a>
+**N**
+In the News<a name="news"></a>
 -----------
 * [On Resilience in Automated Systems](http://www.paperplanes.de/2012/7/10/on-resilience-in-automated-systems-failures-and-human-factor.html) by Matthias Meyer - would be a great topic for the show
 
-**B** * [vim replace string for FC001](http://bit.ly/M4BbgH)
+**B** * Fletcher Nichol tweeted a handy [vim replace string for FC001](http://bit.ly/M4BbgH) 
 
-**N** * [Monitoring Sucks. But Monitoring as Testing Sucks a Lot More](http://swreflections.blogspot.com/2012/07/monitoring-sucks-but-monitoring-as.html?utm_source=twitterfeed&utm_medium=twitter)
+**N** * [Monitoring Sucks. But Monitoring as Testing Sucks a Lot More](http://swreflections.blogspot.com/2012/07/monitoring-sucks-but-monitoring-as.html?utm_source=twitterfeed&utm_medium=twitter) - DevOpsDays follow-up post from Jim Bird
 
 **B** * [logstash + you + me](https://gist.github.com/3088552) a nice gist that is actually a letter to the logstash and larger devops community written by Jordan Sissel, one of the founders of the logstash project. One of the things that Jordan points out, that it would make financial sense for someone to pay him to work full-time on logstash rather than paying for splunk licenses. Hey Github! I think we have found your next Githubber.
 
@@ -40,11 +41,11 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 **B** * Great discussion on the mailing list between Brian Bianco, Jay Feldblum, and Peter Donald. How to propagate notifications from an LWRP if
 resources w/in an LWRP have changes. Peter Donald wrote  new provider [notifying_action](http://realityforge.org/code/2012/07/17/lwrp-notify-on-changed-resources.html) and blog post based on Yfeldblum's gist to deal w/ this issue.
 
-**N** 
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
+**N** 
 * [testswarm](http://community.opscode.com/cookbooks/testswarm) v0.0.1 - [hdorio](http://community.opscode.com/users/hdorio) Hadrien Dorio, (First Cookbook on the community site)
 Installs and configures TestSwarm a distributed continuous integration testing environment for JavaScript.
 * [nano](http://community.opscode.com/cookbooks/nano) v1.0.0 - [josephholsten](http://community.opscode.com/users/josephholsten) (First Cookbook on the community site)
@@ -59,8 +60,8 @@ Installs/Configures stud.  stud is a network proxy that terminates TLS/SSL conne
 Installs Symantec Endpoint Protection from internal package repository.
 
 
-**N** 
 ### Updated Cookbooks
+**N** 
 * [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.4.47 - [peter_donald](http://community.opscode.com/users/peter_donald)
 * [artifact](http://community.opscode.com/cookbooks/artifact) v0.10.1 - [reset](http://community.opscode.com/users/reset)
 * [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.14 - [melezhik](http://community.opscode.com/users/melezhik)
@@ -79,8 +80,8 @@ Do you have cookbook news that you'd like to share or feedback on the show?  Ple
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
 
-**N** 
 On to the show...
 ----------------
 
+**N** 
 In episode 18 we talked #monitoringsucks with lusis and Patrick Debois.  This was one of our most popular episodes so we thought we'd provide some more monitoring content.  Who better to help with that than Jason Dixon and Tim Dysinger?  It today's episode, Bryan and Lusis had a chance to discuss monitoring with Jason and Tim.  Let's get on to the interview...
