@@ -34,6 +34,7 @@ Let's talk Velocity...
 * How was it different from previous Velocity conferences?
 * What were some of the trends or key threads of Velocity this year?
 * What surprised you most about Velocity this year?
+* Were you able to attend DevOps Days?
 
 ### Changing Culture & Being a Force for Awesome
 
@@ -46,13 +47,14 @@ Let's talk about your talk at Velocity...
 * Use Metrics to Build Confidence
 * Celebrate Successes
 * Exploit Compelling Events
+* Conference videos are great but rarely include the Q&A and post-presentation discussions that the presenter has with individuals from the audience.  How did people respond to your talk, what questions did they have? What feedback did they share?
 
 ### Community
 
-* You're the Chief Community Officer at Opscode...what's new?
+* You're the Chief Community Officer at Opscode...what's new in the community?
+  * You're planning 2 new Community Openings and 6 more events...can you share some details about those?
   * Supporting local user groups
   * Public training
-  * You're planning 2 new Community Openings and 6 more events...can you share some details about those?
   * What are some of the most exciting things going on in the Chef Community?
 
 
