@@ -52,4 +52,13 @@ Cookbook News<a name="cookbooks"></a>
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
 
-**N** Today, we're meeting with Jesse Robbins, Chief Community Officer of Opscode.  This is a disucssion about his Velocity presentation: [Changing Culture & Being a force for Awesome](http://www.youtube.com/watch?v=OU8ihx3nT6I).  Let's get on to the show...
+Special Offer
+-------------
+**N**
+
+Do you know someone who needs help getting started with Chef?  Opscode is offering the Chef Introductory Workshop in Seattle on August 6th and we've got a free pass for one lucky listener!  Head over to http://foodfightshow.org and leave a comment on this episode's page or send an email to info@foodfightshow.org letting us know that you're interested in attending the class.  We'll randomly select and announce a "winner" on July 25th.  Also, be sure to use the promo code "FOODFIGHT" (in all caps) to save 10% on your registration.
+
+
+On to the show...
+----------------
+**B** Today, we're meeting with Jesse Robbins, Chief Community Officer of Opscode.  This is a disucssion about his Velocity presentation: [Changing Culture & Being a force for Awesome](http://www.youtube.com/watch?v=OU8ihx3nT6I).  Let's get on to the show...
