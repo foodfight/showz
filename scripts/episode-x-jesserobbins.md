@@ -47,6 +47,14 @@ Let's talk about your talk at Velocity...
 * Celebrate Successes
 * Exploit Compelling Events
 
+### Community
+
+* You're the Chief Community Officer at Opscode...what's new?
+  * Supporting local user groups
+  * Public training
+  * You're planning 2 new Community Openings and 6 more events...can you share some details about those?
+  * What are some of the most exciting things going on in the Chef Community?
+
 
 Picks<a name="picks"></a>
 -----
