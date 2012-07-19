@@ -49,6 +49,13 @@ Let's talk about your talk at Velocity...
 * Exploit Compelling Events
 * Conference videos are great but rarely include the Q&A and post-presentation discussions that the presenter has with individuals from the audience.  How did people respond to your talk, what questions did they have? What feedback did they share?
 
+### Emergency Services
+
+* How did you go from operations to fire fighting, and why did you come back?
+* What do you think operations and emergency services have in commmon?
+* Is there value in cross-training operations people with emergency management?
+* What are the Incident Command System (ICS) classes and do you think operations people should take them?
+
 ### Community
 
 * You're the Chief Community Officer at Opscode...what's new in the community?
@@ -56,13 +63,6 @@ Let's talk about your talk at Velocity...
   * Supporting local user groups
   * Public training
   * What are some of the most exciting things going on in the Chef Community?
-
-### Emergency Services
-
-* How did you go from operations to fire fighting, and why did you come back?
-* What do you think operations and emergency services have in commmon?
-* Is there value in cross-training operations people with emergency management?
-* Do you think operations people should take Incident Command System (ICS) classes?
 
 Picks<a name="picks"></a>
 -----
