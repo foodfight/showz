@@ -11,16 +11,17 @@ Why not take a minute to follow @foodfightshow on Twitter?  We'll give you a min
 
 In the News<a name="news"></a>
 -----------
-**B** * [Brian Bianco](http://twitter.com/brianwbianco) presented on [LWRP Development](http://www.slideshare.net/geekbri/lwrp-presentation) at this week's Chef-BOSTON meetup.  A great introduction to creating LWRPs.  Please check the show notes for a link.
+**B** * [What DevOps Is Not](http://www.agileweboperations.com/what-devops-is-not) a great post by [R.I. Pienaar](http://twitter.com/ripienaar)
+
+**N** * [New High I/O EC2 Instance Type - hi1.4xlarge - 2 TB of SSD-Backed Storage](http://aws.typepad.com/aws/2012/07/new-high-io-ec2-instance-type-hi14xlarge.html)
+
+**B** * [Puppet Labs' Certification Program](http://puppetlabs.com/blog/coming-soon-puppet-certification-program/) and [FAQ}(http://puppetlabs.com/services/certification/faq/)
 
 **N** * [Zack Voase](https://twitter.com/zacharyvoase) presented at a recent Berlin DevOps meetup.  Check out his slides for [How to Sell DevOps](https://speakerdeck.com/u/zacharyvoase/p/how-to-sell-devops).
 
-**B** * [New High I/O EC2 Instance Type - hi1.4xlarge - 2 TB of SSD-Backed Storage](http://aws.typepad.com/aws/2012/07/new-high-io-ec2-instance-type-hi14xlarge.html)
+**B** * [Brian Bianco](http://twitter.com/brianwbianco) presented on [LWRP Development](http://www.slideshare.net/geekbri/lwrp-presentation) at this week's Chef-BOSTON meetup.  A great introduction to creating LWRPs.  Please check the show notes for a link.
 
-**N** * [Puppet Labs' Certification Program](http://puppetlabs.com/blog/coming-soon-puppet-certification-program/) and [FAQ}(http://puppetlabs.com/services/certification/faq/)
-
-**B** * [What DevOps Is Not](http://www.agileweboperations.com/what-devops-is-not) a great post by [R.I. Pienaar](http://twitter.com/ripienaar)
-
+**N** * [Lew Goettner](http://twitter.com/lewg) presented on  [Consistent Local Development with Vagrant & Chef](https://speakerdeck.com/u/lewg/p/consistent-local-development-with-vagrant-and-chef) at this week's Philly DevOps Meetup.
 
 **N** * Local user groups and Meetups that discuss Chef
   * [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) - Jesse Robbins will be at the meeting on Tuesday, July 24
