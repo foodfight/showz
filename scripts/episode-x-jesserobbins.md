@@ -57,6 +57,12 @@ Let's talk about your talk at Velocity...
   * Public training
   * What are some of the most exciting things going on in the Chef Community?
 
+### Emergency Services
+
+* How did you go from operations to fire fighting, and why did you come back?
+* What do you think operations and emergency services have in commmon?
+* Is there value in cross-training operations people with emergency management?
+* Do you think operations people should take Incident Command System (ICS) classes?
 
 Picks<a name="picks"></a>
 -----
