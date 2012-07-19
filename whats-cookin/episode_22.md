@@ -23,15 +23,15 @@ In the News<a name="news"></a>
 
 
 **N** * Local user groups and Meetups that discuss Chef
+  * [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) - Jesse Robbins will be at the meeting on Tuesday, July 24
+  * [Seattle Opscode Chef Meetup Group](http://www.meetup.com/Seattle-Opscode-Chef-Meetup-Group/) - Next Meeting is July 31
+  * [Chicago Chef User Group](http://www.meetup.com/Chicago-Chef-User-Group/) - Next meeting is August 1
+  * [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/) in Melbourne, Australia - Next Meeting is August 14
+  * [DevOpsDC](http://www.meetup.com/DevOpsDC/) - Cooking with Chef, August 14
+  * [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/) - held their first meeting this week
+  * [Philly DevOps](http://phillydevops.org/) - held their first meeting this week
   * [nycdevops](http://www.meetup.com/nycdevops/)
   * [San Francisco DevOps](http://www.meetup.com/San-Francisco-DevOps/)
-  * [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) - Jesse Robbins will be at the meeting on Tuesday, July 24
-  * [DevOpsDC](http://www.meetup.com/DevOpsDC/) - Cooking with Chef, August 14
-  * [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/) in Melbourne, Australia - Next Meeting is August 14
-  * [Seattle Opscode Chef Meetup Group](http://www.meetup.com/Seattle-Opscode-Chef-Meetup-Group/) - Next Meeting is July 31
-  * [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/) - held their first meeting this week
-  * [Chicago Chef User Group](http://www.meetup.com/Chicago-Chef-User-Group/) - Next meeting is August 1
-  * [Philly DevOps](http://phillydevops.org/) - held their first meeting this week
 
 
 Cookbook News<a name="cookbooks"></a>
