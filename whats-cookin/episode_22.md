@@ -56,7 +56,7 @@ Special Offer
 -------------
 **N**
 
-Do you know someone who needs help getting started with Chef?  Opscode is offering the Chef Introductory Workshop in Seattle on August 6th and we've got a free pass for one lucky listener!  Head over to http://foodfightshow.org and leave a comment on this episode's page or send an email to info@foodfightshow.org letting us know that you're interested in attending the class.  We'll randomly select and announce a "winner" on July 25th.  Also, be sure to use the promo code "FOODFIGHT" (in all caps) to save 10% on your registration.
+Do you know someone who needs help getting started with Chef?  Opscode is offering the Chef Introductory Workshop in Seattle on August 6th and we've got a free pass for one lucky listener!  Head over to http://foodfightshow.org and leave a comment on this episode's page or send an email to info@foodfightshow.org letting us know that you're interested in attending the class.  We'll randomly select and announce a "winner" on July 25th.  Also, be sure to use the promo code "FOODFIGHT" (in all caps) to save 10% on your registration for this and other Opscode Workshops.
 
 
 On to the show...
