@@ -22,6 +22,10 @@ LIVE from #ChefConf
 Food Fight Shows
 =================
 
+* [21 - Monitoring for n00bs with Jason Dixon](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html)
+* [20 - Interview with Joshua Timberman, King of Sysadmins](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html)
+* [19 - Roll Your Own PAAS! Mark Imbriaco and Alex Howells](http://foodfightshow.org/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html)
+* [18 - #monitoringsucks With Lusis and Patrick Debois](http://foodfightshow.org/2012/06/episode-18-monitoringsucks-with-lusis.html)
 * [17 - Testing with Eric G. Wolfe & Fletcher Nichol](http://www.foodfightshow.org/2012/06/episode-17-testing-with-eric-g-wolfe.html)
 * [16 - Chef Server with Kevin Smith & Seth Falcon](http://www.foodfightshow.org/2012/06/episode-16-chef-server-with-kevin-smith.html)
 * [15 - How to Succeed in DevOps with Dave Zwieback](http://www.foodfightshow.org/2012/05/episode-15-how-to-succeed-in-devops.html)
@@ -45,5 +49,6 @@ DevOps Delicacies
 
 Shorter-format show that focusses on exciting tools and developments in our community.
 
+* [2 - Chef Introductory Workshop with David Bock](http://foodfightshow.org/2012/07/devops-delicacy-chef-introductory-workshop-with-david-bock.html)
 * [1 - bag_config and runlist_modifiers with Chris Roberts](http://www.foodfightshow.org/2012/05/devops-delicacy-1-bagconfig-and.html)
 * [0 - Librarian with Jay Feldblum](http://www.foodfightshow.org/2012/04/devops-delicacy-0-librarian-with-jay.html)
