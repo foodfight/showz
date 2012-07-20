@@ -73,6 +73,7 @@ Picks<a name="picks"></a>
 
 
 ### Jesse
+* [Steel Battalion Controller](http://www.steelbattalion.org/controller.php)
 * [EteRNA](http://eterna.cmu.edu/) - a game you play by designing RNAs, tiny molecules at the heart of every cell.
 * [Orbital](http://en.wikipedia.org/wiki/Orbital_%28band%29) playing at [Decible Festival](http://dbfestival.com/) in Seattle
 
