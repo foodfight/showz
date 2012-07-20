@@ -65,9 +65,12 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 * [emacs starter kit](https://github.com/technomancy/emacs-starter-kit/)
-* Transport
+* [Tranceport](http://en.wikipedia.org/wiki/Tranceport_%28album%29) 
 
 #### Nathen
+* [knife-essentials](https://github.com/jkeiser/knife-essentials)
+* [Citizen Cope](http://citizencope.com/)
+
 
 ### Jesse
 * [EteRNA](http://eterna.cmu.edu/) - a game you play by designing RNAs, tiny molecules at the heart of every cell.
