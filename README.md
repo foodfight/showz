@@ -22,6 +22,7 @@ LIVE from #ChefConf
 Food Fight Shows
 =================
 
+* [22 - Changing Culture &amp; Being a Force for Awesome](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html) 
 * [21 - Monitoring for n00bs with Jason Dixon](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html)
 * [20 - Interview with Joshua Timberman, King of Sysadmins](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html)
 * [19 - Roll Your Own PAAS! Mark Imbriaco and Alex Howells](http://foodfightshow.org/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html)
