@@ -14,7 +14,9 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 In the News<a name="news"></a>
 -----------
 
-* 
+* [On the level: Testing your infrastructure](http://www.opscode.com/blog/2012/07/20/on-the-level-testing-your-infrastructure/)
+* [knife-role-spaghetti](http://www.miketheman.net/2012/07/20/a-picture-is-worth-a-few-thousand-bytes/) 
+* [Sensu presentation](https://github.com/sensu/sensu-slides) given by Decklin Foster at a recent Chef-Boston meetup.
 
 
 
