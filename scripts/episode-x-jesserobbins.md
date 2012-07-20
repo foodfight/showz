@@ -8,8 +8,6 @@ Panel<a name="panel"></a>
 
 * Jesse Robbins [github](https://github.com/jesserobbins), [twitter](https://twitter.com/jesserobbins)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis    )
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline / Questions 
@@ -17,8 +15,6 @@ Outline / Questions
 
 ### Introductions
 * Bryan and Nathen will have already introduced themselves during What's Cookin'
-* Matt
-* Lusis
 * Jesse
 
 ### Welcome back & ChefConf
@@ -68,14 +64,14 @@ Picks<a name="picks"></a>
 -----
 
 #### Bryan  
-
-#### Matt  
-
-#### lusis  
+* [emacs starter kit](https://github.com/technomancy/emacs-starter-kit/)
+* Transport
 
 #### Nathen
 
 ### Jesse
+* [EteRNA](http://eterna.cmu.edu/) - a game you play by designing RNAs, tiny molecules at the heart of every cell.
+* [Orbital](http://en.wikipedia.org/wiki/Orbital_%28band%29) playing at [Decible Festival](http://dbfestival.com/) in Seattle
 
 Download
 --------
