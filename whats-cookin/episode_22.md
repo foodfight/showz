@@ -15,7 +15,7 @@ In the News<a name="news"></a>
 
 * [New High I/O EC2 Instance Type - hi1.4xlarge - 2 TB of SSD-Backed Storage](http://aws.typepad.com/aws/2012/07/new-high-io-ec2-instance-type-hi14xlarge.html)
 
-* [Puppet Labs' Certification Program](http://puppetlabs.com/blog/coming-soon-puppet-certification-program/) and [FAQ}(http://puppetlabs.com/services/certification/faq/)
+* [Puppet Labs' Certification Program](http://puppetlabs.com/blog/coming-soon-puppet-certification-program/) and [FAQ](http://puppetlabs.com/services/certification/faq/)
 
 * [Zack Voase](https://twitter.com/zacharyvoase) presented at a recent Berlin DevOps meetup.  Check out his slides for [How to Sell DevOps](https://speakerdeck.com/u/zacharyvoase/p/how-to-sell-devops).
 
