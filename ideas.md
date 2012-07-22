@@ -61,6 +61,8 @@ Chef in their PaaS
 * Jamie Winsor and Riot Games team on Berkshelf and other topics
 * Matthias Meyer and John Allspaw on resilience engineering
 * How github does it, talk w/ ops team at github @wfarr, @jnewland, @rodjek, and @tmm1
+* to zsh or not to zsh? talk about the best shell, best terminal
+emulator, editor, markup format, etc.
 
 Delicacies
 ==========
