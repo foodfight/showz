@@ -18,7 +18,7 @@ In the News<a name="news"></a>
 * [knife-role-spaghetti](http://www.miketheman.net/2012/07/20/a-picture-is-worth-a-few-thousand-bytes/) 
 * [Sensu presentation](https://github.com/sensu/sensu-slides) given by Decklin Foster at a recent Chef-Boston meetup.
 * [Chef Happens - Managing Chef on Solaris](http://wix.io/2012/07/22/chef-on-solaris/) by Martha Greenberg
-* [Understanding Statsd and Graphite]() by Pal Kristian Hamre
+* [Understanding Statsd and Graphite](http://blog.pkhamre.com/2012/07/24/understanding-statsd-and-graphite/) by Pal Kristian Hamre
 * [Monitoring: A New Hope](https://github.com/bryanwb/monitoring-preso) a presentation from BryanWB that covers how the UN Food and Agriculture Organization is using logstash+collectd+jmxtrans+graphite to monitor Java applications.
 * [What's New in Linux 3.5](http://www.h-online.com/open/features/What-s-new-in-Linux-3-5-1637461.html)
 
