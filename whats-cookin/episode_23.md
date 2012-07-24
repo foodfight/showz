@@ -21,7 +21,7 @@ In the News<a name="news"></a>
 * [Understanding Statsd and Graphite](http://blog.pkhamre.com/2012/07/24/understanding-statsd-and-graphite/) by Pal Kristian Hamre
 * [Monitoring: A New Hope](https://github.com/bryanwb/monitoring-preso) a presentation from BryanWB that covers how the UN Food and Agriculture Organization is using logstash+collectd+jmxtrans+graphite to monitor Java applications.
 * [What's New in Linux 3.5](http://www.h-online.com/open/features/What-s-new-in-Linux-3-5-1637461.html)
-
+* [Vladimir Vuksan on Back-end Monitoring](http://www.youtube.com/watch?v=IqsomXrHMB4) and in [mp3 form](http://vuksan.com/velocity-online-backend-metrics.mp3)
 
 Cookbook News<a name="cookbooks"></a>
 -------------
