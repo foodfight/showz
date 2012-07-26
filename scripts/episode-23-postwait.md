@@ -79,8 +79,16 @@ Outline/Questions
 * Anything you've seen since that makes you want to put out a new edition?
 * Other books on the horizon?
 
+### fq and message queuing
+
+* What does the abbreviation stand for?
+* why did you create [fq](https://github.com/postwait/fq)? Didn't you get the memo that 0mq is the future?
+* what makes fq so fast?
+* Will messaging become increasingly important for sysadmins?
+
 ### Other topics
 
+* Were you born w/ a beard?
 * You've worked with lots of organizations in this space...what are some things that everyone gets wrong?
 * How do you see the Web Operations discipline evolving over the next 3-5 years?
 * At ChefConf, Adam said they're working on bottling you into a bunch of Chef recipes.  How's that work going?
