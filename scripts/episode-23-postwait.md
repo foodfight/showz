@@ -50,6 +50,11 @@ Outline/Questions
 * Alerting - does Circonus integrate with the PagerDuty API?
 * How active a community is there around Reconoitter?
 ** Distro support for reconnoiter?
+* What is the design philosophy of Reconnoiter?
+** ( What's wrong with round robin databases? )
+** ( How much is too much data? )
+** ( How important is Service Oriented Architecture? )
+** ( Are APIs important?)
 
 ### Surge
 
@@ -78,6 +83,7 @@ Outline/Questions
 * You've written about many things including the career of Web Operations.  What is required for one to move from apprentice to master?
 * Anything you've seen since that makes you want to put out a new edition?
 * Other books on the horizon?
+* You're highly respected as a system administrator, what do you think about that?
 
 ### fq and message queuing
 
@@ -88,7 +94,7 @@ Outline/Questions
 
 ### Other topics
 
-* Were you born w/ a beard?
+* Were you born w/ a beard? Did it itch?
 * You've worked with lots of organizations in this space...what are some things that everyone gets wrong?
 * How do you see the Web Operations discipline evolving over the next 3-5 years?
 * At ChefConf, Adam said they're working on bottling you into a bunch of Chef recipes.  How's that work going?
