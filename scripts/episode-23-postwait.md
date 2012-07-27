@@ -105,11 +105,27 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
+* [Pavement](http://en.wikipedia.org/wiki/Pavement_%28band%29) - Summer Babe
+* [Obfuscurity's Unhelpful Graphite Tips](http://obfuscurity.com/2012/04/Unhelpful-Graphite-Tip-1)
+
 #### Matt
+
+* [Texas Linux Fest](http://2012.texaslinuxfest.org/)
+* [Aesop Rock](http://aesoprock.com/) - Skelethon
 
 #### Nathen
 
+* [Gary Clarke Jr.](http://www.garyclarkjr.com/)
+* [Surge](http://omniti.com/surge/2012)
+
 #### Theo
+
+* [Evanescence](http://www.evanescence.com/)
+* [Circonus](http://circonus.com/)
+* [Starwood Preferred Guest](http://www.starwoodhotels.com/preferredguest/)
+* [United Mileage Plus](http://www.united.com/web/en-US/content/mileageplus/default.aspx)
+* [No, Really, Some of My Best Friends Are Data Scientists](http://cscs.umich.edu/~crshalizi/weblog/925.html)
+* Time-ordered output in DTrace
 
 
 
