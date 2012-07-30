@@ -44,14 +44,16 @@ what do u like about them? hate?
 * Bryan Cantrill on SmartOS and Illumos
 * Filesystems
 * Backup
-* [Mark Imbriaco](http://twitter.com/markimbriaco], VP, Technical Ops at @LivingSocial. 
+* [Mark Imbriaco](http://twitter.com/markimbriaco), VP, Technical Ops at @LivingSocial. 
 * Boyd Hemphill - Database Eye for the DevOps Guy, what sysadmins
   should know about databases
 * anyone from Heroku, Rightscale or Engine Yard who can talk about
 Chef in their PaaS
 * Dan Nemec on application management w/ Chef
 * Tod Hoff, the guy who runs highscalability.com
-* Illumos
+* Interview Vivek Gite, guy who manages
+  [nixCraft](http://www.cyberciti.bz), one of the best and longest
+  running sysadmin blogs
 * Inside Sonian, talk w/ Pete Cheslock and Alex Porter how operations are run at Sonian
 * At home with Heroku, how heroku manages their ops, w/ Jason Dixon (obfuscurity) + ops manager?
 * Pete Fritchman petef, of logstash fame http://fetep.net/picc12/ his
@@ -63,6 +65,8 @@ Chef in their PaaS
 * How github does it, talk w/ ops team at github @wfarr, @jnewland, @rodjek, and @tmm1
 * to zsh or not to zsh? talk about the best shell, best terminal
 emulator, editor, markup format, etc.
+* The best unix tools, talk about grep, find, top, atop, htop, xargs,
+  gnu parallel, and best way to use them
 
 Delicacies
 ==========
