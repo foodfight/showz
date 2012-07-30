@@ -66,7 +66,8 @@ Chef in their PaaS
 * to zsh or not to zsh? talk about the best shell, best terminal
 emulator, editor, markup format, etc.
 * The best unix tools, talk about grep, find, top, atop, htop, xargs,
-  gnu parallel, and best way to use them
+  gnu parallel, and best way to use them, could have Adam on the show
+  and call it "Adam Jacob wants to Awk your Grep"
 
 Delicacies
 ==========
