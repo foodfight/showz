@@ -54,9 +54,15 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 
+* Graphite's time shift function
+
 #### lusis  
 
 #### Nathen  
+
+* [rspec testing your DNS](http://technology.customink.com/blog/2012/07/31/easily-test-your-dns/)
+* [Seth Vargo](http://twitter.com/sethvargo)
+* music pic: [Mayer Hawthorne](http://mayerhawthorne.com/#!all)
 
 
 
