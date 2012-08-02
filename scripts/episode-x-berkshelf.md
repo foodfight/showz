@@ -50,6 +50,21 @@ Outline/Questions
 * Do you use anything to handle server orchestration? anything in
   addition to knife or on top of it?
 
+Bryan's show notes
+-----------------
+
+* Michael and jamie work on Deployment Automation team at RiotGames
+* They make heavy use of github enterprise, can do a pull request w/out forking
+* They spend a lot of time evangelizing and teaching chef w/in org
+* Their devs very receptive to Chef
+* Only build server can upload cookbook, and it revs each version after every successful build
+* they don't use roles at all, because
+  - not versioned
+  - better to use wrapper cookbook instead of role
+* current patterns for chef only maintainable w/ a small team
+* what benefits of small team to follow your pattern?
+* Jamie is working on "cookbook development for application developers"
+
 
 
 Picks<a name="picks"></a>
@@ -57,8 +72,9 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 
-* 
-* Graphite's timeShift function
+* [Java Performance](http://www.amazon.com/Java-Performance-Charlie-Hunt/dp/0137142528/ref=sr_1_1?ie=UTF8&qid=1343931212&sr=8-1&keywords=java+performance) by Charlie Hunt
+* [Graphite's timeShift function](http://graphite.readthedocs.org/en/1.0/functions.html)
+* [the steal value in top and vmstat](http://3spoken.wordpress.com/2006/12/10/cpu-steal-time-the-new-statistic/)
 
 #### Nathen  
 
@@ -66,6 +82,15 @@ Picks<a name="picks"></a>
 * [Seth Vargo](http://twitter.com/sethvargo)
 * music pick: [Mayer Hawthorne](http://mayerhawthorne.com/#!all)
 
+#### Michael
+
+* [thor](http://whatisthor.com)
+* [BankSimple](http://simple.com)
+
+#### Jamie
+
+* [vagrant](http://vagrantup.com)
+* [Zyra](http://leagueoflegends.wikia.com/wiki/Zyra_Rise_of_the_Thorns)
 
 CLOSE
 -----
