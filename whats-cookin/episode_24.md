@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-Hello, and welcome to episode XX of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
+Hello, and welcome to episode 24 of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
 
 I'm Nathen Harvey, @n-a-t-h-e-n-h-a-r-v-e-y on Twitter.
 
@@ -74,57 +74,57 @@ In the News<a name="news"></a>
 
 ## Special Offers
 
-* Do you know someone who needs help getting started with Chef?  Opscode is offering the Chef Introductory Workshop in Seattle on August 6th and we've got a free pass for one lucky listener!  Head over to http://foodfightshow.org and leave a comment on this episode's page or send an email to info@foodfightshow.org letting us know that you or someone you know are interested in attending the class.  We'll randomly select a winner.  Also, be sure to use the promo code "FOODFIGHT" (in all caps) to save 10% on your registration for this and other Opscode Workshops.
+* Do you know someone who needs help getting started with Chef?  
+  Opscode is offering the Chef Introductory Workshop in Seattle on 
+  August 6th and we've got a free pass for one lucky listener!  Head 
+  over to http://foodfightshow.org and leave a comment on this 
+  episode's page or send an email to info@foodfightshow.org letting 
+  us know that you or someone you know are interested in attending the 
+  class.  We'll randomly select a winner.  Also, be sure to use the 
+  promo code "FOODFIGHT" (in all caps) to save 10% on your 
+  registration for this and other Opscode Workshops.
 
-* In [episode 23](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html) we talked about Surge Conf, coming up in September.  If you haven't picked up your tickets yet, be sure to use the discount code "MeetUp" (capital "M" and capital "U") to save 10%.
+* In [episode 23](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html) 
+  we talked about Surge Conf, coming up in September.  If you haven't 
+  picked up your tickets yet, be sure to use the discount code 
+  "MeetUp" (capital "M" and capital "U") to save 10%.
 
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
-* [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.4 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures GlassFish Application Server
-* [collectd_plugins](http://community.opscode.com/cookbooks/collectd_plugins) v1.0.0 - [coderanger](http://community.opscode.com/users/coderanger)
-Configure collectd plugins
-* [collectd](http://community.opscode.com/cookbooks/collectd) v1.0.0 - [coderanger](http://community.opscode.com/users/coderanger)
-Install and configure the collectd monitoring daemon
 * [awstats](http://community.opscode.com/cookbooks/awstats) v0.2.2 - [madolphs](http://community.opscode.com/users/madolphs)
-Installs awstats and provides an LWRP for creating domain-specific statistics.
-* [bind](http://community.opscode.com/cookbooks/bind) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-Installs/Configures dns
-* [mongodb](http://community.opscode.com/cookbooks/mongodb) v0.11.0 - [thekorn](http://community.opscode.com/users/thekorn)
-Installs and configures mongodb
+This cookbook installs awstats and provides an LWRP to setup awstats for a service of your choice.
+
 * [VRTSralus](http://community.opscode.com/cookbooks/VRTSralus) v0.0.2 - [lucky-sideburn](http://community.opscode.com/users/lucky-sideburn)
-Installs/Configures VRTSralus through the installation script..
-VRTSralus is better known as Symantec Backup Exec for linux.
+Installs/Configures VRTSralus through the installation script.  VRTSralus is better known as Symantec Backup Exec for linux.  This cookbook was written to resolve a strange problem with the installation through RPM.
 
-This cookbook has been wrote to resolve a strange problem with the installation (through the procedure with RPM the agent doesn’t work correctly). For this reason we have created a coobook for installing Backup Exec through the procedure with the installation script.
-* [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.15 - [melezhik](http://community.opscode.com/users/melezhik)
-CPAN modules provider (cpan_client provider LWRP)
-* [authbind](http://community.opscode.com/cookbooks/authbind) v0.1.3 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures authbind and defines resources for managing authorization
 * [pkgin](http://community.opscode.com/cookbooks/pkgin) v0.1.0 - [someara](http://community.opscode.com/users/someara)
-Installs/Configures pkgin
-* [magento](http://community.opscode.com/cookbooks/magento) v0.4.0 - [wik](http://community.opscode.com/users/wik)
-Magento app stack
-* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) v0.2.1 - [wik](http://community.opscode.com/users/wik)
-Installs/Configures php-fpm
+This cookbook is used to install packages on Unix systems with the pkgin utility.  pkgin is aimed at being an apt / yum like tool for managing pkgsrc binary packages.
+
 * [jmxtrans](http://community.opscode.com/cookbooks/jmxtrans) v0.0.3 - [bryanwb](http://community.opscode.com/users/bryanwb)
-Installs/Configures jmxtrans
-* [cgroups](http://community.opscode.com/cookbooks/cgroups) v0.0.1 - [lucky-sideburn](http://community.opscode.com/users/lucky-sideburn)
-Installs and configures Cgroups utility in Red Hat Enterprise Linux Server release 6.2
+We talked about jmxtrans in the last episode, it's now available on the community site.  Thanks, Bryan!
 
-
-I used cgroups cookbook for setting a RAM memory limit for Sysmantec Backup Agent.
 * [riot_mysql](http://community.opscode.com/cookbooks/riot_mysql) v1.2.8 - [reset](http://community.opscode.com/users/reset)
-Installs and configures mysql for client or server
-* [artifact](http://community.opscode.com/cookbooks/artifact) v0.10.2 - [reset](http://community.opscode.com/users/reset)
-Provides your cookbooks with the Artifact Deploy LWRP
+A fork of the Opscode MySQL cookbook which fixes a severe bug with installing the MySQL gem on CentOS platforms.
 
 ### Updated Cookbooks
+
+* [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.4 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [collectd_plugins](http://community.opscode.com/cookbooks/collectd_plugins) v1.0.0 - 
+* [collectd](http://community.opscode.com/cookbooks/collectd) v1.0.0 - [coderanger](http://community.opscode.com/users/coderanger)
+* [bind](http://community.opscode.com/cookbooks/bind) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+* [mongodb](http://community.opscode.com/cookbooks/mongodb) v0.11.0 - [thekorn](http://community.opscode.com/users/thekorn)
+* [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.15 - [melezhik](http://community.opscode.com/users/melezhik)
+* [authbind](http://community.opscode.com/cookbooks/authbind) v0.1.3 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [magento](http://community.opscode.com/cookbooks/magento) v0.4.0 - [wik](http://community.opscode.com/users/wik)
+* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) v0.2.1 - [wik](http://community.opscode.com/users/wik)
+* [cgroups](http://community.opscode.com/cookbooks/cgroups) v0.0.1 - [lucky-sideburn](http://community.opscode.com/users/lucky-sideburn)
+* [artifact](http://community.opscode.com/cookbooks/artifact) v0.10.2 - [reset](http://community.opscode.com/users/reset)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
 
-On to the show...
-----------------
+
+And now, on to the show...
+--------------------------
