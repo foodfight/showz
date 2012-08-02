@@ -70,6 +70,7 @@ In the News<a name="news"></a>
   meet up in Melbourne Australia, created by Matt Jones and David
   Lutz, next meetup will be August 14 and focus on the topic of
   Infrastructure as Code
+
 **N** * [DevOpsDC - Cooking with Chef](http://www.meetup.com/DevOpsDC/events/67381852/)
   If you're in the DC area, be sure to swing by TaxiMagic's HQ on 
   Tuesday, August 14th to meet-up with other Chef enthusiasts.
