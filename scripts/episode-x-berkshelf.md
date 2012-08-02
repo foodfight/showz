@@ -65,7 +65,7 @@ Picks<a name="picks"></a>
 
 * [rspec testing your DNS](http://technology.customink.com/blog/2012/07/31/easily-test-your-dns/)
 * [Seth Vargo](http://twitter.com/sethvargo)
-* music pic: [Mayer Hawthorne](http://mayerhawthorne.com/#!all)
+* music pick: [Mayer Hawthorne](http://mayerhawthorne.com/#!all)
 
 
 
