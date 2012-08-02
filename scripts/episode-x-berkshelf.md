@@ -35,6 +35,9 @@ Outline/Questions
 * if u r using chef-server, how do u keep you isolate production from
   the changes you make to roles, data_bags, envs, etc. during testing
 * how does berkshelf fit into this picture?
+* the first thing ppl complain about when installing is the dependency on libgecode
+  what is libgecode, what does it do, and can we expect a pure ruby version any time soon?
+* how well does berkshelf play w/ other tools like knife-essentials or knife-spork?
 * Should cookbooks be gems? If cookbooks were gems that would have
   saved u the trouble of writing berkshelf. We could have just used bundler.
 * do you use any automated testing like minitest or cucumber-chef?
