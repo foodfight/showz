@@ -24,9 +24,18 @@ In the News<a name="news"></a>
   to
   [grow logstash's value](http://www.semicomplete.com/blog/growing-logstash-value.html)
   for both new and existing users.
-* [Fauxhai](https://github.com/customink/fauxhai) is out of alpha
-  stage, now allows you to fetch real ohai data from your chef-server
-
+* [Seth Vargo](http://twitter.com/sethvargo) has released the first 
+  non-alpha version of [fauxhai](https://github.com/customink/fauxhai) 
+  the node-mocking gem. This version implements the `fetch` feature, 
+  which allows you to download ohai data from a real remote node and 
+  run your tests against that data.
+* The team over at Boundary has released [small wonder](https://github.com/boundary/small_wonder),
+  a deployment tool.  It's a lightweight wrapper around [salticid](https://github.com/aphyr/salticid)
+  Small Wonder is a means for using Salticid and Chef together to 
+  deploy applications.  Small Wonder consumes your knife.rb so has
+  access to anything that any other chef-client can access, including
+  Chef search.
+* 
 
 Cookbook News<a name="cookbooks"></a>
 -------------
