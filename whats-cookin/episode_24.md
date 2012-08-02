@@ -83,14 +83,8 @@ In the News<a name="news"></a>
 ## Special Offers
 
 **N** * Do you know someone who needs help getting started with Chef?  
-  Opscode is offering the Chef Introductory Workshop in Seattle on 
-  August 6th and we've got a free pass for one lucky listener!  Head 
-  over to http://foodfightshow.org and leave a comment on this 
-  episode's page or send an email to info@foodfightshow.org letting 
-  us know that you or someone you know are interested in attending the 
-  class.  We'll randomly select a winner.  Also, be sure to use the 
-  promo code "FOODFIGHT" (in all caps) to save 10% on your 
-  registration for this and other Opscode Workshops.
+  Be sure to use the promo code "FOODFIGHT" (in all caps) to save 10% 
+  on your registration for this and other Opscode Workshops.
 
 **B** * In [episode 23](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html) 
   we talked about Surge Conf, coming up in September.  If you haven't 
