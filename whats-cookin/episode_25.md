@@ -56,7 +56,17 @@ In the News<a name="news"></a>
 * The open-sourcing of erChef has begun! There are bunch of erChef
   repos now in https://github.com/opscode, just to name a few
   chef_objects, chef_db, chef_index, and more on the way!
-
+* We've hinted at this project before but now it's finally out.
+  [Test-kitchen](https://github.com/opscode/test-kitchen) is a
+  framework for running project integration tests in an isolated
+  environment using Vagrant and Chef.
+* Test-kitchen relies on baseboxes created by the
+  [bento](https://github.com/opscode/bento) project, which is a set of
+  modularized veewee definitions. As a direct result of bento, Opscode
+  has made a set of vagrant boxes publicly available, each containing
+  the omnibus version of chef and ruby 1.9. If you work on public cookbooks and
+  you do testing with vagrant, I highly recommend you use these boxes.
+  Your collaborators will thank you.
 
 Cookbook News<a name="cookbooks"></a>
 -------------
