@@ -76,7 +76,8 @@ In the News<a name="news"></a>
   machine-abstraction branch into vagrant master that abstracts all
   the virtualbox-specific code into a plugin. This means you can now
   add support for an additional virtualization platform through a
-  plugin. 
+  plugin. btw, we will have mitchellh and pdebois on the show in early
+  September to talk about the future of Vagrant!
 
 Cookbook News<a name="cookbooks"></a>
 -------------
