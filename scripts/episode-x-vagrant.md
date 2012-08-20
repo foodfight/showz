@@ -14,6 +14,10 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+* Will veewee be moved into vagrant in a future release?
+* There was an interesting discussion of vagrant on hacker news after u made recent merge. 
+** Vagrant is a surprisingly large codebase. What contributes to the size of the codebase?
+** Why doesn't vagrant just use libvirt?
 
 
 Picks<a name="picks"></a>
