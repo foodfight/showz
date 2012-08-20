@@ -67,6 +67,16 @@ In the News<a name="news"></a>
   the omnibus version of chef and ruby 1.9. If you work on public cookbooks and
   you do testing with vagrant, I highly recommend you use these boxes.
   Your collaborators will thank you.
+* [Seth Vargo](https://twitter.com/sethvargo) released version 0.1.0
+  of [strainer](https://github.com/customink/strainer) which enables
+  the loading  of cookbook dependencies and better PATH support.
+* After months of planning + over 7000 lines changed: Vagrant core is
+  no longer tied to VirtualBox.
+  [mitchellh](https://twitter.com/mitchellh) merged the
+  machine-abstraction branch into vagrant master that abstracts all
+  the virtualbox-specific code into a plugin. This means you can now
+  add support for an additional virtualization platform through a
+  plugin. 
 
 Cookbook News<a name="cookbooks"></a>
 -------------
