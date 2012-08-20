@@ -14,7 +14,8 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
-* what kind of tests can I run w/ test-kitchen? What are the benefits of the different kinds of tests?
+* what kind of tests can I run w/ test-kitchen? What are the benefits
+  of the different kinds of tests?
 * how stable is test-kitchen? which oses/distros does it support?
 * how do you use test-kitchen today?
 * What is the future for test-kitchen?
@@ -34,7 +35,9 @@ Outline/Questions
   year, however it wasn't made public until recently. Why did you
   choose to develop it in private rather than in the open? esp. when
   some tools have complementary or overlapping functionality (i.e. berkshelf)?
-
+* test-kitchen doesn't seem to have support for spinning up multiple
+  vms simultaneously and testing their interaction. This would be esp. useful for
+  spinning up a mysql cluster, for instance. Is this feature planned?
 
 Picks<a name="picks"></a>
 -----
