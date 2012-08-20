@@ -85,8 +85,7 @@ Picks<a name="picks"></a>
 #### Bryan  
 
 * Daniel Suarez interview on Triangulation
-* Anti-pick, [episode
-* 49](http://www.thecloudcast.net/2012/08/the-cloudcast-eps49-application.html)
+* Anti-pick, [episode 49](http://www.thecloudcast.net/2012/08/the-cloudcast-eps49-application.html)
  of the [cloudcast](http://thecloudcast.net)
 * [Norman Centuries podcast](http://normancenturies.com/)
 
