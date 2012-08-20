@@ -14,6 +14,7 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+* How important is test-kitchen to the overall cookbook project?
 * what kind of tests can I run w/ test-kitchen? What are the benefits
   of the different kinds of tests?
 * how stable is test-kitchen? which oses/distros does it support?
