@@ -14,6 +14,7 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+* what kind of tests can I run w/ test-kitchen? What are the benefits of the different kinds of tests?
 * how stable is test-kitchen? which oses/distros does it support?
 * how do you use test-kitchen today?
 * What is the future for test-kitchen?
@@ -25,6 +26,14 @@ Outline/Questions
   speed it up?
 * Mitchellh just merged in the machine-abstraction branch to vagrant,
   any chance Opscode will create a plugin for kvm or lxc?
+* Test-kitchen currently depends on librarian, could berkshelf be used in place of librarian?
+* Is test-kitchen necessarily chef-specific? could it be used to
+  manage tests for other configuration management tools like cfengine
+  or puppet?
+* from commit log, test-kitchen was started back in February of this
+  year, however it wasn't made public until recently. Why did you
+  choose to develop it in private rather than in the open? esp. when
+  some tools have complementary or overlapping functionality (i.e. berkshelf)?
 
 
 Picks<a name="picks"></a>
