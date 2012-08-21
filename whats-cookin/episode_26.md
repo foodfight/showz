@@ -24,6 +24,8 @@ In the News<a name="news"></a>
 
 * Matt Ray recently presented at the Australian OpenStack User Group.  His slides on [Chef for OpenStack](http://www.slideshare.net/mattray/australian-openstack-user-group-august-2012-chef-for-openstack) are available on [Slideshare](http://www.slideshare.net/mattray/australian-openstack-user-group-august-2012-chef-for-openstack).
 
+* [Whisk](https://github.com/kisoku/whisk) is a simple cookbook manager for Chef, inspired by librarian and berkshelf. Unlike these tools, Whisk only concerns itself with fetching and preparing exactly what you tell it, and will not resolve dependencies for you or make any decisions about which code gets downloaded for you.
+
 ## Upcoming Meetup Groups and Events
 
 * [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/) will be meeting on 
