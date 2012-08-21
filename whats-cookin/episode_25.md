@@ -157,6 +157,15 @@ A recipe for setting up system-wide SSL certs on Ubuntu / Debian systems. Sets u
 
 ### Updated Cookbooks
 
+Opscode has been busy with the database cookbooks check the [mailing list 
+for more details and discussion](http://lists.opscode.com/sympa/arc/chef/2012-08/msg00206.html) 
+about these cookbooks:
+
+* [database](http://community.opscode.com/cookbooks/database) v1.3.4
+* [mysql](http://community.opscode.com/cookbooks/mysql) v1.3.0
+* [postgres](http://community.opscode.com/cookbooks/postgresql) v1.0.0
+
+
 * [ack](http://community.opscode.com/cookbooks/ack) v1.0.0 - [cap10morgan](http://community.opscode.com/users/cap10morgan)
 * [awstats](http://community.opscode.com/cookbooks/awstats) v0.2.2 - [madolphs](http://community.opscode.com/users/madolphs)
 * [bind](http://community.opscode.com/cookbooks/bind) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
