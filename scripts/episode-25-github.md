@@ -107,12 +107,21 @@ Picks<a name="picks"></a>
 
 #### lusis  
 
+* CoolVue iPad Mount
+* Enstratus
+
 #### Nathen  
 
 * Swapping control and caps lock on your keyboard
 * https://noplaintext.com/
 * [Bengali Tiger](http://sixpoint.com/beers/core/bengalitiger) from Sixpoint Brewery.
+ 
 
+#### Jesse
+
+* Ctrl-R
+* logstash
+* Dales Pale Ale
 
 
 CLOSE
