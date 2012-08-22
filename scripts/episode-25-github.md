@@ -13,6 +13,14 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+About Jesse
+-----------
+
+* Tell us a bit about your background.
+* What brought you to github?
+* How did you get started with infrastructure as code?
+* You've used and helped build Moonshine, can you tell us a little about that?
+
 What makes Github Ops special?
 ----------------------------
 
