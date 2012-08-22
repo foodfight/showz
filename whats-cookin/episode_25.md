@@ -24,7 +24,7 @@ In the News<a name="news"></a>
   way of cookbook development. Of special note is the `berks cookbook`
   command which can be used in place of `knife cookbook create`. It
   will generate a Vagrantfile, .gitignore, Gemfile, and even a
-  Thorfile with a foodcritic task.
+  Thorfile with a foodcritic task.  
 **N**  * [Jamie  Winsor](http://vialstudios.com) has released version 0.0.2
   of [ridley](https://github.com/reset/ridley) a reliable Chef API
   client with a simple intuitive DSL. Also, it is threadsafe and
