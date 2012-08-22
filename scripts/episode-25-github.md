@@ -13,6 +13,14 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+About Jesse
+-----------
+
+* Tell us a bit about your background.
+* What brought you to github?
+* How did you get started with infrastructure as code?
+* You've used and helped build Moonshine, can you tell us a little about that?
+
 What makes Github Ops special?
 ----------------------------
 
@@ -84,14 +92,18 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 
-* Daniel Suarez interview on Triangulation
+* [Daniel Suarez interview](http://twit.tv/show/triangulation/64) on Triangulation
 * Anti-pick, [episode 49](http://www.thecloudcast.net/2012/08/the-cloudcast-eps49-application.html)
  of the [cloudcast](http://thecloudcast.net)
 * [Norman Centuries podcast](http://normancenturies.com/)
+* [Dominus Tripel](http://beer.uvinum.com/dominus-tripel) amazing belgian tripel
 
 #### lusis  
 
 #### Nathen  
+
+* Swapping control and caps lock on your keyboard
+* [Bengali Tiger](http://sixpoint.com/beers/core/bengalitiger) from Sixpoint Brewery.
 
 
 
