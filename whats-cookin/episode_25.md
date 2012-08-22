@@ -1,7 +1,7 @@
 Introduction
 ------------
 
-Hello, and welcome to episode XX of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
+Hello, and welcome to episode 25 of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
 
 I'm Nathen Harvey, @n-a-t-h-e-n-h-a-r-v-e-y on Twitter.
 
@@ -9,12 +9,14 @@ And, I'm Bryan Berry, @b-r-y-a-n-w-b on Twitter.
 
 While you're over on Twitter, be sure to follow @foodfightshow!
 
-We'll start this episode with "What's Cookin'" - your source for Chef and Cookbook news.
+It's hard to believe we haven't recorded a show for almost 3 weeks!  Lot's 
+of news to cover so let's get on with "What's Cookin'" - your surce for 
+Chef and Cookbook news.
 
 In the News<a name="news"></a>
 -----------
 
-* [Jamie
+**B** * [Jamie
   Winsor](http://vialstudios.com) has started a guide on [how to author
   a cookbook the berkshelf
   way](http://vialstudios.com/guide-authoring-cookbooks.html). It is
@@ -23,11 +25,11 @@ In the News<a name="news"></a>
   command which can be used in place of `knife cookbook create`. It
   will generate a Vagrantfile, .gitignore, Gemfile, and even a
   Thorfile with a foodcritic task.
-* [Archlinux may be
+**N** * [Archlinux may be
   switching](http://news.ycombinator.com/item?id=4383243) its default
   init system from the Old Skool sysv init system to
   [systemd](http://www.freedesktop.org/wiki/Software/systemd/).   
-* Yosefk had a great blog post [What "Worse is Better vs The
+**B** * Yosefk had a great blog post [What "Worse is Better vs The
   Right Thing" is really about]
   (http://www.yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html).
   tl;dr an evolved system will beat the best designed system. The
@@ -42,7 +44,10 @@ In the News<a name="news"></a>
   Chefconf where he essentially said that he wanted to give sysadmins
   better primitives, not prescribe to them how to configure their
   systems.
-* [Obfuscurity](https://twitter.com/#!/obfuscurity) has put a great
+**N** * Dan Ryan has released
+  [Rorschach](https://github.com/danryan/rorschach) a simple alerting
+  tool that uses Graphite for event data.
+**B** * [Obfuscurity](https://twitter.com/#!/obfuscurity) has put a great
   screencast up on [how to install
   graphite](http://www.youtube.com/watch?v=0-g--_Be2jc) even if you
   use a chef cookbook to set up your graphite installation I highly
@@ -50,27 +55,24 @@ In the News<a name="news"></a>
   the pieces work together. Obfuscurity would like to know if there is
   interest in further screencasts on graphite. If you like this one,
   let him know! I vote for a screencast on how to use Composer.
-* Dan Ryan has released
-  [Rorschach](https://github.com/danryan/rorschach) a simple alerting
-  tool that uses Graphite for event data.
-* The open-sourcing of erChef has begun! There are bunch of erChef
+**N** * The open-sourcing of erChef has begun! There are bunch of erChef
   repos now in https://github.com/opscode, just to name a few
   chef_objects, chef_db, chef_index, and more on the way!
-* We've hinted at this project before but now it's finally out.
+**B** * We've hinted at this project before but now it's finally out.
   [Test-kitchen](https://github.com/opscode/test-kitchen) is a
   framework for running project integration tests in an isolated
   environment using Vagrant and Chef.
-* Test-kitchen relies on baseboxes created by the
+**N** * Test-kitchen relies on baseboxes created by the
   [bento](https://github.com/opscode/bento) project, which is a set of
   modularized veewee definitions. As a direct result of bento, Opscode
   has made a set of vagrant boxes publicly available, each containing
   the omnibus version of chef and ruby 1.9. If you work on public cookbooks and
   you do testing with vagrant, I highly recommend you use these boxes.
   Your collaborators will thank you.
-* [Seth Vargo](https://twitter.com/sethvargo) released version 0.1.0
+**B** * [Seth Vargo](https://twitter.com/sethvargo) released version 0.1.0
   of [strainer](https://github.com/customink/strainer) which enables
   the loading  of cookbook dependencies and better PATH support.
-* After months of planning + over 7000 lines changed: Vagrant core is
+**N** * After months of planning + over 7000 lines changed: Vagrant core is
   no longer tied to VirtualBox.
   [mitchellh](https://twitter.com/mitchellh) merged the
   machine-abstraction branch into vagrant master that abstracts all
@@ -81,13 +83,14 @@ In the News<a name="news"></a>
   
 ## Upcoming Meetup Groups
 
+**N**
 * [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/) will be meeting on 
   Tuesday, August 28 to talk about [Team Development Workflows with Chef](www.meetup.com/Chef-BOSTON/events/76035282/)
 * [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group)
   will host another Chef Cafe on Thursday, September 6
 
 ## Special Offers
-
+**B**
 * Do you know someone who needs help getting started with Chef?
   Be sure to use the promo code "FOODFIGHT" (in all caps) to save 10%
   on your registration for Opscode Workshops.
@@ -102,7 +105,7 @@ In the News<a name="news"></a>
 Cookbook News<a name="cookbooks"></a>
 -------------
 
-It's been a while since our last show and the Chefs have been busy!  We've got 20 new cookbooks and more then 30 updated cookbooks to cover today!
+**N** It's been a while since our last show and the Chefs have been busy!  We've got 20 new cookbooks and more then 30 updated cookbooks to cover today!
 
 ### New Cookbooks
 
@@ -127,6 +130,8 @@ This cookbook installs the HP Management tools including the HP System Managemen
 * [kafka](http://community.opscode.com/cookbooks/kafka) v1.0.8 - [tas50](http://community.opscode.com/users/tas50)
 Sets up Kafka
 
+**B**
+
 [John Dewey](http://community.opscode.com/users/retr0h) has released a bunch of cookbooks for useful utilities (is that redundant?)
 * [curl](http://community.opscode.com/cookbooks/curl) v1.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
 * [dstat](http://community.opscode.com/cookbooks/dstat) v1.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
@@ -135,6 +140,7 @@ Sets up Kafka
 * [ipmitool](http://community.opscode.com/cookbooks/ipmitool) v1.0.0 - [retr0h](http://community.opscode.com/users/retr0h)
 * [lldpd](http://community.opscode.com/cookbooks/lldpd) v1.0.0 - [retr0h](http://community.opscode.com/users/retr0h)
 
+**N**
 [Chris Roberts](http://community.opscode.com/users/chrisroberts) is back this week with three new cookbooks:
 * [red_unicorn](http://community.opscode.com/cookbooks/red_unicorn) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 This cookbook installs the red_unicorn gem and provides an easy to use LWRP for configuring a unicorn application with bluepill monitoring.
@@ -143,20 +149,21 @@ Provides and configures cgroups
 * [bridger](http://community.opscode.com/cookbooks/bridger) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Create bridges
 
+**B**
 We've got two cookbooks from [John Larsen](http://community.opscode.com/users/jpipe)
 * [jboss-atg](http://community.opscode.com/cookbooks/jboss-atg) v0.0.3 - [jpipe](http://community.opscode.com/users/jpipe)
 Installs/Configures jboss
 * [atg](http://community.opscode.com/cookbooks/atg) v1.0.0 - [jpipe](http://community.opscode.com/users/jpipe)
 Configures atg on jboss
 
+**N**
 And, last but not least, the [ssl](http://community.opscode.com/cookbooks/ssl) cookbook from Wes Morgan
 * [ssl](http://community.opscode.com/cookbooks/ssl) v1.0.7 - [cap10morgan](http://community.opscode.com/users/cap10morgan)
 A recipe for setting up system-wide SSL certs on Ubuntu / Debian systems. Sets up SSL certs and keys from an encrypted data bag.
 
 
-
 ### Updated Cookbooks
-
+**B**
 Opscode has been busy with the database cookbooks check the [mailing list 
 for more details and discussion](http://lists.opscode.com/sympa/arc/chef/2012-08/msg00206.html) 
 about these cookbooks:
@@ -165,7 +172,7 @@ about these cookbooks:
 * [mysql](http://community.opscode.com/cookbooks/mysql) v1.3.0
 * [postgres](http://community.opscode.com/cookbooks/postgresql) v1.0.0
 
-
+**N**
 * [ack](http://community.opscode.com/cookbooks/ack) v1.0.0 - [cap10morgan](http://community.opscode.com/users/cap10morgan)
 * [awstats](http://community.opscode.com/cookbooks/awstats) v0.2.2 - [madolphs](http://community.opscode.com/users/madolphs)
 * [bind](http://community.opscode.com/cookbooks/bind) v0.0.6 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
@@ -200,9 +207,10 @@ about these cookbooks:
 * [stoplight](http://community.opscode.com/cookbooks/stoplight) v0.1.4 - [sethvargo](http://community.opscode.com/users/sethvargo)
 
 
+**B** 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
-Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
-
+**N**
 On to the show...
 ----------------
+
