@@ -104,7 +104,12 @@ In the News<a name="news"></a>
   Tuesday, August 28 to talk about [Team Development Workflows with Chef](www.meetup.com/Chef-BOSTON/events/76035282/)
 * [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group)
   will host another Chef Cafe on Thursday, September 6
-
+* [devopsdays Rome](http://devopsdays.org/events/2012-italy/)
+  are coming up on October 5 and 6th. If you are in Europe or otherwise
+  interested to meet with some really intelligent people, you should
+  come out. The attendance fee is trivial and Bryan's wife has agreed that
+  you can all stay in his spare bedroom. all of you ;).
+  
 ## Special Offers
 **B**
 * Do you know someone who needs help getting started with Chef?
