@@ -39,11 +39,16 @@ In the News<a name="news"></a>
   article has a great quote from linus
  <blockquote> Don’t underestimate the power of survival of the fittest. And don’t
   ever make the mistake that you can design something better than what
-  you get from ruthless massively parallel trial-and-error with a
+  you get from ruthless massively parallel trial-and-error process with a
   feedback cycle. That’s giving your intelligence much too much
   credit.
 </blockquote>
- This post  really made me think about the keynote that Adam Jacob gave at
+  We just mentioned Ridley, a Chef API client. A good Chef API already
+  exists in Dan Ryan's spice. We also talked about berkshelf which
+  competes with librarian-chef. This competition is not a bad thing,
+  it is an awesome thing. It this competition that drives software
+  quality in the open-source world.
+  This post also made me think about the keynote that Adam Jacob gave at
   Chefconf where he essentially said that he wanted to give sysadmins
   better primitives, not prescribe to them how to configure their
   systems.
