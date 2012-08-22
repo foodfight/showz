@@ -94,6 +94,9 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+* Swapping control and caps lock on your keyboard
+* [Bengali Tiger](http://sixpoint.com/beers/core/bengalitiger) from Sixpoint Brewery.
+
 
 
 CLOSE
