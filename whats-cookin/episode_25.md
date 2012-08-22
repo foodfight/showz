@@ -23,6 +23,11 @@ In the News<a name="news"></a>
   command which can be used in place of `knife cookbook create`. It
   will generate a Vagrantfile, .gitignore, Gemfile, and even a
   Thorfile with a foodcritic task.
+* [Jamie  Winsor](http://vialstudios.com) has released version 0.0.2
+  of [ridley](https://github.com/reset/ridley) a reliable Chef API
+  client with a simple intuitive DSL. Also, it is threadsafe and
+  supports multiple connections per thread. Lastly it works with
+  Hosted Chef, Open Source Chef, and private Chef.
 * [Archlinux may be
   switching](http://news.ycombinator.com/item?id=4383243) its default
   init system from the Old Skool sysv init system to
