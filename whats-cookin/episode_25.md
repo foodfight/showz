@@ -25,10 +25,12 @@ In the News<a name="news"></a>
   command which can be used in place of `knife cookbook create`. It
   will generate a Vagrantfile, .gitignore, Gemfile, and even a
   Thorfile with a foodcritic task.
+
 **N** * [Archlinux may be
   switching](http://news.ycombinator.com/item?id=4383243) its default
   init system from the Old Skool sysv init system to
   [systemd](http://www.freedesktop.org/wiki/Software/systemd/).   
+
 **B** * Yosefk had a great blog post [What "Worse is Better vs The
   Right Thing" is really about]
   (http://www.yosefk.com/blog/what-worse-is-better-vs-the-right-thing-is-really-about.html).
@@ -44,9 +46,11 @@ In the News<a name="news"></a>
   Chefconf where he essentially said that he wanted to give sysadmins
   better primitives, not prescribe to them how to configure their
   systems.
+
 **N** * Dan Ryan has released
   [Rorschach](https://github.com/danryan/rorschach) a simple alerting
   tool that uses Graphite for event data.
+
 **B** * [Obfuscurity](https://twitter.com/#!/obfuscurity) has put a great
   screencast up on [how to install
   graphite](http://www.youtube.com/watch?v=0-g--_Be2jc) even if you
@@ -55,13 +59,16 @@ In the News<a name="news"></a>
   the pieces work together. Obfuscurity would like to know if there is
   interest in further screencasts on graphite. If you like this one,
   let him know! I vote for a screencast on how to use Composer.
+
 **N** * The open-sourcing of erChef has begun! There are bunch of erChef
   repos now in https://github.com/opscode, just to name a few
   chef_objects, chef_db, chef_index, and more on the way!
+
 **B** * We've hinted at this project before but now it's finally out.
   [Test-kitchen](https://github.com/opscode/test-kitchen) is a
   framework for running project integration tests in an isolated
   environment using Vagrant and Chef.
+
 **N** * Test-kitchen relies on baseboxes created by the
   [bento](https://github.com/opscode/bento) project, which is a set of
   modularized veewee definitions. As a direct result of bento, Opscode
@@ -69,9 +76,11 @@ In the News<a name="news"></a>
   the omnibus version of chef and ruby 1.9. If you work on public cookbooks and
   you do testing with vagrant, I highly recommend you use these boxes.
   Your collaborators will thank you.
+
 **B** * [Seth Vargo](https://twitter.com/sethvargo) released version 0.1.0
   of [strainer](https://github.com/customink/strainer) which enables
   the loading  of cookbook dependencies and better PATH support.
+
 **N** * After months of planning + over 7000 lines changed: Vagrant core is
   no longer tied to VirtualBox.
   [mitchellh](https://twitter.com/mitchellh) merged the
