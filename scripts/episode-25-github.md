@@ -85,6 +85,13 @@ Configuration Management
 * Do you have testing (cucumber/rspec) and CI workflow around your
   puppet manifests?
 
+
+Deploying Code
+--------------
+
+* What do you use for feature toggling?  Is it OSS (@matschaffer)
+* How do you release updates?  Small number of servers first, internal-only first, all at once? (@sethvargo)
+
  
 
 Picks<a name="picks"></a>
