@@ -47,6 +47,7 @@ Outline
 * how stable is Test Kitchen? which oses/distros does it support?
 * `kitchen test` will run a cookbook's `default` recipe.  How do you specify other recipes?
 * I can include configurations in my Kitchenfile.  What are they and how do they work?
+* Can I run Test Kitchen against just a single OS / OS version?
 * How are cookbook dependencies handled by Test Kitchen?
 * Foodcritic supports custom foodcritic rules, can I do the same with Test Kitchen?
 * How do cookbooks that utilize search work with Test Kitchen? 
