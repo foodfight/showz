@@ -49,6 +49,7 @@ Outline
 * I can include configurations in my Kitchenfile.  What are they and how do they work?
 * How are cookbook dependencies handled by Test Kitchen?
 * Foodcritic supports custom foodcritic rules, can I do the same with Test Kitchen?
+* How do cookbooks that utilize search work with Test Kitchen? 
 * How can I contribute?
 
 ### Future of Test Kitchen
