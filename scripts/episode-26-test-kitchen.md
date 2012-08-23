@@ -3,8 +3,8 @@ Show Date:
 Panel<a name="panel"></a>
 -----
 
-* [Joshua Timberman[(https://twitter.com/jtimberman), the King of Sysadmins
-* [Andrew Crump](https://twitter.com/acrmp), The Titan of Testing
+* Joshua Timberman, the King of Sysadmins.  [twitter](https://twitter.com/jtimberman), [github](http://github.com/jtimberman), [blog](http://jtimberman.housepub.org/)
+* Andrew Crump, The Titan of Testing [twitter](https://twitter.com/acrmp), [github](http://github.com/acrmp)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
@@ -14,33 +14,55 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
-* What is test-kitchen?
-* How important is test-kitchen to the overall cookbook project?
-* what kind of tests can I run w/ test-kitchen? What are the benefits
-  of the different kinds of tests?
-* how stable is test-kitchen? which oses/distros does it support?
-* How are cookbook dependencies handled by test-kitchen?
-* How can I contribute?
+* [Test Kitchen Announcement](http://www.opscode.com/blog/2012/08/17/announcing-test-kitchen/)
+
+### Introducing Test Kitchen
+
+* What is Test Kitchen?
+* Why do we need it?
+* Who's been working on it?
+* How important is Test Kitchen to the overall cookbook project?
 * What is bento?
-* how do you use test-kitchen today?
-* What is the future for test-kitchen?
-* Do your foresee test-kitchen integrating w/ travis-ci?
-* Why do I have to run `bundle exec kitchen` ?
-* Is test-kitchen suitable for n00bs or too advanced?
-* Test-kitchen is a _big_ project, who is working on it right now and
+* Is Test Kitchen suitable for n00bs or too advanced?
+* from commit log, Test Kitchen was started back in February of this
+  year, however it wasn't made public until recently. Why did you
+  choose to develop it in private rather than in the open? esp. when
+  some tools have complementary or overlapping functionality (i.e. berkshelf)?
+
+### Test Kitchen Workflow
+
+* What is the workflow a Chef will use with Test Kitchen?
+* What is the lifecycle for Test Kitchen?
+  * knife cookbook test
+  * foodcritic
+  * ...
+* what kind of tests can I run w/ Test Kitchen? What are the benefits
+  of the different kinds of tests?
+* how are you using Test Kitchen today?
+
+### Test Kitchen detail
+
+* how stable is Test Kitchen? which oses/distros does it support?
+* configurations
+* excluding things
+* How are cookbook dependencies handled by Test Kitchen?
+* How can I contribute?
+* Why do I have to run `bundle exec kitchen?
+
+### Future of Test Kitchen
+
+* What is the future for Test Kitchen?
+* Do your foresee Test Kitchen integrating w/ travis-ci?
+* Test Kitchen is a _big_ project, who is working on it right now and
   how much time do you have for it. Will Opscode  budget dev time to
   speed it up?
 * Mitchellh just merged in the machine-abstraction branch to vagrant,
   any chance Opscode will create a plugin for kvm or lxc?
-* Test-kitchen currently depends on librarian, could berkshelf be used in place of librarian?
-* Is test-kitchen necessarily chef-specific? could it be used to
+* Test Kitchen currently depends on librarian, could berkshelf be used in place of librarian?
+* Is Test Kitchen necessarily chef-specific? could it be used to
   manage tests for other configuration management tools like cfengine
   or puppet?
-* from commit log, test-kitchen was started back in February of this
-  year, however it wasn't made public until recently. Why did you
-  choose to develop it in private rather than in the open? esp. when
-  some tools have complementary or overlapping functionality (i.e. berkshelf)?
-* test-kitchen doesn't seem to have support for spinning up multiple
+* Test Kitchen doesn't seem to have support for spinning up multiple
   vms simultaneously and testing their interaction. This would be esp. useful for
   spinning up a mysql cluster, for instance. Is this feature planned?
 
@@ -50,23 +72,28 @@ Picks<a name="picks"></a>
 #### Bryan  
 
 * windsurfing
-* Red Mars by Kim Stanley Robinson
+* [Red Mars](http://www.amazon.com/Red-Mars-Trilogy-Stanley-Robinson/dp/0553560735) by Kim Stanley Robinson
 
 #### lusis  
 
 #### Nathen  
 
 * http://technology.customink.com/rspec-dns/
+* [Reyka Vodka](http://reyka.com/)
+
+#### Matt
+
+#### Joshua
+
+#### Andrew
 
 
 
 CLOSE
 -----
 
-We've got 
-
 Please take the time to rate us on itunes and to send your cookbook
-news to info@foodfightshow.org
+news to [info@foodfightshow.org](mailto:info@foodfightshow.org)
 
 Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
 
