@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  23 August 2012
 
 Panel<a name="panel"></a>
 -----
