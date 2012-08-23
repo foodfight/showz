@@ -11,10 +11,11 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
-Outline/Questions
------------------
+Outline
+-------
 
 * [Test Kitchen Announcement](http://www.opscode.com/blog/2012/08/17/announcing-test-kitchen/)
+* [Test Kitchen Repo](https://github.com/opscode/test-kitchen)
 
 ### Introducing Test Kitchen
 
@@ -38,16 +39,17 @@ Outline/Questions
   * ...
 * what kind of tests can I run w/ Test Kitchen? What are the benefits
   of the different kinds of tests?
+* do I need to write tests to use Test Kitchen?
 * how are you using Test Kitchen today?
 
 ### Test Kitchen detail
 
 * how stable is Test Kitchen? which oses/distros does it support?
-* configurations
-* excluding things
+* `kitchen test` will run a cookbook's `default` recipe.  How do you specify other recipes?
+* I can include configurations in my Kitchenfile.  What are they and how do they work?
 * How are cookbook dependencies handled by Test Kitchen?
+* Foodcritic supports custom foodcritic rules, can I do the same with Test Kitchen?
 * How can I contribute?
-* Why do I have to run `bundle exec kitchen?
 
 ### Future of Test Kitchen
 
@@ -65,6 +67,11 @@ Outline/Questions
 * Test Kitchen doesn't seem to have support for spinning up multiple
   vms simultaneously and testing their interaction. This would be esp. useful for
   spinning up a mysql cluster, for instance. Is this feature planned?
+
+### How can people get in touch with you?
+
+* Andrew
+* Joshua
 
 Picks<a name="picks"></a>
 -----
