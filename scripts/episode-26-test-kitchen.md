@@ -14,10 +14,14 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+* What is test-kitchen?
 * How important is test-kitchen to the overall cookbook project?
 * what kind of tests can I run w/ test-kitchen? What are the benefits
   of the different kinds of tests?
 * how stable is test-kitchen? which oses/distros does it support?
+* How are cookbook dependencies handled by test-kitchen?
+* How can I contribute?
+* What is bento?
 * how do you use test-kitchen today?
 * What is the future for test-kitchen?
 * Do your foresee test-kitchen integrating w/ travis-ci?
