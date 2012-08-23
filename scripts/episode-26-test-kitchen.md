@@ -62,6 +62,7 @@ Outline
 * Mitchellh just merged in the machine-abstraction branch to vagrant,
   any chance Opscode will create a plugin for kvm or lxc?
 * Test Kitchen currently depends on librarian, could berkshelf be used in place of librarian?
+* What are the plans for improving the documentation for Test Kitchen?
 * Is Test Kitchen necessarily chef-specific? could it be used to
   manage tests for other configuration management tools like cfengine
   or puppet?
