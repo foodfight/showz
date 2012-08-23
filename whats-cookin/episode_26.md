@@ -28,7 +28,9 @@ In the News<a name="news"></a>
 
 **N** * [Mat Schaffer](http://about.me/matschaffer) presented on Test Driven Deployment at last night's Philly Devops meetup. He discussed Vagrant, test-kitchen, berkshelf, chefspec, foodcritic, strainer, gurard, and minitest chef handler, you know, all the usual testing subjects. Slides are [available on speakerdeck](https://speakerdeck.com/u/matschaffer/p/test-driven-deployment).
 
-**B** * The first release candidate of Chef 10.14.0 is out.  This release adds the why-run feature as well as output formatters.  Check the [mailing list](http://lists.opscode.com/sympa/arc/chef/2012-08/msg00301.html) for the announcement.
+**B** * Over on the 37 Signals blog there's a new post about how they've [tuned their nagios to improve performance](http://37signals.com/svn/posts/3178-nagios-monitoring-performance). Nagios with Chef can lead to lots of checks which can lead to lots of load on your monitoring server.  Read the post for some insight into how 37 Signals improved performance on their monitoring servers.
+
+**N** * The first release candidate of Chef 10.14.0 is out.  This release adds the why-run feature as well as output formatters.  Check the [mailing list](http://lists.opscode.com/sympa/arc/chef/2012-08/msg00301.html) for the announcement.
 
 ## Upcoming Meetup Groups and Events
 **N**
