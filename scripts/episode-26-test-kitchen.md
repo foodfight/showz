@@ -1,4 +1,4 @@
-Show Date:  23 August 2012
+Show Date:  23 August 2012 [4PM EDT](http://www.timeanddate.com/worldclock/fixedtime.html?iso=20120823T2000)
 
 Panel<a name="panel"></a>
 -----
@@ -23,7 +23,7 @@ Outline
 * Why do we need it?
 * Who's been working on it?
 * How important is Test Kitchen to the overall cookbook project?
-* What is bento?
+* What is [bento](https://github.com/opscode/bento)?
 * Is Test Kitchen suitable for n00bs or too advanced?
 * from commit log, Test Kitchen was started back in February of this
   year, however it wasn't made public until recently. Why did you
