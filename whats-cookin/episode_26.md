@@ -39,7 +39,7 @@ In the News<a name="news"></a>
   will host another Chef Cafe on Thursday, September 6
 * Bryan McLellan(http://twitter.com/btmspox) will be presenting at the 
   Nagios World Conference North America in September.  He'll be 
-  discussing Configuring Chef with Nagios](http://www.nagios.com/events/nagiosworldconference/northamerica/2012/speakers/#bmclellan).
+  discussing [Configuring Chef with Nagios](http://www.nagios.com/events/nagiosworldconference/northamerica/2012/speakers/#bmclellan).
 
 ## Special Offers
 **B**
