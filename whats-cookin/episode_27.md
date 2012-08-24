@@ -34,7 +34,7 @@ In the News<a name="news"></a>
   of the month.  Hope to see you there!
 
 
-##  Special Offers
+###  Special Offers
 
 
 
