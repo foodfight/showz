@@ -14,6 +14,9 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 In the News<a name="news"></a>
 -----------
 
+### Upcoming Meetup Groups and Events
+
+###  Special Offers
 
 
 Cookbook News<a name="cookbooks"></a>
