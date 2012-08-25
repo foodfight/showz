@@ -22,11 +22,12 @@ LIVE from #ChefConf
 Food Fight Shows
 =================
 
-* [25 - Test Kitchen with Joshua Timberman and Andrew Crump](http://foodfightshow.org/2012/08/test-kitchen.html)
+* [26 - Test Kitchen with Joshua Timberman and Andrew Crump](http://foodfightshow.org/2012/08/test-kitchen.html)
   * [reddit](http://redd.it/ysrqs)
   * [Hacker News](http://news.ycombinator.com/item?id=4431423)
-* [24 - ChatOps at Github With Jesse Newland](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html)
-* [23 - Jamie Winsor and Michael Ivey Skool Us on Berkshelf](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html)
+* [25 - ChatOps at Github With Jesse Newland](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html)
+* [24 - Jamie Winsor and Michael Ivey Skool Us on Berkshelf](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html)
+* [23 - Interview with Theo Schlossnagle](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html)
 * [22 - Changing Culture &amp; Being a Force for Awesome](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html) 
 * [21 - Monitoring for n00bs with Jason Dixon](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html)
 * [20 - Interview with Joshua Timberman, King of Sysadmins](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html)
