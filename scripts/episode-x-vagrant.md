@@ -33,6 +33,7 @@ Picks<a name="picks"></a>
 
 * [Big Mow](http://www.therobostoreinc.com/bigmow.html) the robot mower
 * [Learning C with GDB](https://www.hackerschool.com/blog/5-learning-c-with-gdb)
+* [Devops Weekly](http://devopsweekly.com)
 * [The Ship Show](http://theshipshow.com/)
 * [Forst VIP Pils](http://www.ratebeer.com/beer/forst-vip-pils/12287/)
 
