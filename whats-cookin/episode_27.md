@@ -14,6 +14,12 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 In the News<a name="news"></a>
 -----------
 
+* Dan Ryan released [Mastermind](https://github.com/danryan/mastermind). Mastermind is an infrastructure orchestration engine. Its purpose is to provide the ability to compose and automate complex tasks with predefined and reproducible outcomes.
+* In the blog post [What Powers Etsy](http://codeascraft.etsy.com/2012/08/31/what-hardware-powers-etsy-com/) Etsy detailed the hardware configurations they use to power their site.
+
+
+
+
 ### Upcoming Meetup Groups and Events 
 
 * The [SF Bay Area Large-Scale Production Engineering](http://www.meetup.com/SF-Bay-Area-Large-Scale-Production-Engineering/events/73725682/)
