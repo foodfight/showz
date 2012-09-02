@@ -14,12 +14,13 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
-* let's define release/build engineering. What are the steps?
+* let's define release/build engineering. What are the components?
 * What is semantic versioning? Are there other versioning schemes to consider?
 * Why are there so many build tools, isn't `make` enough? why do we need ant, gradle, maven, rake, etc.? Do you use many tools w/in the same project?
 * What options are out there for continuous integration systems? There must be more that jenkins. What are the pros and cons of each?
 * Is there anything worth learning besides git? Are there particular advantages that perforce, svn, or mercurial have over it?
-
+* How might different git branching workflows relate to release engineering? tagging?
+* What is backporting?
 * How do you handle versioning and storage of large media files or many media files?
 * How do you handle deployments? What are the different common strategies?
 * What is an artifact repository? What are some examples? (nexus, artifactory)
