@@ -15,8 +15,9 @@ In the News<a name="news"></a>
 -----------
 
 * Dan Ryan released [Mastermind](https://github.com/danryan/mastermind). Mastermind is an infrastructure orchestration engine. Its purpose is to provide the ability to compose and automate complex tasks with predefined and reproducible outcomes.
+* Dan has also release [woodchuck](https://github.com/danryan/woodchuck) a lightweight log shipper for logstash written in Ruby.
 * In the blog post [What Powers Etsy](http://codeascraft.etsy.com/2012/08/31/what-hardware-powers-etsy-com/) Etsy detailed the hardware configurations they use to power their site.
-
+* We can't record this show as often as we would like but there are so many great topics to cover. That's why we are excited about the [ShipShow Podcast](http://theshipshow.com/), they are putting out great content including their most recent episode that asks "Is there such a thing as too much automation?" tl;dr the resounding answer is no!
 
 
 
