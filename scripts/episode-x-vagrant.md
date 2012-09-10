@@ -23,6 +23,7 @@ Outline/Questions
 * Why will vagrant no longer be distributed as a ruby gem w/ version 1.1? 
 * Many people perceive Vagrant as a ruby-specific tool, to be used only by Ruby programmers. Is this true? Do you have plans to make it more accessible to non-ruby devs?
 * Next, talk about vagrant 2.0 features and road map
+* Jan Beddari asks, the strength  of vagrant is its simplicity. is it really worth the effort to add support for multiple hypervisors? won't that cause more problems than it solves? He also wonders whether it would be easier to start from scratch than to try to accommodate the different hypervisors
 * Will veewee be moved into vagrant in a future release?
 * have you received any financial support thus far to speed up vagrant dev? are you seeking financial support for vagrant 2.0?
 * Mitchell - tell us about some notable plugins. What are common mistakes ppl make? Which plugins or functionality do you wish ppl would write or are most needed?
