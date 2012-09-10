@@ -11,18 +11,29 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
+
 Outline/Questions
 -----------------
 
-* Will veewee be moved into vagrant in a future release?
-* There was an interesting discussion of vagrant on hacker news after u made recent merge. 
+* Note for Listeners: we will not review the basics of how vagrant works in the this episode. That topic has been covered very well by earlier podcasts.
+* Start w/ recent merge that abstracted away from vbox
+** There was an interesting discussion of vagrant on hacker news after u made recent merge. 
 ** Vagrant is a surprisingly large codebase. What contributes to the size of the codebase?
 ** Why doesn't vagrant just use libvirt?
+* Next, talk about vagrant 2.0 features and road map
+* Will veewee be moved into vagrant in a future release?
 * have you received any financial support thus far to speed up vagrant dev? are you seeking financial support for vagrant 2.0?
 * Mitchell - tell us about some notable plugins. What are common mistakes ppl make? Which plugins or functionality do you wish ppl would write or are most needed?
-* Do you intend for vagrant to be single machine only? What about spinning up vms on openstack or aws
 * Patrick - what's your workflow look like? Walk us thru creating new puppet manifest.  What plugins do you use? What does Sahara do and how do you use it?
-
+* Do you intend for vagrant to be single machine only? What about spinning up vms on openstack or aws? or a riak cluster?
+* Orchestration adds new elements of complexity w/ time. Ordering of vm actions is significant. We are lucky to have two
+configuration management frameworks -- puppet and chef -- that address the problem of config mgmt. What elements would and
+orchestration tool/framework/DSL need to possess? At least in the context of vagrant ;) Do any existing tools satisfy those 
+requirements
+* Testing - How does automated testing work w/ vagrant?
+** how well do cucumber, rspec, minitest integrate w/ vagrant? (May want to mention aruba)
+** what could be better in this area?
+** what about test runners and formatters?
 * How can people can get involved w/ vagrant? where do you need help the most?
 * Lastly, how can people get in touch with you?
 
@@ -30,6 +41,7 @@ Picks<a name="picks"></a>
 -----
 
 #### Bryan  
+
 
 * [Big Mow](http://www.therobostoreinc.com/bigmow.html) the robot mower
 * [Learning C with GDB](https://www.hackerschool.com/blog/5-learning-c-with-gdb)
