@@ -20,6 +20,8 @@ Outline/Questions
 ** There was an interesting discussion of vagrant on hacker news after u made recent merge. 
 ** Vagrant is a surprisingly large codebase. What contributes to the size of the codebase?
 ** Why doesn't vagrant just use libvirt?
+* Why will vagrant no longer be distributed as a ruby gem w/ version 1.1? 
+* Many people perceive Vagrant as a ruby-specific tool, to be used only by Ruby programmers. Is this true? Do you have plans to make it more accessible to non-ruby devs?
 * Next, talk about vagrant 2.0 features and road map
 * Will veewee be moved into vagrant in a future release?
 * have you received any financial support thus far to speed up vagrant dev? are you seeking financial support for vagrant 2.0?
