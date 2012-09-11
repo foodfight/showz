@@ -16,6 +16,7 @@ Outline/Questions
 -----------------
 
 * Note for Listeners: we will not review the basics of how vagrant works in the this episode. That topic has been covered very well by earlier podcasts.
+* We will, however, start off with a quick intro of Vagrant, veewee, and Sahara.
 * Start w/ recent merge that abstracted away from vbox
   * There was an interesting discussion of vagrant on hacker news after u made recent merge. 
   * Vagrant is a surprisingly large codebase. What contributes to the size of the codebase?
