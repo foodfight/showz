@@ -35,9 +35,9 @@ configuration management frameworks -- puppet and chef -- that address the probl
 orchestration tool/framework/DSL need to possess? At least in the context of vagrant ;) Do any existing tools satisfy those 
 requirements
 * Testing - How does automated testing work w/ vagrant?
-** how well do cucumber, rspec, minitest integrate w/ vagrant? (May want to mention aruba)
-** what could be better in this area?
-** what about test runners and formatters?
+  * how well do cucumber, rspec, minitest integrate w/ vagrant? (May want to mention aruba)
+  * what could be better in this area?
+  * what about test runners and formatters?
 * why does vagrant have such a small wiki for such a popular project?
 * How can people can get involved w/ vagrant? where do you need help the most?
 * Lastly, how can people get in touch with you?
