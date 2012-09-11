@@ -17,9 +17,9 @@ Outline/Questions
 
 * Note for Listeners: we will not review the basics of how vagrant works in the this episode. That topic has been covered very well by earlier podcasts.
 * Start w/ recent merge that abstracted away from vbox
-** There was an interesting discussion of vagrant on hacker news after u made recent merge. 
-** Vagrant is a surprisingly large codebase. What contributes to the size of the codebase?
-** Why doesn't vagrant just use libvirt?
+  * There was an interesting discussion of vagrant on hacker news after u made recent merge. 
+  * Vagrant is a surprisingly large codebase. What contributes to the size of the codebase?
+  * Why doesn't vagrant just use libvirt?
 * Why will vagrant no longer be distributed as a ruby gem w/ version 1.1? 
 * Many people perceive Vagrant as a ruby-specific tool, to be used only by Ruby programmers. Is this true? Do you have plans to make it more accessible to non-ruby devs?
 * Next, talk about vagrant 2.0 features and road map
