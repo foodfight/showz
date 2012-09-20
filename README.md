@@ -22,6 +22,9 @@ LIVE from #ChefConf
 Food Fight Shows
 =================
 
+* [27 - Vagrant with Mitchell Hashimoto and Patrick Debois](http://foodfightshow.org/2012/09/vagrant.html)
+  * [reddit](http://redd.it/107aj7)
+  * [Hacker News](http://news.ycombinator.com/item?id=4549730)
 * [26 - Test Kitchen with Joshua Timberman and Andrew Crump](http://foodfightshow.org/2012/08/test-kitchen.html)
   * [reddit](http://redd.it/ysrqs)
   * [Hacker News](http://news.ycombinator.com/item?id=4431423)
