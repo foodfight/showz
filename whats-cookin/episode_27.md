@@ -70,12 +70,13 @@ Installs/Configures nexus, a repository manager
 * [unattended_upgrades](http://community.opscode.com/cookbooks/unattended_upgrades) v0.0.2 - Marcel Cary [marcelcary](http://community.opscode.com/users/marcelcary)
 Installs/Configures APT unattended_upgrade
 
+There are a couple of new cookbooks for Splunk:
 * [splunk_handler](http://community.opscode.com/cookbooks/splunk_handler) v1.1.0 - Greg Albrecht [ampledata](http://community.opscode.com/users/ampledata)
 Cookbook version of the Chef Exception & Reporting Handler for Splunk.
 * [splunkstorm](http://community.opscode.com/cookbooks/splunkstorm) v0.0.1 - Aaron Wallis [d2kagw](http://community.opscode.com/users/d2kagw)
 Installs/Configures Splunk Storm forwarders and includes resources to easily add/remove monitored files and directories.
 
-We've got three cookbooks form Geoffrey Tran:
+We've got three new cookbooks form Geoffrey Tran:
 * [mysql_charset](http://community.opscode.com/cookbooks/mysql_charset) v0.0.1 - [geoffreytran](http://community.opscode.com/users/geoffreytran)
 Installs a charset.cnf file with the default character sets for mysql
 * [symfony2](http://community.opscode.com/cookbooks/symfony2) v0.0.1 - [geoffreytran](http://community.opscode.com/users/geoffreytran)
