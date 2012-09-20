@@ -1,6 +1,5 @@
 Introduction
 ------------
-
 Hello, and welcome to episode 27 of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
 
 It's been a while since our last show so we've got a lot of news to cover before we get to our interview with Mitchell Hashimoto and Patrick Debois.  
