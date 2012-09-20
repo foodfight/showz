@@ -3,10 +3,6 @@ Introduction
 
 Hello, and welcome to episode 27 of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
 
-I'm Nathen Harvey, @n-a-t-h-e-n-h-a-r-v-e-y on Twitter.
-
-While you're over on Twitter, be sure to follow @foodfightshow!
-
 It's been a while since our last show so we've got a lot of news to cover before we get to our interview with Mitchell Hashimoto and Patrick Debois.  
 
 Let's jump right into "What's Cookin'" - your source for Chef and Cookbook news.
