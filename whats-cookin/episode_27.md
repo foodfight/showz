@@ -5,27 +5,26 @@ Hello, and welcome to episode 27 of the Food Fight Show.  This is the podcast wh
 
 I'm Nathen Harvey, @n-a-t-h-e-n-h-a-r-v-e-y on Twitter.
 
-And, I'm Bryan Berry, @b-r-y-a-n-w-b on Twitter.
-
 While you're over on Twitter, be sure to follow @foodfightshow!
 
-We'll start this episode with "What's Cookin'" - your source for Chef and Cookbook news.
+It's been a while since our last show so we've got a lot of news to cover before we get to our interview with Mitchell Hashimoto and Patrick Debois.  
+
+Let's jump right into "What's Cookin'" - your source for Chef and Cookbook news.
 
 In the News<a name="news"></a>
 -----------
 
-* Dan Ryan released [Mastermind](https://github.com/danryan/mastermind). Mastermind is an infrastructure orchestration engine. Its purpose is to provide the ability to compose and automate complex tasks with predefined and reproducible outcomes.
-* Dan has also release [woodchuck](https://github.com/danryan/woodchuck) a lightweight log shipper for logstash written in Ruby.
+* Dan Ryan released [Mastermind](https://github.com/danryan/mastermind), an infrastructure orchestration engine. It provides the ability to compose and automate complex tasks with predefined and reproducible outcomes.
+* Dan has also released [woodchuck](https://github.com/danryan/woodchuck) a lightweight log shipper for logstash written in Ruby.
 * Mathias Lafeldt wrote up a post on his experiences with [Learning Chef](http://mlafeldt.github.com/blog/2012/09/learning-chef/).  Where should you start?  with Ruby!  Mathias recommends that you start by learning some Ruby before you get too far into Chef.
-* [Chef 10.14 has been released!].  Since we recorded the last podcast there have actually been a number of Chef release in the 10.14 series
-  * [10.14.2 release announcement](http://www.opscode.com/blog/2012/09/11/chef-10-14-2-released/)
+* [Chef 10.14 has been released!].  Since we recorded the last podcast there have actually been a number of Chef releases in the 10.14 series
 * And if Chef 10.14 isn't enough to get you really excited, you can now [Test Drive the Chef 11 Server Preview](http://www.opscode.com/blog/2012/08/31/test-drive-the-chef-11-server-preview/).  This preview is the erchef powered Chef Server using omnibus installer on Ubuntu 10.04.
 * [Jon Cowie](https://twitter.com/jonlives) recently announced that [knife-spork made it to 1.0](http://blog.mycrot.ch/2012/08/27/knife-spork-1-0-0-released/).  With a lot of help from [Seth Vargo](http://twitter.com/sethvargo), [knife-spork](https://rubygems.org/gems/knife-spork) was completely refactored and now has a plugin framework.
 * [Pete Cheslock](https://twitter.com/petecheslock) recently presented at the [Chef Boston Meetup](http://www.meetup.com/Chef-BOSTON/) on [Team Development Workflows with Chef](http://www.slideshare.net/petecheslock/chef-bostonworkflows-14101026).  The slides from his presentation are [available on slideshare](http://www.slideshare.net/petecheslock/chef-bostonworkflows-14101026).
-* The team over at [Green and Secure IT Limited](https://github.com/greenandsecure) recently released [knife-block](https://github.com/greenandsecure/knife-block) to enable the use of multiple knife.rb files against multiple chef servers.  `knife block use foo`s
-* [http://codeascraft.etsy.com/2012/09/10/the-engineer-exchange-program/](http://codeascraft.etsy.com/2012/09/10/the-engineer-exchange-program/) the team over at Etsy recently wrote a post about the Engineer Exchange Program project. It's pretty simple:  An Etsy engineer headed over to San Francisco to spend a week working with a Twitter Platform Engineer.  The two engineers spent the next week in Brooklyn working at Etsy.
-* [Gareth Llewellyn](https://github.com/NetworksAreMadeOfString) recently released [Cyllel Beta 0.4](https://play.google.com/store/apps/details?id=net.networksaremadeofstring.cyllell&feature=search_result#?t=W251bGwsMSwyLDEsIm5ldC5uZXR3b3Jrc2FyZW1hZGVvZnN0cmluZy5jeWxsZWxsIl0.) An andriod app that lets you interact with your Opscode Chef managed infrastructure.  Check-out the [code on github](https://github.com/NetworksAreMadeOfString/Cyllell).
+* The team over at [Green and Secure IT Limited](https://github.com/greenandsecure) recently released [knife-block](https://github.com/greenandsecure/knife-block) to enable the use of multiple knife.rb files against multiple chef servers. This is a great way to help keep your knife configuration files organized.  Simply type `knife block use foo` to switch to the 'foo' chef server.  `knife block use bar` will change your config to connect to the 'bar' chef server.
+* [Gareth Llewellyn](https://github.com/NetworksAreMadeOfString) recently released [Cyllel Beta 0.4](https://play.google.com/store/apps/details?id=net.networksaremadeofstring.cyllell&feature=search_result#?t=W251bGwsMSwyLDEsIm5ldC5uZXR3b3Jrc2FyZW1hZGVvZnN0cmluZy5jeWxsZWxsIl0.) An andriod app that lets you interact with your Chef managed infrastructure.  Check-out the [code on github](https://github.com/NetworksAreMadeOfString/Cyllell).
 * In the blog post [What Powers Etsy](http://codeascraft.etsy.com/2012/08/31/what-hardware-powers-etsy-com/) Etsy detailed the hardware configurations they use to power their site.
+* The team over at Etsy also recently wrote a post about the [Engineer Exchange Program project](http://codeascraft.etsy.com/2012/09/10/the-engineer-exchange-program/) . It's pretty simple:  An Etsy engineer headed over to San Francisco to spend a week working with a Twitter Platform Engineer.  The two engineers spent the next week in Brooklyn working at Etsy.  I'm really interested to hear how this exchange went.
 * We can't record this show as often as we would like but there are so many great topics to cover. That's why we are excited about the [ShipShow Podcast](http://theshipshow.com/), they are putting out great content including their most recent episode that asks "Is there such a thing as too much automation?" tl;dr the resounding answer is no!
 
 
