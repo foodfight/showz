@@ -3,11 +3,9 @@ BShow Date: Sept 11, 21:30 CEST
 Panel<a name="panel"></a>
 -----
 
-* Mitchell Hashimoto
-* Patrick DeBois
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* Mitchell Hashimoto [github](https://github.com/mitchellh), [twitter](https://twitter.com/mitchellh)
+* Patrick DeBois [github](https://github.com/jedi4ever), [twitter](https://twitter.com/patrickdebois), [blog](http://www.jedi.be/blog)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
