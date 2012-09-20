@@ -4,7 +4,6 @@ Windows Roundtable
 
 Panel
 =====
-* Dan Gilmer, ancestry.com
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 
@@ -53,7 +52,6 @@ application deployment?
 #### Picks
 
 * Bryan
-  * [The Singularity is Near](http://en.wikipedia.org/wiki/The_Singularity_Is_Near)
-  * [Stephen Eley](https://github.com/sfeley), founder of [escapepod](http://escapepod.org) and contributor to Cucumber-Chef
+* Nathen
 
   
