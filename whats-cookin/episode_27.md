@@ -64,13 +64,30 @@ This simple cookbook installs the latest version of [Spiceweasel](http://bit.ly/
 * [debian](http://community.opscode.com/cookbooks/debian) v0.0.1 - Guilhem Lettron [guilhemfr](http://community.opscode.com/users/guilhemfr)
 Sets up apt sources for Debian.
 * [rvm_deploy](http://community.opscode.com/cookbooks/rvm_deploy) v0.0.1 - Pavel Forkert [fxposter](http://community.opscode.com/users/fxposter)
-This cookbook provides rvm_deploy resource, which can be used just like deploy or deploy_revision resources, but it provides rvm integration.
+This cookbook provides an rvm_deploy resource, which can be used just like deploy or deploy_revision resources, but it provides rvm integration.
+* [graphene](http://community.opscode.com/cookbooks/graphene) v0.0.6 - Zo Obradovic [zo](http://community.opscode.com/users/zo)
+Installs and configures the Graphene graphing toolkit.
+* [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) v0.0.12 - Gerald Hevener [jackl0phty](http://community.opscode.com/users/jackl0phty)
+This cookbook will install bind9, a DNS server, in a CHROOT jail environment.
+* [nexus](http://community.opscode.com/cookbooks/nexus) v0.11.2 - Jamie Winsor [reset](http://community.opscode.com/users/reset)
+Installs/Configures nexus, a repository manager
+* [unattended_upgrades](http://community.opscode.com/cookbooks/unattended_upgrades) v0.0.2 - Marcel Cary [marcelcary](http://community.opscode.com/users/marcelcary)
+Installs/Configures APT unattended_upgrade
+
 * [splunk_handler](http://community.opscode.com/cookbooks/splunk_handler) v1.1.0 - Greg Albrecht [ampledata](http://community.opscode.com/users/ampledata)
 Cookbook version of the Chef Exception & Reporting Handler for Splunk.
+* [splunkstorm](http://community.opscode.com/cookbooks/splunkstorm) v0.0.1 - Aaron Wallis [d2kagw](http://community.opscode.com/users/d2kagw)
+Installs/Configures Splunk Storm forwarders and includes resources to easily add/remove monitored files and directories.
+
+We've got three cookbooks form Geoffrey Tran:
 * [mysql_charset](http://community.opscode.com/cookbooks/mysql_charset) v0.0.1 - [geoffreytran](http://community.opscode.com/users/geoffreytran)
-Installs a charset.cnf file with the default charsets for mysql
+Installs a charset.cnf file with the default character sets for mysql
 * [symfony2](http://community.opscode.com/cookbooks/symfony2) v0.0.1 - [geoffreytran](http://community.opscode.com/users/geoffreytran)
 This cookbook runs the Symfony2 console command
+* [composer](http://community.opscode.com/cookbooks/composer) v0.0.2 - [geoffreytran](http://community.opscode.com/users/geoffreytran)
+This cookbook installs PHP Composer, a tool for dependency management in PHP.
+
+Chris Roberts is back with a bunch of cookbooks
 * [dnsmasq](http://community.opscode.com/cookbooks/dnsmasq) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Installs and configures dnsmasq
 * [hosts_file](http://community.opscode.com/cookbooks/hosts_file) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
@@ -79,16 +96,12 @@ Manage your hosts file with chef.
 Manage linux containers with Chef.
 * [kernel_vm](http://community.opscode.com/cookbooks/kernel_vm) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Chef driven Kernel VMs
-* [composer](http://community.opscode.com/cookbooks/composer) v0.0.2 - [geoffreytran](http://community.opscode.com/users/geoffreytran)
-This cookbook installs PHP Composer, a tool for dependency management in PHP.
-* [graphene](http://community.opscode.com/cookbooks/graphene) v0.0.6 - Zo Obradovic [zo](http://community.opscode.com/users/zo)
-Installs and configures the Graphene graphing toolkit.
-* [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) v0.0.12 - Gerald Hevener [jackl0phty](http://community.opscode.com/users/jackl0phty)
-This cookbook will install bind9, a DNS server, in a CHROOT jail environment.
-* [nexus](http://community.opscode.com/cookbooks/nexus) v0.11.2 - Jamie Winsor [reset](http://community.opscode.com/users/reset)
-Installs/Configures nexus, a repository manager
-* [unattended_upgrades](http://community.opscode.com/cookbooks/unattended_upgrades) v0.0.2 - Marcel Cary [marcelcary](http://community.opscode.com/users/marcelcary)
-Installs/Configures APT unattended_upgrades
+* [gozer](http://community.opscode.com/cookbooks/gozer) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+This is a cookbook that Chris uses to build his workstation.
+* [i3](http://community.opscode.com/cookbooks/i3) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+Install and configure i3, a dynamic tiling window manager.
+
+John Dewey's  been really busy releasing cookbooks for many common utilities.  This is the third episode in a row where we've got multiple new cookbooks from John:
 * [sysstat](http://community.opscode.com/cookbooks/sysstat) v1.2.0 - John Dewey [retr0h](http://community.opscode.com/users/retr0h)
 Installs/Configures sysstat
 * [tree](http://community.opscode.com/cookbooks/tree) v1.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
@@ -105,13 +118,6 @@ Installs/Configures mtr
 Installs/Configures ltrace
 * [iperf](http://community.opscode.com/cookbooks/iperf) v1.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
 Installs/Configures iperf
-* [splunkstorm](http://community.opscode.com/cookbooks/splunkstorm) v0.0.1 - Aaron Wallis [d2kagw](http://community.opscode.com/users/d2kagw)
-Installs/Configures Splunk Storm forwarders and includes resources to easily add/remove monitored files and directories.
-* [gozer](http://community.opscode.com/cookbooks/gozer) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
-This is a cookbook that Chris uses to build his workstation.
-* [i3](http://community.opscode.com/cookbooks/i3) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
-Install and configure i3, a dynamic tiling window manager.
-
 
 ### Updated Cookbooks
 * [minitest-handler](http://community.opscode.com/cookbooks/minitest-handler) v0.1.2 - [btm](http://community.opscode.com/users/btm)
