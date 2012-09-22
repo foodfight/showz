@@ -1,7 +1,15 @@
 Cookbook Versioning, Source Code Management, and Synchronization
 ===============================================================
 
-Show Date: 13 Nov 2012
+Show Date
+---------
+13 Nov 2012
+
+Rome:         18:00
+London:       17:00
+Annapolis:    12:00
+Minneapolis:  11:00
+Santa Monica: 09:00
 
 Panel<a name="panel"></a>
 -----
