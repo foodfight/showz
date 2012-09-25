@@ -57,8 +57,8 @@ that the Mac OS X 10.8.2 upgrade totally breaks virtualbox 4.2 and
 earlier. Luckily Oracle put out
 [Virtualbox 4.2.1](https://www.virtualbox.org/wiki/Downloads) with
 hotfix for this issue.
-*
-  [The new github launch page](https://github.com/blog/1267-github-launch-page)
+
+* [The new github launch page](https://github.com/blog/1267-github-launch-page)
   which features the
   [command bar](https://github.com/blog/1264-introducing-the-command-bar)
   is freaking awesome, essentially it gives u a CLI interface to the
