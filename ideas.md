@@ -68,6 +68,8 @@ emulator, editor, markup format, etc.
 * The best unix tools, talk about grep, find, top, atop, htop, xargs,
   gnu parallel, and best way to use them, could have Adam on the show
   and call it "Adam Jacob wants to Awk your Grep"
+* Talk w/ Derek Collison, current Apcera ceo and one of leading
+  cloudfoundry devs, about the future of iaas, paas, and golang
 
 Delicacies
 ==========
