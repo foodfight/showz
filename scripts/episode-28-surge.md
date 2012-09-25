@@ -32,13 +32,16 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
-#### Matt
-
-#### lusis
+* The Go programming language
 
 #### Nathen
 
+* Group chat tools like Campfire & Hipchat
+
 #### Michael
+
+* [Reflections on Trusting Trust](http://cm.bell-labs.com/who/ken/trust.html)
+* Home brewing!
 
 
 
