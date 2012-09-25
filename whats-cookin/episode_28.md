@@ -14,6 +14,45 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 In the News<a name="news"></a>
 -----------
 
+* Berkshelf 0.6.0beta1 is out, includes windows support and easier
+  install. How much easier? It now uses a pure ruby constraint
+  solver, which spares us the pain of having to hand-compile the
+  gecode library. 0.6.0 builds on the [0.5.0 release](http://lists.opscode.com/sympa/arc/chef/2012-09/msg00258.html) which had a ton of
+  new features such as
+  * now uses a built-in vagrant plugin instead of shims
+  * Cookbooks and their dependencies will now automatically be provided to Vagrant when you boot your virtual machine.
+  * Vagrant will receive any changes made to cookbooks on any future
+    provision command.
+  * can use the your Chef API as a soruce location
+  * Cookbook generator
+  * and others!
+* [Karel Minarik](http://www.karmi.cz) and Vojtech Hyza gave a
+["hello cloud" presentation](http://www.slideshare.net/karmi/shells-kitchen-infrastructure-as-code-webexpo-2012)
+where they demonstrated how to spin up an application cluster that
+includes a load balancer, 3 application servers, 1 database node, and
+2 elasticsearch nodes. The recipes are on
+[github](https://github.com/karmi/chef-hello-cloud/) for your browsing pleasure
+* Cloudant labs posted
+  [their analyis](https://cloudant.com/blog/cloudant-labs-on-google-spanner/)
+  of Google's globally distributed datastore known as
+  [Spanner](https://cloudant.com/blog/cloudant-labs-on-google-spanner/).
+  Essentially, it as a datastore that is globally distributed across
+  multiple data centers where each transaction globally consistent. Get that, it is
+  globally consistent, not eventually consistent. They use several
+  techniques to accomplish this but one of the most notable is that
+  they use specialized hardware that includes atomic clocks and GPS on
+  each server.
+
+* [Github's postmortem](https://github.com/blog/1261-github-availability-this-week)
+* [PuppetCast podcast](http://puppetlabs.com/resources/podcasts/)
+* [Why I'm went from Python to Go](http://jordanorelli.tumblr.com/post/31533769172/why-i-went-from-python-to-go-and-not-node-js)
+* [Mitchellh reported](https://twitter.com/mitchellh/status/248515077777522690)
+that the Mac OS X 10.8.2 upgrade totally breaks virtualbox 4.2 and
+earlier. Luckily Oracle put out
+[Virtualbox 4.2.1](https://www.virtualbox.org/wiki/Downloads) with
+hotfix for this issue.
+
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
