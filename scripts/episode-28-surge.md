@@ -23,7 +23,7 @@ Outline/Questions
   most of our listeners are familiar with 3-tier architectures but can
   you be more specific about what an n-tier architecture is? What makes this architecture an antipattern?
 * What sort of failure scenarios are avoided using the archicture you're employing?
-* Surege is all about disaster porn.  What are some failure scenarios that are unique to hypermedia APIs and / or HTML5 microdata?
+* Surge is all about disaster porn.  What are some failure scenarios that are unique to hypermedia APIs and / or HTML5 microdata?
 * The Food Fight Show usually includes some discussion of Chef.  What are you using at Xfinity to caputre and manage your infrastructure as code?
 
 
