@@ -22,6 +22,8 @@ LIVE from #ChefConf
 Food Fight Shows
 =================
 
+* [28 - Big Data in the Small: Why N Tier Architectures Are an Antipattern](http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#picks)
+  * [Hacker News](http://news.ycombinator.com/item?id=4571962)
 * [27 - Vagrant with Mitchell Hashimoto and Patrick Debois](http://foodfightshow.org/2012/09/vagrant.html)
   * [reddit](http://redd.it/107aj7)
   * [Hacker News](http://news.ycombinator.com/item?id=4549730)
