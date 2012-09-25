@@ -45,6 +45,12 @@ includes a load balancer, 3 application servers, 1 database node, and
 
 * [Github's postmortem](https://github.com/blog/1261-github-availability-this-week)
 * [PuppetCast podcast](http://puppetlabs.com/resources/podcasts/)
+* Derek Collison, one of the past leaders of the cloud foundry project
+and now CEO of a cloud platform company,
+[tweeted his prediction](https://twitter.com/derekcollison/status/245522124666716160)
+that Go will become the dominant
+language for systems work in IaaS, Orchestration, and PaaS in 24 months
+
 * [Why I'm went from Python to Go](http://jordanorelli.tumblr.com/post/31533769172/why-i-went-from-python-to-go-and-not-node-js)
 * [Mitchellh reported](https://twitter.com/mitchellh/status/248515077777522690)
 that the Mac OS X 10.8.2 upgrade totally breaks virtualbox 4.2 and
