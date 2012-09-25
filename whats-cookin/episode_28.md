@@ -65,7 +65,24 @@ hotfix for this issue.
   github site. It comes complete with tab completion, smart filtering,
   history. 
 
+* [Stop the fork](https://github.com/jedi4ever/stop-the-fork) - a new github repo from [Patrick Debois](https://github.com/jedi4ever).  This repo will collect ideas and examples on how structure your configuration management code to avoid forks from happening.
+
+* [knife-community](https://github.com/miketheman/knife-community) - A Knife plugin to assist with deploying completed Chef cookbooks to the Community Site.  The plugin was created by [Mike Fiedler](https://github.com/miketheman) and [Joshua Timberman](http://github.com/jtimberman) recently wrote up a [blog post on the Opscode blog](http://www.opscode.com/blog/2012/09/17/community-authored-plugin-knife-community-release/) about the plugin.
+
+* DevOpsDC recently had an evening of lightning talks on ChefSpec, OpenTSDB, Disaster Porn, and more.  Checkout the [presentations on the meetup site](http://www.meetup.com/DevOpsDC/pages/September_2012_Recap/)
+
+* The Triangle Devops group met recently to talk about how Bronto software is becoming information rich  by collecting production data and analyzing it.  Check the show notes for a link to the presentation.  [http://files.meetup.com/2331301/Triangle%20DevOps.pdf](http://files.meetup.com/2331301/Triangle%20DevOps.pdf).
+
+* [John Allspaw](http://twitter.com/allspaw) has been putting a lot of thought into automation and has released part one in his series [A Mature Role for Automation](http://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/). 
+
+* [Resilience Engineering: Learning to Embrace Failure](http://queue.acm.org/detail.cfm?id=2371297) - this is an interview with 
+
+
 ### Upcoming Meetup Groups and Events
+
+* Two new DevOps meetup groups are being formed.  One in [Minneapolis](http://www.meetup.com/DevOps-Minneapolis/) and one in [Miilwaukee](http://www.meetup.com/DevOps-Milwaukee/).
+
+* The Triangle Devops group will meet on October 17 in Raleigh, NC.  The topic for the night:  [Learn About Customer Service for People Who Love The Glow of the Terminal](http://www.meetup.com/Triangle-DevOps/events/82806542/)
 
 ###  Special Offers
 
