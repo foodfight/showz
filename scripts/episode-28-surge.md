@@ -33,10 +33,12 @@ Picks<a name="picks"></a>
 #### Bryan
 
 * The Go programming language
+  * [A Tour of Go](http://tour.golang.org)
+  * [Effective Go](http://golang.org/doc/effective_go.html)
 
 #### Nathen
 
-* Group chat tools like Campfire & Hipchat
+* Group chat tools like [Campfire](http://campfirenow.com/) & [Hipchat](https://opscode.hipchat.com/home)
 
 #### Michael
 
