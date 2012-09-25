@@ -75,7 +75,7 @@ hotfix for this issue.
 
 * [John Allspaw](http://twitter.com/allspaw) has been putting a lot of thought into automation and has released part one in his series [A Mature Role for Automation](http://www.kitchensoap.com/2012/09/21/a-mature-role-for-automation-part-i/). 
 
-* [Resilience Engineering: Learning to Embrace Failure](http://queue.acm.org/detail.cfm?id=2371297) - this is an interview with 
+* [Resilience Engineering: Learning to Embrace Failure](http://queue.acm.org/detail.cfm?id=2371297) - this is an interview with Jesse Robbins, Kripa Krishnan, John Allspaw, and Tom Limoncelli.  This is a great article about using Gameday exercises.
 
 
 ### Upcoming Meetup Groups and Events
