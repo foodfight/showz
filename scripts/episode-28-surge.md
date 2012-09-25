@@ -19,7 +19,9 @@ Outline/Questions
 * Michael, can you please introduce yourself to our listeners?  Where are you located?  Where do you work, and what's your role there?
 * What will you be presenting at Surge?
 * Can you give us a basic introduction to Hypermedia APIs?  What is a hypermedia API and why should I care?
-* Many applications are build using an N Tier Architectures.  What makes this architecture an antipattern?
+* Many applications are build using an N Tier Architectures. I think
+  most of our listeners are familiar with 3-tier architectures but can
+  you be more specific about what an n-tier architecture is? What makes this architecture an antipattern?
 * What sort of failure scenarios are avoided using the archicture you're employing?
 * Surege is all about disaster porn.  What are some failure scenarios that are unique to hypermedia APIs and / or HTML5 microdata?
 * The Food Fight Show usually includes some discussion of Chef.  What are you using at Xfinity to caputre and manage your infrastructure as code?
