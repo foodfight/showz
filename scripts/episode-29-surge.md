@@ -34,20 +34,28 @@ This is our story of scaling from zero to 500,000 queries per second in three ye
 
 When you're processing 500,000 queries per second, load balancers aren't a cost-effective way to scale. At AppNexus, we hit a brick wall with our load balancers. Over the course of a weekend, we ripped them out and replaced them with a high-scaling and cost effective solution: GSLB and Keepalived with a custom back end to support them. This presentation walks through our solution and shows the audience how we protect ourselves from failure without load balancers.
 
+* Please introduce yourselves to our audience.  Where do you work, what's your role, etc.
+* What are you presenting here at Surge?
+* Disaster porn - Share one or two stories about some of your colossal mistakes.
+* Technology choices - why GSLB and keepalived?
+* Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.  Why did you build it yourself instead of going with an existing framework like Chef or Puppet?
+
+
 ### Ryan Kennedy
 
 #### Build Your Own Database: Berkeley DB Java Edition at Yammer
 
 Sometimes the solution to your problem can't be found on the shelf. That was the case one year ago for Yammer when rampaging growth forced us to move our messaging database from a 10+ billion row PostgreSQL database to something more reliable and scale ready. After several false starts with pre-built offerings, we constructed our own solution and shipped an embedded, distributed NoSQL data store built on top of Berkeley DB Java Edition. It was not a decision made lightly. Nor was it a particularly easy trail to blaze at times. In this session I'll discuss why Yammer chose to build vs. buy, what was built, problems encountered and where Yammer is today.
 
-* Welcome, Ryan.  Please introduce yourself to our audience.  Where do you work, what's your role, etc.
+* Please introduce yourself to our audience.  Where do you work, what's your role, etc.
 * What are you presenting here at Surge?
 * PostgreSQL is known for being reliable and scalable yet it didn't work for you.  What problems were you running into?
 * What other solutions did you consider before deciding to build your own?
 * What are your data access patterns?  Would a key-value store such as riak or redis been able to address your needs?
 * What did you end up building?
 * What have been some of the challenges in building your own data store?
-
+* Disaster porn - Share one or two stories about some of your disasters?
+* Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.  Why did you build it yourself instead of going with an existing framework like Chef or Puppet?
 
 Picks<a name="picks"></a>
 -----
