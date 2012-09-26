@@ -7,6 +7,7 @@ Show Date: 25-27 September, 2012
 Panel<a name="panel"></a>
 -----
 
+* Kate Matsudaira - 
 * Mike Nolet - 
 * Pete Emerson - 
 * Ryan Kennedy - 
@@ -19,6 +20,20 @@ Panel<a name="panel"></a>
 
 Outline/Questions
 -----------------
+### Kate Matsudaira
+
+#### Big Data Without Big Database—Extreme In-Memory Caching
+
+These days it is not uncommon to have 100s of gigabytes of data that must be sliced and diced, then delivered fast and rendered quickly. Typically solutions involve lots of caching and expensive hardware with lots of memory. And, while those solutions certainly can work, they aren't always cost effective, or feasible in certain environments (like in the cloud). This talk seeks to cover some strategies for caching large data sets without tons of expensive hardware, but through software and data design.
+
+It's common wisdom that serving your data from memory dramatically improves application performance and is a key to scaling. However, caching large datasets brings its own challenges: distribution, consistency, dealing with memory limits, and optimizing data loading just to name a few. This talk will go through some of the challenges, and solutions, to achieve fast data queries in the cloud. The audience will come away armed with a number of practical techniques for organizing and building caches for non-transactional datasets that can be applied to scale existing systems, or design new systems.
+
+* Please introduce yourself to our audience.  Where do you work, what's your role, etc.
+* What are you presenting here at Surge?
+* Can you share some of the technologies and techniques you've used to achieve fast data queries in the cloud?
+* Disaster porn - Share one or two stories about some of your disasters?
+* Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.
+
 ### AppNexus
 
 #### Mike Nolet - From Zero to 500k QPS in Three Years: Scaling AppNexus
@@ -53,12 +68,14 @@ Sometimes the solution to your problem can't be found on the shelf. That was the
 * What did you end up building?
 * What have been some of the challenges in building your own data store?
 * Disaster porn - Share one or two stories about some of your disasters?
-* Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.  Why did you build it yourself instead of going with an existing framework like Chef or Puppet?
+* Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.
 
 Picks<a name="picks"></a>
 -----
 
 #### Nathen
+
+#### Kate
 
 #### Ryan
 
