@@ -11,7 +11,7 @@ Panel<a name="panel"></a>
 * Matt Grahamn - 
 * Mike Nolet - 
 * Pete Emerson - 
-* Ryan Kennedy - 
+* Ryan Kennedy - [twitter](http://twitter.com/rckenned)
 
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
@@ -92,6 +92,16 @@ Sometimes the solution to your problem can't be found on the shelf. That was the
 * What have been some of the challenges in building your own data store?
 * Disaster porn - Share one or two stories about some of your disasters?
 * Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.
+
+ * Why on earth would you build your own database today?
+ * Why not just shard your database?
+ * Can't you buy time with bigger hardware?
+ * Cassandra, Voldemort, Riak, etc.
+ * What do you get "out-of-the-box" with Berkeley
+ * Are you using the C version or the Java version of Berkeley?
+
+
+
 
 Picks<a name="picks"></a>
 -----
