@@ -100,6 +100,29 @@ Sometimes the solution to your problem can't be found on the shelf. That was the
  * What do you get "out-of-the-box" with Berkeley
  * Are you using the C version or the Java version of Berkeley?
 
+### Andrew Miklas
+
+#### Ensuring the Call Goes Out—Everytime
+
+Many systems can afford a bit of downtime now and then. Unfortunately, at PagerDuty, even a three-minute outage at the wrong time can cost thousands in lost revenue. This talk will cover some of the techniques and tricks we use at PagerDuty to ensure that our phone and SMS alerts continue to flow while staying well within the budget of a typical startup. Specifically, I will show how we do zero downtime database migrations and deploys, and how we recover from host and data center outages with minimal disruption.
+
+* Please introduce yourselves to our audience.  Where do you work, what's your role, etc.
+* What are you presenting here at Surge?
+* Disaster porn - Share one or two stories about some of your colossal mistakes.
+* Your talk explored two main themes:
+  * Increase the Mean time between failures (MTBF)
+  * Decrease the Mean time to resolve (MTTR)
+* There were a couple of things that you offered as advice:
+  * Avoid failover
+    * What are some of the problems with a typical "active-passive" infrastructure?
+    * How do "active-active"/distributed systems address these issues?
+  * Monitor with high- & low-level metrics
+  * Build dashboards and control panels for ops
+    * What's wrong with the command line?
+  * Constantly review outages and escalations
+
+* Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.  
+
 
 
 
