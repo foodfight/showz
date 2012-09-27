@@ -13,9 +13,6 @@ Panel<a name="panel"></a>
 * Mike Nolet -  [twitter](http://twitter.com/MikeOnAds), [blog](http://MikeOnAds.com)
 * Ryan Kennedy - [twitter](http://twitter.com/rckenned)
 
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
@@ -113,24 +110,6 @@ Many systems can afford a bit of downtime now and then. Unfortunately, at PagerD
   * Constantly review outages and escalations
 
 * Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.  
-
-
-
-
-Picks<a name="picks"></a>
------
-
-#### Nathen
-
-#### Kate
-
-#### Matt Grahamn
-
-#### Ryan
-
-#### Mike
-
-#### Pete
 
 
 
