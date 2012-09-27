@@ -9,6 +9,7 @@ Panel<a name="panel"></a>
 
 * Kate Matsudaira - 
 * Matt Grahamn - 
+* Andrew Miklas - 
 * Mike Nolet -  [twitter](http://twitter.com/MikeOnAds), [blog](http://MikeOnAds.com)
 * Ryan Kennedy - [twitter](http://twitter.com/rckenned)
 
@@ -31,7 +32,6 @@ It's common wisdom that serving your data from memory dramatically improves appl
 * Please introduce yourself to our audience.  Where do you work, what's your role, etc.
 * What are you presenting here at Surge?
 * Can you share some of the technologies and techniques you've used to achieve fast data queries in the cloud?
-* Disaster porn - Share one or two stories about some of your disasters?
 * Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.
 
 ### Matt Grahamn
@@ -50,7 +50,6 @@ Surgeon General's Warning: Research proves Continuous Deployment to be highly ad
 * Please introduce yourself to our audience.  Where do you work, what's your role, etc.
 * What are you presenting here at Surge?
 * Can you share some of the technologies and techniques you've used to achieve continuous deployment?
-* Disaster porn - Share one or two stories about some of your disasters?
 * You warn that Continuous Deployment to be highly addictive.  I have to agree!
 * You say you're doing "Continuous Deployment" but, as I understand it, there more to the deployment process than a simple git commit.  Why isn't the entire deploy train fully automated?
 * Infrastructure as Code - We've had a number of your colleagues on previous episodes of the Food Fight Show to discuss your workflow, postmortems, and tools.  Do you work with Chef yourself?  
@@ -67,7 +66,6 @@ This is our story of scaling from zero to 500,000 queries per second in three ye
 
 * Please introduce yourself to our audience.  Where do you work, what's your role, etc.
 * What are you presenting here at Surge?
-* Disaster porn - Share one or two stories about some of your colossal mistakes.
 * Technology choices - why GSLB and keepalived?
 * Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.  Why did you build it yourself instead of going with an existing framework like Chef or Puppet?
 
@@ -85,7 +83,6 @@ Sometimes the solution to your problem can't be found on the shelf. That was the
 * What are your data access patterns?  Would a key-value store such as riak or redis been able to address your needs?
 * What did you end up building?
 * What have been some of the challenges in building your own data store?
-* Disaster porn - Share one or two stories about some of your disasters?
 * Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.
 
  * Why on earth would you build your own database today?
@@ -103,7 +100,6 @@ Many systems can afford a bit of downtime now and then. Unfortunately, at PagerD
 
 * Please introduce yourselves to our audience.  Where do you work, what's your role, etc.
 * What are you presenting here at Surge?
-* Disaster porn - Share one or two stories about some of your colossal mistakes.
 * Your talk explored two main themes:
   * Increase the Mean time between failures (MTBF)
   * Decrease the Mean time to resolve (MTTR)
