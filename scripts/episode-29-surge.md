@@ -9,8 +9,7 @@ Panel<a name="panel"></a>
 
 * Kate Matsudaira - 
 * Matt Grahamn - 
-* Mike Nolet - 
-* Pete Emerson - 
+* Mike Nolet -  [twitter](http://twitter.com/MikeOnAds), [blog](http://MikeOnAds.com)
 * Ryan Kennedy - [twitter](http://twitter.com/rckenned)
 
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
@@ -57,20 +56,16 @@ Surgeon General's Warning: Research proves Continuous Deployment to be highly ad
 * Infrastructure as Code - We've had a number of your colleagues on previous episodes of the Food Fight Show to discuss your workflow, postmortems, and tools.  Do you work with Chef yourself?  
 
 
-### AppNexus
+### Mike Nolet
 
-#### Mike Nolet - From Zero to 500k QPS in Three Years: Scaling AppNexus
+####  - From Zero to 500k QPS in Three Years: Scaling AppNexus
 I'd like to tell our story of how we went from two guys on a couch who thought they could build a cloud-hosting company, to more than 200 employees, building the world leader in real-time advertising technology. This presentation will give an uncensored dive into both our colossal mistakes as well as our tremendous successes. How, over the course of one weekend, we used GSLB and KeepAlive to hack our servers into place, build a backend to support them, and freed ourselves from the grips of expensive LB vendors. How, because we've always invested in full-time resources for our fully automated deployment world, we managed to not hire a single test engineer until March 2012. How a stupid mistake took down 3/4 of our global data centers for 12 hours and how we still managed to maintain 99.5% uptime.
 
 I'll explore our devops infrastructure, powered by our in-house built continuous deployment system; our load-balancing infrastructure and its many layers; and our real-time and data streaming infrastructure, built primarily in C and processing 12 terabytes of data every day.
 
 This is our story of scaling from zero to 500,000 queries per second in three years.
 
-#### Pete Emerson - Load Balancers at High Scale: A Disappearing Act
-
-When you're processing 500,000 queries per second, load balancers aren't a cost-effective way to scale. At AppNexus, we hit a brick wall with our load balancers. Over the course of a weekend, we ripped them out and replaced them with a high-scaling and cost effective solution: GSLB and Keepalived with a custom back end to support them. This presentation walks through our solution and shows the audience how we protect ourselves from failure without load balancers.
-
-* Please introduce yourselves to our audience.  Where do you work, what's your role, etc.
+* Please introduce yourself to our audience.  Where do you work, what's your role, etc.
 * What are you presenting here at Surge?
 * Disaster porn - Share one or two stories about some of your colossal mistakes.
 * Technology choices - why GSLB and keepalived?
