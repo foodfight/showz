@@ -75,19 +75,14 @@ Sometimes the solution to your problem can't be found on the shelf. That was the
 
 * Please introduce yourself to our audience.  Where do you work, what's your role, etc.
 * What are you presenting here at Surge?
-* PostgreSQL is known for being reliable and scalable yet it didn't work for you.  What problems were you running into?
-* What other solutions did you consider before deciding to build your own?
+* Why on earth would you build your own database today?
+* Can't you just buy bigger hardware or shard your data?
 * What are your data access patterns?  Would a key-value store such as riak or redis been able to address your needs?
 * What did you end up building?
+* What do you get "out-of-the-box" with Berkeley
+  * You're using the Java version of Berkeley DB.  Why did you select this version.
 * What have been some of the challenges in building your own data store?
 * Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef.  It would be interesting to hear about the tools you're using for managing your infrastructure.
-
- * Why on earth would you build your own database today?
- * Why not just shard your database?
- * Can't you buy time with bigger hardware?
- * Cassandra, Voldemort, Riak, etc.
- * What do you get "out-of-the-box" with Berkeley
- * Are you using the C version or the Java version of Berkeley?
 
 ### Andrew Miklas
 
