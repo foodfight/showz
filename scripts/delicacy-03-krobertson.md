@@ -1,0 +1,51 @@
+Show Date:  
+
+Panel<a name="panel"></a>
+-----
+
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Ken Robertson
+
+Outline/Questions
+-----------------
+
+* Tell us about your background.
+
+* What is Apcera? What is it built on what does it do differently than
+  existing companies (if you can say)? What is your technology stack
+* cloudfoundry
+** What is cloudfoundry and why the Hell should we care?
+** What are the technical components of cloudfoundry?
+** What cloudfoundry offer differently from openstack? does it
+  complement openstack? why would I use it instead of openstack?
+** doesn't a PAAS constrain your organization's options? won't you
+  eventually outgrow it?
+** What is an example of a cloudfoundry deployment
+* golang
+** Derek's tweet "golang" becoming the dominant language in PAAS and
+  IAAS? why? can't we get the job done w/ Ruby (cloudfoundry) or
+  python (openstack). Why not invest more in ruby by financing
+  projects like Rubinius?
+** Why not Rust instead of golang?
+* BOSH
+** what is BOSH?
+** Does it serve any purpose outside of cf?
+** What does it do that Chef doesn't? What can Chef learn from BOSH?
+** Does BOSH or cf have any orchestration tooling?
+* What is the biggest hole in the available configuration management tools?
+
+
+CLOSE
+-----
+
+Please take the time to rate us on itunes and to send your cookbook
+news to info@foodfightshow.org
+
+Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
+
+Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
+
+
+
+Download
+--------
