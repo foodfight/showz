@@ -34,6 +34,10 @@ Outline/Questions
 ** Don't use miss the ability to create a DSL after moving to golang
 from ruby?
 ** Why not Rust instead of golang?
+** What would the rise of golang mean for operations people?
+** Do you believe that it could displace java and C# as the mainstays
+  of enterprise programming?
+** Do you do your scripting in ruby or golang?
 * BOSH
 ** what is BOSH? Does Apcera use it?
 ** Does it serve any purpose outside of cf?
