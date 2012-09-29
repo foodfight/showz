@@ -22,16 +22,24 @@ Outline/Questions
   eventually outgrow it?
 ** What is an example of a cloudfoundry deployment
 * golang
-** Derek's tweet "golang" becoming the dominant language in PAAS and
-  IAAS? why? can't we get the job done w/ Ruby (cloudfoundry) or
+** Derek's
+[tweet](https://twitter.com/derekcollison/status/245522124666716160)
+ "golang" becoming the dominant language in PAAS, IAAS, orchestration
+ w/in 24 months. Why? can't we get the job done w/ Ruby (cloudfoundry) or
   python (openstack). Why not invest more in ruby by financing
   projects like Rubinius?
+** Is Apcera basing its platform on golang?
+** do u foresee cf as a whole transitioning to golang?
+** Could u foresee openstack doing the same?
+** Don't use miss the ability to create a DSL after moving to golang
+from ruby?
 ** Why not Rust instead of golang?
 * BOSH
-** what is BOSH?
+** what is BOSH? Does Apcera use it?
 ** Does it serve any purpose outside of cf?
 ** What does it do that Chef doesn't? What can Chef learn from BOSH?
 ** Does BOSH or cf have any orchestration tooling?
+** What does Apcera use for orchestration?
 * What is the biggest hole in the available configuration management tools?
 
 
