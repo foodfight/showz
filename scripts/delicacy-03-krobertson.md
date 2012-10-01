@@ -20,11 +20,7 @@ Outline/Questions
   * doesn't a PAAS constrain your organization's options? won't you eventually outgrow it?
   * What is an example of a cloudfoundry deployment
 * golang
-  * Derek's [tweet](https://twitter.com/derekcollison/status/245522124666716160)
- "golang" becoming the dominant language in PAAS, IAAS, orchestration
- w/in 24 months. Why? can't we get the job done w/ Ruby (cloudfoundry) or
-  python (openstack). Why not invest more in ruby by financing
-  projects like Rubinius?
+  * Derek's [tweet](https://twitter.com/derekcollison/status/245522124666716160) "golang" becoming the dominant language in PAAS, IAAS, orchestration w/in 24 months. Why? can't we get the job done w/ Ruby (cloudfoundry) or python (openstack). Why not invest more in ruby by financing projects like Rubinius?
   * Is Apcera basing its platform on golang?
   * do u foresee cf as a whole transitioning to golang?
   * Could u foresee openstack doing the same?
