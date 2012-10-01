@@ -46,6 +46,13 @@ from ruby?
 ** What does Apcera use for orchestration?
 * What is the biggest hole in the available configuration management tools?
 
+PICKS
+-----
+
+### Nathen
+
+* [TLN - technology &amp; leadership news](http://www.techleadershipnews.com/)
+
 
 CLOSE
 -----
