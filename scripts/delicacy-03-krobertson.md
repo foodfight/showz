@@ -3,8 +3,10 @@ Show Date:
 Panel<a name="panel"></a>
 -----
 
+* Ken Robertson [github](https://github.com/krobertson), [twitter](http://twitter.com/krobertson), [blog](http://invalidlogic.com/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Ken Robertson
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
 
 Outline/Questions
 -----------------
