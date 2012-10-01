@@ -13,7 +13,7 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 
 In the News<a name="news"></a>
 -----------
-
+* OpsSchool - [@avleen](http://twitter.com/avleen) 
 
 
 ### Upcoming Meetup Groups and Events
