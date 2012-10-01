@@ -1,5 +1,13 @@
 Show Date:
 
+9 October 2012
+
+* Melbourne - 23:00
+* Rome - 14:00
+* London - 13:00
+* Annapolis - 08:00
+* Austin - 07:00
+
 Panel<a name="panel"></a>
 -----
 * Marc Watts
