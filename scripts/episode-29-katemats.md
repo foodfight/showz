@@ -28,10 +28,8 @@ It's common wisdom that serving your data from memory dramatically improves appl
   * What is TLN?
   * How does one subscribe?
   * How do you find your articles?
+* At last year's Surge, you talked about scaling Rails.  One of the things I remember most about that talk was the idea of creating v1s and v2s.  Can you talk about this idea a bit?
 * Infrastructure as Code - The Food Fight Show is generally focused on topics of interest to anyone interested in "DevOps" but we also have a bias towards Chef. It would be interesting to hear about the tools you're using for managing your infrastructure.
-* 
-
-
 
 Picks<a name="picks"></a>
 -----
