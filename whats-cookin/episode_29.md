@@ -48,51 +48,36 @@ In the News<a name="news"></a>
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
-
-* [reboot-handler](http://community.opscode.com/cookbooks/reboot-handler) v0.1.2 - [retr0h](http://community.opscode.com/users/retr0h)
-Installs/Configures reboot-handler
-* [afw](http://community.opscode.com/cookbooks/afw) v0.0.3 - [jvehent](http://community.opscode.com/users/jvehent)
-Installs/Configures the Advanced FireWall
-* [graphite_handler](http://community.opscode.com/cookbooks/graphite_handler) v0.0.6 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures the Chef graphite handler originally developed by Ian Meyer
-* [s3fs-c](http://community.opscode.com/cookbooks/s3fs-c) v0.0.1 - [leeky](http://community.opscode.com/users/leeky)
-Installs and configures s3fs-c for creating a file system in a s3 bucket
-* [headphones](http://community.opscode.com/cookbooks/headphones) v0.0.1 - [alexhowells](http://community.opscode.com/users/alexhowells)
-Installs and configures Headphones onto a node
-* [couchpotato](http://community.opscode.com/cookbooks/couchpotato) v0.0.1 - [alexhowells](http://community.opscode.com/users/alexhowells)
-Installs and configures CouchPotato onto a node
+2 new cookbooks this week from Alex Howells:
 * [sickbeard](http://community.opscode.com/cookbooks/sickbeard) v1.0.0 - [alexhowells](http://community.opscode.com/users/alexhowells)
-Installs and configures Sickbeard onto a node
+Installs and configures Sickbeard onto a node.  Sickbeard is the ultimate PVR application that searches for and manages your TV shows.
 * [sabnzbd](http://community.opscode.com/cookbooks/sabnzbd) v1.0.0 - [alexhowells](http://community.opscode.com/users/alexhowells)
-Installs and configures sabnzbd onto a node
-* [megaraidcli](http://community.opscode.com/cookbooks/megaraidcli) v0.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
-Installs/Configures cookbook-megaraidcli
-* [package_installer](http://community.opscode.com/cookbooks/package_installer) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
-Installs/Updates system packages
-* [chef_gem](http://community.opscode.com/cookbooks/chef_gem) v0.0.5 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
-Provides proper chef_gem resource support for Chef versions < 0.10.12
-* [akibanserver](http://community.opscode.com/cookbooks/akibanserver) v0.1.2 - [posulliv](http://community.opscode.com/users/posulliv)
-Install and configure the Akiban Server
-* [snmp](http://community.opscode.com/cookbooks/snmp) v0.3.1 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-Installs/Configures snmp on redhat, centos, ubuntu, debian
-* [nfs](http://community.opscode.com/cookbooks/nfs) v0.2.7 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-Installs and configures nfs, and NFS exports
-* [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.6 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures GlassFish Application Server
-* [xymon](http://community.opscode.com/cookbooks/xymon) v0.1.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures Xymon monitoring infrastructure
-* [authbind](http://community.opscode.com/cookbooks/authbind) v0.1.3 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures authbind and defines resources for managing authorization
-* [smbfs](http://community.opscode.com/cookbooks/smbfs) v0.2.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures smbfs and adds mount points according to data driven pattern
-* [bonita](http://community.opscode.com/cookbooks/bonita) v0.1.2 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures the bonita BPM server
-* [generic-users](http://community.opscode.com/cookbooks/generic-users) v0.1.5 - [mpasternacki](http://community.opscode.com/users/mpasternacki)
-Sets up user accounts
-* [repos](http://community.opscode.com/cookbooks/repos) v0.0.1 - [realloc](http://community.opscode.com/users/realloc)
-Installs/Configures package repositories
+Installs and configures sabnzbd onto a node.  sabnzbd is software which helps you download things from Usenet.
+
+* Robert Lee-Cann has published [s3fs-c](http://community.opscode.com/cookbooks/s3fs-c) v0.0.1 - [leeky](http://community.opscode.com/users/leeky)
+The purpose of this recipe is to create a s3fs driver for one of your amazon s3 buckets. It uses the modified s3fs-c fork, to be compatible with other S3 client's concepts of directory structures, maintained by [Tong Wang](https://github.com/tongwang).  This recipe is a lightly modified version of 's3fs' by [Tom Wilson](https://github.com/twilson63).
+* John Dewey is back this time with [megaraidcli](http://community.opscode.com/cookbooks/megaraidcli) v0.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
+Installs/Configures MegaCLI, a command line utility for managing RAID adapters
+* Chris Roberts, another prolific cookbook contributor, recently pulbished [package_installer](http://community.opscode.com/cookbooks/package_installer) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+Simple cookbook for managing package versions on a node.
+* Padraig O'Sullivan published [akibanserver](http://community.opscode.com/cookbooks/akibanserver) v0.1.2 - [posulliv](http://community.opscode.com/users/posulliv)
+Install and configure the Akiban Server.  Akiban Server is a pure Java, open source database with a unified document-table storage structure and a breakthrough relational algebra. Based on the concept of table-groups, it supports SQL and documents working seamlessly together and performing a lot better.
+* Stanislav Bogatyrev released [repos](http://community.opscode.com/cookbooks/repos) v0.0.1 - [realloc](http://community.opscode.com/users/realloc)
+Manages repositories for your platform. Cureently only Debian and Ubuntu are supported.
 
 ### Updated Cookbooks
+* [reboot-handler](http://community.opscode.com/cookbooks/reboot-handler) v0.1.2 - [retr0h](http://community.opscode.com/users/retr0h)
+* [afw](http://community.opscode.com/cookbooks/afw) v0.0.3 - [jvehent](http://community.opscode.com/users/jvehent)
+* [graphite_handler](http://community.opscode.com/cookbooks/graphite_handler) v0.0.6 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [chef_gem](http://community.opscode.com/cookbooks/chef_gem) v0.0.5 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+* [nfs](http://community.opscode.com/cookbooks/nfs) v0.2.7 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+* [snmp](http://community.opscode.com/cookbooks/snmp) v0.3.1 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+* [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.6 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [xymon](http://community.opscode.com/cookbooks/xymon) v0.1.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [authbind](http://community.opscode.com/cookbooks/authbind) v0.1.3 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [smbfs](http://community.opscode.com/cookbooks/smbfs) v0.2.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [bonita](http://community.opscode.com/cookbooks/bonita) v0.1.2 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [generic-users](http://community.opscode.com/cookbooks/generic-users) v0.1.5 - [mpasternacki](http://community.opscode.com/users/mpasternacki)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
