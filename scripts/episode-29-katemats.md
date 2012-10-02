@@ -42,6 +42,8 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+* [TLN - technology &amp; leadership news](http://www.techleadershipnews.com/)
+* [vimfluence](https://github.com/orlandov/vimfluence) - Edit Confluence wikis using vim.
 
 
 CLOSE
