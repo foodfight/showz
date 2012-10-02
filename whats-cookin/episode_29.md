@@ -13,17 +13,17 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 
 In the News<a name="news"></a>
 -----------
+* The folks over at [CollabNet](https://twitter.com/CollabNet) are running a survey that you should take 90-seconds to complete today:  [DevOps Survey - What's Driving DevOps?](https://www.surveymonkey.com/s/DevOps-survey)
 * [@avleen has announced OpsSchool](https://twitter.com/avleen/status/250362361309978624).  The idea is to build out a syllabus and content to help shape the next generation of SysAdmins.
 * [Carl Caum](https://github.com/ccaum) recently released [puppet-autoami](https://github.com/ccaum/puppet-autoami).  AutoAMI is an image management system that tracks changes to your EBS backed AMIs by processing Puppet reports. AutoAMI will update your EBS backed AMIs automatically when Puppet changes are made.
 * [Bryan McLellan](https://twitter.com/btmspox) spoke recently at the Nagios World Conference.  Slides from his presentation, [Configuring Nagios with Chef](http://www.slideshare.net/btm/using-nagios-with-chef) are available on slideshare.
-* Last week, during Surge, there was a #monitoringsucks Birds-of-a-Feather session.  [Jordan Dixon](http://twitter.com/obfuscurity) took some notes during the session and [posted them on his blog](http://obfuscurity.com/2012/09/monitoringsucks-bof-at-surge-2012).
-* [Chef 10.14.4 was recently released](http://www.opscode.com/blog/2012/09/28/chef-10-14-4-released/).  This release is mostly fixes to the deploy provider and the error inspectors.  Check the [Opscode blog](http://www.opscode.com/blog/2012/09/28/chef-10-14-4-released/) for more details.
 * [Ville Lautanala](https://twitter.com/lautis), lead developer at Flowdock, gave a talk at Frozen Rails about Flowdock's distributed server architecture and how they use Chef and ZooKeeper to coordinate a set of services.  Check out the slides [on the Flowdock blog](http://blog.flowdock.com/2012/10/01/a-tale-of-a-server-architecture/).
+* Last week, during Surge, there was a #monitoringsucks Birds-of-a-Feather session.  [Jordan Dixon](http://twitter.com/obfuscurity) took some notes during the session and [posted them on his blog](http://obfuscurity.com/2012/09/monitoringsucks-bof-at-surge-2012).
 * [Theo Schlossnagle](http://twitter.com/postwait)'s slides from Surge are now available.  Head over to [slideshare to view the slides].(http://www.slideshare.net/postwait/xtreme-deployment)
+* [To scale web services, devops devotees should consider economics](http://gigaom.com/cloud/to-scale-web-services-devops-devotees-should-consider-economics/) - this article from [Stacey Higginbotham](http://gigaom.com/author/shigginbotham/) was written after she attended Surge and discusses the need to look down to the physical infrastructure as well as the economic tradeoffs of building a service.
+* [Chef 10.14.4 was recently released](http://www.opscode.com/blog/2012/09/28/chef-10-14-4-released/).  This release is mostly fixes to the deploy provider and the error inspectors.  Check the [Opscode blog](http://www.opscode.com/blog/2012/09/28/chef-10-14-4-released/) for more details.
 * [Test Kitchen 0.6.0 was released](http://www.opscode.com/blog/2012/10/02/test-kitchen-0-6-0-released/).  This fixes a couple of bugs and makes a couple of improvements.
 * [vagrant-monigusto](https://github.com/monigusto/vagrant-monigusto) - The monigusto project aims to provide the equivalent of vagrant up but for monitoring and logging:  A single server box that contains the most common/current tools for monitoring like graphite, statsd, collectd, nagios, logstash, jmxtrans, tasseo and gdash . Then it becomes easy for a developer to get used to the management and monitoring and without the hassle of setting it up from scratch or finding out how to make it work together.A
-* [To scale web services, devops devotees should consider economics](http://gigaom.com/cloud/to-scale-web-services-devops-devotees-should-consider-economics/) - this article from [Stacey Higginbotham](http://gigaom.com/author/shigginbotham/) was written after she attended Surge and discusses the need to look down to the physical infrastructure as well as the economic tradeoffs of building a service.
-* The folks over at [CollabNet](https://twitter.com/CollabNet) are running a survey that you should take 90-seconds to complete today:  [DevOps Survey - What's Driving DevOps?](https://www.surveymonkey.com/s/DevOps-survey)
 
 ### Upcoming Meetup Groups and Events
 
@@ -63,7 +63,7 @@ Simple cookbook for managing package versions on a node.
 * Padraig O'Sullivan published [akibanserver](http://community.opscode.com/cookbooks/akibanserver) v0.1.2 - [posulliv](http://community.opscode.com/users/posulliv)
 Install and configure the Akiban Server.  Akiban Server is a pure Java, open source database with a unified document-table storage structure and a breakthrough relational algebra. Based on the concept of table-groups, it supports SQL and documents working seamlessly together and performing a lot better.
 * Stanislav Bogatyrev released [repos](http://community.opscode.com/cookbooks/repos) v0.0.1 - [realloc](http://community.opscode.com/users/realloc)
-Manages repositories for your platform. Cureently only Debian and Ubuntu are supported.
+Manages repositories for your platform. Curently only Debian and Ubuntu are supported.
 
 ### Updated Cookbooks
 * [reboot-handler](http://community.opscode.com/cookbooks/reboot-handler) v0.1.2 - [retr0h](http://community.opscode.com/users/retr0h)
@@ -85,3 +85,5 @@ Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) 
 
 On to the show...
 ----------------
+
+Today's episode is a continuation of our updates from last week's Surge conference.  I had a chance to sit down with Kate Matsudaira to discuss her Surge presentation and a bunch of other cool stuff.  Let's get to the show....
