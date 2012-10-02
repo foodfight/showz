@@ -5,8 +5,6 @@ Hello, and welcome to episode 29 of the Food Fight Show.  This is the podcast wh
 
 I'm Nathen Harvey, @n-a-t-h-e-n-h-a-r-v-e-y on Twitter.
 
-And, I'm Bryan Berry, @b-r-y-a-n-w-b on Twitter.
-
 While you're over on Twitter, be sure to follow @foodfightshow!
 
 We'll start this episode with "What's Cookin'" - your source for Chef and Cookbook news.
@@ -18,20 +16,19 @@ In the News<a name="news"></a>
 * [Carl Caum](https://github.com/ccaum) recently released [puppet-autoami](https://github.com/ccaum/puppet-autoami).  AutoAMI is an image management system that tracks changes to your EBS backed AMIs by processing Puppet reports. AutoAMI will update your EBS backed AMIs automatically when Puppet changes are made.  This is an interesting way to balance the speed of provisioning a "golden image" with the flexibility of capturing your infrastructure as code.  Would be awesome to see something similar for Chef.
 * [Bryan McLellan](https://twitter.com/btmspox) spoke recently at the Nagios World Conference.  Slides from his presentation, [Configuring Nagios with Chef](http://www.slideshare.net/btm/using-nagios-with-chef) are available on slideshare.
 * [Ville Lautanala](https://twitter.com/lautis), lead developer at Flowdock, gave a talk at Frozen Rails about Flowdock's distributed server architecture and how they use Chef and ZooKeeper to coordinate a set of services.  Check out the slides [on the Flowdock blog](http://blog.flowdock.com/2012/10/01/a-tale-of-a-server-architecture/).
-* Last week, during Surge, there was a #monitoringsucks Birds-of-a-Feather session.  [Jordan Dixon](http://twitter.com/obfuscurity) took some notes during the session and [posted them on his blog](http://obfuscurity.com/2012/09/monitoringsucks-bof-at-surge-2012).
-* [Theo Schlossnagle](http://twitter.com/postwait)'s slides from Surge are now available.  Head over to [slideshare to view the slides].(http://www.slideshare.net/postwait/xtreme-deployment)
+* Last week, during Surge, there was a [#monitoringsucks](https://twitter.com/i/#!/search/?q=%23monitoringsucks) Birds-of-a-Feather session.  [Jordan Dixon](http://twitter.com/obfuscurity) took some notes during the session and [posted them on his blog](http://obfuscurity.com/2012/09/monitoringsucks-bof-at-surge-2012).
+* [Theo Schlossnagle](http://twitter.com/postwait)'s slides from Surge are now available.  Head over to [slideshare to view the slides](http://www.slideshare.net/postwait/xtreme-deployment).
 * [To scale web services, devops devotees should consider economics](http://gigaom.com/cloud/to-scale-web-services-devops-devotees-should-consider-economics/) - this article from [Stacey Higginbotham](http://gigaom.com/author/shigginbotham/) was written after she attended Surge and discusses the need to look down to the physical infrastructure as well as the economic tradeoffs of building a service.
 * [Chef 10.14.4 was recently released](http://www.opscode.com/blog/2012/09/28/chef-10-14-4-released/).  This release is mostly fixes to the deploy provider and the error inspectors.  Check the [Opscode blog](http://www.opscode.com/blog/2012/09/28/chef-10-14-4-released/) for more details.
 * [Test Kitchen 0.6.0 was released](http://www.opscode.com/blog/2012/10/02/test-kitchen-0-6-0-released/).  This fixes a couple of bugs and makes a couple of improvements.
-* [vagrant-monigusto](https://github.com/monigusto/vagrant-monigusto) - The monigusto project aims to provide the equivalent of vagrant up but for monitoring and logging:  A single server box that contains the most common/current tools for monitoring like graphite, statsd, collectd, nagios, logstash, jmxtrans, tasseo and gdash . Then it becomes easy for a developer to get used to the management and monitoring and without the hassle of setting it up from scratch or finding out how to make it work together.A
+* [vagrant-monigusto](https://github.com/monigusto/vagrant-monigusto) - The monigusto project aims to provide the equivalent of vagrant up but for monitoring and logging:  A single server box that contains the most common/current tools for monitoring like graphite, statsd, collectd, nagios, logstash, jmxtrans, tasseo and gdash . Then it becomes easy for a developer to get used to the management and monitoring and without the hassle of setting it up from scratch or finding out how to make it work together.
 
 ### Upcoming Meetup Groups and Events
 
 * [devopsdays Rome](http://devopsdays.org/events/2012-italy/) are coming up on October 5 and 6th. If you are in Europe or otherwise interested to meet with some really intelligent people, you should come out.
-* The [Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) is hosting Chef Cafes on October 4 and 18.
+* Chef Cafe [Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) is hosting Chef Cafe meetins on October 4 and 18 and the Chicago Chef Users' Group is holding one [on October 11](http://www.meetup.com/Chicago-Chef-User-Group/events/84546562).
 * The next [Infrastructure Coders meeting](http://www.meetup.com/Infrastructure-Coders/events/75626072/) will be held on October 10th in Melbourne.
 * Energized Work will be hosting a Tektalk on [Cooking with Chef - Automate your infrastructure with Chef](http://energizedworktektalk.eventbrite.com/).  This Tektalk will be held on October 10 in London.
-* Chicago Chef Users Group is holding a [Chef Cafe](http://www.meetup.com/Chicago-Chef-User-Group/events/84546562) meeting on Thursday, October 11.  This is an informal meeting that is a great way to meet other people using or interested in Chef.
 * The [Chef-NYC](http://www.meetup.com/Chef-NYC/) group is meeting on October 16th for an [An Introduction to Shef, The Chef Shell](http://www.meetup.com/Chef-NYC/events/82345952/)
 * The Triangle Devops group will meet on October 17 in Raleigh, NC.  The topic for the night:  [Lean About Illumos](http://www.meetup.com/Triangle-DevOps/events/82806542/)
 * Gigaom will be hosting a webinar on October 18th.  The webinar will look at [Continuous delivery: develop, deliver and deploy software on demand](http://pro.gigaom.com/webinars/opscode-continuous-delivery/).  You can [register for the free webinar](http://pro.gigaom.com/webinars/opscode-continuous-delivery/) today.
