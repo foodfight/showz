@@ -26,7 +26,7 @@ In the News<a name="news"></a>
 ### Upcoming Meetup Groups and Events
 
 * [devopsdays Rome](http://devopsdays.org/events/2012-italy/) are coming up on October 5 and 6th. If you are in Europe or otherwise interested to meet with some really intelligent people, you should come out.
-* Chef Cafe [Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) is hosting Chef Cafe meetins on October 4 and 18 and the Chicago Chef Users' Group is holding one [on October 11](http://www.meetup.com/Chicago-Chef-User-Group/events/84546562).
+* Chef Cafe meetings are informal gatherings that are a great place to ask ask questions about Chef and establish connections with people that can help you in the future.  The [Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) is hosting Chef Cafe meetings on October 4 and 18 and the Chicago Chef Users' Group is holding one [on October 11](http://www.meetup.com/Chicago-Chef-User-Group/events/84546562).
 * The next [Infrastructure Coders meeting](http://www.meetup.com/Infrastructure-Coders/events/75626072/) will be held on October 10th in Melbourne.
 * Energized Work will be hosting a Tektalk on [Cooking with Chef - Automate your infrastructure with Chef](http://energizedworktektalk.eventbrite.com/).  This Tektalk will be held on October 10 in London.
 * The [Chef-NYC](http://www.meetup.com/Chef-NYC/) group is meeting on October 16th for an [An Introduction to Shef, The Chef Shell](http://www.meetup.com/Chef-NYC/events/82345952/)
