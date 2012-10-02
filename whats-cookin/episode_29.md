@@ -15,7 +15,7 @@ In the News<a name="news"></a>
 -----------
 * The folks over at [CollabNet](https://twitter.com/CollabNet) are running a survey that you should take 90-seconds to complete today:  [DevOps Survey - What's Driving DevOps?](https://www.surveymonkey.com/s/DevOps-survey)
 * [@avleen has announced OpsSchool](https://twitter.com/avleen/status/250362361309978624).  The idea is to build out a syllabus and content to help shape the next generation of SysAdmins.
-* [Carl Caum](https://github.com/ccaum) recently released [puppet-autoami](https://github.com/ccaum/puppet-autoami).  AutoAMI is an image management system that tracks changes to your EBS backed AMIs by processing Puppet reports. AutoAMI will update your EBS backed AMIs automatically when Puppet changes are made.
+* [Carl Caum](https://github.com/ccaum) recently released [puppet-autoami](https://github.com/ccaum/puppet-autoami).  AutoAMI is an image management system that tracks changes to your EBS backed AMIs by processing Puppet reports. AutoAMI will update your EBS backed AMIs automatically when Puppet changes are made.  This is an interesting way to balance the speed of provisioning a "golden image" with the flexibility of capturing your infrastructure as code.  Would be awesome to see something similar for Chef.
 * [Bryan McLellan](https://twitter.com/btmspox) spoke recently at the Nagios World Conference.  Slides from his presentation, [Configuring Nagios with Chef](http://www.slideshare.net/btm/using-nagios-with-chef) are available on slideshare.
 * [Ville Lautanala](https://twitter.com/lautis), lead developer at Flowdock, gave a talk at Frozen Rails about Flowdock's distributed server architecture and how they use Chef and ZooKeeper to coordinate a set of services.  Check out the slides [on the Flowdock blog](http://blog.flowdock.com/2012/10/01/a-tale-of-a-server-architecture/).
 * Last week, during Surge, there was a #monitoringsucks Birds-of-a-Feather session.  [Jordan Dixon](http://twitter.com/obfuscurity) took some notes during the session and [posted them on his blog](http://obfuscurity.com/2012/09/monitoringsucks-bof-at-surge-2012).
@@ -78,10 +78,6 @@ Manages repositories for your platform. Curently only Debian and Ubuntu are supp
 * [smbfs](http://community.opscode.com/cookbooks/smbfs) v0.2.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
 * [bonita](http://community.opscode.com/cookbooks/bonita) v0.1.2 - [peter_donald](http://community.opscode.com/users/peter_donald)
 * [generic-users](http://community.opscode.com/cookbooks/generic-users) v0.1.5 - [mpasternacki](http://community.opscode.com/users/mpasternacki)
-
-Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
-
-Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
 
 On to the show...
 ----------------
