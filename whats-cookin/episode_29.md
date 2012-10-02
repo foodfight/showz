@@ -18,28 +18,15 @@ In the News<a name="news"></a>
 
 ### Upcoming Meetup Groups and Events
 
-* The [Opscode Community Summit #2](http://opscode-summit-2012.eventbrite.com/) is coming up on October 23 and 24.  Please come out to Seattle to meet with your tribe and share ideas about making this community even better!
-* DevOps Days Rome
-* DevOps Days NYC
-* [devopsdays Rome](http://devopsdays.org/events/2012-italy/)
-  are coming up on October 5 and 6th. If you are in Europe or otherwise
-  interested to meet with some really intelligent people, you should
-  come out.
-
+* [devopsdays Rome](http://devopsdays.org/events/2012-italy/) are coming up on October 5 and 6th. If you are in Europe or otherwise interested to meet with some really intelligent people, you should come out.
+* The [Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) is hosting Chef Cafes on October 4 and 18.
 * The next [Infrastructure Coders meeting](http://www.meetup.com/Infrastructure-Coders/events/75626072/) will be held on October 10th in Melbourne.
-
-* The [Chef-NYC](http://www.meetup.com/Chef-NYC/) group is meeting on October 16th for an [An Introduction to Shef, The Chef Shell](http://www.meetup.com/Chef-NYC/events/82345952/)
-
 * Chicago Chef Users Group is holding a [Chef Cafe](http://www.meetup.com/Chicago-Chef-User-Group/events/84546562) meeting on Thursday, October 11.  This is an informal meeting that is a great way to meet other people using or interested in Chef.
-* The Triangle Devops group will meet on October 17 in Raleigh, NC.  The topic for the night:  [Learn About Customer Service for People Who Love The Glow of the Terminal](http://www.meetup.com/Triangle-DevOps/events/82806542/)
-* [devopsdays Rome](http://devopsdays.org/events/2012-italy/)
-  are coming up on October 5 and 6th. If you are in Europe or otherwise
-  interested to meet with some really intelligent people, you should
-  come out.
-
-* The next [Infrastructure Coders meeting](http://www.meetup.com/Infrastructure-Coders/events/75626072/) will be held on October 10th in Melbourne.
-
 * The [Chef-NYC](http://www.meetup.com/Chef-NYC/) group is meeting on October 16th for an [An Introduction to Shef, The Chef Shell](http://www.meetup.com/Chef-NYC/events/82345952/)
+* The Triangle Devops group will meet on October 17 in Raleigh, NC.  The topic for the night:  [Lean About Illumos](http://www.meetup.com/Triangle-DevOps/events/82806542/)
+* The [Opscode Community Summit #2](http://opscode-summit-2012.eventbrite.com/) is coming up on October 23 and 24.  Please come out to Seattle to meet with your tribe and share ideas about making this community even better!
+* [DevOps Days NYC](http://devopsdays.org/events/2012-newyork/) have been announced for November 1st and 2nd.  Registration opens on October 11 but you can send in your [talk proposals](http://devopsdays.org/events/2012-newyork/propose) or [become a sponsor now](http://devopsdays.org/events/2012-newyork/sponsor).
+* [DevOpsDC](http://www.meetup.com/DevOpsDC/)'s next meeting will be held on November 13.
 
 ###  Special Offers
 
