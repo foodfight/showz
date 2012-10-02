@@ -49,6 +49,49 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
+* [reboot-handler](http://community.opscode.com/cookbooks/reboot-handler) v0.1.2 - [retr0h](http://community.opscode.com/users/retr0h)
+Installs/Configures reboot-handler
+* [afw](http://community.opscode.com/cookbooks/afw) v0.0.3 - [jvehent](http://community.opscode.com/users/jvehent)
+Installs/Configures the Advanced FireWall
+* [graphite_handler](http://community.opscode.com/cookbooks/graphite_handler) v0.0.6 - [peter_donald](http://community.opscode.com/users/peter_donald)
+Installs/Configures the Chef graphite handler originally developed by Ian Meyer
+* [s3fs-c](http://community.opscode.com/cookbooks/s3fs-c) v0.0.1 - [leeky](http://community.opscode.com/users/leeky)
+Installs and configures s3fs-c for creating a file system in a s3 bucket
+* [headphones](http://community.opscode.com/cookbooks/headphones) v0.0.1 - [alexhowells](http://community.opscode.com/users/alexhowells)
+Installs and configures Headphones onto a node
+* [couchpotato](http://community.opscode.com/cookbooks/couchpotato) v0.0.1 - [alexhowells](http://community.opscode.com/users/alexhowells)
+Installs and configures CouchPotato onto a node
+* [sickbeard](http://community.opscode.com/cookbooks/sickbeard) v1.0.0 - [alexhowells](http://community.opscode.com/users/alexhowells)
+Installs and configures Sickbeard onto a node
+* [sabnzbd](http://community.opscode.com/cookbooks/sabnzbd) v1.0.0 - [alexhowells](http://community.opscode.com/users/alexhowells)
+Installs and configures sabnzbd onto a node
+* [megaraidcli](http://community.opscode.com/cookbooks/megaraidcli) v0.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
+Installs/Configures cookbook-megaraidcli
+* [package_installer](http://community.opscode.com/cookbooks/package_installer) v0.0.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+Installs/Updates system packages
+* [chef_gem](http://community.opscode.com/cookbooks/chef_gem) v0.0.5 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+Provides proper chef_gem resource support for Chef versions < 0.10.12
+* [akibanserver](http://community.opscode.com/cookbooks/akibanserver) v0.1.2 - [posulliv](http://community.opscode.com/users/posulliv)
+Install and configure the Akiban Server
+* [snmp](http://community.opscode.com/cookbooks/snmp) v0.3.1 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+Installs/Configures snmp on redhat, centos, ubuntu, debian
+* [nfs](http://community.opscode.com/cookbooks/nfs) v0.2.7 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+Installs and configures nfs, and NFS exports
+* [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.6 - [peter_donald](http://community.opscode.com/users/peter_donald)
+Installs/Configures GlassFish Application Server
+* [xymon](http://community.opscode.com/cookbooks/xymon) v0.1.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
+Installs/Configures Xymon monitoring infrastructure
+* [authbind](http://community.opscode.com/cookbooks/authbind) v0.1.3 - [peter_donald](http://community.opscode.com/users/peter_donald)
+Installs/Configures authbind and defines resources for managing authorization
+* [smbfs](http://community.opscode.com/cookbooks/smbfs) v0.2.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
+Installs/Configures smbfs and adds mount points according to data driven pattern
+* [bonita](http://community.opscode.com/cookbooks/bonita) v0.1.2 - [peter_donald](http://community.opscode.com/users/peter_donald)
+Installs/Configures the bonita BPM server
+* [generic-users](http://community.opscode.com/cookbooks/generic-users) v0.1.5 - [mpasternacki](http://community.opscode.com/users/mpasternacki)
+Sets up user accounts
+* [repos](http://community.opscode.com/cookbooks/repos) v0.0.1 - [realloc](http://community.opscode.com/users/realloc)
+Installs/Configures package repositories
+
 ### Updated Cookbooks
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
