@@ -22,6 +22,16 @@ LIVE from #ChefConf
 Food Fight Shows
 =================
 
+* [29 - Interview With Kate Matsudaira](http://foodfightshow.org/2012/10/interview-with-kate-matsudaira.html)
+  * [Hacker News](http://news.ycombinator.com/item?id=4607075)
+  * [reddit](http://redd.it/10veca)
+* [Delicacy - Ken Robertson on Go, Cloudfoundry, and Chef](http://foodfightshow.org/2012/10/ken-robertson-on-go.html)
+* [Delicacy - Wrap-up Surge With Theo Schlossnagle](http://foodfightshow.org/2012/09/wrap-up-surge-with-theo-schlossnagle.html)
+* [Delicacy - Surge Update With Matt Grahamn From Etsy](http://foodfightshow.org/2012/09/surge-update-with-matt-grahamn-from-etsy.html)
+* [Delicacy - Surge Update - Mike Nolet](http://foodfightshow.org/2012/09/surge-update-mike-nolet.html)
+* [Delicacy - Surge Update - Knewton](http://foodfightshow.org/2012/09/surge-update-knewton.html)
+* [Delicacy - Update From Surge With Andrew Miklas From PagerDuty](http://foodfightshow.org/2012/09/update-from-surge-with-andrew-miklas-from-pagerduty.html)
+* [Delicacy - Surge - Interview With Ryan Kennedy](http://foodfightshow.org/2012/09/surge-day-1.html)
 * [28 - Big Data in the Small: Why N Tier Architectures Are an Antipattern](http://foodfightshow.org/2012/09/big-data-in-the-small-why-n-tier-architectures-are-an-antipattern.html#picks)
   * [Hacker News](http://news.ycombinator.com/item?id=4571962)
 * [27 - Vagrant with Mitchell Hashimoto and Patrick Debois](http://foodfightshow.org/2012/09/vagrant.html)
