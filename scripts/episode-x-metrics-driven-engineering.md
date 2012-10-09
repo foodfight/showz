@@ -34,6 +34,7 @@ Outline/Questions
   * What is Lonely Planet?
   * Who uses Lonely Planet?
   * How "big" is this Lonely Planet?
+  * A little bit about the history and culture of Lonely Planet (David)
   * Can you tell us about the team at Lonely Planet? How many engineers?  How is the team organized?
   * Can you tell us about Lonely Planet's infrastructure?  Cloud?  bare metal?  
 
