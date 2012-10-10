@@ -1,11 +1,9 @@
 Introduction
 ------------
 
-Hello, and welcome to episode XX of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
+Hello, and welcome to episode 30 of the Food Fight Show.  This is the podcast where DevOps Chefs do battle.
 
 I'm Nathen Harvey, @n-a-t-h-e-n-h-a-r-v-e-y on Twitter.
-
-And, I'm Bryan Berry, @b-r-y-a-n-w-b on Twitter.
 
 While you're over on Twitter, be sure to follow @foodfightshow!
 
