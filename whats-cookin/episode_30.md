@@ -85,3 +85,6 @@ Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) 
 
 On to the show...
 ----------------
+
+In today's episode, lusis and I chat with Mark Jennings, Marc Watts, and David Lutzy about the DevOps culture at 
+Lonely Planet, why performance matters, metrics-driven engineering, and more.  Let's get on to the show.
