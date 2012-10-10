@@ -21,17 +21,17 @@ A couple of highlights from VelocityEU include
 
 * [Six themes from Velocity Europe](http://radar.oreilly.com/2012/10/velocity-europe-six-themes.html) - Performance matters more, importance of the human factor in web operations, and more.
 
-* Obfuscurity's DevOpsDays Rome Presentation on [The State of Open-source Monitoring](https://speakerdeck.com/u/obfuscurity/p/the-state-of-open-source-monitoring)
+* Obfuscurity's DevOpsDays Rome Presentation on [The State of Open-source Monitoring](https://speakerdeck.com/u/obfuscurity/p/the-state-of-open-source-monitoring) is available over on SpeakerDeck.
 
-* In other conference news, the [PuppetConf Videos](http://puppetlabs.com/community/videos/puppetconf/)
+* In other conference news, the [PuppetConf Videos](http://puppetlabs.com/community/videos/puppetconf/) are now available, too.
 
-* [knife-env-dif](https://github.com/jgoulah/knife-env-diff) - a knife plugin which will diff the cookbook versions of two or more environments.
+* [knife-env-diff](https://github.com/jgoulah/knife-env-diff) - a knife plugin which will diff the cookbook versions of two or more environments.
 
 * [Part 1 of the Chef PeepCode Screencast](https://peepcode.com/products/chef-i) is now available.
 
 
 ### Upcoming Meetup Groups and Events
-* There's a new Chef Users Group in Los Angeles!  If you live or work near LA, go [signup for this group](http://www.meetup.com/Los-Angeles-Chef-Users-Group/)
+* There's a new Chef Users Group in Los Angeles!  If you live or work near LA, go [signup for this group](http://www.meetup.com/Los-Angeles-Chef-Users-Group/).
 
 * Chef Cafe meetings are informal gatherings that are a great place to ask ask questions about Chef and establish connections with people that can help you in the future.  The [Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/) is hosting Chef Cafe meetings on October 4 and 18 and the Chicago Chef Users' Group is holding one [on October 11](http://www.meetup.com/Chicago-Chef-User-Group/events/84546562).
 
@@ -45,9 +45,9 @@ A couple of highlights from VelocityEU include
 
 * The [Opscode Community Summit #2](http://opscode-summit-2012.eventbrite.com/) is coming up on October 23 and 24.  Please come out to Seattle to meet with your tribe and share ideas about making this community even better!
 
-* [DevOps Days NYC](http://devopsdays.org/events/2012-newyork/) have been announced for November 1st and 2nd.  Registration opens on October 11 but you can send in your [talk proposals](http://devopsdays.org/events/2012-newyork/propose) or [become a sponsor now](http://devopsdays.org/events/2012-newyork/sponsor).
+* [DevOps Days NYC](http://devopsdays.org/events/2012-newyork/) have been announced for November 1st and 2nd.  Registration is now open and you can send in your [talk proposals](http://devopsdays.org/events/2012-newyork/propose) or [become a sponsor now](http://devopsdays.org/events/2012-newyork/sponsor).
 
-* Chef Hangout on Google+ - Would you be interested in joining a Google+ hangout with some fellow Chefs?  We're thinking about setting up some regulary Chef hangouts, let us know ifthis is something you'd be interested by emailing me at nharvey@opscode.com
+* Would you be interested in joining a Google+ hangout with some fellow Chefs?  We're thinking about setting up some regulary Chef hangouts, let us know ifthis is something you'd be interested by emailing me at nharvey@opscode.com
 
 ###  Special Offers
 
