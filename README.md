@@ -21,7 +21,11 @@ LIVE from #ChefConf
 
 Food Fight Shows
 =================
-
+* [30 - Metrics-driven Engineering](http://foodfightshow.org/2012/10/metrics-driven-engineering.html)
+  * [Hacker News](http://news.ycombinator.com/item?id=4645543)
+  * [reddit](http://redd.it/11dbyt)
+* [Delicacy - Happy Birthday, David Lutzy!](http://foodfightshow.org/2012/10/devops-delicacy-special-episode.html)
+* [Delicacies - DevOps Days Rome](http://foodfightshow.org/2012/10/devopsdays-rome.html)
 * [29 - Interview With Kate Matsudaira](http://foodfightshow.org/2012/10/interview-with-kate-matsudaira.html)
   * [Hacker News](http://news.ycombinator.com/item?id=4607075)
   * [reddit](http://redd.it/10veca)
