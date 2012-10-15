@@ -1,9 +1,9 @@
 Show Date:  30 October 2012
 
-Rome - 17:00
-Annapolis - 12:00
-Minneapolis - 11:00
-San Francisco - 09:00
+Rome - 17:00  
+Annapolis - 12:00  
+Minneapolis - 11:00  
+San Francisco - 09:00  
 
 [UTC 16:00](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2012&month=10&day=30&hour=16&min=0&sec=0&p1=215&p2=1928&p3=159&p4=224)
 
