@@ -1,4 +1,5 @@
-Show Date:  TBD
+Show Date:  6 Nov 2012 - 12:00 Eastern
+
 
 Windows Roundtable
 
