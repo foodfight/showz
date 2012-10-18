@@ -54,6 +54,14 @@ Best!,
 
 Karel
 
+[Monitoringlove: a True story](http://imansson.wordpress.com/2012/10/11/monitoringlove-a-true-story/) in this presentation
+given at DevopsDays Italy. Ulf Mansson describes how the implementation of sensu and graphite convert the monitoring meme
+from monitoringsucks to monitoringlove. Hey kids, Ulf is right. monitoringsucks is dead, long live monitoringlove! There
+is now an active monitoringlove hashtag on twitter and an active #monitoringlove IRC channel. Join the Fun! Thanks
+to Ulf Mansson for making us realize that monitoring no longer has to suck and that if we put in just a bit of extra work,
+we can experience monitoringlove too.
+
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
