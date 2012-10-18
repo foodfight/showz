@@ -63,6 +63,8 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
+[uptime](https://github.com/hectcastro/chef-uptime/) v0.1.0 - [hcastro](https://github.com/hectcastro) A Chef cookbook to install [Uptime](http://fzaninotto.github.com/uptime/).
+
 ### Updated Cookbooks
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
