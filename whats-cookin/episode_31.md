@@ -61,6 +61,9 @@ is now an active monitoringlove hashtag on twitter and an active #monitoringlove
 to Ulf Mansson for making us realize that monitoring no longer has to suck and that if we put in just a bit of extra work,
 we can experience monitoringlove too.
 
+More goodness from the Shipshow Podcast, [bootstrapping developer environments](http://theshipshow.com/2012/10/bootstrapping-your-developer-environments/)
+and discuss when to [roll your own open-source project](http://theshipshow.com/2012/10/rolling-your-own/) rather than 
+contribute to an existing one.
 
 ### Upcoming Meetup Groups and Events
 
