@@ -65,6 +65,31 @@ More goodness from the Shipshow Podcast, [bootstrapping developer environments](
 and discuss when to [roll your own open-source project](http://theshipshow.com/2012/10/rolling-your-own/) rather than 
 contribute to an existing one.
 
+notes from Jamie Winsor
+Berkshelf:
+
+The Berkshelf team is moving toward an official 0.6.0 release which currently has a beta release out in the wild. 
+The 0.6.0 release of Berkshelf will include Windows support and a smoother installation process. Gecode will no 
+longer be a requirement for Berkshelf. We are also taking the time to fix some issues that were introduced in the 
+0.5.0 release before cutting 0.6.0.
+
+The 0.5.0 release included a Vagrant plugin which allows tight integration into Vagrant for both the Chef-Solo and 
+Chef-Client provisioners. The --shims flag was removed in favor of this plugin. Now when you run vagrant provision 
+or vagrant up the plugin will take care of providing the correct cookbooks to Vagrant.
+
+Solve: Solve is a good all purpose version comparison and version constraint solving library. 
+Berkshelf 0.6.0 uses Solve in place of Gecode. 
+
+Solve now supports SemVer-2.0.0-rc1 fully. This means the version numbers now support an optional pre-release 
+and/or build version.
+
+Full cross-platform support now that Solve no longer depends on GeCode. thus you can run Berkshelf on windows and makes
+installation on Mac OS X or linux a million times easier.
+
+Ridley:
+
+We're continuing to evolve Ridley as we develop a soon-to-be open source Chef Orchestrator. More to come
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
