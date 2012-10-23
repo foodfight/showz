@@ -90,6 +90,11 @@ Ridley:
 
 We're continuing to evolve Ridley as we develop a soon-to-be open source Chef Orchestrator. More to come
 
+Chef Openstack updates on [Matt Ray's blog](http://leastresistance.wordpress.com/2012/10/23/chef-for-openstack-status-1022/), [matt's presentation at openstack summit](http://www.slideshare.net/mattray/chef-for-openstack-openstack-fall-2012-summit)
+There is a lot of development underway with numerous patches making their way into master for both Openstack release Essex and the newest release, Folsom.
+
+The Chef for Openstack [mailing list](http://groups.google.com/group/opscode-chef-openstack)
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
