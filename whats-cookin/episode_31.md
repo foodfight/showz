@@ -65,6 +65,12 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
+* auditd
+* diamond_lwrp
+* fortune
+* groovy
+* subrosa
+
 ### Updated Cookbooks
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
