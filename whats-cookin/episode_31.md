@@ -54,6 +54,8 @@ Best!,
 
 Karel
 
+* [PeepCode - Meet Chef (Part 2 of 2)](https://peepcode.com/products/chef-ii)
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
