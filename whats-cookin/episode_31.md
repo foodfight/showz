@@ -106,7 +106,6 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
-<<<<<<< HEAD
 * auditd
 * diamond_lwrp
 * fortune
