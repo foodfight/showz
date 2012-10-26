@@ -56,6 +56,47 @@ Karel
 
 * [PeepCode - Meet Chef (Part 2 of 2)](https://peepcode.com/products/chef-ii)
 
+[Monitoringlove: a True story](http://imansson.wordpress.com/2012/10/11/monitoringlove-a-true-story/) in this presentation
+given at DevopsDays Italy. Ulf Mansson describes how the implementation of sensu and graphite convert the monitoring meme
+from monitoringsucks to monitoringlove. Hey kids, Ulf is right. monitoringsucks is dead, long live monitoringlove! There
+is now an active monitoringlove hashtag on twitter and an active #monitoringlove IRC channel. Join the Fun! Thanks
+to Ulf Mansson for making us realize that monitoring no longer has to suck and that if we put in just a bit of extra work,
+we can experience monitoringlove too.
+
+More goodness from the Shipshow Podcast, [bootstrapping developer environments](http://theshipshow.com/2012/10/bootstrapping-your-developer-environments/)
+and discuss when to [roll your own open-source project](http://theshipshow.com/2012/10/rolling-your-own/) rather than 
+contribute to an existing one.
+
+notes from Jamie Winsor
+Berkshelf:
+
+The Berkshelf team is moving toward an official 0.6.0 release which currently has a beta release out in the wild. 
+The 0.6.0 release of Berkshelf will include Windows support and a smoother installation process. Gecode will no 
+longer be a requirement for Berkshelf. We are also taking the time to fix some issues that were introduced in the 
+0.5.0 release before cutting 0.6.0.
+
+The 0.5.0 release included a Vagrant plugin which allows tight integration into Vagrant for both the Chef-Solo and 
+Chef-Client provisioners. The --shims flag was removed in favor of this plugin. Now when you run vagrant provision 
+or vagrant up the plugin will take care of providing the correct cookbooks to Vagrant.
+
+Solve: Solve is a good all purpose version comparison and version constraint solving library. 
+Berkshelf 0.6.0 uses Solve in place of Gecode. 
+
+Solve now supports SemVer-2.0.0-rc1 fully. This means the version numbers now support an optional pre-release 
+and/or build version.
+
+Full cross-platform support now that Solve no longer depends on GeCode. thus you can run Berkshelf on windows and makes
+installation on Mac OS X or linux a million times easier.
+
+Ridley:
+
+We're continuing to evolve Ridley as we develop a soon-to-be open source Chef Orchestrator. More to come
+
+Chef Openstack updates on [Matt Ray's blog](http://leastresistance.wordpress.com/2012/10/23/chef-for-openstack-status-1022/), [matt's presentation at openstack summit](http://www.slideshare.net/mattray/chef-for-openstack-openstack-fall-2012-summit)
+There is a lot of development underway with numerous patches making their way into master for both Openstack release Essex and the newest release, Folsom.
+
+The Chef for Openstack [mailing list](http://groups.google.com/group/opscode-chef-openstack)
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
@@ -65,11 +106,14 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
+<<<<<<< HEAD
 * auditd
 * diamond_lwrp
 * fortune
 * groovy
 * subrosa
+
+[uptime](https://github.com/hectcastro/chef-uptime/) v0.1.0 - [hcastro](https://github.com/hectcastro) A Chef cookbook to install [Uptime](http://fzaninotto.github.com/uptime/).
 
 ### Updated Cookbooks
 
