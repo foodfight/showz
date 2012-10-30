@@ -14,9 +14,13 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 In the News<a name="news"></a>
 -----------
 
+* Last week was the Chef Community Summit.  We had two Food Fight Show updates from the Summit and you can find a [ton of notes from the sessions on the Opscode Wiki](http://wiki.opscode.com/display/chef/Opscode+Community+Summit+2).
+
+* This videos from this year's [Surge Conference are now available on YouTube](http://www.youtube.com/user/OmniTISurge)
+
 * During the Webexpo Prague, Karel Minarik and Vojtech Hyza presented [Shell's Kitchen](http://webexpo.net/prague2012/talk/shells-kitchen/) a talk about server provisioning with Chef.  In addition to the talk, they've also released the code, a [comprehensive example repository for deploying an application with Chef](http://git.io/chef-hello-cloud).
 
-* [PeepCode - Meet Chef (Part 2 of 2)](https://peepcode.com/products/chef-ii)
+* [PeepCode - Meet Chef (Part 2 of 2)](https://peepcode.com/products/chef-ii) is now available.
 
 * [Monitoringlove: a True story](http://imansson.wordpress.com/2012/10/11/monitoringlove-a-true-story/) in this presentation
 given at DevopsDays Italy. Ulf Mansson describes how the implementation of sensu and graphite convert the monitoring meme
@@ -29,35 +33,17 @@ we can experience monitoringlove too.
 and discuss when to [roll your own open-source project](http://theshipshow.com/2012/10/rolling-your-own/) rather than 
 contribute to an existing one.
 
-notes from Jamie Winsor
-Berkshelf:
+* [Berkshelf](http://berkshelf.com/) was a popular topic during last week's Chef Community Summit. Riot Games is moving towards an official 0.6.0 release
 
-The Berkshelf team is moving toward an official 0.6.0 release which currently has a beta release out in the wild. 
-The 0.6.0 release of Berkshelf will include Windows support and a smoother installation process. Gecode will no 
-longer be a requirement for Berkshelf. We are also taking the time to fix some issues that were introduced in the 
-0.5.0 release before cutting 0.6.0.
-
-The 0.5.0 release included a Vagrant plugin which allows tight integration into Vagrant for both the Chef-Solo and 
-Chef-Client provisioners. The --shims flag was removed in favor of this plugin. Now when you run vagrant provision 
-or vagrant up the plugin will take care of providing the correct cookbooks to Vagrant.
-
-Solve: Solve is a good all purpose version comparison and version constraint solving library. 
-Berkshelf 0.6.0 uses Solve in place of Gecode. 
-
-Solve now supports SemVer-2.0.0-rc1 fully. This means the version numbers now support an optional pre-release 
-and/or build version.
-
-Full cross-platform support now that Solve no longer depends on GeCode. thus you can run Berkshelf on windows and makes
-installation on Mac OS X or linux a million times easier.
-
-Ridley:
-
-We're continuing to evolve Ridley as we develop a soon-to-be open source Chef Orchestrator. More to come
-
-Chef Openstack updates on [Matt Ray's blog](http://leastresistance.wordpress.com/2012/10/23/chef-for-openstack-status-1022/), [matt's presentation at openstack summit](http://www.slideshare.net/mattray/chef-for-openstack-openstack-fall-2012-summit)
+* Chef Openstack updates on [Matt Ray's blog](http://leastresistance.wordpress.com/2012/10/23/chef-for-openstack-status-1022/), [matt's presentation at openstack summit](http://www.slideshare.net/mattray/chef-for-openstack-openstack-fall-2012-summit)
 There is a lot of development underway with numerous patches making their way into master for both Openstack release Essex and the newest release, Folsom.
 
-The Chef for Openstack [mailing list](http://groups.google.com/group/opscode-chef-openstack)
+* There is now a Chef for Openstack [mailing list](http://groups.google.com/group/opscode-chef-openstack)
+
+* [Uptime](http://fzaninotto.github.com/uptime/) is a new simple HTTP remote monitoring utility using Node.js and MongoDB.  There's even a cookbook for managing your uptime application that we'll mention in cookbook news.
+
+
+
 
 ### Upcoming Meetup Groups and Events
 
