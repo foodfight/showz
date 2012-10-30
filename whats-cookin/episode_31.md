@@ -111,6 +111,13 @@ Cookbook News<a name="cookbooks"></a>
 * fortune
 * groovy
 * subrosa
+* cinder
+* ceilometer 
+* janitor
+* rbac 
+* quantum
+* reginjector
+* smf
 
 [uptime](https://github.com/hectcastro/chef-uptime/) v0.1.0 - [hcastro](https://github.com/hectcastro) A Chef cookbook to install [Uptime](http://fzaninotto.github.com/uptime/).
 
