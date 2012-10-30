@@ -32,7 +32,10 @@ Outline/Questions
 * How do you handle versioning and storage of large media files or many media files?
 * How do you handle deployments? What are the different common strategies?
 * What is an artifact repository? What are some examples? (nexus, artifactory)
+* What is the Ship Show?  Can you share a little bit about the show, why you started it, who's involved, etc.?
 
+
+* How can people get in touch with you?
 
 Picks<a name="picks"></a>
 -----
@@ -43,7 +46,8 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
-
+[Diagrammr](http://www.diagrammr.com/) a tool that allows you to easily create and share diagrams by writing sentences.  
+Hat tip to [Mike Fiedler](https://twitter.com/mikefiedler) for the introduction.
 
 CLOSE
 -----
