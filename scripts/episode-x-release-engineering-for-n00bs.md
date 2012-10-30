@@ -52,7 +52,7 @@ Hat tip to [Mike Fiedler](https://twitter.com/mikefiedler) for the introduction.
 * [Titan IPA](http://greatdivide.com/beer/year-round/titan-ipa/?verified=true) from Great Divide Brewing Company.
 
 #### Seth
-[IncrediBuild](http://www.xoreax.com/slow_build_time_challenge.htm)
+* [IncrediBuild](http://www.xoreax.com/slow_build_time_challenge.htm)
 
 CLOSE
 -----
