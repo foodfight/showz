@@ -13,57 +13,19 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 
 In the News<a name="news"></a>
 -----------
-From: Karel Minařík <karel.minarik@gmail.com>
-Date: Mon, Oct 15, 2012 at 7:55 AM
-Subject: [chef] [ANN] Comprehensive example repository for deploying an application with Chef
-To: chef@lists.opscode.com
-Cc: vhyza@vhyza.eu
 
-
-Hi all,
-
-couple of weeks ago, me and my colleague Vojtech Hyza had a talk about
-Chef at the Webexpo Prague conference
-[http://webexpo.net/prague2012/talk/shells-kitchen/].
-
-For the talk, we have created a demo, which contains everything needed
-to launch a reasonably complicated stack inside Vagrant,
-automatically, with Chef Server:
-
---> http://git.io/chef-hello-cloud
-
-When you set up Vagrant and Chef Server properly, you can deploy a
-full stack of 1x load balancer, 1x application server, 1x database
-server, 1x search server just by running `vagrant up`. (Rake tasks to
-deploy the same stack in Amazon EC2 are also provided.)
-
-It deploys a clone of the Rubygems.org Rails application, complete
-with PostgreSQL, Redis, elasticsearch, RVM-based Ruby, installs the
-Rails application, loads it with data, and starts it behind a load
-balancer, while having everything monitored with Monit. It
-demonstrates node discovery (ie. connect the app to database nodes,
-etc), site cookbooks use, writing own cookbooks, etc. We have worked
-very hard so the whole process is automated, repeatable, and
-demonstrates proper #devops techniques.
-
-It effectively distills everything we have learned during our year+
-journey with Chef, so we think you may learn a trick or two in the
-provided source -- this is certainly not a “Hello World” application.
-
-Best!,
-
-Karel
+* During the Webexpo Prague, Karel Minarik and Vojtech Hyza presented [Shell's Kitchen](http://webexpo.net/prague2012/talk/shells-kitchen/) a talk about server provisioning with Chef.  In addition to the talk, they've also released the code, a [comprehensive example repository for deploying an application with Chef](http://git.io/chef-hello-cloud).
 
 * [PeepCode - Meet Chef (Part 2 of 2)](https://peepcode.com/products/chef-ii)
 
-[Monitoringlove: a True story](http://imansson.wordpress.com/2012/10/11/monitoringlove-a-true-story/) in this presentation
+* [Monitoringlove: a True story](http://imansson.wordpress.com/2012/10/11/monitoringlove-a-true-story/) in this presentation
 given at DevopsDays Italy. Ulf Mansson describes how the implementation of sensu and graphite convert the monitoring meme
 from monitoringsucks to monitoringlove. Hey kids, Ulf is right. monitoringsucks is dead, long live monitoringlove! There
 is now an active monitoringlove hashtag on twitter and an active #monitoringlove IRC channel. Join the Fun! Thanks
 to Ulf Mansson for making us realize that monitoring no longer has to suck and that if we put in just a bit of extra work,
 we can experience monitoringlove too.
 
-More goodness from the Shipshow Podcast, [bootstrapping developer environments](http://theshipshow.com/2012/10/bootstrapping-your-developer-environments/)
+* More goodness from the Shipshow Podcast, [bootstrapping developer environments](http://theshipshow.com/2012/10/bootstrapping-your-developer-environments/)
 and discuss when to [roll your own open-source project](http://theshipshow.com/2012/10/rolling-your-own/) rather than 
 contribute to an existing one.
 
