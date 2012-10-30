@@ -42,14 +42,6 @@ There is a lot of development underway with numerous patches making their way in
 
 * [Uptime](http://fzaninotto.github.com/uptime/) is a new simple HTTP remote monitoring utility using Node.js and MongoDB.  There's even a cookbook for managing your uptime application that we'll mention in cookbook news.
 
-
-
-
-### Upcoming Meetup Groups and Events
-
-###  Special Offers
-
-
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
