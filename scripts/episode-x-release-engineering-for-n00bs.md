@@ -46,8 +46,10 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
-[Diagrammr](http://www.diagrammr.com/) a tool that allows you to easily create and share diagrams by writing sentences.  
+* [Diagrammr](http://www.diagrammr.com/) a tool that allows you to easily create and share diagrams by writing sentences.  
 Hat tip to [Mike Fiedler](https://twitter.com/mikefiedler) for the introduction.
+
+* [Titan IPA](http://greatdivide.com/beer/year-round/titan-ipa/?verified=true) from Great Divide Brewing Company.
 
 CLOSE
 -----
