@@ -106,22 +106,91 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
-* auditd
-* diamond_lwrp
-* fortune
-* groovy
-* subrosa
-* cinder
-* ceilometer 
-* janitor
-* rbac 
-* quantum
-* reginjector
-* smf
+* [auditd](http://community.opscode.com/cookbooks/auditd) v0.1.0 - from Sean Escriva - [sme](http://community.opscode.com/users/sme)
+A simple cookbook to install auditd and provided rulesets. 
 
-[uptime](https://github.com/hectcastro/chef-uptime/) v0.1.0 - [hcastro](https://github.com/hectcastro) A Chef cookbook to install [Uptime](http://fzaninotto.github.com/uptime/).
+* [subrosa](http://community.opscode.com/cookbooks/subrosa) v0.1.0 - from Sean Escriva - [sme](http://community.opscode.com/users/sme)
+Installs/Configures Subrosa, an IRC daemon written in Clojure.
+
+* [diamond](http://community.opscode.com/cookbooks/diamond) v0.0.1 - from Chad Barraford - [cbarraford](http://community.opscode.com/users/cbarraford)
+Installs/Configures diamond.  Diamond is a python daemon that collects system metrics and publishes them to Graphite. It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+* [diamond_lwrp](http://community.opscode.com/cookbooks/diamond_lwrp) v1.1.0 - from Scott Likens - [scottmlikens](http://community.opscode.com/users/scottmlikens)
+This cookbook provides providers and resources to configure and manage Diamond. 
+
+* [fortune](http://community.opscode.com/cookbooks/fortune) v0.0.1 - from Gavin Montague - [leftbrained](http://community.opscode.com/users/leftbrained)
+Installs fortune utility, a silly little collection of bon mots.
+
+* [groovy](http://community.opscode.com/cookbooks/groovy) v0.0.1 - from Kyle Allan - [kallan](http://community.opscode.com/users/kallan)
+Installs/Configures groovy
+
+* [scala](http://community.opscode.com/cookbooks/scala) v0.0.1 - from Kyle Allan - [kallan](http://community.opscode.com/users/kallan)
+Installs/Configures scala
+
+* [janitor](http://community.opscode.com/cookbooks/janitor) v0.0.1 - from Mark Pimentel [xeon22](http://community.opscode.com/users/xeon22)
+This cookbook is meant to keep order on a running node to purge files on the filesystem that are unwanted. You could also apply some criteria to the files that are targeted such as glob patterns, age, and size.
+
+* [rbac](http://community.opscode.com/cookbooks/rbac) v0.0.3 - from Eric Saxby - [sax](http://community.opscode.com/users/sax)
+An LWRP that allows delegation of service management to users with Solaris Role Based Access Control (RBAC)
+
+* [ohai-private-ipaddress](http://community.opscode.com/cookbooks/ohai-private-ipaddress) v0.0.1 - from Eric Saxby - [sax](http://community.opscode.com/users/sax)
+Ohai plugin for getting a node's private IP address (RFC 1918)
+
+* [rackconnect](http://community.opscode.com/cookbooks/rackconnect) v0.1.0 - from David Radcliffe -  [dwradcliffe](http://community.opscode.com/users/dwradcliffe)
+[RackConnect](http://www.rackspace.com/cloud/hybrid/dedicated_cloud/rackconnect/) is a service from RackSpace that allows dedicated hardware and cloud servers to run on the same vlan. RackConnect automatically configures iptables on the servers based on your external firewall rules. A user named 'rackconnect' is used by the automation to do this. If you're managing you RackSpace servers with Chef, you need to be sure that the rackconnect setup doesn't get removed.  Enable /etc/sudoers.d/ and include the rackconnect recipe to allow the rackconnect user to do its thing.  
+
+* [smf](http://community.opscode.com/cookbooks/smf) v0.6.4 - from Blake Irvin - [bixu](http://community.opscode.com/users/bixu)
+A light weight resource and provider (LWRP) for Service Management Facility (SMF).  SMF is a tool in many Illumos and Solaris-derived operating systems that treats services as first class objects of the system. It provides an XML syntax for declaring how the system can interact with an control a service.  This cookbook contains LWRPs for creating or modifying a service within the SMF framework.
+
+* [texlive](http://community.opscode.com/cookbooks/texlive) v0.1.0 - from Takeshi KOMIYA - [tk0miya](http://community.opscode.com/users/tk0miya)
+Installs TeXLive, a free software distribution for the TeX typesetting system that includes major TeX-related programs, macro packages, and fonts.
+
+* [reginjector](http://community.opscode.com/cookbooks/reginjector) v0.1.1 - from Steven C - [cixelsyd](http://community.opscode.com/users/cixelsyd)
+Installs/Configures reginjector to push registry changes to Windows machines
+
+* [ovirt-mom](http://community.opscode.com/cookbooks/ovirt-mom) v0.1.0 - from Guilhem Lettron -  [guilhemfr](http://community.opscode.com/users/guilhemfr)
+Installs/Configures ovirt-mom, the Memory Overcommitment Manager.  MOM is a policy-driven tool that can be used to manage overcommitment on KVM hosts.
+
+* [nginx_conf](http://community.opscode.com/cookbooks/nginx_conf) v0.0.4 - from Lloyd Philbrook -[phoolish](http://community.opscode.com/users/phoolish)
+A cookbook that can be used to Manage nginx server configuration files.
+
+* [ulimit](http://community.opscode.com/cookbooks/ulimit) v0.1.1 - from Brian Hatfield - [bmhatfield](http://community.opscode.com/users/bmhatfield)
+This is a short-and-simple cookbook to provide a user_ulimit resource for overriding various ulimit settings. It places configured templates into /etc/security/limits.d/, named for the user the ulimit applies to.  It also provides a helper recipe (default.rb) for allowing ulimit overrides with the 'su' command on Ubuntu.
+
+* [fog](http://community.opscode.com/cookbooks/fog) v0.0.2 - from Gerald Hevener - [jackl0phty](http://community.opscode.com/users/jackl0phty)
+Installs/Configures FOG, a Linux-based, free and open source computer imaging solution for Windows XP, Vista and 7 that ties together a few open-source tools with a php-based web interface. 
+
+* [sanitize](http://community.opscode.com/cookbooks/sanitize) v0.1.0 - from Maciej Pasternacki - [mpasternacki](http://community.opscode.com/users/mpasternacki)
+This cookbook aims to normalize setup of a fresh server and set sane defaults for global settings, and work with various initial environments (tested on EC2 images, Hetzner "minimal" installations, and debootstrap-created LXC images). At the moment it supports only Ubuntu, Debian support is planned.
+
+* [phpmyadmin](http://community.opscode.com/cookbooks/phpmyadmin) v1.0.1 - from Panagiotis Papadomitsos - [priestjim](http://community.opscode.com/users/priestjim)
+Installs/Configures PHPMyAdmin
+
+* [nut](http://community.opscode.com/cookbooks/nut) v0.0.1 - from Ceaser Larry - [clarry](http://community.opscode.com/users/clarry)
+Installs/Configures [Network UPS Tools](http://www.networkupstools.org/)
+
+* [uptime](https://github.com/hectcastro/chef-uptime/) v0.1.0 - from Hector Castro - [hcastro](https://github.com/hectcastro)
+A Chef cookbook to install [Uptime](http://fzaninotto.github.com/uptime/), a simple HTTP remote monitoring utility using Node.js and MongoDB.
 
 ### Updated Cookbooks
+* [artifact](http://community.opscode.com/cookbooks/artifact) v0.10.10 - [reset](http://community.opscode.com/users/reset)
+* [redis2](http://community.opscode.com/cookbooks/redis2) v0.4.5 - [avishai](http://community.opscode.com/users/avishai)
+* [gitlab](http://community.opscode.com/cookbooks/gitlab) v0.3.3 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+* [reboot-handler](http://community.opscode.com/cookbooks/reboot-handler) v0.2.0 - [retr0h](http://community.opscode.com/users/retr0h)
+* [afw](http://community.opscode.com/cookbooks/afw) v0.0.4 - [jvehent](http://community.opscode.com/users/jvehent)
+* [haproxy2](http://community.opscode.com/cookbooks/haproxy2) v0.5.7 - [demonccc](http://community.opscode.com/users/demonccc)
+* [heartbeat3](http://community.opscode.com/cookbooks/heartbeat3) v0.4.3 - [demonccc](http://community.opscode.com/users/demonccc)
+* [dpkg_packages](http://community.opscode.com/cookbooks/dpkg_packages) v0.1.2 - [demonccc](http://community.opscode.com/users/demonccc)
+* [cpan](http://community.opscode.com/cookbooks/cpan) v0.0.24 - [melezhik](http://community.opscode.com/users/melezhik)
+* [phantomjs](http://community.opscode.com/cookbooks/phantomjs) v0.0.10 - [sethvargo](http://community.opscode.com/users/sethvargo)
+* [splunk_handler](http://community.opscode.com/cookbooks/splunk_handler) v1.2.0 - [ampledata](http://community.opscode.com/users/ampledata)
+* [zabbix](http://community.opscode.com/cookbooks/zabbix) v0.0.39 - [laradji](http://community.opscode.com/users/laradji)
+* [squid](http://community.opscode.com/cookbooks/squid) v0.2.2 - [mray](http://community.opscode.com/users/mray)
+* [openvas](http://community.opscode.com/cookbooks/openvas) v0.0.52 - [jackl0phty](http://community.opscode.com/users/jackl0phty)
+* [kronos](http://community.opscode.com/cookbooks/kronos) v0.1.4 - [cixelsyd](http://community.opscode.com/users/cixelsyd)
+* [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) v0.2.2 - [dcrosta](http://community.opscode.com/users/dcrosta)
+* [datadog](http://community.opscode.com/cookbooks/datadog) v0.1.2 - [miketheman](http://community.opscode.com/users/miketheman)
+* [uwsgi](http://community.opscode.com/cookbooks/uwsgi) v0.0.5 - [idyedov](http://community.opscode.com/users/idyedov)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
