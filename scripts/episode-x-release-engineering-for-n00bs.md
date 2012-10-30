@@ -11,12 +11,11 @@ San Francisco - 09:00
 Panel<a name="panel"></a>
 -----
 
-* J. Paul Reed
-* Seth Thomas
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* J. Paul Reed [github](https://github.com/preed), [twitter](https://twitter.com/soberbuildeng), [blog](http://soberbuildengineer.com/blog/)
+* Seth Thomas [github](https://github.com/cheeseplus), [twitter](https://twitter.com/cheeseplus)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* The Ship Show [website](http://theshipshow.com/), [twitter](https://twitter.com/ShipShowPodcast)
   
 
 Outline/Questions
@@ -35,14 +34,13 @@ Outline/Questions
 * What is the Ship Show?  Can you share a little bit about the show, why you started it, who's involved, etc.?
 
 
-* How can people get in touch with you?
-
 Picks<a name="picks"></a>
 -----
 
 #### Bryan  
 
-#### lusis  
+* [CrossFit](http://www.crossfit.com/)
+* [Deming](http://en.wikipedia.org/wiki/W._Edwards_Deming)
 
 #### Nathen  
 
@@ -52,7 +50,13 @@ Hat tip to [Mike Fiedler](https://twitter.com/mikefiedler) for the introduction.
 * [Titan IPA](http://greatdivide.com/beer/year-round/titan-ipa/?verified=true) from Great Divide Brewing Company.
 
 #### Seth
+
 * [IncrediBuild](http://www.xoreax.com/slow_build_time_challenge.htm)
+
+#### Paul
+
+* [Normal Accidents](http://www.amazon.com/Normal-Accidents-Living-High-Risk-Technologies/dp/0691004129)
+* [San Francisco Giants](http://sanfrancisco.giants.mlb.com/index.jsp?c_id=sf&sv=1)
 
 CLOSE
 -----
