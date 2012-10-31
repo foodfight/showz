@@ -71,7 +71,7 @@ This cookbook provides providers and resources to configure and manage Diamond.
 
 **N**
 * [fortune](http://community.opscode.com/cookbooks/fortune) v0.0.1 - from Gavin Montague - [leftbrained](http://community.opscode.com/users/leftbrained)  
-Installs fortune utility, a silly little collection of bon mots.
+Installs fortune utility, a silly little collection of [bon mots](https://www.google.com/search?q=define%3Abon+mot)
 
 **N**
 * [groovy](http://community.opscode.com/cookbooks/groovy) v0.0.1 - from Kyle Allan - [kallan](http://community.opscode.com/users/kallan)  
