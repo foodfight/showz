@@ -14,6 +14,10 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 In the News<a name="news"></a>
 -----------
 
+* [Partial Search for Opscode Hosted Chef](http://www.opscode.com/blog/2012/10/31/introducing-partial-search-for-opscode-hosted-chef/) was recently released.  The engineering team at Opscode is getting closer to Chef 11 and one of the latest features is partial search.  This allows you to limit the node attributes returned by searches against the Chef server.  Doing so can have a dramatic impact on the memory and network bandwidth requirements of chef-client.  According to [Pete Cheslock](https://twitter.com/petecheslock), Director of TechOps at Sonian, they're seeing [memory usage down 75% using partial search](https://twitter.com/petecheslock/status/263630823230697472).
+
+* There are a number of [Breaking Changes in Chef 11](http://wiki.opscode.com/display/chef/Breaking+Changes+in+Chef+11), be sure to check the wiki for a running list of these changes.  [Daniel DeLeo](https://twitter.com/kallistec) recently posted a message on the Chef mailing list that goes into some detail on the [changes to attributes in Chef 11](http://lists.opscode.com/sympa/arc/chef/2012-10/msg00427.html).  TL;DR - You may need to change the way you assign node attributes.
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
