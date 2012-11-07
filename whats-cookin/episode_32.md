@@ -18,6 +18,8 @@ In the News<a name="news"></a>
 
 * There are a number of [Breaking Changes in Chef 11](http://wiki.opscode.com/display/chef/Breaking+Changes+in+Chef+11), be sure to check the wiki for a running list of these changes.  [Daniel DeLeo](https://twitter.com/kallistec) recently posted a message on the Chef mailing list that goes into some detail on the [changes to attributes in Chef 11](http://lists.opscode.com/sympa/arc/chef/2012-10/msg00427.html).  TL;DR - You may need to change the way you assign node attributes.
 
+* [Seth Vargo](https://twitter.com/svargo) has released version 0.0.4.  Fauxhai is the gem you should be using to mock out ohai data in your chef testing.  The latest release includes more operating systems with thanks to [Joshua Timberman](http://twitter.com/jtimberman), [Eric Wolfe](https://twitter.com/atomic_penguin), and [Mike Fiedler](https://twitter.com/mikefiedler).
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
