@@ -22,6 +22,8 @@ In the News<a name="news"></a>
 
 * [chefvm](https://github.com/trobrock/chefvm/) is a simple Chef environment manager, usage inspired by (rvm)[https://rvm.io/].  At first glance this looks similar to [knife-block](https://github.com/greenandsecure/knife-block) which we mentioned back in [episode 27](http://foodfightshow.org/2012/09/vagrant.html).  Thanks to [David Czarnecki](https://twitter.com/CzarneckiD) for letting us know about chefvm!
 
+* [chef-edit](https://github.com/bryanwb/chef-edit) is a new gem that adds a simple function to the Chef library scope to edit and existing resource. If the given resource does not exist, a new resource will be created. 
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
