@@ -20,6 +20,8 @@ In the News<a name="news"></a>
 
 * [Seth Vargo](https://twitter.com/svargo) has released version 0.0.4.  Fauxhai is the gem you should be using to mock out ohai data in your chef testing.  The latest release includes more operating systems with thanks to [Joshua Timberman](http://twitter.com/jtimberman), [Eric Wolfe](https://twitter.com/atomic_penguin), and [Mike Fiedler](https://twitter.com/mikefiedler).
 
+* [chefvm](https://github.com/trobrock/chefvm/) is a simple Chef environment manager, usage inspired by (rvm)[https://rvm.io/].  At first glance this looks similar to [knife-block](https://github.com/greenandsecure/knife-block) which we mentioned back in [episode 27](http://foodfightshow.org/2012/09/vagrant.html).  Thanks to [David Czarnecki](https://twitter.com/CzarneckiD) for letting us know about chefvm!
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
