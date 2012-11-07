@@ -29,6 +29,14 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
+* backup_lwrp
+* ipxe
+* jekyll
+* linux-dev-env
+* partial_search
+* tomcat-solr
+
+
 ### Updated Cookbooks
 
 * [hostsfile](http://community.opscode.com/cookbooks/hostsfile) - v0.2.0 - [sethvargo](http://community.opscode.com/users/sethvargo) - This new version includes a number of bug fixes, as well as the option to prioritize entries.
