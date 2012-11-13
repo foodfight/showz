@@ -55,7 +55,8 @@ news to info@foodfightshow.org
 
 Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
 
-Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
+Don't forget!  We'll be hosting a Google+ Hangout to discuss today's topic with you.  Join the hangout to ask questions and share feedback with our panelists.  The Hangout will be held on Tuesday, November 20 at 20:00 UTC.  Check foodfightshow.org for more details.
+
 
 
 
