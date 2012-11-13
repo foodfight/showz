@@ -22,7 +22,20 @@ In the News<a name="news"></a>
 
 * [chefvm](https://github.com/trobrock/chefvm/) is a simple Chef environment manager, usage inspired by (rvm)[https://rvm.io/].  At first glance this looks similar to [knife-block](https://github.com/greenandsecure/knife-block) which we mentioned back in [episode 27](http://foodfightshow.org/2012/09/vagrant.html).  Thanks to [David Czarnecki](https://twitter.com/CzarneckiD) for letting us know about chefvm!
 
-* [chef-edit](https://github.com/bryanwb/chef-edit) is a new gem that adds a simple function to the Chef library scope to edit and existing resource. If the given resource does not exist, a new resource will be created. 
+* [chef-rewind](https://github.com/bryanwb/chef-rewind) is a new gem that adds a simple function to the Chef library scope to edit and existing resource. If that resource doesn't already exist, chef-rewind will raise an error. 
+
+* [Berkshelf 1.0 released](http://lists.opscode.com/sympa/arc/chef/2012-11/msg00205.html) Maybe have Jaime go over it on the show?
+** Full Windows support, no longer requires gecode
+** Vagrant plugin for seemless integration w/ vagrant
+** github source location
+
+* Peter Donald Cookbook Reusability
+
+* Bryan Berry, cookbook reusability Gangnam Style
+
+* [Understanding how Multicast Works](http://www.firewall.cx/networking-topics/general-networking/107-network-multicast.html),  redis, elasticsearch, and countless other popular tools use multicast, maybe its time to figure out how it actually works
+
+* Linsday Holmwood released [Ript](http://holmwood.id.au/~lindsay/2012/11/12/ript-quick-reliable-painless-firewalling/), a Ruby DSL and utility for managing your iptables rules
 
 ### Upcoming Meetup Groups and Events
 
@@ -44,8 +57,14 @@ Cookbook News<a name="cookbooks"></a>
 ### Updated Cookbooks
 
 * [hostsfile](http://community.opscode.com/cookbooks/hostsfile) - v0.2.0 - [sethvargo](http://community.opscode.com/users/sethvargo) - This new version includes a number of bug fixes, as well as the option to prioritize entries.
+* [deployer](http://community.opscode.com/cookbooks/deployer) sets up a deploy user with the necessary ssh authorized keys. This is great for working with Capistrano where you need to deploy code, but it doesn't make sense for each user to have a shell account.
+
+
+
+One quick note, are you using zookeeper to discover your nodes and/or for orchestration? If so, we would love to hear from you and possibly do a segment on it for the Foodfightshow.
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
+
 
 Be sure to follow [@foodfightshow on twitter](http://twitter.com/foodfightshow) and to rate us on itunes!
 
