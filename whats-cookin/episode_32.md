@@ -29,15 +29,15 @@ In the News<a name="news"></a>
   * Vagrant plugin for seemless integration w/ vagrant
   * github source location
 
-* Peter Donald Cookbook Reusability
-
-* Bryan Berry, cookbook reusability Gangnam Style
-
 * [Understanding how Multicast Works](http://www.firewall.cx/networking-topics/general-networking/107-network-multicast.html),  redis, elasticsearch, and countless other popular tools use multicast, maybe its time to figure out how it actually works
 
 * Linsday Holmwood released [Ript](http://holmwood.id.au/~lindsay/2012/11/12/ript-quick-reliable-painless-firewalling/), a Ruby DSL and utility for managing your iptables rules
 
-* Hangouts - Cookbook Reusability, Release Management, and more to come. We are really happy w/ the hangouts so far and would love to hear from you how hangouts could be useful to you. Our next hangout is . . .
+* Peter Donald wrote about [cookbook reusability](http://realityforge.org/code/2012/05/12/evolving-towards-cookbook-reusability-in-chef.html) back in May of this year and we covered that post in [episode 14](http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html).  After joining us for the recent [Reusable Cookbook Patterns](http://www.youtube.com/watch?v=x0LoqaKbu2g) Hangout, Peter's back with a new blog post on the subject.  [Reusable Cookbooks Revisited](http://realityforge.org/code/2012/11/12/reusable-cookbooks-revisited.html).  One thing Peter does really nicely in this post is explore two different approaches:  attribute-driven recipes and LWRPs.  
+
+* Staying on the topic of reusable cookbooks, Bryan Berry also wrote a post titled [How to Write Reusable Chef Cookbooks, Gangnam Style](http://devopsanywhere.blogspot.it/2012/11/how-to-write-reusable-chef-cookbooks.html).  This is another great exploration of the library and application cookbook pattern.
+
+* Hangouts - [Office Hours](http://www.youtube.com/watch?v=3Y-lpMyG3jA), [Cookbook Reusability](http://www.youtube.com/watch?v=x0LoqaKbu2g), and [Release Management](http://www.youtube.com/watch?v=7E1KcDinD5c), and more to come. We are really happy w/ the hangouts so far and would love to hear from you how hangouts could be useful to you. Our next hangout is going to be on Tuesday, November 20 at 20:00 UTC, which is 3:00PM Eastern US and 12:00PM Pacific US.  Check the foodfightshow.org for more details.
 
 ### Upcoming Meetup Groups and Events
 
