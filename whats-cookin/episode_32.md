@@ -37,6 +37,8 @@ In the News<a name="news"></a>
 
 * Linsday Holmwood released [Ript](http://holmwood.id.au/~lindsay/2012/11/12/ript-quick-reliable-painless-firewalling/), a Ruby DSL and utility for managing your iptables rules
 
+* Hangouts - Cookbook Reusability, Release Management, and more to come. We are really happy w/ the hangouts so far and would love to hear from you how hangouts could be useful to you. Our next hangout is . . .
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
