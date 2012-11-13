@@ -25,9 +25,9 @@ In the News<a name="news"></a>
 * [chef-rewind](https://github.com/bryanwb/chef-rewind) is a new gem that adds a simple function to the Chef library scope to edit and existing resource. If that resource doesn't already exist, chef-rewind will raise an error. 
 
 * [Berkshelf 1.0 released](http://lists.opscode.com/sympa/arc/chef/2012-11/msg00205.html) Maybe have Jaime go over it on the show?
-** Full Windows support, no longer requires gecode
-** Vagrant plugin for seemless integration w/ vagrant
-** github source location
+  * Full Windows support, no longer requires gecode
+  * Vagrant plugin for seemless integration w/ vagrant
+  * github source location
 
 * Peter Donald Cookbook Reusability
 
