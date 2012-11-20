@@ -1,11 +1,11 @@
-Show Date:  11 December 2012
+Show Date:  12 December 2012
 
-Rome - 18:00  
-Annapolis - 12:00  
-Austin - 11:00  
-Seattle - 9:00  
+Rome - 21:10  
+Annapolis - 15:10  
+Austin - 14:10  
+Seattle - 12:10  
 
-[UTC - 17:00](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2012&month=12&day=11&hour=17&min=0&sec=0&p1=215&p2=1928&p3=24&p4=234)
+[UTC - 20:10](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2012&month=12&day=11&hour=17&min=0&sec=0&p1=215&p2=1928&p3=24&p4=234)
 
 Panel<a name="panel"></a>
 -----
