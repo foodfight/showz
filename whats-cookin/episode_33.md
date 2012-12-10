@@ -15,11 +15,24 @@ In the News<a name="news"></a>
 -----------
 
 * [Role Cookbooks and Wrapper Cookbooks](http://realityforge.org/code/2012/11/19/role-cookbooks-and-wrapper-cookbooks.html), another post on the subject from [Peter Donald](https://twitter.com/rahvintaka).
+* [Roundtrip](https://github.com/jondot/roundtrip) Roundtrip is a business process tracking and measurement service especially useful for tracking distributed systems and services that integrates nicely with Graphite
+* [Chef-workflow](https://github.com/hoteltonight/chef-workflow) is a comprehensive rake-based workflow for chef
+* [Flock_of_chefs](https://github.com/chrisroberts/flock_of_chefs) inter-node communication primatives to Chef instances
+Love the '80s synth-pop reference! Cue Flock of Seagulls "Wishing"
+* [Alpha omnibus packages for Chef 11 Server](http://wiki.opscode.com/display/chef/Chef+11+Server+Preview) are now available for Centos 5,6 and Ubuntu 10-12
+* [Test-Kitchen](http://www.opscode.com/blog/2012/12/03/test-kitchen-0-7-0-released/) 0.7.0 released, now with an OpenStack Runner and some bug fixes 
+* [Berkshelf 1.1.0](http://lists.opscode.com/sympa/arc/chef/2012-12/msg00090.html) released. This release adds a bunch of new commands and some bug fixes.
+My favorite is that `berks upload` can now take a single cookbook as an argument. Before 1.1.0, you `berks upload` uploaded all of the cookbook referenced in your Berksfile, each time you ran it.
+A big thanks goes out to Seth Vargo who is now the biggest contributor outside of Riot Games to the Berkshelf project
+* Peter Zsoldos shared with us an excellent presentation from Dan Milstein, [How to run a 5 Whys (with humans, not robots](http://www.slideshare.net/danmil30/how-to-run-a-5-whys-with-humans-not-robots#btnNext)
 
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
 
+Take the [Foodfight Listener Survey](https://docs.google.com/spreadsheet/viewform?formkey=dGp5WTJzdVlWYkZ4ZE93cEYzVXN4Q0E6MQ#gid=0)! 
+
+Help us make the show more awesome.
 
 Cookbook News<a name="cookbooks"></a>
 -------------
