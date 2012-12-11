@@ -47,6 +47,8 @@ Picks<a name="picks"></a>
 -----
 
 #### Mike
+* [Tailor](https://github.com/turboladen/tailor) -  style and static analysis "rulers" for Ruby files
+* [Datadog](http://www.datadoghq.com/) - Hosted monitoring
 
 #### Sean
 
@@ -55,7 +57,15 @@ Picks<a name="picks"></a>
 
 #### Ulf
 
-#### lusis  
+* [R](http://www.r-project.org/) programming language
+* [R Cookbook](http://www.amazon.com/Cookbook-OReilly-Cookbooks-Paul-Teetor/dp/0596809158)
+* [Raspberry Pi](http://www.raspberrypi.org/)
+
+#### lusis
+
+* [IntelliJ IDEA](http://www.jetbrains.com/idea/)
+* [OpenDS](http://opends.java.net/)
+* [OpenDJ](http://forgerock.com/what-we-offer/open-identity-stack/opendj/)
 
 #### Nathen  
 
