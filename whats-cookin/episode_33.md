@@ -23,7 +23,7 @@ Love the '80s synth-pop reference! Cue Flock of Seagulls "Wishing"
 * [Test-Kitchen](http://www.opscode.com/blog/2012/12/03/test-kitchen-0-7-0-released/) 0.7.0 released, now with an OpenStack Runner and some bug fixes 
 * [Berkshelf 1.1.0](http://lists.opscode.com/sympa/arc/chef/2012-12/msg00090.html) released. This release adds a bunch of new commands and some bug fixes.
 My favorite is that `berks upload` can now take a single cookbook as an argument. Before 1.1.0, you `berks upload` uploaded all of the cookbook referenced in your Berksfile, each time you ran it.
-A big thanks goes out to (Seth Vargo)[https://twitter.com/sethvargo] who is now the biggest contributor outside of Riot Games to the Berkshelf project
+A big thanks goes out to [Seth Vargo](https://twitter.com/sethvargo) who is now the biggest contributor outside of Riot Games to the Berkshelf project
 * Peter Zsoldos shared with us an excellent presentation from Dan Milstein, [How to run a 5 Whys (with humans, not robots](http://www.slideshare.net/danmil30/how-to-run-a-5-whys-with-humans-not-robots#btnNext)
 * The Resources reference page has moved! All the content on the wiki page for Resources has been moved to [docs.opscode.com](http://docs.opscode.com/chef/resources.html)
 
