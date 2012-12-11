@@ -31,7 +31,7 @@ A big thanks goes out to (Seth Vargo)[https://twitter.com/sethvargo] who is now 
 
 ###  Special Offers
 
-Take the [Foodfight Listener Survey](https://docs.google.com/spreadsheet/viewform?formkey=dGp5WTJzdVlWYkZ4ZE93cEYzVXN4Q0E6MQ#gid=0)! 
+Take the [Foodfight Listener Survey](https://docs.google.com/spreadsheet/viewform?formkey=dGp5WTJzdVlWYkZ4ZE93cEYzVXN4Q0E6MQ#gid=0)! [http://bit.ly/ffssurvey](http://bit.ly/ffssurvey)
 
 Help us make the show more awesome.
 
