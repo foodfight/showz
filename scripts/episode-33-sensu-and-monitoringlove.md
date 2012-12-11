@@ -39,6 +39,9 @@ Outline/Questions
 * Where could Sensu use the most help?
 * Who is using Sensu at the moment?
 * Portertech: does Sonian have any plans for an enterprise or hosted offering? 
+* 
+* 
+* https://github.com/sensu/sensu-community-plugins
 
 Picks<a name="picks"></a>
 -----
