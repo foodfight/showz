@@ -42,25 +42,23 @@ Outline/Questions
 Picks<a name="picks"></a>
 -----
 
-#### Bryan  
+#### Mike
+
+#### Sean
+
+#### Ulf
 
 #### lusis  
 
 #### Nathen  
 
-#### Sean  
+* [ChefConf 2013](http://chefconf.opscode.com) - Submit your presentations, buy your tickets.
 
 
 CLOSE
 -----
 
-Please take the time to rate us on itunes and to send your cookbook
-news to info@foodfightshow.org
-
-Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
-
-Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
-
+Please take a few minutes to complete our listener survey - [http://bit.ly/ffssurvey](http://bit.ly/ffssurvey)
 
 
 Download
