@@ -47,6 +47,9 @@ Picks<a name="picks"></a>
 
 #### Sean
 
+* [The Checklist Manifesto](http://gawande.com/the-checklist-manifesto) - Read it.
+* [SysAdvent](http://sysadvent.blogspot.ca/) - Best month for sysadmin blog posts.
+
 #### Ulf
 
 #### lusis  
