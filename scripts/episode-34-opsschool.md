@@ -22,11 +22,20 @@ Outline/Questions
 * Why do we need an OpsSchool?
 * How can I contribute?
 * How can I attend?
+* What problem solving techniques should ops people use?  How do we train on those?
+* How important is statistical reasoning?  How do we teach that?
+* You gave a workshop at LISA.  How did that go?  What feedback did you get?
 
 
 
 Picks<a name="picks"></a>
 -----
+
+#### Avleen
+
+#### Patrick  
+
+#### Carolyn  
 
 #### Bryan  
 
@@ -34,9 +43,7 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
-#### Avleen
-
-#### Patrick  
+* [Kepner-Tregoe](http://www.kepner-tregoe.com/) 
 
 
 CLOSE
