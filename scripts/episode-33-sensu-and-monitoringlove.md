@@ -18,9 +18,9 @@ Outline/Questions
 * Why Sensu? Why another monitoring system?
 * How does Sensu differ from Nagios?
 * What role does messaging play in Sensu?
-* Ruby is dog-slow, so isn't Sensu slow too?
 * Is there support for Windows?
 * Is Sensu tightly coupled with Chef?
+* Ruby is dog-slow, so isn't Sensu slow too?
 * Are there pre-built checks?  Can Nagios checks be used?
 * https://github.com/sensu/sensu-community-plugins* Ulf: what were your reasons for moving to Sensu?
 * Ulf: describe the migration process
