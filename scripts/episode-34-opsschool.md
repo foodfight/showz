@@ -1,17 +1,11 @@
-Show Date:  12 December 2012
-
-Rome - 21:10  
-Annapolis - 15:10  
-Austin - 14:10  
-Seattle - 12:10  
-
-[UTC - 20:10](http://www.timeanddate.com/worldclock/meetingdetails.html?year=2012&month=12&day=11&hour=17&min=0&sec=0&p1=215&p2=1928&p3=24&p4=234)
+Show Date:  19, 20, or 21 December 2012
 
 Panel<a name="panel"></a>
 -----
 
 * Avleen Vig [github](https://github.com/avleen), [twitter](https://twitter.com/avleen)
 * Patrick McDonnell, Senior Web Operations Engineer at Etsy [twitter](http://twitter.com/mcdonnps)
+* Carolyn Rowland [twitter](http://twitter.com/unpixie)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
