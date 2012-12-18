@@ -10,7 +10,7 @@ Show Date:  20 December 2012
 Panel<a name="panel"></a>
 -----
 
-* Avleen Vig [github](https://github.com/avleen), [twitter](https://twitter.com/avleen)
+* Avleen Vig [github](https://github.com/avleen), [twitter](https://twitter.com/avleen), [blog](http://silverwraith.com/blog/)
 * Patrick McDonnell, Senior Web Operations Engineer at Etsy [twitter](http://twitter.com/mcdonnps)
 * Carolyn Rowland [twitter](http://twitter.com/unpixie)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
@@ -22,6 +22,12 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+### The State of Ops Education
+
+* What is the current state of Ops education?
+* Why does it need to change?
+* Are there any Systems Administration related degree programs?
+
 ### OpsSchool
 
 * What is OpsSchool?
@@ -30,6 +36,7 @@ Outline/Questions
 * How can I contribute?
 * How can I attend?
 * What problem solving techniques should ops people use?  How do we train on those?
+* How about "soft skills"? Communication, leadership, critical thinking. How do we teach those?
 * How important is statistical reasoning?  How do we teach that?
 * You gave a workshop at LISA.  How did that go?  What feedback did you get?
 
