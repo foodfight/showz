@@ -1,4 +1,11 @@
-Show Date:  19, 20, or 21 December 2012
+Show Date:  20 December 2012
+
+* Rome - 1700
+* Annapolis - 1100
+* Austin - 1000
+* Portland - 0800
+
+[Time Zone Conversion](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ops+School&iso=20121220T11&p1=1928&ah=1)
 
 Panel<a name="panel"></a>
 -----
