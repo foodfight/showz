@@ -14,6 +14,14 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 In the News<a name="news"></a>
 -----------
 
+* In [episode 23(http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html), we talked about OmniOS, the Illumos-based OS from OmniTI.  There's now an [OmniOS AMI available on Amazon's EC2](https://aws.amazon.com/amis/omnios-stable-r151004).
+* [knife-solo_data_bag v 0.3.0](http://rubygems.org/gems/knife-solo_data_bag) was recently released.  This release adds support for encrypted_data_bag_secret.
+* Joshua Timberman recently refactored his Chef repository to take advantage of Berkshelf.  He [wrote up the process on his blog](http://jtimberman.housepub.org/blog/2012/11/19/chef-repository-berkshelf-conversion/).
+* Igor Afonov recently gave a presentation about [Application deployment with Chef](https://speakerdeck.com/iafonov/application-deployment-with-chef).  The slides are available [on speakerdeck](https://speakerdeck.com/iafonov/application-deployment-with-chef).
+* [Matt Urbanski](https://twitter.com/iflowfor8hours) recently wrote up a blog post titled [Chef Testing Strategies Compared](http://www.iflowfor8hours.info/2012/11/chef-testing-stratagies-compared/).  In this post, Matt looks at minitest, chefspec, cucumber chef, test-kitchen, whyrun, foodcritic, knife, chef-solo, and strainer.  Definitely worth a read!
+* If you're listening to this show, chances are good that you believe DevOps Matters.  But what if you need a little help convincing the Developers on your team that DevOps matters to them?  Check out a recent blog post from Benjamin Wooton - [Why DevOps Matters (To Developers)...](http://benjaminwootton.co.uk/why-devops-matters-to-developers/)
+
+
 ### Upcoming Meetup Groups and Events
 
 ###  Special Offers
@@ -24,6 +32,8 @@ Cookbook News<a name="cookbooks"></a>
 Did you know, there are now more than 700 cookbooks available on the [community site](http://community.opscode.com)?!
 
 ### New Cookbooks
+* [chef-inotify](https://github.com/spheromak/chef-inotify) - A Proof of concept cookbook that implements inotify awareness in chef file/template/cookbook_file resources.
+
 * [enforce_supported_platform](http://community.opscode.com/cookbooks/enforce_supported_platform) v1.0.0 - [jtimberman](http://community.opscode.com/users/jtimberman)
 Installs/Configures enforce_supported_platform
 * [Appfirst-Cookbook](http://community.opscode.com/cookbooks/Appfirst-Cookbook) v1.0.2 - [appfirst](http://community.opscode.com/users/appfirst)
