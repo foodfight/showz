@@ -14,8 +14,8 @@ Panel<a name="panel"></a>
 * Patrick McDonnell, Senior Web Operations Engineer at Etsy [twitter](http://twitter.com/mcdonnps)
 * Carolyn Rowland [twitter](http://twitter.com/unpixie)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
