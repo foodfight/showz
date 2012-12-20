@@ -46,14 +46,22 @@ Picks<a name="picks"></a>
 -----
 
 #### Avleen
+* [Seymour Papert](http://en.wikipedia.org/wiki/Seymour_Papert)
 
 #### Patrick  
+* [mctop](https://github.com/etsy/mctop)
+* [nagdash](https://github.com/lozzd/nagdash)
 
 #### Carolyn  
+* [LISA video streams](http://new.livestream.com/accounts/1545775)
 
 #### Bryan  
+* [Introduction to Apache Hadoop video](http://www.youtube.com/watch?v=d2xeNpfzsYI)
+* [mg]()
 
-#### lusis  
+#### Mike  
+* [try.github.com](http://try.github.com)
+* [Good Omens](http://books.google.com/books/about/Good_Omens.html?id=E8dGivdPQ60C)
 
 #### Nathen  
 
