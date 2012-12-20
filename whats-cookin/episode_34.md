@@ -47,14 +47,11 @@ Did you know, there are now more than 700 cookbooks available on the [community 
 ### New Cookbooks
 * [chef-inotify](https://github.com/spheromak/chef-inotify) - A Proof of concept cookbook that implements inotify awareness in chef file/template/cookbook_file resources.
 * [ruby-cookbook](https://github.com/mlafeldt/ruby-cookbook) - A wrapper cookbook from [Mathias Lafeldt](https://twitter.com/mlafeldt) that installs Ruby using the cookbooks rbenv and ruby_build by [Fletcher Nichol](https://twitter.com/fnichol).
-
-
 * [enforce_supported_platform](http://community.opscode.com/cookbooks/enforce_supported_platform) v1.0.0 - [jtimberman](http://community.opscode.com/users/jtimberman)
 Installs/Configures enforce_supported_platform
 * [Appfirst-Cookbook](http://community.opscode.com/cookbooks/Appfirst-Cookbook) v1.0.2 - [appfirst](http://community.opscode.com/users/appfirst)
 Installs/Configures appfirst collector
-* [texlive](http://community.opscode.com/cookbooks/texlive) v0.2.0 - [tk0miya](http://community.opscode.com/users/tk0miya)
-Installs TeXLive
+
 * [motion](http://community.opscode.com/cookbooks/motion) v0.1.0 - [alno](http://community.opscode.com/users/alno)
 Installs Motion, a software motion detector.
 * [base](http://community.opscode.com/cookbooks/base) v0.1.0 - [alno](http://community.opscode.com/users/alno)
@@ -65,8 +62,6 @@ Installs/Configures GlassFish Application Server
 LWRP for adding keys to the ssh_known_hosts file
 * [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) v1.0.1 - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry
-* [virtualbox](http://community.opscode.com/cookbooks/virtualbox) v0.7.2 - [peplin](http://community.opscode.com/users/peplin)
-Installs virtualbox
 * [chef-client_syslog](http://community.opscode.com/cookbooks/chef-client_syslog) v0.1.0 - [sawanoboly](http://community.opscode.com/users/sawanoboly)
 chef-client logg to syslog
 * [cpan-plus](http://community.opscode.com/cookbooks/cpan-plus) v0.0.2 - [melezhik](http://community.opscode.com/users/melezhik)
@@ -91,8 +86,6 @@ Configures Active Directory authentication support using Likewise Open 6
 Installs/Configures Firefox for Windows
 * [filezilla](http://community.opscode.com/cookbooks/filezilla) v1.0.0 - [tas50](http://community.opscode.com/users/tas50)
 Installs/Configures FileZilla Client for Windows
-* [storm](http://community.opscode.com/cookbooks/storm) v1.0.28 - [tas50](http://community.opscode.com/users/tas50)
-Installs Twitter's Storm distributed computation system
 * [recognizer](http://community.opscode.com/cookbooks/recognizer) v0.0.6 - [portertech](http://community.opscode.com/users/portertech)
 Installs/Configures Recognizer
 * [monit_bin](http://community.opscode.com/cookbooks/monit_bin) v0.2.1 - [sawanoboly](http://community.opscode.com/users/sawanoboly)
@@ -100,7 +93,7 @@ Installs/Configures monit_bin
 * [nfs](http://community.opscode.com/cookbooks/nfs) v0.3.0 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
 Installs and configures nfs, and NFS exports
 * [zarafa](http://community.opscode.com/cookbooks/zarafa) v1.1.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
-Installs/Configures zarafa
+Setup Zarafa to - sync your Android/i/Windows Phone (ActiveSync) - have eMail push - receive and send emails via imap - Webinterface to manage all
 * [bacula](http://community.opscode.com/cookbooks/bacula) v1.0.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
 Installs and autoconfigures bacula backup system
 * [liquid-feedback](http://community.opscode.com/cookbooks/liquid-feedback) v0.8.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
@@ -139,8 +132,6 @@ A set of LWRPs for interacting with postgres using the CLI.
 Installs/Configures postgis Postgresql extension
 * [pypi-mirror](http://community.opscode.com/cookbooks/pypi-mirror) v0.0.5 - [kelfish](http://community.opscode.com/users/kelfish)
 Installs/configures PyPi mirror using PEP381client
-* [yumrepo](http://community.opscode.com/cookbooks/yumrepo) v0.16.5 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-Installs and configures EPEL, ELFF, Dell, and VMware yum repositories.
 * [dbench](http://community.opscode.com/cookbooks/dbench) v1.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
 Installs dbench 4.0 from package or source
 * [phpunit](http://community.opscode.com/cookbooks/phpunit) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
@@ -176,17 +167,16 @@ Cutlery is a cookbook containing a collection useful library code.
 * [cloudfoundry-stager](http://community.opscode.com/cookbooks/cloudfoundry-stager) v1.0.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry-stager
 * [ucs-pxe](http://community.opscode.com/cookbooks/ucs-pxe) v0.0.1 - [mraju](http://community.opscode.com/users/mraju)
-Installs/Configures a PXE Appliance used for bare metal provisioning for Cisco UCS
+builds a PXE appliance for Cisco UCS bare-metal deployment. This cookbook acts as the stage 2 phase for DC Automation. As of now, the recipes are tied specifically towards the workflow defined by ucs or ucs-solo cookbooks.
 * [exim4-light](http://community.opscode.com/cookbooks/exim4-light) v0.1.0 - [thomas_massmann](http://community.opscode.com/users/thomas_massmann)
 Installs and configures exim4-light.
-* [zeoserver](http://community.opscode.com/cookbooks/zeoserver) v0.1.1 - [thomas_massmann](http://community.opscode.com/users/thomas_massmann)
 Installs and configures a Zope ZEO-Server.
 * [nats](http://community.opscode.com/cookbooks/nats) v1.0.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures nats
 * [vertx](http://community.opscode.com/cookbooks/vertx) v1.0.0 - [rgahagan](http://community.opscode.com/users/rgahagan)
-Vert.x (http://vertx.io) setup
+Setup [Vert.x](http://vertx.io), an event driven application framework that runs on the JVM
 * [vifm](http://community.opscode.com/cookbooks/vifm) v1.0.0 - [gregf](http://community.opscode.com/users/gregf)
-Installs vifm
+Installs vifm file manager.
 * [Appfirst-Cookbook](http://community.opscode.com/cookbooks/Appfirst-Cookbook) v1.0.2 - [timsgreen](http://community.opscode.com/users/timsgreen)
 Installs/Configures appfirst collector
 * [nginx-fastcgi](http://community.opscode.com/cookbooks/nginx-fastcgi) v0.0.11 - [melezhik](http://community.opscode.com/users/melezhik)
@@ -197,6 +187,11 @@ Installs/Configures fusioninventory-agent
 Installs/Configures Composer
 
 ### Updated Cookbooks
+* [storm](http://community.opscode.com/cookbooks/storm) v1.0.28 - [tas50](http://community.opscode.com/users/tas50)
+* [yumrepo](http://community.opscode.com/cookbooks/yumrepo) v0.16.5 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+* [virtualbox](http://community.opscode.com/cookbooks/virtualbox) v0.7.2 - [peplin](http://community.opscode.com/users/peplin)
+* [texlive](http://community.opscode.com/cookbooks/texlive) v0.2.0 - [tk0miya](http://community.opscode.com/users/tk0miya)
+* [zeoserver](http://community.opscode.com/cookbooks/zeoserver) v0.1.1 - [thomas_massmann](http://community.opscode.com/users/thomas_massmann)
 
 Do you have cookbook news that you'd like to share or feedback on the show?  Please drop a line to info@foodfightshow.org
 
