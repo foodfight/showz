@@ -57,7 +57,7 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 * [Introduction to Apache Hadoop video](http://www.youtube.com/watch?v=d2xeNpfzsYI)
-* [mg]()
+* [mg](http://homepage.boetes.org/software/mg/)
 
 #### Mike  
 * [try.github.com](http://try.github.com)
