@@ -20,11 +20,24 @@ In the News<a name="news"></a>
 * Igor Afonov recently gave a presentation about [Application deployment with Chef](https://speakerdeck.com/iafonov/application-deployment-with-chef).  The slides are available [on speakerdeck](https://speakerdeck.com/iafonov/application-deployment-with-chef).
 * [Matt Urbanski](https://twitter.com/iflowfor8hours) recently wrote up a blog post titled [Chef Testing Strategies Compared](http://www.iflowfor8hours.info/2012/11/chef-testing-stratagies-compared/).  In this post, Matt looks at minitest, chefspec, cucumber chef, test-kitchen, whyrun, foodcritic, knife, chef-solo, and strainer.  Definitely worth a read!
 * If you're listening to this show, chances are good that you believe DevOps Matters.  But what if you need a little help convincing the Developers on your team that DevOps matters to them?  Check out a recent blog post from Benjamin Wooton - [Why DevOps Matters (To Developers)...](http://benjaminwootton.co.uk/why-devops-matters-to-developers/)
+* Speaking of DevOps, the [Cool Geeks DevOps](http://www.meetup.com/Cool-Geeks-DevOps/) meetup group met recently to talk about [Using Opscode Chef in an Enterprise to Pivot to DevOps](http://www.meetup.com/Cool-Geeks-DevOps/files/).  [Jeff Padgett](https://twitter.com/jbpadgett)'s slides are available on the meetup site.
+* Are you using Chef on Windows?  Do you want to?  We've got a couple of blog posts for you from [John Bennett](https://twitter.com/jtbennett) - Getting Started with Opscode Chef (on Windows), [part 1](http://jtbennett.com/blog/2012/12/getting-started-with-opscode-chef-on-windows-part-1) and [part 2](http://jtbennett.com/blog/2012/12/getting-started-with-opscode-chef-on-windows-part-2).
+* [Doug Ireton](https://twitter.com/dougireton) also has some Chef on Windows goodness for us - he recently blogged about [How to Include the Windows Cookbook Helper Methods in Your Chef Recipes](http://dougireton.com/blog/2012/12/16/how-to-include-the-windows-cookbook-helper-methods-in-your-chef-recipe/).
+* [vagrant-butcher](https://github.com/cassianoleal/vagrant-butcher) is a new gem that aims to streamline you Chef and Vagrant workflow.  If you're using Vagrant with the Chef-Client provisioner, e.g. for creating cookbooks, it creates a client and a node on the Chef server. Once you destroy the VM, both the client and node will be kept on the server, which may cause problems if you fire up the same VM again.  This gem attempts to correct that.
+* Cookbook versioning is a hot-topic.  After a cookbook has been initially developed and put into use, any changes should be accompanied by an appropriate change to its version when those changes are published.  But just what defines an "appropriate change" to a cookbook's version?  [Mike Fiedler](https://twitter.com/mikefiedler) and Kevin Christen have released a [Cookbook Versioning Policy document](https://docs.google.com/document/pub?id=1DuZ0g98vFV7-I23c6_7prKBnWSgVb7s0cU0EgeIidc0).  Email feedback directly to Mike and Kevin.
 
+### Upcoming Meetup Groups 
 
-### Upcoming Meetup Groups and Events
+Meetup with people in your neighborhood at one of the following meetup groups.
 
-###  Special Offers
+* [The Bay Area Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/dzbvpcyrcbfb/) will hold another Chef Cafe on January 3rd.
+* The [Los Angeles Chef Users Group](http://www.meetup.com/Los-Angeles-Chef-Users-Group/) will meet on February 4th.
+* [DevOps DC](http://www.meetup.com/DevOpsDC/events/90355012/) will meet on January 8th.
+* [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/) will meet on January 9th.
+* [The Chicago Chef User Group](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/dzbvpcyrcbfb/) will hold another Chef Cafe on January 10th.
+* [LakeMary DevOps](http://www.meetup.com/LakeMary-DevOps/events/95923592/), in Lake Mary, Florida will hold their first meeting on January 14th.
+* The [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/) group will host their first meeutp at Opscode's Seattle Headquarters office on January 15th.
+* The [Infrastructure Coders](http://meetup.infrastructurecoders.com/events/91261252/) group in Melbourne, Australia will meet on January 15th.
 
 
 Cookbook News<a name="cookbooks"></a>
@@ -33,6 +46,8 @@ Did you know, there are now more than 700 cookbooks available on the [community 
 
 ### New Cookbooks
 * [chef-inotify](https://github.com/spheromak/chef-inotify) - A Proof of concept cookbook that implements inotify awareness in chef file/template/cookbook_file resources.
+* [ruby-cookbook](https://github.com/mlafeldt/ruby-cookbook) - A wrapper cookbook from [Mathias Lafeldt](https://twitter.com/mlafeldt) that installs Ruby using the cookbooks rbenv and ruby_build by [Fletcher Nichol](https://twitter.com/fnichol).
+
 
 * [enforce_supported_platform](http://community.opscode.com/cookbooks/enforce_supported_platform) v1.0.0 - [jtimberman](http://community.opscode.com/users/jtimberman)
 Installs/Configures enforce_supported_platform
