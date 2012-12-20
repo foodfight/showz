@@ -24,6 +24,16 @@ Cookbook News<a name="cookbooks"></a>
 Did you know, there are now more than 700 cookbooks available on the [community site](http://community.opscode.com)?!
 
 ### New Cookbooks
+* [enforce_supported_platform](http://community.opscode.com/cookbooks/enforce_supported_platform) v1.0.0 - [jtimberman](http://community.opscode.com/users/jtimberman)
+Installs/Configures enforce_supported_platform
+* [Appfirst-Cookbook](http://community.opscode.com/cookbooks/Appfirst-Cookbook) v1.0.2 - [appfirst](http://community.opscode.com/users/appfirst)
+Installs/Configures appfirst collector
+* [texlive](http://community.opscode.com/cookbooks/texlive) v0.2.0 - [tk0miya](http://community.opscode.com/users/tk0miya)
+Installs TeXLive
+* [motion](http://community.opscode.com/cookbooks/motion) v0.1.0 - [alno](http://community.opscode.com/users/alno)
+Installs Motion, a software motion detector.
+* [base](http://community.opscode.com/cookbooks/base) v0.1.0 - [alno](http://community.opscode.com/users/alno)
+Configures basic server parameters: hostname, timezone, kernel modules.
 * [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.18 - [peter_donald](http://community.opscode.com/users/peter_donald)
 Installs/Configures GlassFish Application Server
 * [known_host](http://community.opscode.com/cookbooks/known_host) v0.1.3 - [sethvargo](http://community.opscode.com/users/sethvargo)
