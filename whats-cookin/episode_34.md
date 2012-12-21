@@ -75,13 +75,13 @@ Installs/Configures monit_bin
 Installs/Configures mongodb-10gen
 * [liquid-feedback](http://community.opscode.com/cookbooks/liquid-feedback) v0.8.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
 Set up liquid feedback system
+* [libyaml](http://community.opscode.com/cookbooks/libyaml) v0.1.0 - [cassianoleal](http://community.opscode.com/users/cassianoleal)
+Installs/Configures libyaml
+* [hwraid](http://community.opscode.com/cookbooks/hwraid) v0.1.4 - [sawanoboly](http://community.opscode.com/users/sawanoboly)
+Installs/Configures hwraid from hwraid.le-vert.net
 
 * [base](http://community.opscode.com/cookbooks/base) v0.1.0 - [alno](http://community.opscode.com/users/alno)
 Configures basic server parameters: hostname, timezone, kernel modules.
-* [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.18 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures GlassFish Application Server
-* [known_host](http://community.opscode.com/cookbooks/known_host) v0.1.3 - [sethvargo](http://community.opscode.com/users/sethvargo)
-LWRP for adding keys to the ssh_known_hosts file
 * [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) v1.0.1 - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry
 * [chef-client_syslog](http://community.opscode.com/cookbooks/chef-client_syslog) v0.1.0 - [sawanoboly](http://community.opscode.com/users/sawanoboly)
@@ -94,10 +94,6 @@ Installs/Configures cloudfoundry-ruby-runtime
 Installs/Configures gitorious
 * [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) v0.1.0 - [devesc](http://community.opscode.com/users/devesc)
 Installs/Configures beanstalkd
-* [librato_metrics](http://community.opscode.com/cookbooks/librato_metrics) v0.3.0 - [portertech](http://community.opscode.com/users/portertech)
-Provides LWRPs to manage Librato Metrics.
-* [hp-tools](http://community.opscode.com/cookbooks/hp-tools) v0.3.0 - [tas50](http://community.opscode.com/users/tas50)
-Installs/Configures various HP tools
 * [ad-auth](http://community.opscode.com/cookbooks/ad-auth) v1.0.5 - [tas50](http://community.opscode.com/users/tas50)
 Configures Active Directory authentication support using Likewise Open 6
 * [firefox](http://community.opscode.com/cookbooks/firefox) v1.0.5 - [tas50](http://community.opscode.com/users/tas50)
@@ -114,18 +110,12 @@ Configures sparkleshare and configures/installs dashboard http client
 Installs and configures firefox mozilla sync server
 * [bind9-easy](http://community.opscode.com/cookbooks/bind9-easy) v0.0.1 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
 Installs and autoconfigures bind9 nameserver
-* [line](http://community.opscode.com/cookbooks/line) v0.1.2 - [someara](http://community.opscode.com/users/someara)
-Provides line editing resources for use by recipes
 * [annoyances](http://community.opscode.com/cookbooks/annoyances) v0.2.0 - [mray](http://community.opscode.com/users/mray)
 Removes assorted operating system annoyances.
-* [hwraid](http://community.opscode.com/cookbooks/hwraid) v0.1.4 - [sawanoboly](http://community.opscode.com/users/sawanoboly)
-Installs/Configures hwraid from hwraid..le-vert.net
 * [artifact](http://community.opscode.com/cookbooks/artifact) v0.11.5 - [reset](http://community.opscode.com/users/reset)
 Provides your cookbooks with the Artifact Deploy LWRP
 * [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) v0.1.0 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Installs/Configures elasticsearch
-* [libyaml](http://community.opscode.com/cookbooks/libyaml) v0.1.0 - [cassianoleal](http://community.opscode.com/users/cassianoleal)
-Installs/Configures libyaml
 
 * [dbench](http://community.opscode.com/cookbooks/dbench) v1.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
 Installs dbench 4.0 from package or source
@@ -166,6 +156,11 @@ Installs/Configures fusioninventory-agent
 Installs/Configures Composer
 
 ### Updated Cookbooks
+* [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.18 - [peter_donald](http://community.opscode.com/users/peter_donald)
+* [hp-tools](http://community.opscode.com/cookbooks/hp-tools) v0.3.0 - [tas50](http://community.opscode.com/users/tas50)
+* [known_host](http://community.opscode.com/cookbooks/known_host) v0.1.3 - [sethvargo](http://community.opscode.com/users/sethvargo)
+* [librato_metrics](http://community.opscode.com/cookbooks/librato_metrics) v0.3.0 - [portertech](http://community.opscode.com/users/portertech)
+* [line](http://community.opscode.com/cookbooks/line) v0.1.2 - [someara](http://community.opscode.com/users/someara)
 * [newrelic](http://community.opscode.com/cookbooks/newrelic) v0.4.1 - [devesc](http://community.opscode.com/users/devesc)
 * [nexus](http://community.opscode.com/cookbooks/nexus) v0.17.0 - [reset](http://community.opscode.com/users/reset)
 * [nfs](http://community.opscode.com/cookbooks/nfs) v0.3.0 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
