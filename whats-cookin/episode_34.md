@@ -50,7 +50,7 @@ Did you know, there are now more than 700 cookbooks available on the [community 
 * [enforce_supported_platform](http://community.opscode.com/cookbooks/enforce_supported_platform) v1.0.0 - [jtimberman](http://community.opscode.com/users/jtimberman)
 Installs/Configures enforce_supported_platform
 * [Appfirst-Cookbook](http://community.opscode.com/cookbooks/Appfirst-Cookbook) v1.0.2 - [appfirst](http://community.opscode.com/users/appfirst)
-Installs/Configures appfirst collector
+Configures an appfirst collector for a given account id. This will also set up a LWRP for creating Nagios checks via Appfirst.
 * [pypi-mirror](http://community.opscode.com/cookbooks/pypi-mirror) v0.0.5 - [kelfish](http://community.opscode.com/users/kelfish)
 Installs and configures a PyPi mirror server to be used as either a public or private mirror.
 * [psql](http://community.opscode.com/cookbooks/psql) v0.1.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
@@ -79,83 +79,68 @@ Set up liquid feedback system
 Installs/Configures libyaml
 * [hwraid](http://community.opscode.com/cookbooks/hwraid) v0.1.4 - [sawanoboly](http://community.opscode.com/users/sawanoboly)
 Installs/Configures hwraid from hwraid.le-vert.net
-
-* [base](http://community.opscode.com/cookbooks/base) v0.1.0 - [alno](http://community.opscode.com/users/alno)
-Configures basic server parameters: hostname, timezone, kernel modules.
-* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) v1.0.1 - [andreacampi](http://community.opscode.com/users/andreacampi)
-Installs/Configures cloudfoundry
-* [chef-client_syslog](http://community.opscode.com/cookbooks/chef-client_syslog) v0.1.0 - [sawanoboly](http://community.opscode.com/users/sawanoboly)
-chef-client logg to syslog
-* [cpan-plus](http://community.opscode.com/cookbooks/cpan-plus) v0.0.2 - [melezhik](http://community.opscode.com/users/melezhik)
-wrapper for cpanplus installer
-* [cloudfoundry-ruby-runtime](http://community.opscode.com/cookbooks/cloudfoundry-ruby-runtime) v1.1.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
-Installs/Configures cloudfoundry-ruby-runtime
 * [gitorious](http://community.opscode.com/cookbooks/gitorious) v1.0.0 - [brugidou](http://community.opscode.com/users/brugidou)
 Installs/Configures gitorious
-* [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) v0.1.0 - [devesc](http://community.opscode.com/users/devesc)
-Installs/Configures beanstalkd
-* [ad-auth](http://community.opscode.com/cookbooks/ad-auth) v1.0.5 - [tas50](http://community.opscode.com/users/tas50)
-Configures Active Directory authentication support using Likewise Open 6
-* [firefox](http://community.opscode.com/cookbooks/firefox) v1.0.5 - [tas50](http://community.opscode.com/users/tas50)
-Installs/Configures Firefox for Windows
-* [filezilla](http://community.opscode.com/cookbooks/filezilla) v1.0.0 - [tas50](http://community.opscode.com/users/tas50)
-Installs/Configures FileZilla Client for Windows
-* [zarafa](http://community.opscode.com/cookbooks/zarafa) v1.1.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
-Setup Zarafa to - sync your Android/i/Windows Phone (ActiveSync) - have eMail push - receive and send emails via imap - Webinterface to manage all
-* [bacula](http://community.opscode.com/cookbooks/bacula) v1.0.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
-Installs and autoconfigures bacula backup system
-* [sparkleshare](http://community.opscode.com/cookbooks/sparkleshare) v0.5.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
-Configures sparkleshare and configures/installs dashboard http client
+* [gitolite-server](http://community.opscode.com/cookbooks/gitolite-server) v1.0.1 - [pboers1988](http://community.opscode.com/users/pboers1988)
+Installs/Configures gitolite
 * [ff_sync](http://community.opscode.com/cookbooks/ff_sync) v1.0.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
 Installs and configures firefox mozilla sync server
-* [bind9-easy](http://community.opscode.com/cookbooks/bind9-easy) v0.0.1 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
-Installs and autoconfigures bind9 nameserver
-* [annoyances](http://community.opscode.com/cookbooks/annoyances) v0.2.0 - [mray](http://community.opscode.com/users/mray)
-Removes assorted operating system annoyances.
-* [artifact](http://community.opscode.com/cookbooks/artifact) v0.11.5 - [reset](http://community.opscode.com/users/reset)
-Provides your cookbooks with the Artifact Deploy LWRP
 * [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) v0.1.0 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Installs/Configures elasticsearch
-
-* [dbench](http://community.opscode.com/cookbooks/dbench) v1.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
-Installs dbench 4.0 from package or source
+* [cutlery](http://community.opscode.com/cookbooks/cutlery) v0.1.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
+Cutlery is a cookbook containing a collection useful library code.
+* [cpan-plus](http://community.opscode.com/cookbooks/cpan-plus) v0.0.2 - [melezhik](http://community.opscode.com/users/melezhik)
+wrapper for cpanplus installer
+* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) v1.0.1 - [andreacampi](http://community.opscode.com/users/andreacampi)
+Installs/Configures cloudfoundry
+* [cloudfoundry-stager](http://community.opscode.com/cookbooks/cloudfoundry-stager) v1.0.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
+Installs/Configures cloudfoundry-stager
+* [cloudfoundry-ruby-runtime](http://community.opscode.com/cookbooks/cloudfoundry-ruby-runtime) v1.1.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
+Installs/Configures cloudfoundry-ruby-runtime
+* [cloudfoundry-router](http://community.opscode.com/cookbooks/cloudfoundry-router) v1.0.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
+Installs/Configures cloudfoundry-router
 * [cloudfoundry-cloud_controller](http://community.opscode.com/cookbooks/cloudfoundry-cloud_controller) v1.1.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry-cloud_controller
 * [cloudfoundry-nginx](http://community.opscode.com/cookbooks/cloudfoundry-nginx) v1.0.2 - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs and configures nginx for CloudFoundry
-* [gelf_handler](http://community.opscode.com/cookbooks/gelf_handler) v1.0.4 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Installs/Configures a Chef handler which reports run failures and to a GELF server. Derived from Jon Woods gem.
-* [gitolite-server](http://community.opscode.com/cookbooks/gitolite-server) v1.0.1 - [pboers1988](http://community.opscode.com/users/pboers1988)
-Installs/Configures gitolite
-* [diamond_lwrp](http://community.opscode.com/cookbooks/diamond_lwrp) v0.1.3 - [scottmlikens](http://community.opscode.com/users/scottmlikens)
-Installs/Configures diamond
-* [cloudfoundry-router](http://community.opscode.com/cookbooks/cloudfoundry-router) v1.0.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
-Installs/Configures cloudfoundry-router
 * [cloudfoundry-health_manager](http://community.opscode.com/cookbooks/cloudfoundry-health_manager) v1.0.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry-health_manager
 * [cloudfoundry-dea](http://community.opscode.com/cookbooks/cloudfoundry-dea) v1.0.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry-dea
-* [cutlery](http://community.opscode.com/cookbooks/cutlery) v0.1.0 - [peter_donald](http://community.opscode.com/users/peter_donald)
-Cutlery is a cookbook containing a collection useful library code.
-* [cloudfoundry-stager](http://community.opscode.com/cookbooks/cloudfoundry-stager) v1.0.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
-Installs/Configures cloudfoundry-stager
+* [chef-client_syslog](http://community.opscode.com/cookbooks/chef-client_syslog) v0.1.0 - [sawanoboly](http://community.opscode.com/users/sawanoboly)
+Send chef-client log to syslog.
+* [bacula](http://community.opscode.com/cookbooks/bacula) v1.0.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
+Installs and autoconfigures bacula backup system
+* [base](http://community.opscode.com/cookbooks/base) v0.1.0 - [alno](http://community.opscode.com/users/alno)
+Configures basic server parameters: hostname, timezone, kernel modules.
+* [bind9-easy](http://community.opscode.com/cookbooks/bind9-easy) v0.0.1 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
+Installs and autoconfigures bind9 nameserver
+* [zarafa](http://community.opscode.com/cookbooks/zarafa) v1.1.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
+Setup Zarafa to - sync your Android/i/Windows Phone (ActiveSync) - have eMail push - receive and send emails via imap - Webinterface to manage all
+* [sparkleshare](http://community.opscode.com/cookbooks/sparkleshare) v0.5.0 - [computerlyrik](http://community.opscode.com/users/computerlyrik)
+Configures sparkleshare and configures/installs dashboard http client
 * [ucs-pxe](http://community.opscode.com/cookbooks/ucs-pxe) v0.0.1 - [mraju](http://community.opscode.com/users/mraju)
 Builds a PXE appliance for Cisco UCS bare-metal deployment. This cookbook acts as the stage 2 phase for DC Automation. As of now, the recipes are tied specifically towards the workflow defined by ucs or ucs-solo cookbooks.
-* [exim4-light](http://community.opscode.com/cookbooks/exim4-light) v0.1.0 - [thomas_massmann](http://community.opscode.com/users/thomas_massmann)
-Installs and configures exim4-light.
-Installs and configures a Zope ZEO-Server.
 * [vertx](http://community.opscode.com/cookbooks/vertx) v1.0.0 - [rgahagan](http://community.opscode.com/users/rgahagan)
 Setup [Vert.x](http://vertx.io), an event driven application framework that runs on the JVM
 * [vifm](http://community.opscode.com/cookbooks/vifm) v1.0.0 - [gregf](http://community.opscode.com/users/gregf)
 Installs vifm file manager.
 * [Appfirst-Cookbook](http://community.opscode.com/cookbooks/Appfirst-Cookbook) v1.0.2 - [timsgreen](http://community.opscode.com/users/timsgreen)
 Installs/Configures appfirst collector
-* [fusioninventory-agent](http://community.opscode.com/cookbooks/fusioninventory-agent) v0.1.2 - [ashmere](http://community.opscode.com/users/ashmere)
-Installs/Configures fusioninventory-agent
-* [composer](http://community.opscode.com/cookbooks/composer) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
-Installs/Configures Composer
 
 ### Updated Cookbooks
+* [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) v0.1.0 - [devesc](http://community.opscode.com/users/devesc)
+* [artifact](http://community.opscode.com/cookbooks/artifact) v0.11.5 - [reset](http://community.opscode.com/users/reset)
+* [annoyances](http://community.opscode.com/cookbooks/annoyances) v0.2.0 - [mray](http://community.opscode.com/users/mray)
+* [ad-auth](http://community.opscode.com/cookbooks/ad-auth) v1.0.5 - [tas50](http://community.opscode.com/users/tas50)
+* [composer](http://community.opscode.com/cookbooks/composer) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
+* [dbench](http://community.opscode.com/cookbooks/dbench) v1.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
+* [diamond_lwrp](http://community.opscode.com/cookbooks/diamond_lwrp) v0.1.3 - [scottmlikens](http://community.opscode.com/users/scottmlikens)
+* [exim4-light](http://community.opscode.com/cookbooks/exim4-light) v0.1.0 - [thomas_massmann](http://community.opscode.com/users/thomas_massmann)
+* [filezilla](http://community.opscode.com/cookbooks/filezilla) v1.0.0 - [tas50](http://community.opscode.com/users/tas50)
+* [firefox](http://community.opscode.com/cookbooks/firefox) v1.0.5 - [tas50](http://community.opscode.com/users/tas50)
+* [fusioninventory-agent](http://community.opscode.com/cookbooks/fusioninventory-agent) v0.1.2 - [ashmere](http://community.opscode.com/users/ashmere)
+* [gelf_handler](http://community.opscode.com/cookbooks/gelf_handler) v1.0.4 - [peter_donald](http://community.opscode.com/users/peter_donald)
 * [glassfish](http://community.opscode.com/cookbooks/glassfish) v0.5.18 - [peter_donald](http://community.opscode.com/users/peter_donald)
 * [hp-tools](http://community.opscode.com/cookbooks/hp-tools) v0.3.0 - [tas50](http://community.opscode.com/users/tas50)
 * [known_host](http://community.opscode.com/cookbooks/known_host) v0.1.3 - [sethvargo](http://community.opscode.com/users/sethvargo)
