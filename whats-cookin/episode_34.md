@@ -14,7 +14,7 @@ We'll start this episode with "What's Cookin'" - your source for Chef and Cookbo
 In the News<a name="news"></a>
 -----------
 
-* In [episode 23(http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html), we talked about OmniOS, the Illumos-based OS from OmniTI.  There's now an [OmniOS AMI available on Amazon's EC2](https://aws.amazon.com/amis/omnios-stable-r151004).
+* In [episode 23](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html), we talked about OmniOS, the Illumos-based OS from OmniTI.  There's now an [OmniOS AMI available on Amazon's EC2](https://aws.amazon.com/amis/omnios-stable-r151004).
 * [knife-solo_data_bag v 0.3.0](http://rubygems.org/gems/knife-solo_data_bag) was recently released.  This release adds support for encrypted_data_bag_secret.
 * Joshua Timberman recently refactored his Chef repository to take advantage of Berkshelf.  He [wrote up the process on his blog](http://jtimberman.housepub.org/blog/2012/11/19/chef-repository-berkshelf-conversion/).
 * Igor Afonov recently gave a presentation about [Application deployment with Chef](https://speakerdeck.com/iafonov/application-deployment-with-chef).  The slides are available [on speakerdeck](https://speakerdeck.com/iafonov/application-deployment-with-chef).
@@ -129,10 +129,10 @@ Installs vifm file manager.
 Installs/Configures appfirst collector
 
 ### Updated Cookbooks
-* [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) v0.1.0 - [devesc](http://community.opscode.com/users/devesc)
-* [artifact](http://community.opscode.com/cookbooks/artifact) v0.11.5 - [reset](http://community.opscode.com/users/reset)
-* [annoyances](http://community.opscode.com/cookbooks/annoyances) v0.2.0 - [mray](http://community.opscode.com/users/mray)
 * [ad-auth](http://community.opscode.com/cookbooks/ad-auth) v1.0.5 - [tas50](http://community.opscode.com/users/tas50)
+* [annoyances](http://community.opscode.com/cookbooks/annoyances) v0.2.0 - [mray](http://community.opscode.com/users/mray)
+* [artifact](http://community.opscode.com/cookbooks/artifact) v0.11.5 - [reset](http://community.opscode.com/users/reset)
+* [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) v0.1.0 - [devesc](http://community.opscode.com/users/devesc)
 * [composer](http://community.opscode.com/cookbooks/composer) v0.0.2 - [devesc](http://community.opscode.com/users/devesc)
 * [dbench](http://community.opscode.com/cookbooks/dbench) v1.0.2 - [atomic-penguin](http://community.opscode.com/users/atomic-penguin)
 * [diamond_lwrp](http://community.opscode.com/cookbooks/diamond_lwrp) v0.1.3 - [scottmlikens](http://community.opscode.com/users/scottmlikens)
