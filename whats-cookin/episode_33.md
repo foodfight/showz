@@ -61,7 +61,7 @@ Installs sbt-extras to build scala projects with any sbt version you need
 * [serverdensity](http://community.opscode.com/cookbooks/serverdensity) v0.1.0 - [avrohom](http://community.opscode.com/users/avrohom)
 Installs/Configures Server Density
 * [galera](http://community.opscode.com/cookbooks/galera) v0.3.1 - [alex-s9s](http://community.opscode.com/users/alex-s9s)
-Installs [Codership's MySQL Galera cluster](http://http://www.codership.com/). Galera Cluster provides synchronous multi-master replication for MySQL
+Installs [Codership's MySQL Galera cluster](http://www.codership.com/). Galera Cluster provides synchronous multi-master replication for MySQL
 * [cmon](http://community.opscode.com/cookbooks/cmon) v0.5.0 - [alex-s9s](http://community.opscode.com/users/alex-s9s)
 Installs and configures ClusterControl controller and agents
 * [gradle](http://community.opscode.com/cookbooks/gradle) v1.2.0 - [ollehallin](http://community.opscode.com/users/ollehallin)
