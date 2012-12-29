@@ -50,8 +50,7 @@ well has it met the objectives you set?
 
 ## Hopes and dreams for 2013
   * Orchestration for deploys and better orchestration in general
-  * Opscode provides cookbook CI as a free service for community cookbooks - opscode provides test-kitchen CI to 
-    cookbooks developed by the community - as a service
+  * Opscode provides test-kitchen CI to cookbooks developed by the community - as a service, across at least debian + redhat, but bsd support would be awesome
   * Some consensus on cookbook workflow(s) 
   * erChef is widely deployed, implemented, and battle-hardened
 
