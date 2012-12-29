@@ -18,23 +18,29 @@ Outline/Questions
   * 4 Google+ Hangouts with about 900 views
   * Used Hangout + Live Stream to YouTube for our last episode & released 
     the episode as an audio podcast
-  * Five favorite shows:
+  * Nathen's Five favorite shows:
     1. [Episode 11: Etsy Examined, How the Best Do Their Business](http://foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html)
     1. [Episode 14: Post-Mortems with David Zwieback, John Allspaw, and Mike Rembetsy](http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html)
     1. [Episode 24: Jamie Winsor and Michael Ivey on Berkshelf](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html)
     1. [Episode 25: ChatOps at Github with Jesse Newland](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html)
     1. [Episode 27: Vagrant with Mitchell Hashimoto & Patrick Debois](http://foodfightshow.org/2012/09/vagrant.html)
+  * Bryan's list is almost exactly the same!
+  * 5 Most Popular shows by download count
+    1. [Episode 1: Chef in 2012](http://foodfightshow.org/2012/01/episode-1-chef-in-2012.html)
+    2. [Episode 18: Monitoringsucks](http://foodfightshow.org/2012/06/episode-18-monitoringsucks-with-lusis.html)
+    3. [Episode 8: Back to the Kernel w/ Greg Kroah-Hartman](http://foodfightshow.org/2012/04/episode-8-back-to-kernel-with-greg.html)
+    4. [Episode 3: Ruby for Sysadmins](http://foodfightshow.org/2012/02/episode-3-usrbinruby-for-sysadmins-with.html)
+    5. [Episode 6: Cookbook Reusability with Nikolay Sturm](http://foodfightshow.org/2012/03/episode-6-cookbook-reusability-with.html)
   * Listener survey - A quick summary of the [survey results is now available](https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf).
-
 * Big Changes for Opscode &amp; Chef
   * #ChefConf 2012
-  * docs.opscode.com
+  * [docs.opscode.com](http://docs.opscode.com)
   * Community Summit 2
   * Testing cookbooks matures
     * foodcritic
     * test kitchen
     * etc., etc.
-  * Nathen Harvey joined Opscode as community evangelist
+  * Nathen Harvey joined Opscode as community evangelist. Ah yeah!!!
 
 ## Changes for 2013
 
@@ -43,10 +49,12 @@ to change:
 
 1.  Whenever feasible, episodes will now be recorded via Google+ Hangout
     with a live stream posted to YouTube.
-1.  We will try to keep the show length to about one hour.
+1.  We will try to keep length of the what's cookin' plus topic discussion to about one hour. The Picks section is our time to be self-indulgent and it may spill over one hour. You are welcome to hit the stop button at that point and switch to something more substantive.
 1.  We will start a regular Food Fight Show newsletter which will include
     the content from the What's Cookin' section and any other noteworthy items.
     You can [subscribe to the newsletter now](http://bit.ly/ffsmail).
+1.  Alternate episodes w/ interactive hangouts??
+1.  Bryan will make a conscious effort to interrupt the guests less
 
 The [listener
 survey](https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf)
