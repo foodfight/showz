@@ -17,8 +17,7 @@ well has it met the objectives you set?
 
 ## Review of 2012
 * Food Fight Show
-  * 57 Food Fight Show Episodes (58 if this one goes out before end of
-    year
+  * 57 Food Fight Show Episodes 
   * 40,000 downloads which is about 700 downloads for each episode
   * 4 Google+ Hangouts with about 900 views
   * Used Hangout + Live Stream to YouTube for our last episode & released 
