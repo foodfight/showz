@@ -61,6 +61,11 @@ to change:
     You can [subscribe to the newsletter now](http://bit.ly/ffsmail).
 1.  Alternate episodes w/ interactive hangouts??
 1.  Bryan will make a conscious effort to interrupt the guests less
+1.  The Food Fight theme song is awesome but many of our hosts and
+    panelists are music lovers.  We'll start using different music between
+    What's Cookin' and the Interview and new music at the close of the show.
+    We'll ask our guests for suggestions or pull a gem out of our hosts'
+playlists.
 
 The [listener
 survey](https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf)
