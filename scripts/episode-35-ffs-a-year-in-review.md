@@ -10,6 +10,11 @@ Panel<a name="panel"></a>
 
 Outline/Questions
 -----------------
+**Nathen:**  Bryan, you started the Food Fight Show in January of 2012.
+We're approaching the one year anniversary of the show.  Take us back to
+the beginning of the year.  Why did you start the Food Fight Show?  How
+well has it met the objectives you set?
+
 ## Review of 2012
 * Food Fight Show
   * 57 Food Fight Show Episodes (58 if this one goes out before end of
