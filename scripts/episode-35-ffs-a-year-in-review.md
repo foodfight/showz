@@ -43,7 +43,7 @@ well has it met the objectives you set?
   * Partial search for Opscode Hosted Chef
   * Community Summit 2
   * Testing cookbooks matures
-    * foodcritic
+    * foodcritic (quick synopsis on changes from Mike)
     * test kitchen
     * etc., etc.
   * Nathen Harvey joined Opscode as community evangelist. Ah yeah!!!
