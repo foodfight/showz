@@ -31,8 +31,16 @@ well has it met the objectives you set?
   * Bryan's list is almost exactly the same!
   * Listener survey - A quick summary of the [survey results is now available](https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf).
 * Big Changes for Opscode &amp; Chef
+  * Opscode cookbooks moved to individual repositories
+  * $19.5m Series C Funding 
   * #ChefConf 2012
+  * Omnibus Chef Packaging - the easiest and best way to install Chef
+    client
+  * Chef gets new versioning.  What would have been 0.10.12 was released as
+    10.12.0 making it easier for patch releases
+  * erchef and Chef 11 Server Preview
   * [docs.opscode.com](http://docs.opscode.com)
+  * Partial search for Opscode Hosted Chef
   * Community Summit 2
   * Testing cookbooks matures
     * foodcritic
