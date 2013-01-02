@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  2 Jan 2013, [15:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Year+in+Review&iso=20130102T10&p1=1928)
 
 Panel<a name="panel"></a>
 -----
