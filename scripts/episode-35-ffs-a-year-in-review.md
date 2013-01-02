@@ -53,6 +53,9 @@ well has it met the objectives you set?
   * Opscode provides test-kitchen CI to cookbooks developed by the community - as a service, across at least debian + redhat, but bsd support would be awesome
   * Some consensus on cookbook workflow(s) 
   * erChef is widely deployed, implemented, and battle-hardened
+  * Regional 1 day mini conferences and at least one in Europe!
+  * A quantum leap in the Chef training suite, docs.opscode.com is good but just a start
+  *  
 
 ## Changes for 2013
 
@@ -73,6 +76,9 @@ to change:
     What's Cookin' and the Interview and new music at the close of the show.
     We'll ask our guests for suggestions or pull a gem out of our hosts'
 playlists.
+
+Bryan gives an emotional reminder of the purpose of the FoodFightShow, to make our listeners feel like they are at the
+the center of the Chef community and not at its edges, regardless of their physical location. 
 
 The [listener
 survey](https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf)
