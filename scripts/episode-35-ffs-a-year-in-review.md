@@ -20,6 +20,9 @@ were all redundant to existing cookbooks. I hate reinventing the wheel! I also k
 don't work in major Tech hubs or get the opportunity to attend conferences like Velocity. In short, 
 I wanted to make our listeners feel like they are at the center of the Chef community and not at its edges, regardless of their physical location. 
 
+Now while I think consensus important, I think well-reasoned disagreement is critical to the health of any community. 
+Once we agree on everything that either means the problem is boring or we all agree on the wrong solution. I love it 
+when people voice contrasting ideas on this show and I hope that continues. Respectfully, of course.
 
 ## Review of 2012
 * Food Fight Show
