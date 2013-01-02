@@ -31,14 +31,16 @@ when people voice contrasting ideas on this show and I hope that continues. Resp
   * 4 Google+ Hangouts with about 900 views
   * Used Hangout + Live Stream to YouTube for our last episode & released 
     the episode as an audio podcast
-  * Nathen's Five favorite shows:
-    1. [Episode 11: Etsy Examined, How the Best Do Their Business](http://foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html)
-    1. [Episode 14: Post-Mortems with David Zwieback, John Allspaw, and Mike Rembetsy](http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html)
-    2. [Episode 18: Monitoringsucks](http://foodfightshow.org/2012/06/episode-18-monitoringsucks-with-lusis.html)
-    1. [Episode 24: Jamie Winsor and Michael Ivey on Berkshelf](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html)
-    1. [Episode 25: ChatOps at Github with Jesse Newland](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html)
-  * Bryan's list is almost exactly the same!
   * Listener survey - A quick summary of the [survey results is now available](https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf).
+  * Nathen's Five favorite shows (Bryan's list is almost exactly the same!):
+  
+  1. [Episode 11: Etsy Examined, How the Best Do Their Business](http://foodfightshow.org/2012/05/episode-11-etsy-examined-how-best-do.html)
+  1. [Episode 14: Post-Mortems with David Zwieback, John Allspaw, and Mike Rembetsy](http://foodfightshow.org/2012/05/episode-14-live-post-mortem-with-david.html)
+  1. [Episode 18: Monitoringsucks](http://foodfightshow.org/2012/06/episode-18-monitoringsucks-with-lusis.html)
+  1. [Episode 24: Jamie Winsor and Michael Ivey on Berkshelf](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html)
+  1. [Episode 25: ChatOps at Github with Jesse Newland](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html)
+  
+
 * Big Changes for Opscode &amp; Chef
   * Opscode cookbooks moved to individual repositories
   * $19.5m Series C Funding 
