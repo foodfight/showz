@@ -15,6 +15,12 @@ We're approaching the one year anniversary of the show.  Take us back to
 the beginning of the year.  Why did you start the Food Fight Show?  How
 well has it met the objectives you set?
 
+**Bryan:** I saw a lot of activity but not much consensus and a lot of duplication of effort. The first 5 cookbooks I wrote
+were all redundant to existing cookbooks. I hate reinventing the wheel! I also know that many in devops community
+don't work in major Tech hubs or get the opportunity to attend conferences like Velocity. In short, 
+I wanted to make our listeners feel like they are at the center of the Chef community and not at its edges, regardless of their physical location. 
+
+
 ## Review of 2012
 * Food Fight Show
   * 57 Food Fight Show Episodes 
@@ -76,9 +82,6 @@ to change:
     What's Cookin' and the Interview and new music at the close of the show.
     We'll ask our guests for suggestions or pull a gem out of our hosts'
 playlists.
-
-Bryan gives an emotional reminder of the purpose of the FoodFightShow, to make our listeners feel like they are at the
-the center of the Chef community and not at its edges, regardless of their physical location. 
 
 The [listener
 survey](https://s3.amazonaws.com/foodfightshow/Survey+Results.pdf)
