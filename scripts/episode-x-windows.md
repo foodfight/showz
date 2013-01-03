@@ -24,6 +24,9 @@ Who are you?  Where are you working?  How can people get in touch with you?
 
 * Why does your company use a primarily Windows stack?
 * Which versions Windows OS do you run? Win2k8? Win2k8 Server Core?
+* Is your company primarily Windows? 
+* What tools are typically used to manage Windows environments?
+* cygwin, winRM, powershell, what's that lay of the land?
 * How well does Chef currently support Windows?
 * How receptive are windows admins to automation, esp. since
 historically it has been harder to automate Windows, due to being GUI-centric
@@ -40,7 +43,7 @@ script_resource?
 can Chef work on? What does MS need to improve
 * What has been your experience teaching ruby to windows devs and sysadmins?
 * Does Windows have a package manager yet? Or any way to resolve
-package dependencies (.msi)?
+package dependencies (.msi, chocolatey)?
 * Does using a windows stack add special considerations for
 application deployment?
 * Do you use ssh keys in windowsland? If not how do your users log on?
