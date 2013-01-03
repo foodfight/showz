@@ -40,7 +40,10 @@ be new and perhaps unknown to *nix people?
 shells? how well does it integrate with chef? What aout the upcoming
 script_resource?
 * What aspects of chef on Windows need the most improvement? What part
-can Chef work on? What does MS need to improve
+can Chef work on? What does MS need to improve on their side?
+** Which windows apps are the hardest to automate? (Sharepoint?)
+** Which apps would benefit the most from automation?
+* Bryan: Does MS provide its own configuration Management framework? If not, any idea why it hasn't?
 * What has been your experience teaching ruby to windows devs and sysadmins?
 * Does Windows have a package manager yet? Or any way to resolve
 package dependencies (.msi, chocolatey)?
@@ -48,6 +51,7 @@ package dependencies (.msi, chocolatey)?
 application deployment?
 * Do you use ssh keys in windowsland? If not how do your users log on?
 * Do you use SSH on your windows machines?
+* Do you use Active Directory to access your application servers? Are there strengths or weaknesses in this?
 * What is the state of the community around Windows-related cookbooks?
 * How realistic is it that a given cookbook support both windows and linux? Is it even a good idea?
 * What do you have to do to make a cookbook support both windows and linux?
