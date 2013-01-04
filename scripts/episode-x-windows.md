@@ -1,4 +1,4 @@
-Show Date:  6 Nov 2012 - 12:00 Eastern
+Show Date:  24 Jan 2013 - [18:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Roundtable&iso=20130124T13&p1=1928)
 
 
 Windows Roundtable
