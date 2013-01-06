@@ -61,7 +61,8 @@ Installs/Configures x11vnc
 
 
 ### Updated Cookbooks
-* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) v1.1.2 - [andreacampi](http://community.opscode.com/users/andreacampi)
+* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry)
+* (<pre>1.1.2</pre>) - [andreacampi](http://community.opscode.com/users/andreacampi)
 * [cloudfoundry-cloud_controller](http://community.opscode.com/cookbooks/cloudfoundry-cloud_controller) v1.2.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
 * [cloudfoundry-dea](http://community.opscode.com/cookbooks/cloudfoundry-dea) v1.1.1 - [andreacampi](http://community.opscode.com/users/andreacampi)
 * [backup](http://community.opscode.com/cookbooks/backup) v0.0.4 - [fujin](http://community.opscode.com/users/fujin)
