@@ -10,53 +10,53 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
-* [builder](http://community.opscode.com/cookbooks/builder) v0.1.0 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+* [builder](http://community.opscode.com/cookbooks/builder) - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Building helpers
-* [cloudfoundry-filesystem-service](http://community.opscode.com/cookbooks/cloudfoundry-filesystem-service) v1.0.2 - [andreacampi](http://community.opscode.com/users/andreacampi)
+* [cloudfoundry-filesystem-service](http://community.opscode.com/cookbooks/cloudfoundry-filesystem-service) - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry-filesystem-service
-* [cloudfoundry-mongodb-service](http://community.opscode.com/cookbooks/cloudfoundry-mongodb-service) v1.0.3 - [andreacampi](http://community.opscode.com/users/andreacampi)
+* [cloudfoundry-mongodb-service](http://community.opscode.com/cookbooks/cloudfoundry-mongodb-service) - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry-mongodb-service
-* [cloudfoundry-rabbitmq-service](http://community.opscode.com/cookbooks/cloudfoundry-rabbitmq-service) v1.1.0 - [andreacampi](http://community.opscode.com/users/andreacampi)
+* [cloudfoundry-rabbitmq-service](http://community.opscode.com/cookbooks/cloudfoundry-rabbitmq-service) - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry-rabbitmq-service
-* [cloudfoundry-service_broker](http://community.opscode.com/cookbooks/cloudfoundry-service_broker) v1.0.1 - [andreacampi](http://community.opscode.com/users/andreacampi)
+* [cloudfoundry-service_broker](http://community.opscode.com/cookbooks/cloudfoundry-service_broker) - [andreacampi](http://community.opscode.com/users/andreacampi)
 Installs/Configures cloudfoundry_service_broker
-* [cloudfoundry_service](http://community.opscode.com/cookbooks/cloudfoundry_service) v1.2.1 - [andreacampi](http://community.opscode.com/users/andreacampi)
+* [cloudfoundry_service](http://community.opscode.com/cookbooks/cloudfoundry_service) - [andreacampi](http://community.opscode.com/users/andreacampi)
 Base cookbook for cloudfoundry service cookbooks
-* [delayed_evaluator](http://community.opscode.com/cookbooks/delayed_evaluator) v0.1.0 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+* [delayed_evaluator](http://community.opscode.com/cookbooks/delayed_evaluator) - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Delay stuff!
-* [dry-run-lies](http://community.opscode.com/cookbooks/dry-run-lies) v0.1.1 - [someara](http://community.opscode.com/users/someara)
+* [dry-run-lies](http://community.opscode.com/cookbooks/dry-run-lies) - [someara](http://community.opscode.com/users/someara)
 Installs/Configures dry-run-lies
-* [ernie](http://community.opscode.com/cookbooks/ernie) v0.1.0 - [clundquist](http://community.opscode.com/users/clundquist)
+* [ernie](http://community.opscode.com/cookbooks/ernie) - [clundquist](http://community.opscode.com/users/clundquist)
 Installs/Configures ernie
-* [fpm-tng](http://community.opscode.com/cookbooks/fpm-tng) v0.1.2 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+* [fpm-tng](http://community.opscode.com/cookbooks/fpm-tng) - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 FPM for Chef
-* [group](http://community.opscode.com/cookbooks/group) v0.0.1 - [clundquist](http://community.opscode.com/users/clundquist)
+* [group](http://community.opscode.com/cookbooks/group) - [clundquist](http://community.opscode.com/users/clundquist)
 Installs/Configures group
-* [moxi](http://community.opscode.com/cookbooks/moxi) v0.1.0 - [clundquist](http://community.opscode.com/users/clundquist)
+* [moxi](http://community.opscode.com/cookbooks/moxi) - [clundquist](http://community.opscode.com/users/clundquist)
 Installs/Configures moxi
-* [nginx_vhost](http://community.opscode.com/cookbooks/nginx_vhost) v0.1.0 - [clundquist](http://community.opscode.com/users/clundquist)
+* [nginx_vhost](http://community.opscode.com/cookbooks/nginx_vhost) - [clundquist](http://community.opscode.com/users/clundquist)
 Installs/Configures nginx_vhost
-* [ngircd](http://community.opscode.com/cookbooks/ngircd) v0.1.0 - [retr0h](http://community.opscode.com/users/retr0h)
+* [ngircd](http://community.opscode.com/cookbooks/ngircd) - [retr0h](http://community.opscode.com/users/retr0h)
 Installs/Configures ngircd
-* [openvz](http://community.opscode.com/cookbooks/openvz) v0.1.0 - [clundquist](http://community.opscode.com/users/clundquist)
+* [openvz](http://community.opscode.com/cookbooks/openvz) - [clundquist](http://community.opscode.com/users/clundquist)
 Installs/Configures openvz
-* [playonlinux](http://community.opscode.com/cookbooks/playonlinux) v0.1.0 - [mray](http://community.opscode.com/users/mray)
+* [playonlinux](http://community.opscode.com/cookbooks/playonlinux) - [mray](http://community.opscode.com/users/mray)
 Installs/Configures playonlinux, a WINE installer
-* [razor](http://community.opscode.com/cookbooks/razor) v0.3.2 - [fnichol](http://community.opscode.com/users/fnichol)
+* [razor](http://community.opscode.com/cookbooks/razor) - [fnichol](http://community.opscode.com/users/fnichol)
 Cookbook to install and manage Razor. An LWRP is provided to manage OS and micro kernel images.
-* [rc_mon](http://community.opscode.com/cookbooks/rc_mon) v0.1.0 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+* [rc_mon](http://community.opscode.com/cookbooks/rc_mon) - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 A fabulous new cookbook
-* [remote_syslog](http://community.opscode.com/cookbooks/remote_syslog) v0.1.0 - [clundquist](http://community.opscode.com/users/clundquist)
+* [remote_syslog](http://community.opscode.com/cookbooks/remote_syslog) - [clundquist](http://community.opscode.com/users/clundquist)
 Installs/Configures remote_syslog
-* [repmgr](http://community.opscode.com/cookbooks/repmgr) v0.1.1 - [chrisroberts](http://community.opscode.com/users/chrisroberts)
+* [repmgr](http://community.opscode.com/cookbooks/repmgr) - [chrisroberts](http://community.opscode.com/users/chrisroberts)
 Replication manager for PostgreSQL
-* [services](http://community.opscode.com/cookbooks/services) v0.2.0 - [clundquist](http://community.opscode.com/users/clundquist)
+* [services](http://community.opscode.com/cookbooks/services) - [clundquist](http://community.opscode.com/users/clundquist)
 Installs/Configures services
-* [sidekiq](http://community.opscode.com/cookbooks/sidekiq) v0.0.3 - [sax](http://community.opscode.com/users/sax)
+* [sidekiq](http://community.opscode.com/cookbooks/sidekiq) - [sax](http://community.opscode.com/users/sax)
 Installs/Configures sidekiq
-* [ssh-util](http://community.opscode.com/cookbooks/ssh-util) v0.6.0 - [markolson](http://community.opscode.com/users/markolson)
+* [ssh-util](http://community.opscode.com/cookbooks/ssh-util) - [markolson](http://community.opscode.com/users/markolson)
 LWRPs for managing SSH known_hosts and config files
-* [x11vnc](http://community.opscode.com/cookbooks/x11vnc) v0.0.2 - [jgoulah](http://community.opscode.com/users/jgoulah)
+* [x11vnc](http://community.opscode.com/cookbooks/x11vnc) - [jgoulah](http://community.opscode.com/users/jgoulah)
 Installs/Configures x11vnc
 
 
