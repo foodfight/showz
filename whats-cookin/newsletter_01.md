@@ -54,29 +54,29 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### New Cookbooks
 
-* [builder](http://community.opscode.com/cookbooks/builder) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Building helpers
-* [cloudfoundry-filesystem-service](http://community.opscode.com/cookbooks/cloudfoundry-filesystem-service) - [andreacampi](http://community.opscode.com/users/andreacampi) - Installs/Configures cloudfoundry-filesystem-service
-* [cloudfoundry-mongodb-service](http://community.opscode.com/cookbooks/cloudfoundry-mongodb-service) - [andreacampi](http://community.opscode.com/users/andreacampi) - Installs/Configures cloudfoundry-mongodb-service
-* [cloudfoundry-rabbitmq-service](http://community.opscode.com/cookbooks/cloudfoundry-rabbitmq-service) - [andreacampi](http://community.opscode.com/users/andreacampi) - Installs/Configures cloudfoundry-rabbitmq-service
+* [builder](http://community.opscode.com/cookbooks/builder) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Building helpers.  Provides LWRPs to help DRY building things with Chef.
+* [cloudfoundry-filesystem-service](http://community.opscode.com/cookbooks/cloudfoundry-filesystem-service) - [andreacampi](http://community.opscode.com/users/andreacampi) - Install a Cloud Foundry filesystem service gateway, an optional component of a [Cloud Foundry](http://www.cloudfoundry.org/) installation.
+* [cloudfoundry-mongodb-service](http://community.opscode.com/cookbooks/cloudfoundry-mongodb-service) - [andreacampi](http://community.opscode.com/users/andreacampi) - Install a Cloud Foundry MongoDB gateway or node, optional components of a [Cloud Foundry](http://www.cloudfoundry.org/) installation.
+* [cloudfoundry-rabbitmq-service](http://community.opscode.com/cookbooks/cloudfoundry-rabbitmq-service) - [andreacampi](http://community.opscode.com/users/andreacampi) - Install a Cloud Foundry RabbitMQ gateway or node, optional components of a [Cloud Foundry](http://www.cloudfoundry.org/) installation.
 * [cloudfoundry-service_broker](http://community.opscode.com/cookbooks/cloudfoundry-service_broker) - [andreacampi](http://community.opscode.com/users/andreacampi) - Installs/Configures cloudfoundry_service_broker
-* [cloudfoundry_service](http://community.opscode.com/cookbooks/cloudfoundry_service) - [andreacampi](http://community.opscode.com/users/andreacampi) - Base cookbook for cloudfoundry service cookbooks
-* [delayed_evaluator](http://community.opscode.com/cookbooks/delayed_evaluator) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Delay stuff!
+* [cloudfoundry_service](http://community.opscode.com/cookbooks/cloudfoundry_service) - [andreacampi](http://community.opscode.com/users/andreacampi) - basic functionality for writing cookbooks that manage services in a [Cloud Foundry](http://www.cloudfoundry.org/) installation.
+* [delayed_evaluator](http://community.opscode.com/cookbooks/delayed_evaluator) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - This is a PoC cookbook to show a working solution for delayed attribute evaluation within resource blocks.  See also [CHEF-1814](http://tickets.opscode.com/browse/CHEF-1814)
 * [dry-run-lies](http://community.opscode.com/cookbooks/dry-run-lies) - [someara](http://community.opscode.com/users/someara) - Installs/Configures dry-run-lies
-* [ernie](http://community.opscode.com/cookbooks/ernie) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures ernie
-* [fpm-tng](http://community.opscode.com/cookbooks/fpm-tng) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - FPM for Chef
-* [group](http://community.opscode.com/cookbooks/group) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures group
+* [ernie](http://community.opscode.com/cookbooks/ernie) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures [ernie](https://github.com/mojombo/ernie), a [BERT-RPC server](http://bert-rpc.org/) implementation that uses an Erlang server to accept incoming connections, and then delegates the request to custom modules that you can write in any language.
+* [fpm-tng](http://community.opscode.com/cookbooks/fpm-tng) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - The next generation of [effing package management](https://github.com/jordansissel/fpm) on Chef.  This cookbook installs [fpm](https://github.com/jordansissel/fpm) to a given Ruby. It also provides some useful LWRPs to help build packages in a Chef friendly manner.
+* [group](http://community.opscode.com/cookbooks/group) - [clundquist](http://community.opscode.com/users/clundquist) - Setup groups via databags, modeled after [@fnichol](https://twitter.com/fnichol)'s [chef-user cookbook](https://github.com/fnichol/chef-user). Setup groups via databags.
 * [moxi](http://community.opscode.com/cookbooks/moxi) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures moxi
 * [nginx_vhost](http://community.opscode.com/cookbooks/nginx_vhost) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures nginx_vhost
 * [ngircd](http://community.opscode.com/cookbooks/ngircd) - [retr0h](http://community.opscode.com/users/retr0h) - Installs/Configures ngircd
 * [openvz](http://community.opscode.com/cookbooks/openvz) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures openvz
-* [playonlinux](http://community.opscode.com/cookbooks/playonlinux) - [mray](http://community.opscode.com/users/mray) - Installs/Configures playonlinux, a WINE installer
-* [razor](http://community.opscode.com/cookbooks/razor) - [fnichol](http://community.opscode.com/users/fnichol) - Cookbook to install and manage Razor. An LWRP is provided to manage OS and micro kernel images.
-* [rc_mon](http://community.opscode.com/cookbooks/rc_mon) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - A fabulous new cookbook
-* [remote_syslog](http://community.opscode.com/cookbooks/remote_syslog) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures remote_syslog
-* [repmgr](http://community.opscode.com/cookbooks/repmgr) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Replication manager for PostgreSQL
-* [services](http://community.opscode.com/cookbooks/services) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures services
+* [playonlinux](http://community.opscode.com/cookbooks/playonlinux) - [mray](http://community.opscode.com/users/mray) - Installs/Configures playonlinux, a WINE installer.  Matt created this cookbook so he could play StarCraft.
+* [razor](http://community.opscode.com/cookbooks/razor) - [fnichol](http://community.opscode.com/users/fnichol) - Chef cookbook to install and manage [Razor](https://github.com/puppetlabs/Razor), a power control, provisioning, and management application designed to deploy both bare-metal and virtual computer resources. An LWRP is provided to manage OS and micro kernel images.
+* [rc_mon](http://community.opscode.com/cookbooks/rc_mon) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - RcMon is a simple process monitoring helper. It helps to ensure processes stay up and that they are behaving properly. It's simple, straight forward, and best of all lightweight.
+* [remote_syslog](http://community.opscode.com/cookbooks/remote_syslog) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures [remote_syslog](https://github.com/papertrail/remote_syslog)
+* [repmgr](http://community.opscode.com/cookbooks/repmgr) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Installs and configures repmgr to enable and monitor PostgreSQL replication.
+* [services](http://community.opscode.com/cookbooks/services) - [clundquist](http://community.opscode.com/users/clundquist) - lets you preform a variety of actions on many services easily.  Create a `services` attribute on your node that is a hash of service names and actions:  `node.services = {'acpid':['stop','disable'],'atd':['stop','disable']}`.  Handy for bulk actions but beware of flapping if you include `restart` as an action.
 * [sidekiq](http://community.opscode.com/cookbooks/sidekiq) - [sax](http://community.opscode.com/users/sax) - Installs/Configures sidekiq
-* [ssh-util](http://community.opscode.com/cookbooks/ssh-util) - [markolson](http://community.opscode.com/users/markolson) - LWRPs for managing SSH known_hosts and config files
+* [ssh-util](http://community.opscode.com/cookbooks/ssh-util) - [markolson](http://community.opscode.com/users/markolson) - Provides two LWRPs to manage system-wide and per-user ssh_config and known_host files. 
 * [x11vnc](http://community.opscode.com/cookbooks/x11vnc) - [jgoulah](http://community.opscode.com/users/jgoulah) - Installs/Configures x11vnc
 
 
