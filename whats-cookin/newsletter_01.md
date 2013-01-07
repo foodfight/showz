@@ -28,6 +28,14 @@ In the News<a name="news"></a>
 * Feb-2 - Feb-4 [FOSDEM 2013](https://fosdem.org/2013/) - Be sure to stop by the [Configuration Systems Management devroom](https://fosdem.org/2013/schedule/track/configuration_systems_management/) to say 'hi' to Brian and Nathen and pick-up your Food Fight Show stickers.
 * Feb-4 - Los Angeles Chef Users Group - [Edmunds' Continuous Delivery with Chef](http://www.meetup.com/Los-Angeles-Chef-Users-Group/events/95257602/)
 
+#### Speaking Opportunities
+
+You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences.  CFPs are closing soon so submit your talk today!
+
+* [Velocity](http://velocityconf.com/velocity2013/public/cfp/246) - CFP closes 10-Jan
+* [Big Ruby Conf](http://www.bigrubyconf.com/) - This year there's an "Infrastructure as Code" theme - CFP closes 11-Jan
+* [CascadiaIT](http://casitconf.org/casitconf13/) - CFP closes 16-Jan
+* [Mountain West RubyConf](http://mtnwestrubyconf.org/) - This year includes a DevOps track! - CFP closes 19-Jan.
 
 ###  Special Offers
 
