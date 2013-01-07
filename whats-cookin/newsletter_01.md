@@ -1,10 +1,45 @@
 In the News<a name="news"></a>
 -----------
+* [chef-metrics](https://github.com/portertech/chef-metrics), from [@portertech](http://twitter.com/portertech), is a report/exception handler for sending Chef metrics to one or more endpoints.
+* [chef-journalist](https://github.com/portertech/chef-journalist), also from [@portertech](https://twitter.com/portertech), is another report/exception handler. This one is used to output a list of updated resources.
+* As we mentioned in [Episode 35: A Year in Review](http://foodfightshow.org/2013/01/food-fight-show-year-two.html), [foodcritic](http://acrmp.github.com/foodcritic/) had a major release:  [1.7.0](https://github.com/acrmp/foodcritic/blob/master/CHANGELOG.md).  This release includes a number of bugfixes and new features including the removal of the controversial [FC001](http://acrmp.github.com/foodcritic/#FC001).  Check the project's [CHANGELOG](https://github.com/acrmp/foodcritic/blob/master/CHANGELOG.md) for more details.
+* [@someara](https://twitter.com/someara) wrote up a blog post recently titled ["Promises, Lies, and Dry-Run Mode"](http://blog.afistfulofservers.net/post/2012/12/21/promises-lies-and-dryrun-mode/).  In this post Sean rips away the security blanket of dry-run (or noop or why-run) mode leaving you in the cold.  He walks through some of the ways mondern configuration systems lies to us. Of course, there's a cookbook that goes along with the post:   [dry-run-lies](http://community.opscode.com/cookbooks/dry-run-lies).
+* Need a quick way to upgrade an outdated `chef-client` on your Vagrant box?  [@dougireton](https://twitter.com/dougireton) recently wrote a [post about his approach to this](http://dougireton.com/blog/2012/12/23/automatically-upgrading-chef-client-on-vagrant-up/) which involves using two `config.vm.provision` blocks in the Vagrantfile.  [Automatically Upgrading Chef Client on Vagrant Up](http://dougireton.com/blog/2012/12/23/automatically-upgrading-chef-client-on-vagrant-up/)
+* Doug also recently wrote a post about [Creating an LWRP](http://dougireton.com/blog/2012/12/31/creating-an-lwrp/).  Part 1 of this series looks at the resource side of the LWRP.  The resource is the simple interface you'll interact with in your recipe files.  Watch Doug's blog for Part 2.
+* Are you ready to move your cookbooks from one giant `chef-repo` to an individual repo for each cookbook?  Be sure to checkout [@sethvargo](https://twitter.com/sethvargo)'s blog post, [Moving to Individual Cookbooks](http://sethvargo.com/20130102/moving-to-individual-cookbooks/).  In this post, Seth provides some ruby scripts and step-by-step instructions for moving your cookbooks to private repos on github.  
+* [SoloWizard](http://www.solowizard.com/) is a tool that makes it painless to create a configurable chef solo script to get your development machine humming.  Check out the [SoloWizard](http://www.solowizard.com/) site where you can create your personal Solo Wizard script.
+* [Test-kitchen](https://github.com/opscode/test-kitchen) 0.7.0 introduces a new OpenStack runner.  You can now run your test-kitchen in OpenStack instead of Vagrant.  Check-out [Opscode Chef Integration Tests Now On OpenStack With Test Kitchen 0.7.0](http://www.infoq.com/news/2013/01/test-kitchen-on-openstack) from Matthias Marschall.
+* David P. Kleinschmidt (aka [zobar on github](https://github.com/zobar)) announced [ingredients](https://github.com/zobar/ingredients) a humble suggestion for keeping complex Chef cookbooks maintainable.  
+* Engine Yard announced their first [Engine Yard Innovators Awards](https://blog.engineyard.com/2013/engine-yard-innovators-awards/) with categories for Ruby, PHP, Open Source, and DevOps.  Congrats to Food Fight Show co-hot, [@nathenharvey](https://twitter.com/nathenharvey), for winning the DevOps category.
 
 ### Upcoming Meetup Groups and Events
+* Jan-8 - DevOps DC - [January Meetup](http://www.meetup.com/DevOpsDC/events/90355012/)
+* Jan-9 - DevOps Minneapolis - [Continuous Delivery - Improving the process of software delivery](http://www.meetup.com/DevOps-Minneapolis/events/94351262/)
+* Jan-10 - Chicago Chef User Group - [Chef Cafe](http://www.meetup.com/Chicago-Chef-User-Group/events/95348762/)
+* Jan-14 - LakeMary DevOps, in Lake Mary, FL - [Open Discussion](http://www.meetup.com/LakeMary-DevOps/events/95923592/)
+* Jan-15 - Infrastructure Coders (Melbourne, Australia) - [January Meetup](http://meetup.infrastructurecoders.com/events/91261252/)
+* Jan-15 - London DevOps - [Beyond Webscale: What to do when you get beyond 300 boxes, but you're not Twitter](http://london-devops-jan-2013.eventbrite.com/)
+* Jan-15 - Opscode Chef Meetup - [First Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/91432562/)
+* Jan-16 - San Diego DevOps - [Monthly Meeting](http://www.meetup.com/sddevops/events/dlwztdyrcbvb/)
+* Jan-17 - DevOps Milwaukee - [Continuous Delivery concepts and the tool chains that support them.](http://www.meetup.com/DevOps-Milwaukee/events/96337082/)
+* Jan-17 - Bay Area Chef User Group - [Chef Cafe](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/97748582/)
+* Jan-17 - London Continuous Delivery - [A date with Opscode (Chef) - Infrastructure Automation in 2013](http://www.meetup.com/London-Continuous-Delivery/events/94851972/)
+* Jan-22 - Chef-BOSTON - [Chef for OpenStack and Chef 11 with Matt Ray](http://www.meetup.com/Chef-BOSTON/events/98235712/)
+* Feb-2 - Feb-4 [FOSDEM 2013](https://fosdem.org/2013/) - Be sure to stop by the [Configuration Systems Management devroom](https://fosdem.org/2013/schedule/track/configuration_systems_management/) to say 'hi' to Brian and Nathen and pick-up your Food Fight Show stickers.
+* Feb-4 - Los Angeles Chef Users Group - [Edmunds' Continuous Delivery with Chef](http://www.meetup.com/Los-Angeles-Chef-Users-Group/events/95257602/)
+
 
 ###  Special Offers
 
+#### Opscode Training
+
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+
+#### #ChefConf 2013
+
+[#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT).
+
+We want to hear YOUR stories at #ChefConf!  [Propose a talk today](https://chefconf2013.busyconf.com/proposals/new).
 
 Cookbook News<a name="cookbooks"></a>
 -------------
