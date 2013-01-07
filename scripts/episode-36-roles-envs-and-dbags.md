@@ -11,6 +11,7 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
 
+First, Bryan has a bone to pick with Adam about [this](http://twit.tv/show/floss-weekly/219)
 
 Outline/Questions
 -----------------
