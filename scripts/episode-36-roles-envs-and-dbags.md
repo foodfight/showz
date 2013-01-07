@@ -52,8 +52,9 @@ Outline/Questions
 * Is there another primitive that we need in addition to roles,envs,dbs,attrs?
 * For Adam: if u were starting over w/ chef, would u still have created these same primitives?
 
-What should be the definitive source of truth in your infrastructure? the data stored in chef-server? zookeeper? Ever
-thought about persisting the node data,roles,environemtns,etc. in zookeeper?
+David has written a very opinionated take on how to use these different components [ingredients](https://github.com/zobar/ingredients)
+
+What should be the definitive source of truth in your infrastructure? the data stored in chef-server? zookeeper? 
 
 Dear panelists, what are the best practices for using these tools to abstract away the differences b/w different os/es distros?
 
