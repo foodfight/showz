@@ -30,12 +30,13 @@ In the News<a name="news"></a>
 
 #### Speaking Opportunities
 
-You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences.  CFPs are closing soon so submit your talk today!
+You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
 
 * [Velocity](http://velocityconf.com/velocity2013/public/cfp/246) - CFP closes 10-Jan
 * [Big Ruby Conf](http://www.bigrubyconf.com/) - This year there's an "Infrastructure as Code" theme - CFP closes 11-Jan
 * [CascadiaIT](http://casitconf.org/casitconf13/) - CFP closes 16-Jan
 * [Mountain West RubyConf](http://mtnwestrubyconf.org/) - This year includes a DevOps track! - CFP closes 19-Jan.
+* [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
 
 ###  Special Offers
 
