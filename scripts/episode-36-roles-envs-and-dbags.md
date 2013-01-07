@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  [Thursday, 10-Jan-2013 18:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Roles%2C+Environments%2C+Attributes%2C+and+Data+Bags&iso=20130110T13&p1=1928)
 
 Panel<a name="panel"></a>
 -----
