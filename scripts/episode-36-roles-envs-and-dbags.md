@@ -5,6 +5,7 @@ Panel<a name="panel"></a>
 
 * Adam Jacob [github](https://github.com/adamhjk), [twitter](https://twitter.com/adamhjk)
 * Sean O'Meara  [github](https://github.com/someara), [twitter](https://twitter.com/someara), [blog](http://blog.afistfulofservers.net/)
+* David Kleinschmidt [github](https://github.com/zobar), [twitter](https://twitter.com/zobar2)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
