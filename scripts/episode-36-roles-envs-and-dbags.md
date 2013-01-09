@@ -35,6 +35,16 @@ Outline/Questions
   * do they map 1-1 to application envs like dev,qa,prod?
   * what values can set using envs? (run_lists, overrides, ckbk version)
   * how should one use move ckbks thru envs as they mature?
+  * Bryan asks: Is there anything wrong w/ putting switch statements branching on chef_environment directly 
+    in your recipes?
+   ```Ruby
+     case node.chef_environment
+     when "production"
+        main_config_template = "prod.conf.erb"
+     when "developement"
+        main_config_template = "dev.conf.erb"
+     end
+   ```
 
 * Roles
   * what are they good for?
