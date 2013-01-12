@@ -35,6 +35,7 @@ historically it has been harder to automate Windows, due to being GUI-centric
 * Most *nix folks look down on the Windows Operating
 System, perhaps unfairly. What are some good parts of the Windows OS that may
 be new and perhaps unknown to *nix people?
+* Is it difficult to use Vagrant w/ Windows?
 * What is winRM?
 * Tell us about powershell. Is it as good as or better than the *nix
 shells? how well does it integrate with chef? What aout the upcoming
