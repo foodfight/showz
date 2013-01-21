@@ -3,35 +3,74 @@ Food Fight Show News
 Welcome to the second issue of the What's Cookin' newsletter!
 
 ### Latest Episodes
-* 
-* 
-*
+
+* [DevOpsDays NYC - Wrap-up Episode](http://foodfightshow.org/2013/01/devopsdays-nyc-thats-a-wrap.html)
+* [DevOpsDays With Matthias Meyer](http://foodfightshow.org/2013/01/devopsdays-with-matthias-meyer.html)
+* Roles, Environments, Attributes, and Data Bags - Part 1 - [YouTube Video](http://www.youtube.com/watch?v=Z2NssEeVHlI)
 
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* 
-* 
-* 
+* [Part 2 of our discussion on Roles, Environments, Attributes, and Data Bags](https://github.com/foodfight/showz/blob/master/scripts/episode-37-attrs-roles-envs-roundtable.md) - [22 Jan 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Roles%2C+Environments%2C+Attributes%2C+and+Data+Bags+Part+2&iso=20130122T14&p1=1928)
+* [Managing Windows servers with Chef](https://github.com/foodfight/showz/blob/master/scripts/episode-x-windows.md) - [24 Jan 18:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Roundtable&iso=20130124T13&p1=1928)
+* LWRPs and Libraries - TBD
 
 In the News
 -----------
+* [Unit Testing Chef Cookbooks](http://sethvargo.com/20130113/unit-testing-chef-cookbooks/) - In this post, Seth Vargo ([@sethvargo](https://twitter.com/sethvargo)) provides a nice walkthrough of setting up some unit tests with ChefSpec.
+* [Spiceweasel 2.0](http://leastresistance.wordpress.com/2013/01/14/spiceweasel-2-0/) was recently released. Spiceweasel is a command-line tool for batch loading Chef infrastructure from a file.  Check the [detailed CHANGELOG](https://github.com/mattray/spiceweasel/blob/master/CHANGELOG.md#200) for the latest changes.
+* The recent [Opscode Chef Community Seattle Meetup](http://www.meetup.com/Opscode-Chef-Meetup/) was held as a Google+ Hangout and the [video is now available on YouTube](http://www.youtube.com/watch?v=Vr3nwLFon3s)
+* [SublimeChef](https://github.com/cabeca/SublimeChef) - A Sublime Text 2 Package for authoring Chef related files. There's a [video on YouTube](http://www.youtube.com/watch?v=4VtDj_ar1Xg) that shows the plugin in action.
+* The [Rackspace DevOps Blog](http://devops.rackspace.com/) is running a "Cooking with Chef" series.  Check out [Part 1](http://devops.rackspace.com/cooking-with-chef.html) and [Part 2](http://devops.rackspace.com/cooking-with-chef2.html)
+* [Adaptive Fault Detection](http://www.xaprb.com/blog/2012/10/02/adaptive-fault-detection-in-mysql-servers/) - A presentation from Baron Schwartz ([@xaprb](https://twitter.com/xaprb)) that was given at a recent [DevOpsDC Meetup](http://www.meetup.com/DevOpsDC/)
+* [Chef + Environments = Safer Infrastructure](https://speakerdeck.com/sethvargo/chef-plus-environments-equals-safer-infrastructure) - a look at using environments to roll-out changes to your infrastructure.
+* [The USE method addresses shortcomings in other commonly used methodologies](http://queue.acm.org/detail.cfm?id=2413037) - an excellent article that explores a better way to troubleshoot performance problems.
+* [On Pager Duty](http://www.paperplanes.de/2013/1/2/on-pager-duty.html) - An article for Mathias Meyer ([@roidrage](https://twitter.com/roidrage)) about his experiences being on call.
+* [Our Experiences with Chef: Adoption Challenges](http://omniti.com/seeds/seeds-our-experiences-with-chef-adoption-challenges) - an article that looks at adopting Chef at OmniTI.  
+* [vagrant-postgresql](https://github.com/scottmuc/vagrant-postgresql) is a project from Scott Muc ([@ScottMuc](https://twitter.com/ScottMuc)) that allows you to easily stand-up a PostgreSQL environment using Vagrant and Chef.  Scott also posted a [video of his demo](http://vimeo.com/57124603).
+* [Helpful Vagrant bash functions/tab completions](http://blog.async.io//2013/01/11/helpful-vagrant-bash-functions-tab-completions) - A post detailing some ways to streamline you Vagrant workflow.
+* [knife-spork](https://github.com/jonlives/knife-spork) was recently updated to include support for [Berkshelf](http://berkshelf.com/) and more.  Checkout the [CHANGELOG](https://github.com/jonlives/knife-spork/blob/master/CHANGELOG.md) for all the latest changes.
+* Ever wanted to create your very own LWRP? Check out Doug Ireton's ([@dougireton](https://twitter.com/dougireton)) latest blog series - Creating an LWRP - [Part 1](http://dougireton.com/blog/2012/12/31/creating-an-lwrp/), [Part 2](http://dougireton.com/blog/2013/01/07/creating-an-lwrp-part-2/), and [Part 3](http://dougireton.com/blog/2013/01/13/creating-an-lwrp-part-3/)
+
+
+### DevOpsDays NYC
+DevOpsDays NYC was held on January 17 and 18.  Here are some presentations from the conference:
+
+* [Video Stream from DevOpsDays NYC](http://new.livestream.com/devopsdaysorg/nyc2013)
+* [We're Doing it Wrong!](http://www.netmeister.org/slides/devopsdays201301/#/)
+* [DevOps Hiring](https://speakerdeck.com/dzwieback/devops-hiring-devopsdays-nyc-2013)
+* [Automate or Die](https://speakerdeck.com/aq/automate-or-die) - Aaron Quint's ([@aq](https://twitter.com/aq)) DevOpsDays NYC presentation.
+* [Failure is Always an Option](http://www.paperplanes.de/2013/1/21/failure-is-always-an-option.html) - a blog post that covers the ideas from Mathias Meyer's ([@roidrage](https://twitter.com/roidrage)) DevOpsDays talk.
+
 
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
+
+* [DevOpsUT](http://www.meetup.com/devopsut/) - A new DevOps Meetup Group in Salt Lake City, UT.  The [Inaugural DevOpsUT Meetup](http://www.meetup.com/DevOpsUT/events/99929042/) will be held 30-Jan
+* Jesse Robbins ([@jesserobbins](https://twitter.com/jesserobbins) will be in London for Cloud Expo.  The [DevOps London](http://www.meetup.com/DevOps-London/events/99103622/) organizers are trying to lock down a date for a meetup with Jesse.  [RSVP Now](http://www.meetup.com/DevOps-London/events/99103622/).
+
+* 22-Jan - Chef-BOSTON - [Chef for OpenStack and Chef 11 with Matt Ray]http://www.meetup.com/Chef-BOSTON/events/98235712/)
+* 24-Jan - DevOps Milwaukee - [Continuous Delivery concepts and the tool chains that support them.](http://www.meetup.com/DevOps-Milwaukee/events/96337082/)
+* 29-Jan - Chef NYC - [Chef Workflow Strategies](http://www.meetup.com/Chef-NYC/events/98893762/)
+* 29-Jan - Seattle DevOps - [January Meetup](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/98442782/)
+* 30-Jan - DevOpsUT - [Inaugural DevOpsUT Meetup](http://www.meetup.com/DevOpsUT/events/99929042/)
+* 4-Feb - Los Angeles Chef Users Group - [Edmunds' Continuous Delivery with Chef](http://www.meetup.com/Los-Angeles-Chef-Users-Group/events/95257602/)
 
 #### Speaking Opportunities
 
 You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
 
+* [USENIX Annual Technical Conference](https://www.usenix.org/conference/atc13/call-for-papers) - CFP closes 23-Jan
+* [RubyConf Uruguay 2013](http://rubyconfuruguay.github.com/) - CFP closes 31-Jan
+* [OSCON](http://www.oscon.com/oscon2013/public/cfp/251) - CFP closes 4-Feb
 * [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
 
 ###  Special Offers
 
 #### Opscode Training
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in Atlanta, Austin, Berlin, Boston, Chicago, DC, Denver, Los Angeles, Miami, New York, Philadelphia, Portland, and San Diego.
 
 #### #ChefConf 2013
 
@@ -57,6 +96,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 94
 * [libev](http://community.opscode.com/cookbooks/libev) - [tk0miya](http://community.opscode.com/users/tk0miya) - Installs libev (from source)
 * [libevent](http://community.opscode.com/cookbooks/libevent) - [tk0miya](http://community.opscode.com/users/tk0miya) - Installs libevent (from source)
 * [locales](http://community.opscode.com/cookbooks/locales) - [phbergsmann](http://community.opscode.com/users/phbergsmann) - Installs/Configures locales
+* [manual](https://github.com/jasonberanek/manual) - [jasonberanek](http://github.com/jasonberanek) - contains resources and providers to allow documentation of manaul installation steps within a set of Chef recipes.
 * [proj](http://community.opscode.com/cookbooks/proj) - [pjungwir](http://community.opscode.com/users/pjungwir) - Installs PROJ
 * [rabbitmq_settings](http://community.opscode.com/cookbooks/rabbitmq_settings) - [sawanoboly](http://community.opscode.com/users/sawanoboly) - Converge rabbitmq settings using lwrp. Depends on opscode-cookbook[rabbitmq].
 * [salt](http://community.opscode.com/cookbooks/salt) - [retr0h](http://community.opscode.com/users/retr0h) - Installs/Configures salt
@@ -96,6 +136,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 94
 * [database](http://community.opscode.com/cookbooks/database) (1.3.10)
 * [dnsmasq](http://community.opscode.com/cookbooks/dnsmasq) (0.1.0)
 * [exim4-light](http://community.opscode.com/cookbooks/exim4-light) (0.1.1)
+* [gbp-cookbook](https://github.com/mlafeldt/gbp-cookbook) (1.0.3)
 * [geminabox](http://community.opscode.com/cookbooks/geminabox) (0.1.2)
 * [glance](http://community.opscode.com/cookbooks/glance) (2012.1.1) 
 * [glassfish](http://community.opscode.com/cookbooks/glassfish) (0.5.20)
@@ -120,6 +161,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 94
 * [nginx](http://community.opscode.com/cookbooks/nginx) (1.1.4)
 * [nodejs](http://community.opscode.com/cookbooks/nodejs) (1.0.2)
 * [nova](http://community.opscode.com/cookbooks/nova) (2012.1.1)
+* [pbulider](https://github.com/mlafeldt/pbuilder-cookbook) (1.0.3)
 * [percona](http://community.opscode.com/cookbooks/percona) (0.12.2)
 * [phpunit](http://community.opscode.com/cookbooks/phpunit) (0.0.3)
 * [pkg-build](http://community.opscode.com/cookbooks/pkg-build) (0.1.7)
