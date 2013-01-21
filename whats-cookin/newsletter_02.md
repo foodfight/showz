@@ -47,8 +47,8 @@ DevOpsDays NYC was held on January 17 and 18.  Here are some presentations from 
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
 
-* [DevOpsUT](http://www.meetup.com/devopsut/) - A new DevOps Meetup Group in Salt Lake City, UT.  The [Inaugural DevOpsUT Meetup](http://www.meetup.com/DevOpsUT/events/99929042/) will be held 30-Jan
-* Jesse Robbins ([@jesserobbins](https://twitter.com/jesserobbins) will be in London for Cloud Expo.  The [DevOps London](http://www.meetup.com/DevOps-London/events/99103622/) organizers are trying to lock down a date for a meetup with Jesse.  [RSVP Now](http://www.meetup.com/DevOps-London/events/99103622/).
+* Jesse Robbins ([@jesserobbins](https://twitter.com/jesserobbins)) will be in London for Cloud Expo.  The [DevOps London](http://www.meetup.com/DevOps-London/events/99103622/) organizers are trying to lock down a date for a meetup with Jesse.  [RSVP Now](http://www.meetup.com/DevOps-London/events/99103622/).
+
 
 * 22-Jan - Chef-BOSTON - [Chef for OpenStack and Chef 11 with Matt Ray]http://www.meetup.com/Chef-BOSTON/events/98235712/)
 * 24-Jan - DevOps Milwaukee - [Continuous Delivery concepts and the tool chains that support them.](http://www.meetup.com/DevOps-Milwaukee/events/96337082/)
