@@ -58,6 +58,7 @@ A data bag is a global variable that is stored as JSON data and is accessible fr
   * what are some things to watch out for?
   * Why do you love / hate data bags?
 
+## General Questions
 
 * What is the proper way to make a cookbook portable across different distros?
   * i.e. put case statements in attributes/* rather than in recipe
