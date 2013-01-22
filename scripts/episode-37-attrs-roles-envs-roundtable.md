@@ -3,7 +3,6 @@ Show Date:  [Thursday, 10-Jan-2013 18:00 UTC](http://www.timeanddate.com/worldcl
 Panel<a name="panel"></a>
 -----
 
-* Adam Jacob [github](https://github.com/adamhjk), [twitter](https://twitter.com/adamhjk)
 * Sean O'Meara  [github](https://github.com/someara), [twitter](https://twitter.com/someara), [blog](http://blog.afistfulofservers.net/)
 * David Kleinschmidt [github](https://github.com/zobar), [twitter](https://twitter.com/zobar2)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
@@ -17,12 +16,53 @@ First, Bryan has a bone to pick with Adam about [this](http://twit.tv/show/floss
 Outline/Questions
 -----------------
 
-* How it should be done: each panelist has 2 minutes to describe the
-  proper way to use these tools and possibly the wrong way to use them
-  as well. things that can be covered:
-  - proper way to make a cookbook portable across different distros -
-    i.e. put case statements in attributes/* rather than in recipe
-  - how to separate corporate data from community cookbooks
+Start with a definition of each object, taken from the [docs site](http://docs.opscode.com/chef_overview.html)
+
+## Roles
+A role is a way to define certain patterns and processes that exist across nodes in a Chef organization as belonging to a single job function. Each role may contain attributes and/or a run list. Each node can have zero (or more) roles assigned to it. When a role is run against a node, the configuration details of that node are compared against the attributes of the role, and then the contents of that role’s run list are applied to the node’s configuration details. When a chef-client runs, it merges its own attributes and run lists with those contained within each assigned role.
+
+2 minutes from each panelist:
+  * how do you use roles?
+  * what are some things to watch out for?
+  * Why do you love / hate roles?
+
+## Environments
+An environment is a way to map an organization’s real-life workflow to what can be configured and managed when using Chef server. Every Chef organization begins with a single environment called the _default environment, which cannot be modified (or deleted). Additional environments can be created, such as production, staging, testing, and development. Generally, an environment is also associated with one (or more) cookbook versions.
+
+2 minutes from each panelist:
+  * how do you use environments?
+  * what are some things to watch out for?
+  * Why do you love / hate environments?
+
+## Attributes
+An attribute is a specific detail about a node, such as an IP address, a host name, a desired application setting, a list of loaded kernel modules, the version(s) of available programming languages that are available, and so on. Attributes can be maintained in a variety of ways, such as by re-loading a cookbook (that contains new attributes), by using Knife, or by using JSON data. During a Chef run, the chef-client gets attributes from Ohai, the node object on the Chef server, roles, recipes, and environments. These attributes are compared and then updated based on attribute precedence rules that are defined for each attribute. At the end of a Chef run, the chef-client will save the node object (and all of its attributes) to the Chef server so they can be indexed for search.
+
+Types of attributes:
+* Automatic
+* Override
+* Normal
+* Default
+* Check the docs for [attribute precendence](http://docs.opscode.com/essentials_cookbook_recipes_attribute_precedence.html)
+
+2 minutes from each panelist:
+  * how do you use attributes?
+  * what are some things to watch out for?
+  * Why do you love / hate attributes?
+
+
+## Data Bags
+A data bag is a global variable that is stored as JSON data and is accessible from a Chef server. A data bag is indexed for searching and can be loaded by a recipe or accessed during a search. The contents of a data bag can vary, but they often include sensitive information (such as database passwords).
+
+2 minutes from each panelist:
+  * how do you use data bags?
+  * what are some things to watch out for?
+  * Why do you love / hate data bags?
+
+
+* What is the proper way to make a cookbook portable across different distros?
+  * i.e. put case statements in attributes/* rather than in recipe
+* How should you separate corporate data from community cookbooks?
+
 
 * Common use cases, How do I?
  - distribute ssh keys for my users to my servers?
