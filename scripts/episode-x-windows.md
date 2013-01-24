@@ -7,6 +7,8 @@ Panel
 =====
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Jon DeCamp [github](http://github.com/jondecamp), [twitter](http://twitter.com/jondecamp), irc: jondecamp
+
 
 Outline
 =======
@@ -62,5 +64,6 @@ application deployment?
 
 * Bryan
 * Nathen
+* Jon DeCamp - jq, JSON parser, http://stedolan.github.com/jq/
 
   
