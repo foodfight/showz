@@ -62,5 +62,6 @@ application deployment?
 
 * Bryan
 * Nathen
+* Doug Ireton - [Powerline](https://github.com/Lokaltog/powerline) an awesome Vim status line plugin
 
   
