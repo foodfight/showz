@@ -8,6 +8,7 @@ Panel
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Jon DeCamp [github](http://github.com/jondecamp), [twitter](http://twitter.com/jondecamp), irc: jondecamp
+* Kevin Moser [github](http://github.com/moserke), [twitter](http://twitter.com/moserke), irc: moserke
 * Adam Edwards [github](http://github.com/adamedx)
 
 Outline
