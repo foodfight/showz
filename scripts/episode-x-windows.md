@@ -9,6 +9,7 @@ Panel
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Jon DeCamp [github](http://github.com/jondecamp), [twitter](http://twitter.com/jondecamp), irc: jondecamp
 * Adam Edwards [github](http://github.com/adamedx)
+* Doug Ireton, Nordstrom [github](http://github.com/dougireton), [twitter](http://twitter.com/dougireton), irc: dougireton, [blog](http://dougireton.com) 
 
 Outline
 =======
