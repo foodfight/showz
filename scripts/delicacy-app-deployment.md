@@ -3,7 +3,6 @@ Show Date:  28 Jan 2013
 Panel<a name="panel"></a>
 -----
 * Javier Segura [github](https://github.com/jsegura), [twitter](https://twitter.com/jsegura)
-* Julian Dunn [github](http://github.com/juliandunn), [twitter](http://twitter.com/julian_dunn), [blog](http://www.juliandunn.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
 * Joshua Timberman [github](http://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org/)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
