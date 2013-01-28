@@ -10,6 +10,7 @@ Panel
 * Jon DeCamp [github](http://github.com/jondecamp), [twitter](http://twitter.com/jondecamp), irc: jondecamp
 * Kevin Moser [github](http://github.com/moserke), [twitter](http://twitter.com/moserke), irc: moserke
 * Adam Edwards [github](http://github.com/adamedx)
+* Micah Coletti [github](http://github.com/mcoletti)
 
 Outline
 =======
