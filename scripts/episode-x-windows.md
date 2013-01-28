@@ -65,5 +65,6 @@ application deployment?
 * Bryan
 * Nathen
 * Jon DeCamp - jq, JSON parser, http://stedolan.github.com/jq/
+* Doug Ireton - [Powerline](https://github.com/Lokaltog/powerline) an awesome Vim status line plugin
 
   
