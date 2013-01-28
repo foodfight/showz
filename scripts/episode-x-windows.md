@@ -11,6 +11,7 @@ Panel
 * Kevin Moser [github](http://github.com/moserke), [twitter](http://twitter.com/moserke), irc: moserke
 * Adam Edwards [github](http://github.com/adamedx)
 * Micah Coletti [github](http://github.com/mcoletti)
+* Amos Coletti [github](http://github.com/acoletti)
 
 Outline
 =======
