@@ -41,13 +41,14 @@ Outline/Questions
   have to wait until your next ACM paper? :)
 * What resources do you recommend to learn more about performance
   analysis and troubleshooting?
+* What do you use at joyent to collect monitoring data and to visualize it? a custom toolchain or tools like collectd, ganglia, graphite
 * Are there particular visualizations that you like to use to
   understand performance?
 * What is a heatmap visualization?
 * About Illumos - can it ever catch up to linux?
 * Companies like Intel invest so much in linux kernel development,
 is there a way for Illumos to benefit from it? Or is there a risk that
-Illumos will be left out of improvements for massively multicore NUMA systems?
+Illumos will be left out of improvements like optimizations for massively multicore NUMA systems?
 * What are your thoughts on Opsschool and training program for
   operations ppl in general?
 
