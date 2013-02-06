@@ -44,6 +44,7 @@ Outline/Questions
 * What do you use at joyent to collect monitoring data and to visualize it? a custom toolchain or tools like collectd, ganglia, graphite
 * Are there particular visualizations that you like to use to
   understand performance?
+* Do you do any adaptive monitoring? like what Baron schwartz talks about
 * What is a heatmap visualization?
 * About Illumos - can it ever catch up to linux?
 * Companies like Intel invest so much in linux kernel development,
