@@ -63,10 +63,15 @@ Picks<a name="picks"></a>
 * electronic cigarettes
 
 #### Avleen
+* [Due App](http://www.dueapp.com/mac.html)
 
 #### Brendan
+* [Elite 4](http://en.wikipedia.org/wiki/Elite:_Dangerous)
+* [Raspbery Pi](http://www.raspberrypi.org/)
 
-#### Matt  
+* #### Matt  
+* [Treadmill Desk Diary](http://www.treadmilldeskdiary.com/)
+* [my bloody valentine's new album:  mvb](http://www.mybloodyvalentine.org/NewsDetail.aspx?NID=623&flag=1)
 
 #### Nathen  
 * [Delirium Nocturnum](http://www.delirium.be/delirium_nocturnum)
