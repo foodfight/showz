@@ -62,9 +62,16 @@ Picks<a name="picks"></a>
 * [The Future of Networking by scott shenker](http://www.youtube.com/watch?v=YHeyuD89n1Y&feature=youtu.be)
 * electronic cigarettes
 
-#### lusis  
+#### Avleen
+
+#### Brendan
+
+#### Matt  
 
 #### Nathen  
+* [Delirium Nocturnum](http://www.delirium.be/delirium_nocturnum)
+* [Witch](http://manytricks.com/witch/)
+* [#ChefConf 2013 CFP](https://chefconf2013.busyconf.com/proposals/new)
 
 
 
