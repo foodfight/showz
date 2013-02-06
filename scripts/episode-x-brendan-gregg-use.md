@@ -66,7 +66,7 @@ Picks<a name="picks"></a>
 * [Due App](http://www.dueapp.com/mac.html)
 
 #### Brendan
-* [Elite 4](http://en.wikipedia.org/wiki/Elite:_Dangerous)
+* [Elite 4](http://elite.frontier.co.uk/)
 * [Raspbery Pi](http://www.raspberrypi.org/)
 
 * #### Matt  
