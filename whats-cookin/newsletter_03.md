@@ -47,6 +47,11 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
 
 * [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
+* [DevOpsDays London](http://devopsdays.org/events/2013-london/propose/) - CFP closes 15-Feb
+* [OpenStack Summit](http://www.openstack.org/summit/portland-2013/call-for-speakers/) - CFP closes 15-Feb
+* [Drupalcon](http://portland2013.drupal.org/program/submit-session) - includes a DevOps track.  CFP closes 15-Feb
+* [Nordic Ruby](http://www.nordicruby.org/) - CFP closes 18-Feb
+* [Mid Atlantic Developer Expo (MADExpo)](http://madexpo.us/speakers) - CFP closes 25-Feb
 
 ###  Special Offers
 
