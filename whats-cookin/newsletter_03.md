@@ -3,23 +3,38 @@ Food Fight Show News
 Welcome to the second issue of the What's Cookin' newsletter!
 
 ### Latest Episodes
-* 
-* 
-*
+* [USE - Thinking Methodically About Performance](http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html) 
+* [Applicaiton Deployment](http://foodfightshow.org/2013/01/application-deployment.html)
+* [Windows Roundtable](http://foodfightshow.org/2013/01/windows-roundtable.html)
 
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* 
-* 
-* 
+* [Logstash with Jordan Sissel and James Turnbull](https://github.com/foodfight/showz/blob/master/scripts/episode-40-logstash.md) - [13 Feb 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+logstash&iso=20130213T12&p1=1928)
+* Saving the World with DevOps - Big Data and HPC - [19 Feb 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Saving+the+World+with+DevOps&iso=20130219T11&p1=1928)
+* Chef 11 - TBD
 
 In the News
 -----------
 
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
+
+* 11 Feb - Austin DevOps - [Write a first recipe with opscode chef](http://www.meetup.com/austin-devops/events/102802792/)
+* 11 Feb - Chicago Chef User Group - [Opscode & Promet Source Joint Meetup](http://www.eventbrite.com/event/5323386392/)
+* 12 Feb - Infrastructure Coders (Melbourne, Australia) - [February Meetup](http://meetup.infrastructurecoders.com/events/96083652/)
+* 13 Feb - DevOps Minneapolis - [Casual Mixer](http://www.meetup.com/DevOps-Minneapolis/events/95703682/)
+* 13 Feb - Bay Area Chef User Group - [What's New in Chef 11 with Adam Jacob](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/103021912/)
+* 18 Feb - Lake Mary, FL DevOps/Cloud SIG - [DevOps/Cloud Discussion](http://www.meetup.com/LakeMary-DevOps/events/99711722/)
+* 19 Feb - DevOpsDC - [Creating the Next Generation of Techies](http://www.meetup.com/DevOpsDC/events/97686352/)
+* 19 Feb - Opscode Chef Meetup (Seattle) - [Monthly Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/98301712/)
+* 20 Feb - Triangle DevOps (Raleigh, NC) - [Learn About Cobbler and Ansible](http://www.meetup.com/Triangle-DevOps/events/101918702/)
+* 20 Feb - San Francisco DevOps - [Chef in the Cloud](http://www.meetup.com/San-Francisco-DevOps/events/99618092/)
+* 20 Feb - San Diego DevOps - [Monthly Meeting](http://www.meetup.com/sddevops/events/100126262/)
+* 21 Feb - DevOps Milwaukee - [Casual Mixer](http://www.meetup.com/DevOps-Milwaukee/events/101106722/)
+* 26 Feb - Chef-NYC - [Writing better recipes with Jenkins and ChefSpec](http://www.meetup.com/Chef-NYC/events/101936232/)
+* 26 Feb - Seattle DevOps Meetup - [February Meeting](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/99813272/)
 
 #### Speaking Opportunities
 
@@ -31,13 +46,13 @@ You've got a great story or two to share about Chef and how automation has trans
 
 #### Opscode Training
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [Atlanta](http://www.eventbrite.com/event/5091516864), [Berlin](http://www.eventbrite.com/event/5233754300/), [Boston](http://www.eventbrite.com/event/5091538930/), [Chicago](http://www.eventbrite.com/event/5091121682/), [DC](http://www.eventbrite.com/event/5208990230/), [Denver](http://www.eventbrite.com/event/5091500816/), [Los Angeles](http://www.eventbrite.com/event/5091480756/), [Miami](http://www.eventbrite.com/event/5091476744/), [Minneapolis](http://www.eventbrite.com/event/5320293140/), [Philadelphia]http://www.eventbrite.com/event/5091532912/), [San Diego](http://www.eventbrite.com/event/5251062068/), and [Seattle](http://www.eventbrite.com/event/5388681692/).
 
 #### #ChefConf 2013
 
 [#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT).
 
-We want to hear YOUR stories at #ChefConf!  [Propose a talk today](https://chefconf2013.busyconf.com/proposals/new).
+We want to hear YOUR stories at #ChefConf!  [Propose a talk today](https://chefconf2013.busyconf.com/proposals/new).  **The CFP is closing very soon!**
 
 Cookbook News<a name="cookbooks"></a>
 -------------
@@ -91,7 +106,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 94
 
 ### Updated Cookbooks
 * [hosts](http://community.opscode.com/cookbooks/hosts) - **Deprecated** please use the [hostsfile](http://community.opscode.com/cookbooks/hostsfile) cookbook.
-* [known_host](http://community.opscode.com/cookbooks/known_host) (0.1.3) - **Deprecated** please use the [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) cookbook.
+* [known_host](http://community.opscode.com/cookbooks/known_host) - **Deprecated** please use the [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) cookbook.
 * [akibanserver](http://community.opscode.com/cookbooks/akibanserver) (0.1.7)
 * [apache2](http://community.opscode.com/cookbooks/apache2) (1.5.0)
 * [app](http://community.opscode.com/cookbooks/app) (0.1.1) 
