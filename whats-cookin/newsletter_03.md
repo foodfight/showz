@@ -57,7 +57,7 @@ You've got a great story or two to share about Chef and how automation has trans
 
 #### Opscode Training
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [Atlanta](http://www.eventbrite.com/event/5091516864), [Berlin](http://www.eventbrite.com/event/5233754300/), [Boston](http://www.eventbrite.com/event/5091538930/), [Chicago](http://www.eventbrite.com/event/5091121682/), [DC](http://www.eventbrite.com/event/5208990230/), [Denver](http://www.eventbrite.com/event/5091500816/), [Los Angeles](http://www.eventbrite.com/event/5091480756/), [Miami](http://www.eventbrite.com/event/5091476744/), [Minneapolis](http://www.eventbrite.com/event/5320293140/), [Philadelphia](http://www.eventbrite.com/event/5091532912/), [San Diego](http://www.eventbrite.com/event/5251062068/), and [Seattle](http://www.eventbrite.com/event/5388681692/).
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [Atlanta](http://www.eventbrite.com/event/5091516864), [Berlin](http://www.eventbrite.com/event/5233754300/), [Boston](http://www.eventbrite.com/event/5091538930/), [Chicago](http://www.eventbrite.com/event/5091121682/), [DC](http://www.eventbrite.com/event/5208990230/), [Denver](http://www.eventbrite.com/event/5091500816/),  [Los Angeles](http://www.eventbrite.com/event/5091480756/), [Miami](http://www.eventbrite.com/event/5091476744/), [Minneapolis](http://www.eventbrite.com/event/5320293140/), [Philadelphia](http://www.eventbrite.com/event/5091532912/), [San Diego](http://www.eventbrite.com/event/5251062068/), and [Seattle](http://www.eventbrite.com/event/5388681692/).
 
 #### #ChefConf 2013
 
