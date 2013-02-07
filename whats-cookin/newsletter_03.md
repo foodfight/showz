@@ -48,10 +48,10 @@ Knife Plugins on [RubyGems.org](http://rubygems.org) - 90
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 94  
 
 ### New Cookbooks
-* [Obfsproxy](http://community.opscode.com/cookbooks/Obfsproxy) (0.0.1) - [dlshad](http://community.opscode.com/users/dlshad)
-* [authconfig](http://community.opscode.com/cookbooks/authconfig) - [hikeit](http://community.opscode.com/users/hikeit)
-* [bash-completion](http://community.opscode.com/cookbooks/bash-completion) - [phlipper](http://community.opscode.com/users/phlipper) - Installs the bash-completion package from (http://caliban.org/bash/). Currently only targeting Ubuntu platform. It's not complicated and would work on other platforms, but that can come later.
-* [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) - [anujbiyani](http://community.opscode.com/users/anujbiyani)
+* [Obfsproxy](http://community.opscode.com/cookbooks/Obfsproxy) - [dlshad](http://community.opscode.com/users/dlshad) - Install Obfsproxy Server on Debian, Centos RedHat and Ubuntu.  obfsproxy is a tool that attempts to circumvent censorship, by transforming the Tor traffic between the client and the bridge. This way, censors, who usually monitor traffic between the client and the bridge, will see innocent-looking transformed traffic instead of the actual Tor traffic. 
+* [authconfig](http://community.opscode.com/cookbooks/authconfig) - [hikeit](http://community.opscode.com/users/hikeit) - Manages authentication configuration CentOS / RHEL 5.x.  Auth libraries supported in this recipe: winbind, nis, wins, ldap, kerberos, hesiod, smartcard, and more...
+* [bash-completion](http://community.opscode.com/cookbooks/bash-completion) - [phlipper](http://community.opscode.com/users/phlipper) - Installs the bash-completion package from [http://caliban.org/bash/](http://caliban.org/bash/). Currently only targeting Ubuntu platform. It's not complicated and would work on other platforms, but that can come later.
+* [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) - [anujbiyani](http://community.opscode.com/users/anujbiyani) - Installs/Configures chef_ec2_cli_tools
 * [cmake](http://community.opscode.com/cookbooks/cmake) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [cmake](http://www.cmake.org/), the cross-platform, open-source build system.
 * [cookbook_pusher](http://community.opscode.com/cookbooks/cookbook_pusher) - [computerlyrik](http://community.opscode.com/users/computerlyrik) - Automagically pushes your public cookbooks from github to opscode community
 * [etherpad](http://community.opscode.com/cookbooks/etherpad) - [computerlyrik](http://community.opscode.com/users/computerlyrik) - Installs etherpad or etherpad-lite
@@ -65,42 +65,36 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 94
 * [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) - [jackl0phty](http://community.opscode.com/users/jackl0phty) - Installs/Configures open source games on GNU/Linux.
 * [liquid-feedback](http://community.opscode.com/cookbooks/liquid-feedback) - [computerlyrik](http://community.opscode.com/users/computerlyrik) - **beta** Sets up a liquid democracy tool: [LiquidFeedback](http://liquidfeedback.org).  Based on Lua and Postgresql
 * [mdadm](http://community.opscode.com/cookbooks/mdadm) - [phlipper](http://community.opscode.com/users/phlipper) - This cookbook installs [mdadm](http://neil.brown.name/git/mdadm) Management tool for Linux md/raid.
-* [newrelic-sysmond](http://community.opscode.com/cookbooks/newrelic-sysmond) (1.3.1) - [phlipper](http://community.opscode.com/users/phlipper)
+* [newrelic-sysmond](http://community.opscode.com/cookbooks/newrelic-sysmond) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [newrelic-sysmond](https://newrelic.com/docs/server/new-relic-for-server-monitoring), New Relic for Server Monitoring.
 * [oh-my-zsh-solo](http://community.opscode.com/cookbooks/oh-my-zsh-solo) - [vaskas](http://community.opscode.com/users/vaskas) - A chef-solo compatible cookbook to install and configure oh-my-zsh framework for the specified users
 * [pdepend](http://community.opscode.com/cookbooks/pdepend) - [devesc](http://community.opscode.com/users/devesc) - Installs/Configures pdepend
-* [pdf2image](http://community.opscode.com/cookbooks/pdf2image) - [phlipper](http://community.opscode.com/users/phlipper)
+* [pdf2image](http://community.opscode.com/cookbooks/pdf2image) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [pdf2image](https://code.google.com/p/pdf2image/). PDF2Image is a conversion library specialized in converting PDF documents to images (png,jpeg,..) and exports text data in XML and JSON format.
 * [personality](http://community.opscode.com/cookbooks/personality) - [phlipper](http://community.opscode.com/users/phlipper) - This cookbook customizes the motd/login feedback (for Ubuntu servers only at the moment) by adding fortunes, read by adorable [cowsay](http://www.nog.net/~tony/warez/cowsay.shtml) characters, wrapped up in rainbow [lolcat](https://github.com/busyloop/lolcat) sprinkles.
 * [phpcb](http://community.opscode.com/cookbooks/phpcb) - [devesc](http://community.opscode.com/users/devesc) - This cookbook provides an easy way to install phpcb, [PHP Code Browser](https://github.com/Mayflower/PHP_CodeBrowser).
-* [phpcpd](http://community.opscode.com/cookbooks/phpcpd) - [devesc](http://community.opscode.com/users/devesc)
-* [phpcs](http://community.opscode.com/cookbooks/phpcs) - [devesc](http://community.opscode.com/users/devesc)
-* [phpdcd](http://community.opscode.com/cookbooks/phpdcd) - [devesc](http://community.opscode.com/users/devesc)
+* [phpcpd](http://community.opscode.com/cookbooks/phpcpd) - [devesc](http://community.opscode.com/users/devesc) - This cookbook provides an easy way to install phpcpd, [PHP Copy/Paste Detector](https://github.com/sebastianbergmann/phpcpd).
+* [phpcs](http://community.opscode.com/cookbooks/phpcs) - [devesc](http://community.opscode.com/users/devesc) - This cookbook provides an easy way to install phpcs, [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer).
+* [phpdcd](http://community.opscode.com/cookbooks/phpdcd) - [devesc](http://community.opscode.com/users/devesc) - This cookbook provides an easy way to install phpdcd, [PHP Dead Code Detector](https://github.com/sebastianbergmann/phpdcd).
 * [phpdoc](http://community.opscode.com/cookbooks/phpdoc) - [devesc](http://community.opscode.com/users/devesc) - This cookbook provides an easy way to install phpdoc, [PHP Documentor](http://www.phpdoc.org/).
-* [phploc](http://community.opscode.com/cookbooks/phploc) - [devesc](http://community.opscode.com/users/devesc)
+* [phploc](http://community.opscode.com/cookbooks/phploc) - [devesc](http://community.opscode.com/users/devesc) - This cookbook provides an easy way to install [phploc](https://github.com/sebastianbergmann/phploc), PHP Lines Of Code.
 * [phpmd](http://community.opscode.com/cookbooks/phpmd) - [devesc](http://community.opscode.com/users/devesc) - This cookbook provides an easy way to install phpmd, [PHP Mess Detector](http://phpmd.org/download/index.html).
 * [pygments](http://community.opscode.com/cookbooks/pygments) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [Pygments](http://pygments.org/) Python syntax highlighter.
 * [scout-agent](http://community.opscode.com/cookbooks/scout-agent) - [phlipper](http://community.opscode.com/users/phlipper) - Installs the [Scout](https://scoutapp.com/) Server Monitoring Agent.
 * [smackage](http://community.opscode.com/cookbooks/smackage) - [dmalikov](http://community.opscode.com/users/dmalikov) - Smackage installation with smlnj and mlton configuring
 * [traceroute](http://community.opscode.com/cookbooks/traceroute) - [phlipper](http://community.opscode.com/users/phlipper) - Installs traceroute The traceroute utility displays the route used by IP packets on their way to a specified network (or Internet) host.
 * [uck](http://community.opscode.com/cookbooks/uck) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [UCK - Ubuntu Customization Kit](http://uck.sourceforge.net/). UCK is a tool that helps you customizing official Ubuntu Live CDs (including Kubuntu/Xubuntu and Edubuntu) to your needs. You can add any package to the live system, for example language packs, or applications.
-* [wifi-networking](http://community.opscode.com/cookbooks/wifi-networking) - [phlipper](http://community.opscode.com/users/phlipper)
+* [wifi-networking](http://community.opscode.com/cookbooks/wifi-networking) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [WiFi Networking Components](https://help.ubuntu.com/community/WifiDocs/WiFiHowTo) for Ubuntu.
 * [xfce4](http://community.opscode.com/cookbooks/xfce4) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [Xfce 4](http://www.xfce.org/). Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
 * [xpdf](http://community.opscode.com/cookbooks/xpdf) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [Xpdf](http://www.foolabs.com/xpdf/). Xpdf is an open source viewer for Portable Document Format (PDF) files. (These are also sometimes also called 'Acrobat' files, from the name of Adobe's PDF software.) The Xpdf project also includes a PDF text extractor, PDF-to-PostScript converter, and various other utilities.
 * [zentyal](http://community.opscode.com/cookbooks/zentyal) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Installs/Configures Zentyal
 * [zeus-zxtm](http://community.opscode.com/cookbooks/zeus-zxtm) - [ct](http://community.opscode.com/users/ct) - Chef recipe for installing the Zeus (now Stingray) Traffic Manager.
 * [zip](http://community.opscode.com/cookbooks/zip) - [phlipper](http://community.opscode.com/users/phlipper) - Installs [zip and unzip](http://packages.ubuntu.com/lucid/unzip). With the exception of multi-volume archives (ie, .ZIP files that are split across several disks using PKZIP's /& option), this can handle any file produced either by PKZIP, or the corresponding InfoZIP zip program.
-Install Obfsproxy Server on Debian, Centos RedHat and Ubuntu.  obfsproxy is a tool that attempts to circumvent censorship, by transforming the Tor traffic between the client and the bridge. This way, censors, who usually monitor traffic between the client and the bridge, will see innocent-looking transformed traffic instead of the actual Tor traffic. 
-Installs [WiFi Networking Components](https://help.ubuntu.com/community/WifiDocs/WiFiHowTo) for Ubuntu.
-Installs [newrelic-sysmond](https://newrelic.com/docs/server/new-relic-for-server-monitoring), New Relic for Server Monitoring.
-Installs [pdf2image](https://code.google.com/p/pdf2image/). PDF2Image is a conversion library specialized in converting PDF documents to images (png,jpeg,..) and exports text data in XML and JSON format.
-Installs/Configures chef_ec2_cli_tools
-Manages authentication configuration CentOS / RHEL 5.x.  Auth libraries supported in this recipe: winbind, nis, wins, ldap, kerberos, hesiod, smartcard, and more...
-This cookbook provides an easy way to install [phploc](https://github.com/sebastianbergmann/phploc), PHP Lines Of Code.
-This cookbook provides an easy way to install phpcpd, [PHP Copy/Paste Detector](https://github.com/sebastianbergmann/phpcpd).
-This cookbook provides an easy way to install phpcs, [PHP Code Sniffer](https://github.com/squizlabs/PHP_CodeSniffer).
-This cookbook provides an easy way to install phpdcd, [PHP Dead Code Detector](https://github.com/sebastianbergmann/phpdcd).
 
 ### Updated Cookbooks
-banserver](http://community.opscode.com/cookbooks/akibanserver) (0.1.7)
+* [hosts](http://community.opscode.com/cookbooks/hosts) - **Deprecated** please use the [hostsfile](http://community.opscode.com/cookbooks/hostsfile) cookbook.
+* [known_host](http://community.opscode.com/cookbooks/known_host) (0.1.3) - **Deprecated** please use the [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) cookbook.
+
+
+* [akibanserver](http://community.opscode.com/cookbooks/akibanserver) (0.1.7)
 * [apache2](http://community.opscode.com/cookbooks/apache2) (1.5.0)
 * [app](http://community.opscode.com/cookbooks/app) (0.1.1) 
 * [application_java](http://community.opscode.com/cookbooks/application_java) (1.0.4)
@@ -137,7 +131,6 @@ banserver](http://community.opscode.com/cookbooks/akibanserver) (0.1.7)
 * [god](http://community.opscode.com/cookbooks/god) (1.0.2)
 * [graphite](http://community.opscode.com/cookbooks/graphite) (0.4.2)
 * [heavywater](http://community.opscode.com/cookbooks/heavywater) (0.1.0)
-* [hosts](http://community.opscode.com/cookbooks/hosts) - **Deprecated** please use the [hostsfile](http://community.opscode.com/cookbooks/hostsfile) cookbook.
 * [hostsfile](http://community.opscode.com/cookbooks/hostsfile) (0.2.5)
 * [iis](http://community.opscode.com/cookbooks/iis) (1.4.0)
 * [ipsec](http://community.opscode.com/cookbooks/ipsec) (0.1.0)
@@ -146,7 +139,6 @@ banserver](http://community.opscode.com/cookbooks/akibanserver) (0.1.7)
 * [jellyfish](http://community.opscode.com/cookbooks/jellyfish) (0.1.1)
 * [jenkins](http://community.opscode.com/cookbooks/jenkins) (0.6.3)
 * [jira](http://community.opscode.com/cookbooks/jira) (0.9.2)
-* [known_host](http://community.opscode.com/cookbooks/known_host) (0.1.3) - - **Deprecated** please use the [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) cookbook.
 * [line](http://community.opscode.com/cookbooks/line) (0.2.9)
 * [locale](http://community.opscode.com/cookbooks/locale) (0.0.2)
 * [logrotate](http://community.opscode.com/cookbooks/logrotate) (1.1.0)
