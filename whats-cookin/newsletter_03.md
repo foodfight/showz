@@ -18,6 +18,12 @@ We are preparing episodes on the following topics and would love your help gener
 In the News
 -----------
 
+* [Provisioning with Razor and Chef - An Interactive Demo](http://www.bluebox.net/about/blog/2013/01/provisioning-with-razor-and-chef-an-interactive-demo/) - this post from [Fletcher Nichol](https://twitter.com/fnichol) walks through provisioning with Razor and then handing off the provisioned node to a Chef Server with initial node attributes and a run-list.
+* [Local Templates for Application Configuration](http://jtimberman.housepub.org/blog/2013/01/28/local-templates-for-application-configuration/) - a blog post from [Joshua Timberman](https://twitter.com/jtimberman) written as a follow-up to our show on [Applicaiton Deployment](http://foodfightshow.org/2013/01/application-deployment.html).
+* [Knife Tricks](http://dougireton.com/blog/2013/02/03/knife-tricks/) - the latest blog post in [Doug Ireton's](https://twitter.com/dougireton) Chef series explores some fun with `knife search` and `knife exec`.
+* [knife-sharp](https://github.com/Fotolia/knife-sharp) is a new knife plugin that adds a number of handy workflow features currently in use at [fotolia](http://us.fotolia.com/)
+* [knife-preflight] is knife plugin which lets you see which nodes and roles use a particular cookbook before you upload it.
+
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
 
