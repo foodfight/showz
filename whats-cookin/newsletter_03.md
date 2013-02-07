@@ -92,8 +92,6 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 94
 ### Updated Cookbooks
 * [hosts](http://community.opscode.com/cookbooks/hosts) - **Deprecated** please use the [hostsfile](http://community.opscode.com/cookbooks/hostsfile) cookbook.
 * [known_host](http://community.opscode.com/cookbooks/known_host) (0.1.3) - **Deprecated** please use the [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) cookbook.
-
-
 * [akibanserver](http://community.opscode.com/cookbooks/akibanserver) (0.1.7)
 * [apache2](http://community.opscode.com/cookbooks/apache2) (1.5.0)
 * [app](http://community.opscode.com/cookbooks/app) (0.1.1) 
