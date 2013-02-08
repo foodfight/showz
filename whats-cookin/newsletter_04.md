@@ -37,6 +37,8 @@ You've got a great story or two to share about Chef and how automation has trans
 
 Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
 
+[Aaron Peterson](https://twitter.com/metaxis) is also offering some three-day Chef Fundamentals classes in [San Francisco](http://www.eventbrite.com/event/5411688506/) and [New York City](http://www.eventbrite.com/event/5411684494/).
+
 #### #ChefConf 2013
 
 [#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT).
