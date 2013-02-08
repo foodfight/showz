@@ -18,6 +18,9 @@ We are preparing episodes on the following topics and would love your help gener
 In the News
 -----------
 
+* [DevOps @ Nokia Entertainment](http://www.infoq.com/articles/monthly-devops-01-nokia) - This article from [John Clapham](https://twitter.com/johnC_bristol) explores the transformation underway at Nokia Entertainment.  "...DevOps behaviours can be introduced, and sustained, in a large organisation, but it needs the five P’s..."
+* [Chef Client 11.2.0, 10.20.0 Released](http://www.opscode.com/blog/2013/02/07/chef-client-11-2-0-10-20-0-released/) - Another ruby gem dependency change caused problems from a number of Chef users.  These releases address dependency issues introduced by a new version of the net-ssh gem.
+* [Cleaner Chef Environment Files With Ruby](http://logikal.is/blog/2013/02/06/cleaner-chef-environments-with-ruby/) - This article from [Sean Kilgore](https://twitter.com/log1kal) explores using Ruby to clean up the layout of your environment files.  This approach might nnot be right for everyone but it is interesting to see more Ruby abstraction being introduced to Chef.  Reminded me a bit of [David Kleinschmidt's](https://twitter.com/zobar2) approach to cookbook attributes [ingredients](https://github.com/zobar/ingredients).
 
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
