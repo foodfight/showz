@@ -12,7 +12,7 @@ We are preparing episodes on the following topics and would love your help gener
 
 * [Logstash with Jordan Sissel and James Turnbull](https://github.com/foodfight/showz/blob/master/scripts/episode-40-logstash.md) - [13 Feb 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+logstash&iso=20130213T12&p1=1928)
 * Saving the World with DevOps - Big Data and HPC - [19 Feb 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Saving+the+World+with+DevOps&iso=20130219T11&p1=1928)
-* Chef 11 - TBD
+* [Chef 11](https://github.com/foodfight/showz/blob/master/scripts/episode-x-chef-11.md) - [20 Feb 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+11&iso=20130220T12&p1=25)
 
 In the News
 -----------
@@ -23,6 +23,24 @@ In the News
 
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
+
+* 11 Feb - Austin DevOps - [Write a first recipe with opscode chef](http://www.meetup.com/austin-devops/events/102802792/)
+* 11 Feb - Chicago Chef User Group - [Opscode & Promet Source Joint Meetup](http://www.eventbrite.com/event/5323386392/)
+* 12 Feb - Infrastructure Coders (Melbourne, Australia) - [February Meetup](http://meetup.infrastructurecoders.com/events/96083652/)
+* 13 Feb - DevOps Minneapolis - [Casual Mixer](http://www.meetup.com/DevOps-Minneapolis/events/95703682/)
+* 13 Feb - Bay Area Chef User Group - [What's New in Chef 11 with Adam Jacob](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/103021912/)
+* 18 Feb - Lake Mary, FL DevOps/Cloud SIG - [DevOps/Cloud Discussion](http://www.meetup.com/LakeMary-DevOps/events/99711722/)
+* 19 Feb - DevOpsDC - [Creating the Next Generation of Techies](http://www.meetup.com/DevOpsDC/events/97686352/)
+* 19 Feb - Opscode Chef Meetup (Seattle) - [Monthly Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/98301712/)
+* 20 Feb - Triangle DevOps (Raleigh, NC) - [Learn About Cobbler and Ansible](http://www.meetup.com/Triangle-DevOps/events/101918702/)
+* 20 Feb - San Francisco DevOps - [Chef in the Cloud](http://www.meetup.com/San-Francisco-DevOps/events/99618092/)
+* 20 Feb - San Diego DevOps - [Monthly Meeting](http://www.meetup.com/sddevops/events/100126262/)
+* 21 Feb - DevOps Milwaukee - [Casual Mixer](http://www.meetup.com/DevOps-Milwaukee/events/101106722/)
+* 26 Feb - Chef-NYC - [Writing better recipes with Jenkins and ChefSpec](http://www.meetup.com/Chef-NYC/events/101936232/)
+* 26 Feb - PhillyDevOps - [What's New with Chef 11](http://phillydevops.org/)
+* 26 Feb - Seattle DevOps Meetup - [February Meeting](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/99813272/)
+* 28 Feb - Infracoders Berlin - [First Meeting](http://www.meetup.com/Infracoders-Berlin/events/103499502/)
+
 
 #### Speaking Opportunities
 
