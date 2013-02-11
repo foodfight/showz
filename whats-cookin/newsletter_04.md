@@ -73,7 +73,6 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 97
 
 ### New Cookbooks
 * [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Creates admin clients and installs provided public key. Simplifies managing and recreating erchef nodes.
-* [reportchef](http://community.opscode.com/cookbooks/reportchef) (1.0.0) - [appfission](http://community.opscode.com/users/appfission) - Installs/Configures a report handler for [ReportChef](http://reportchef.com/).
 * [sauceproxy](https://github.com/secondmarket-cookbooks/sauceproxy) - [juliandunn](https://github.com/juliandunn) - Installs SauceLabs' "Connect" proxy on a server. The proxy allows you to test internal infrastructure with SauceLabs' Selenium testing service by setting up a tunnel.
 * [unix_shells](http://community.opscode.com/cookbooks/unix_shells) (0.2.2) - [jackl0phty](http://community.opscode.com/users/jackl0phty) - A cookbook that can install multiple UNIX shells.
 
