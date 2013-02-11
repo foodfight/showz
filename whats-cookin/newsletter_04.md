@@ -111,13 +111,22 @@ Installs/Configures redis
 
 ### New and Updated Chef and Knife Gems
 
-* yyuu-capistrano-chef-solo (0.0.8) - a capistrano recipe to invoke chef-solo
-* sous-chef (0.0.7) - Manage knife-solo nodes
-* minitest-chef-handler (0.6.7) - Run minitest suites after your Chef recipes to check the status of your system.
-* chef-workflow-testlib (0.2.0) - Test helpers and assertions for chef-workflow
-* chef-workflow-tasklib (0.2.0) - A set of rake tasks provided as discrete libraries for forming a chef workflow
-* chef-workflow (0.2.0) - A comprehensive rake-based workflow for chef
-* 
+* [buckknife](http://rubygems.org/gems/buckknife) - (0.0.6) - Extras for Chef's knife command
+* [chef-workflow](http://rubygems.org/gems/chef-workflow) - (0.2.0) - A comprehensive rake-based workflow for chef
+* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) - (0.2.0) - A set of rake tasks provided as discrete libraries for forming a chef workflow
+* [chef-workflow-testlib](http://rubygems.org/gems/chef-workflow-testlib) - (0.2.0) - Test helpers and assertions for chef-workflow
+* [cluster_chef-knife](http://rubygems.org/gems/cluster_chef-knife) - (3.0.14) - cluster_chef-knife allows you to orchestrate not just systems but clusters of machines. It includes a powerful layer on top of knife and a collection of cloud cookbooks.
+* [dogknife](http://rubygems.org/gems/dogknife) - (0.0.2) - This wrapper exports knife actions to Datadog.
+* [guard-knife](http://rubygems.org/gems/guard-knife) - (0.1.2) - Guard for Chef using knife to upload files
+* [knife_cookbook_dependencies](http://rubygems.org/gems/knife_cookbook_dependencies) - (0.0.8) - Resolves cookbook dependencies
+* [knife_cookbook_dependencies_over_http](http://rubygems.org/gems/knife_cookbook_dependencies_over_http) - (0.0.8.3) - Resolves cookbook dependencies
+* [knife_cookbook_sync](http://rubygems.org/gems/knife_cookbook_sync) - (0.0.2) - Sync only what's changed -- faster than cookbook upload
+* [minitest-chef-handler](http://rubygems.org/gems/minitest-chef-handler) - (0.6.7) - Run minitest suites after your Chef recipes to check the status of your system.
+* [pocketknife](http://rubygems.org/gems/pocketknife) - (0.2.0) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
+* [pocketknife_ec2dream](http://rubygems.org/gems/pocketknife_ec2dream) - (0.1.5) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
+* [pocketknife_windows](http://rubygems.org/gems/pocketknife_windows) - (0.1.0) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
+* [sous-chef](http://rubygems.org/gems/sous-chef) - (0.0.7) - Manage knife-solo nodes
+* [yyuu-capistrano-chef-solo](http://rubygems.org/gems/yyuu-capistrano-chef-solo) - (0.0.8) - a capistrano recipe to invoke chef-solo
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
