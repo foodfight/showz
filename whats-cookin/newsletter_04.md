@@ -54,42 +54,26 @@ Knife Plugins on [RubyGems.org](http://rubygems.org) - 103
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 94  
 
 ### New Cookbooks
+* [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Creates admin clients and installs provided public key. Simplifies managing and recreating erchef nodes.
+* [reportchef](http://community.opscode.com/cookbooks/reportchef) (1.0.0) - [appfission](http://community.opscode.com/users/appfission) - Installs/Configures a report handler for [ReportChef](http://reportchef.com/).
 * [sauceproxy](https://github.com/secondmarket-cookbooks/sauceproxy) - [juliandunn](https://github.com/juliandunn) - Installs SauceLabs' "Connect" proxy on a server. The proxy allows you to test internal infrastructure with SauceLabs' Selenium testing service by setting up a tunnel.
-
-* [xquartz](http://community.opscode.com/cookbooks/xquartz) (1.0.0) - [jtimberman](http://community.opscode.com/users/jtimberman)
-Installs XQuartz on Mac OS X 10.8 to provide an X11 server.
-* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.2) - [wik](http://community.opscode.com/users/wik)
-Installs/Configures php-fpm
-* [mythtv](http://community.opscode.com/cookbooks/mythtv) (0.0.2) - [peplin](http://community.opscode.com/users/peplin)
-Installs/configures MythTV packages
-* [unix_shells](http://community.opscode.com/cookbooks/unix_shells) (0.2.2) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures unix_shells
-* [avahi-daemon](http://community.opscode.com/cookbooks/avahi-daemon) (0.0.12) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures avahi-daemon
-* [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts)
-Populate chef server with stuff you want
-* [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.1) - [sawanoboly](http://community.opscode.com/users/sawanoboly)
-Installs/Configures monit_bin
-* [reportchef](http://community.opscode.com/cookbooks/reportchef) (1.0.0) - [appfission](http://community.opscode.com/users/appfission)
-Installs/Configures handler
-
+* [unix_shells](http://community.opscode.com/cookbooks/unix_shells) (0.2.2) - [jackl0phty](http://community.opscode.com/users/jackl0phty) - A cookbook that can install multiple UNIX shells.
 
 ### Updated Cookbooks
-* [python](http://community.opscode.com/cookbooks/python) (1.2.2)
-* [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) (0.2.0)
-* [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) (0.0.4)
-* [linux-dev-env](http://community.opscode.com/cookbooks/linux-dev-env) (0.0.10)
-* [fog](http://community.opscode.com/cookbooks/fog) (0.0.2)
+* [avahi-daemon](http://community.opscode.com/cookbooks/avahi-daemon) (0.0.12)
 * [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) (0.0.12)
-* [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) (0.0.16)
-* [openvas](http://community.opscode.com/cookbooks/openvas) (0.0.52)
-* [pvpgn](http://community.opscode.com/cookbooks/pvpgn) (0.0.18)
-* [rackspaceknife](http://community.opscode.com/cookbooks/rackspaceknife) (0.0.4)
+* [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) (0.2.0)
+* [fog](http://community.opscode.com/cookbooks/fog) (0.0.2)
 * [ldapknife](http://community.opscode.com/cookbooks/ldapknife) (0.0.10)
-* [sensu](http://community.opscode.com/cookbooks/sensu) (0.4.0)
-* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.2)
-* [npm](http://community.opscode.com/cookbooks/npm) (0.1.1)
+* [linux-dev-env](http://community.opscode.com/cookbooks/linux-dev-env) (0.0.10)
+* [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) (0.0.4)* [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.1)* [mythtv](http://community.opscode.com/cookbooks/mythtv) (0.0.2)* [npm](http://community.opscode.com/cookbooks/npm) (0.1.1)
+* [openvas](http://community.opscode.com/cookbooks/openvas) (0.0.52)
+* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.2)* [pvpgn](http://community.opscode.com/cookbooks/pvpgn) (0.0.18)* [python](http://community.opscode.com/cookbooks/python) (1.2.2)
+* [rackspaceknife](http://community.opscode.com/cookbooks/rackspaceknife) (0.0.4)
 * [redisio](http://community.opscode.com/cookbooks/redisio) (1.2.0)
+* [sensu](http://community.opscode.com/cookbooks/sensu) (0.4.0)
+* [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) (0.0.16)* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.2)
+* [xquartz](http://community.opscode.com/cookbooks/xquartz) (1.0.0)
 
 ### New and Updated Chef and Knife Gems
 
