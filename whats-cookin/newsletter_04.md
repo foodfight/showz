@@ -72,42 +72,24 @@ Populate chef server with stuff you want
 Installs/Configures monit_bin
 * [reportchef](http://community.opscode.com/cookbooks/reportchef) (1.0.0) - [appfission](http://community.opscode.com/users/appfission)
 Installs/Configures handler
-* [python](http://community.opscode.com/cookbooks/python) (1.2.2) - [opscode](http://community.opscode.com/users/opscode)
-Installs Python, pip and virtualenv. Includes LWRPs for managing Python packages with `pip` and `virtualenv` isolated Python environments.
-* [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) (0.2.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts)
-Installs and configures elasticsearch
-* [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) (0.0.4) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures open source games on GNU/Linux.
-* [linux-dev-env](http://community.opscode.com/cookbooks/linux-dev-env) (0.0.10) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures GNU/Linux for various types of development.
-* [fog](http://community.opscode.com/cookbooks/fog) (0.0.2) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures FOG ( Free Open Ghost ).
-* [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) (0.0.12) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures Bind in a CHROOT jail environment.
-* [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) (0.0.16) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures sptoolkit ( Simple Phish Toolkit ).
-* [openvas](http://community.opscode.com/cookbooks/openvas) (0.0.52) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures OpenVAS ( Open Vulnerability Assessment System ).
-* [pvpgn](http://community.opscode.com/cookbooks/pvpgn) (0.0.18) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures PvPGN (Player vs. Player Gaming Network).
-
-Currently supports building of a private Diablo II LOD Closed
-PvPGN gaming server.
-* [rackspaceknife](http://community.opscode.com/cookbooks/rackspaceknife) (0.0.4) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs/Configures rackspaceknife.pl
-* [ldapknife](http://community.opscode.com/cookbooks/ldapknife) (0.0.10) - [jackl0phty](http://community.opscode.com/users/jackl0phty)
-Installs ldapknife.pl to /usr/local/bin
-* [sensu](http://community.opscode.com/cookbooks/sensu) (0.4.0) - [portertech](http://community.opscode.com/users/portertech)
-Installs/Configures Sensu
-* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.2) - [opscode](http://community.opscode.com/users/opscode)
-Dyanmically generates /etc/ssh/known_hosts based on search indexes
-* [npm](http://community.opscode.com/cookbooks/npm) (0.1.1) - [m0s](http://community.opscode.com/users/m0s)
-Installs/Configures npm
-* [redisio](http://community.opscode.com/cookbooks/redisio) (1.2.0) - [geekbri](http://community.opscode.com/users/geekbri)
-Installs/Configures redis
 
 
 ### Updated Cookbooks
+* [python](http://community.opscode.com/cookbooks/python) (1.2.2)
+* [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) (0.2.0)
+* [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) (0.0.4)
+* [linux-dev-env](http://community.opscode.com/cookbooks/linux-dev-env) (0.0.10)
+* [fog](http://community.opscode.com/cookbooks/fog) (0.0.2)
+* [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) (0.0.12)
+* [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) (0.0.16)
+* [openvas](http://community.opscode.com/cookbooks/openvas) (0.0.52)
+* [pvpgn](http://community.opscode.com/cookbooks/pvpgn) (0.0.18)
+* [rackspaceknife](http://community.opscode.com/cookbooks/rackspaceknife) (0.0.4)
+* [ldapknife](http://community.opscode.com/cookbooks/ldapknife) (0.0.10)
+* [sensu](http://community.opscode.com/cookbooks/sensu) (0.4.0)
+* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.2)
+* [npm](http://community.opscode.com/cookbooks/npm) (0.1.1)
+* [redisio](http://community.opscode.com/cookbooks/redisio) (1.2.0)
 
 ### New and Updated Chef and Knife Gems
 
