@@ -1,19 +1,18 @@
 Food Fight Show News
 -------------------
-Welcome to the second issue of the What's Cookin' newsletter!
+Welcome to the second issue of the What's Cookin' newsletter!  We've added a new section to this week's newsletter.  Be sure to checkout the **New and Updated Chef and Knife Gems** in this issue.
 
 ### Latest Episodes
-* 
-* 
-*
-
+* [USE - Thinking Methodically About Performance](http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html)
+* [Applicaiton Deployment](http://foodfightshow.org/2013/01/application-deployment.html)
+* [Windows Roundtable](http://foodfightshow.org/2013/01/windows-roundtable.html)
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* 
-* 
-* 
+* [Logstash with Jordan Sissel and James Turnbull](https://github.com/foodfight/showz/blob/master/scripts/episode-40-logstash.md) - [13 Feb 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+logstash&iso=20130213T12&p1=1928)
+* Saving the World with DevOps - Big Data and HPC - [19 Feb 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Saving+the+World+with+DevOps&iso=20130219T11&p1=1928)
+* Chef 11 - TBD
 
 In the News
 -----------
@@ -66,16 +65,23 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 97
 * [fog](http://community.opscode.com/cookbooks/fog) (0.0.2)
 * [ldapknife](http://community.opscode.com/cookbooks/ldapknife) (0.0.10)
 * [linux-dev-env](http://community.opscode.com/cookbooks/linux-dev-env) (0.0.10)
-* [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) (0.0.4)* [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.1)* [mythtv](http://community.opscode.com/cookbooks/mythtv) (0.0.2)* [npm](http://community.opscode.com/cookbooks/npm) (0.1.1)
+* [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) (0.0.4)
+* [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.1)
+* [mythtv](http://community.opscode.com/cookbooks/mythtv) (0.0.2)
+* [npm](http://community.opscode.com/cookbooks/npm) (0.1.1)
 * [openvas](http://community.opscode.com/cookbooks/openvas) (0.0.52)
-* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.2)* [pvpgn](http://community.opscode.com/cookbooks/pvpgn) (0.0.18)* [python](http://community.opscode.com/cookbooks/python) (1.2.2)
+* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.2)
+* [pvpgn](http://community.opscode.com/cookbooks/pvpgn) (0.0.18)
+* [python](http://community.opscode.com/cookbooks/python) (1.2.2)
 * [rackspaceknife](http://community.opscode.com/cookbooks/rackspaceknife) (0.0.4)
 * [redisio](http://community.opscode.com/cookbooks/redisio) (1.2.0)
 * [sensu](http://community.opscode.com/cookbooks/sensu) (0.4.0)
-* [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) (0.0.16)* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.2)
+* [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) (0.0.16)
+* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.2)
 * [xquartz](http://community.opscode.com/cookbooks/xquartz) (1.0.0)
 
 ### New and Updated Chef and Knife Gems
+This is a new section we're introducing this week.  We're running a `gem search -r` to find Chef-related gems.  The search is pretty basic, looking only for 'chef' or 'knife'.  Please let us know of Chef-related gems that don't include one of these strings.  Check-out the search we're using for [knife gems](https://github.com/foodfight/showz/blob/master/whats-cookin/knife_gems/find_knife_gems.sh) and [chef gems](https://github.com/foodfight/showz/blob/master/whats-cookin/chef_gems/find_chef_gems.sh); pull requests appreciated!
 
 * [buckknife](http://rubygems.org/gems/buckknife) - (0.0.6) - Extras for Chef's knife command
 * [chef-workflow](http://rubygems.org/gems/chef-workflow) - (0.2.0) - A comprehensive rake-based workflow for chef
