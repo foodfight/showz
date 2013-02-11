@@ -53,6 +53,15 @@ Outline/Questions
 
 Picks<a name="picks"></a>
 -----
+#### Dan
+
+#### Kevin
+
+#### Seth
+
+#### Mike
+
+### Matt
 
 #### Bryan
 
