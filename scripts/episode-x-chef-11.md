@@ -1,4 +1,4 @@
-Show Date:
+Show Date:  [20 Feb 2013 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+11&iso=20130220T12&p1=25)
 
 Panel<a name="panel"></a>
 -----
