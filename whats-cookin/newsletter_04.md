@@ -50,8 +50,8 @@ Cookbook News<a name="cookbooks"></a>
 ### Stats
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 804  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 103  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 94  
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 102  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 97  
 
 ### New Cookbooks
 * [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Creates admin clients and installs provided public key. Simplifies managing and recreating erchef nodes.
