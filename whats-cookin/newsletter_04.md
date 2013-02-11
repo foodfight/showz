@@ -27,6 +27,7 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 11 Feb - Austin DevOps - [Write a first recipe with opscode chef](http://www.meetup.com/austin-devops/events/102802792/)
 * 11 Feb - Chicago Chef User Group - [Opscode & Promet Source Joint Meetup](http://www.eventbrite.com/event/5323386392/)
 * 12 Feb - Infrastructure Coders (Melbourne, Australia) - [February Meetup](http://meetup.infrastructurecoders.com/events/96083652/)
+* 13 Feb - Arlington Ruby (Arlington, VA) - [Getting Started with Chef: zero-to-Rails Application](http://www.meetup.com/Arlington-Ruby/events/95219522/)
 * 13 Feb - DevOps Minneapolis - [Casual Mixer](http://www.meetup.com/DevOps-Minneapolis/events/95703682/)
 * 13 Feb - Bay Area Chef User Group - [What's New in Chef 11 with Adam Jacob](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/103021912/)
 * 18 Feb - Lake Mary, FL DevOps/Cloud SIG - [DevOps/Cloud Discussion](http://www.meetup.com/LakeMary-DevOps/events/99711722/)
