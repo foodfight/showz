@@ -68,8 +68,8 @@ Cookbook News<a name="cookbooks"></a>
 ### Stats
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 804  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 102  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 97  
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 104  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 100 
 
 ### New Cookbooks
 * [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Creates admin clients and installs provided public key. Simplifies managing and recreating erchef nodes.
@@ -101,13 +101,21 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 97
 ### New and Updated Chef and Knife Gems
 This is a new section we're introducing this week.  We're running a `gem search -r` to find Chef-related gems.  The search is pretty basic, looking only for 'chef' or 'knife'.  Please let us know of Chef-related gems that don't include one of these strings.  Check-out the search we're using for [knife gems](https://github.com/foodfight/showz/blob/master/whats-cookin/knife_gems/find_knife_gems.sh) and [chef gems](https://github.com/foodfight/showz/blob/master/whats-cookin/chef_gems/find_chef_gems.sh); pull requests appreciated!
 
+* [Chef_Solo_Nodes](http://rubygems.org/gems/Chef_Solo_Nodes) - (0.4.3) - Use with Chef-Solo. Grabs node info as array of Hashes or String ips.
 * [buckknife](http://rubygems.org/gems/buckknife) - (0.0.6) - Extras for Chef's knife command
-* [chef-workflow](http://rubygems.org/gems/chef-workflow) - (0.2.0) - A comprehensive rake-based workflow for chef
-* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) - (0.2.0) - A set of rake tasks provided as discrete libraries for forming a chef workflow
+* [chef-handler-sns](http://rubygems.org/gems/chef-handler-sns) - (0.1.1) - Chef report handler to send SNS notifications on failures or changes.
+* [chef-mail](http://rubygems.org/gems/chef-mail) - (0.2.0) - Chef report handler that uses pony to send an email
+* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) - (0.2.1) - A set of rake tasks provided as discrete libraries for forming a chef workflow
 * [chef-workflow-testlib](http://rubygems.org/gems/chef-workflow-testlib) - (0.2.0) - Test helpers and assertions for chef-workflow
+* [chef-workflow](http://rubygems.org/gems/chef-workflow) - (0.2.0) - A comprehensive rake-based workflow for chef
 * [cluster_chef-knife](http://rubygems.org/gems/cluster_chef-knife) - (3.0.14) - cluster_chef-knife allows you to orchestrate not just systems but clusters of machines. It includes a powerful layer on top of knife and a collection of cloud cookbooks.
+* [cycle_chef_handler](http://rubygems.org/gems/cycle_chef_handler) - (1.2.2) - This extension of Chef::Handler creates reports in Condor class ad format and posts them to an amqp-complient message broker. This report handler was created to produce reports for the CycleServer Chef Dashboard available from Cycle Computing LLC.
 * [dogknife](http://rubygems.org/gems/dogknife) - (0.0.2) - This wrapper exports knife actions to Datadog.
 * [guard-knife](http://rubygems.org/gems/guard-knife) - (0.1.2) - Guard for Chef using knife to upload files
+* [knife-check](http://rubygems.org/gems/knife-check) - (0.0.2) - Allows you to syntax check roles, env, cookbooks - all in one.* [knife-psearch](http://rubygems.org/gems/knife-psearch) - (0.0.2) - Knife Plugin for Chef 11's Partial Search.
+* [knife-psearch](http://rubygems.org/gems/knife-psearch) - (0.0.2) - Knife Plugin for Chef 11's Partial Search.
+* [knife-solo](http://rubygems.org/gems/knife-solo) - (0.2.0) - Handles bootstrapping, running chef solo, rsyncing cookbooks etc.
+* [knife-spork](http://rubygems.org/gems/knife-spork) - (1.0.16) - A workflow plugin to help many devs work with the same chef repo/server.
 * [knife_cookbook_dependencies](http://rubygems.org/gems/knife_cookbook_dependencies) - (0.0.8) - Resolves cookbook dependencies
 * [knife_cookbook_dependencies_over_http](http://rubygems.org/gems/knife_cookbook_dependencies_over_http) - (0.0.8.3) - Resolves cookbook dependencies
 * [knife_cookbook_sync](http://rubygems.org/gems/knife_cookbook_sync) - (0.0.2) - Sync only what's changed -- faster than cookbook upload
@@ -115,6 +123,7 @@ This is a new section we're introducing this week.  We're running a `gem search 
 * [pocketknife](http://rubygems.org/gems/pocketknife) - (0.2.0) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
 * [pocketknife_ec2dream](http://rubygems.org/gems/pocketknife_ec2dream) - (0.1.5) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
 * [pocketknife_windows](http://rubygems.org/gems/pocketknife_windows) - (0.1.0) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
+* [rake-chef-syntax](http://rubygems.org/gems/rake-chef-syntax) - (0.0.2) - Rake task for chef cookbooks: run cookbook syntax checker (knife cookbook test)
 * [sous-chef](http://rubygems.org/gems/sous-chef) - (0.0.7) - Manage knife-solo nodes
 * [yyuu-capistrano-chef-solo](http://rubygems.org/gems/yyuu-capistrano-chef-solo) - (0.0.8) - a capistrano recipe to invoke chef-solo
 
