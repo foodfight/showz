@@ -40,6 +40,7 @@ Outline/Questions
 * Knife Configuration Parameter Changes
 * Remote File Mirror Support
 * Certificate management (clients, etc.)?
+* Is there a new UI? Will any of us use it?
 
 ## Open-source
 * What is NOT included in Open Source Chef?
