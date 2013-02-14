@@ -45,7 +45,10 @@ Outline/Questions
 * What is NOT included in Open Source Chef?
 * Can I get support for Open Source Chef?
 * What's going on with the webui in Open Source Chef?
- 
+
+## The Transition
+
+* Could the roll-out have been handled better?
 
 ## Reference
 * [What's New in Chef 11](http://docs.opscode.com/breaking_changes_chef_11.html)
@@ -64,6 +67,9 @@ Picks<a name="picks"></a>
 ### Matt
 
 #### Bryan
+
+* [Explosions in the Sky](grooveshark.com/#!/artist/Explosions+In+The+Sky/401444)
+* M-x rgrep, awesome for browsing code
 
 #### Matt
 
