@@ -71,6 +71,7 @@ Picks<a name="picks"></a>
 
 * [Explosions in the Sky](grooveshark.com/#!/artist/Explosions+In+The+Sky/401444)
 * M-x rgrep, awesome for browsing code
+* unnecessary whitespace highlighting w/ Emacs magit
 
 #### Matt
 
