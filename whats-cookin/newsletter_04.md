@@ -3,32 +3,47 @@ Food Fight Show News
 Welcome to the second issue of the What's Cookin' newsletter!  We've added a new section to this week's newsletter.  Be sure to checkout the **New and Updated Chef and Knife Gems** in this issue.
 
 ### Latest Episodes
+* [Saving the World with DevOps - Big Data and HPC](http://foodfightshow.org/2013/02/saving-the-world-with-devops-big-data-and-hpc.html)
 * [Logstash](http://foodfightshow.org/2013/02/logstash.html)
 * [USE - Thinking Methodically About Performance](http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html)
-* [Applicaiton Deployment](http://foodfightshow.org/2013/01/application-deployment.html)
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* [Saving the World with DevOps - Big Data and HPC](https://github.com/foodfight/showz/blob/master/scripts/episode-41-saving-the-world.md) - [19 Feb 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Saving+the+World+with+DevOps&iso=20130219T11&p1=1928)
 * [Chef 11](https://github.com/foodfight/showz/blob/master/scripts/episode-x-chef-11.md) - [20 Feb 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+11&iso=20130220T12&p1=25)
 
 In the News
 -----------
+### SCaLE 11x
 
-* [DevOps @ Nokia Entertainment](http://www.infoq.com/articles/monthly-devops-01-nokia) - This article from [John Clapham](https://twitter.com/johnC_bristol) explores the transformation underway at Nokia Entertainment.  "...DevOps behaviours can be introduced, and sustained, in a large organisation, but it needs the five P’s..."
-* [Chef Client 11.2.0, 10.20.0 Released](http://www.opscode.com/blog/2013/02/07/chef-client-11-2-0-10-20-0-released/) - Another ruby gem dependency change caused problems from a number of Chef users.  These releases address dependency issues introduced by a new version of the net-ssh gem.
-* [Cleaner Chef Environment Files With Ruby](http://logikal.is/blog/2013/02/06/cleaner-chef-environments-with-ruby/) - This article from [Sean Kilgore](https://twitter.com/log1kal) explores using Ruby to clean up the layout of your environment files.  This approach might nnot be right for everyone but it is interesting to see more Ruby abstraction being introduced to Chef.  Reminded me a bit of [David Kleinschmidt's](https://twitter.com/zobar2) approach to cookbook attributes [ingredients](https://github.com/zobar/ingredients).
+This weekend is [SCaLE 11x](http://www.socallinuxexpo.org/scale11x), The Eleventh Annual Southern California Linux Expo.  If you're there, be sure to find [Nathen Harvey](https://twitter.com/nathenharvey) for your Food Fight Show sticker.  Also, checkout these Chef-related events at the show:
+
+* Friday:
+  * [Chef Training Workshop](http://www.socallinuxexpo.org/scale11x/chef-training-workshop-0) 9:00 - 12:30
+  * [Chef Hack Day](http://www.socallinuxexpo.org/scale11x/chef-hack-day) 1:30 - 6:00
+  * [Opscode Chef presentation in the Build a Cloud room](http://www.socallinuxexpo.org/scale11x/presentations/opscode-chef) - 2:30 - 3:30
+  * [TDD for Ops](https://www.socallinuxexpo.org/scale11x/presentations/tdd-ops) - 2:30 - 3:00
+* Saturday
+  * [Scaling systems configuration at Facebook](https://www.socallinuxexpo.org/scale11x/presentations/scaling-systems-configuration-facebook) - 11:30 - 12:30
+  * [SCaLE Exhibit Hall](http://www.socallinuxexpo.org/scale11x/scale-exhibit-hall) - 10:00 - 6:00
+* Sunday
+  * [Puppet vs Cfengine vs Chef: A Guide for Stressed Developers](https://www.socallinuxexpo.org/scale11x/presentations/puppet-vs-cfengine-vs-chef-guide-stressed-developers) - 11:30 - 12:30
+  * [SCaLE Exhibit Hall](http://www.socallinuxexpo.org/scale11x/scale-exhibit-hall-0) - 10:00 - 4:00
 
 ### Upcoming Meetup Groups and Events
+
+**New Meetup Group** - If you're in the Twin Cities area, please join the [Twin Cities Infracoders](http://www.meetup.com/Twin-Cities-Infracoders/) meetup group.
+
 Meetup with people in your neighborhood at one of the following meetup groups.
 
 * 19 Feb - DevOpsDC - [Creating the Next Generation of Techies](http://www.meetup.com/DevOpsDC/events/97686352/)
 * 19 Feb - Opscode Chef Meetup (Seattle) - [Monthly Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/98301712/)
 * 20 Feb - Triangle DevOps (Raleigh, NC) - [Learn About Cobbler and Ansible](http://www.meetup.com/Triangle-DevOps/events/101918702/)
+* 20 Feb - Austin DevOps - [Drink Coffee & Discuss Opscode Chef](http://www.meetup.com/austin-devops/events/104300582/)
 * 20 Feb - San Francisco DevOps - [Chef in the Cloud](http://www.meetup.com/San-Francisco-DevOps/events/99618092/)
 * 20 Feb - San Diego DevOps - [Monthly Meeting](http://www.meetup.com/sddevops/events/100126262/)
 * 21 Feb - DevOps Milwaukee - [Casual Mixer](http://www.meetup.com/DevOps-Milwaukee/events/101106722/)
+* 21 Feb - Bay Area Chef User Group - [Chef Cafe](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/102900992/)
 * 26 Feb - Chef-NYC - [Writing better recipes with Jenkins and ChefSpec](http://www.meetup.com/Chef-NYC/events/101936232/)
 * 26 Feb - PhillyDevOps - [What's New with Chef 11](http://phillydevops.org/)
 * 26 Feb - Seattle DevOps Meetup - [February Meeting](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/99813272/)
