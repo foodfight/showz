@@ -68,8 +68,8 @@ Cookbook News<a name="cookbooks"></a>
 ### Stats
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 804  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 104  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 100 
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 107  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 101 
 
 ### New Cookbooks
 * [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Creates admin clients and installs provided public key. Simplifies managing and recreating erchef nodes.
@@ -111,20 +111,27 @@ This is a new section we're introducing this week.  We're running a `gem search 
 * [cluster_chef-knife](http://rubygems.org/gems/cluster_chef-knife) - (3.0.14) - cluster_chef-knife allows you to orchestrate not just systems but clusters of machines. It includes a powerful layer on top of knife and a collection of cloud cookbooks.
 * [cycle_chef_handler](http://rubygems.org/gems/cycle_chef_handler) - (1.2.2) - This extension of Chef::Handler creates reports in Condor class ad format and posts them to an amqp-complient message broker. This report handler was created to produce reports for the CycleServer Chef Dashboard available from Cycle Computing LLC.
 * [dogknife](http://rubygems.org/gems/dogknife) - (0.0.2) - This wrapper exports knife actions to Datadog.
-* [guard-knife](http://rubygems.org/gems/guard-knife) - (0.1.2) - Guard for Chef using knife to upload files
+* [knife-bluebox](http://rubygems.org/gems/knife-bluebox) - (0.8.1) - This is the official Opscode Knife plugin for Blue Box. This plugin gives knife the ability to create, bootstrap, and manage Blue Box servers.
 * [knife-check](http://rubygems.org/gems/knife-check) - (0.0.2) - Allows you to syntax check roles, env, cookbooks - all in one.* [knife-psearch](http://rubygems.org/gems/knife-psearch) - (0.0.2) - Knife Plugin for Chef 11's Partial Search.
+* [knife-cisco_asa](http://rubygems.org/gems/knife-cisco_asa) - (0.1.4) - A knife plugin for managing Cisco ASA devices.
+* [knife-digital_ocean](http://rubygems.org/gems/knife-digital_ocean) - (0.0.4) - A plugin for chef's knife to manage instances of DigitalOcean servers.
+* [knife-proxmox](http://rubygems.org/gems/knife-proxmox) - (0.0.15) - This knife plugin allows to access Proxmox Virtualization Environment (Proxmox VE or PVE) through its API.  It allows you to lists templates installed on the server/cluster (like images or amis), create a server or destroy it.
 * [knife-psearch](http://rubygems.org/gems/knife-psearch) - (0.0.2) - Knife Plugin for Chef 11's Partial Search.
+* [knife-setup](http://rubygems.org/gems/knife-setup) - (1.0.5) - Allows you to bootsrap machine and set role and env.
 * [knife-solo](http://rubygems.org/gems/knife-solo) - (0.2.0) - Handles bootstrapping, running chef solo, rsyncing cookbooks etc.
-* [knife-spork](http://rubygems.org/gems/knife-spork) - (1.0.16) - A workflow plugin to help many devs work with the same chef repo/server.
+* [knife-spork](http://rubygems.org/gems/knife-spork) - (1.0.17) - A workflow plugin to help many devs work with the same chef repo/server.
 * [knife_cookbook_dependencies](http://rubygems.org/gems/knife_cookbook_dependencies) - (0.0.8) - Resolves cookbook dependencies
 * [knife_cookbook_dependencies_over_http](http://rubygems.org/gems/knife_cookbook_dependencies_over_http) - (0.0.8.3) - Resolves cookbook dependencies
 * [knife_cookbook_sync](http://rubygems.org/gems/knife_cookbook_sync) - (0.0.2) - Sync only what's changed -- faster than cookbook upload
+* [knife_sous](http://rubygems.org/gems/knife_sous) - (0.0.1) - A Chef Knife plugin which uses a DSL to configure and manage [knife-solo](http://rubygems.org/gems/knife-solo) nodes.
 * [minitest-chef-handler](http://rubygems.org/gems/minitest-chef-handler) - (0.6.7) - Run minitest suites after your Chef recipes to check the status of your system.
 * [pocketknife](http://rubygems.org/gems/pocketknife) - (0.2.0) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
 * [pocketknife_ec2dream](http://rubygems.org/gems/pocketknife_ec2dream) - (0.1.5) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
 * [pocketknife_windows](http://rubygems.org/gems/pocketknife_windows) - (0.1.0) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
 * [rake-chef-syntax](http://rubygems.org/gems/rake-chef-syntax) - (0.0.2) - Rake task for chef cookbooks: run cookbook syntax checker (knife cookbook test)
+* [searchef](http://rubygems.org/gems/searchef) - (0.1.0) - Stub your Chef searches with pre-canned responses. Good for use when unit testing or dummying out a Chef run that uses search calls.
 * [sous-chef](http://rubygems.org/gems/sous-chef) - (0.0.7) - Manage knife-solo nodes
+* [sous-chef](http://rubygems.org/gems/sous-chef) - (0.0.8) - Rake Tasks for managing [knife-solo](http://rubygems.org/gems/knife-solo) nodes.  Work on this gem as stopped in favor of a knife plugin, [knife_sous](http://rubygems.org/gems/knife_sous).
 * [yyuu-capistrano-chef-solo](http://rubygems.org/gems/yyuu-capistrano-chef-solo) - (0.0.8) - a capistrano recipe to invoke chef-solo
 
 <hr />
