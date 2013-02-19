@@ -79,7 +79,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 101
 * [haproxy-lwrp](http://community.opscode.com/cookbooks/haproxy-lwrp) - [scottmlikens](http://community.opscode.com/users/scottmlikens) -  Implementation free resource and provider for configuring haproxy instances.
 * [hubot](http://community.opscode.com/cookbooks/hubot) - [schisamo](http://community.opscode.com/users/schisamo) - Deploys and manages an instance of Github's Hubot.
 * [mailman](http://community.opscode.com/cookbooks/mailman) - [computerlyrik](http://community.opscode.com/users/computerlyrik) - Installs/Configures mailman
-* [mirth](http://community.opscode.com/cookbooks/mirth) - drumsrgr8forn8](http://community.opscode.com/users/drumsrgr8forn8) - Installs/Configures Mirth Connect
+* [mirth](http://community.opscode.com/cookbooks/mirth) - [drumsrgr8forn8](http://community.opscode.com/users/drumsrgr8forn8) - Installs/Configures Mirth Connect
 * [opendj](http://community.opscode.com/cookbooks/opendj) - [elliotkendall](http://community.opscode.com/users/elliotkendall) - Installs OpenDJ LDAP server
 * [sauceproxy](https://github.com/secondmarket-cookbooks/sauceproxy) - [juliandunn](https://github.com/juliandunn) - Installs SauceLabs' "Connect" proxy on a server. The proxy allows you to test internal infrastructure with SauceLabs' Selenium testing service by setting up a tunnel.
 * [shibboleth_idp](http://community.opscode.com/cookbooks/shibboleth_idp) - [elliotkendall](http://community.opscode.com/users/elliotkendall) - Installs Shibboleth IdP
@@ -153,7 +153,8 @@ This is a new section we're introducing this week.  We're running a `gem search 
 * [cycle_chef_handler](http://rubygems.org/gems/cycle_chef_handler) - (1.2.2) - This extension of Chef::Handler creates reports in Condor class ad format and posts them to an amqp-complient message broker. This report handler was created to produce reports for the CycleServer Chef Dashboard available from Cycle Computing LLC.
 * [dogknife](http://rubygems.org/gems/dogknife) - (0.0.2) - This wrapper exports knife actions to Datadog.
 * [knife-bluebox](http://rubygems.org/gems/knife-bluebox) - (0.8.1) - This is the official Opscode Knife plugin for Blue Box. This plugin gives knife the ability to create, bootstrap, and manage Blue Box servers.
-* [knife-check](http://rubygems.org/gems/knife-check) - (0.0.2) - Allows you to syntax check roles, env, cookbooks - all in one.* [knife-psearch](http://rubygems.org/gems/knife-psearch) - (0.0.2) - Knife Plugin for Chef 11's Partial Search.
+* [knife-check](http://rubygems.org/gems/knife-check) - (0.0.2) - Allows you to syntax check roles, env, cookbooks - all in one.
+* [knife-psearch](http://rubygems.org/gems/knife-psearch) - (0.0.2) - Knife Plugin for Chef 11's Partial Search.
 * [knife-cisco_asa](http://rubygems.org/gems/knife-cisco_asa) - (0.1.4) - A knife plugin for managing Cisco ASA devices.
 * [knife-digital_ocean](http://rubygems.org/gems/knife-digital_ocean) - (0.0.4) - A plugin for chef's knife to manage instances of DigitalOcean servers.
 * [knife-proxmox](http://rubygems.org/gems/knife-proxmox) - (0.0.15) - This knife plugin allows to access Proxmox Virtualization Environment (Proxmox VE or PVE) through its API.  It allows you to lists templates installed on the server/cluster (like images or amis), create a server or destroy it.
