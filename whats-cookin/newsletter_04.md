@@ -56,31 +56,72 @@ Knife Plugins on [RubyGems.org](http://rubygems.org) - 107
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 101 
 
 ### New Cookbooks
+* [aide](http://community.opscode.com/cookbooks/aide) - [elliotkendall](http://community.opscode.com/users/elliotkendall) - Installs and configures the AIDE host-based intrusion detection system.
+* [bsdcpio](http://community.opscode.com/cookbooks/bsdcpio) - [josephholsten](http://community.opscode.com/users/josephholsten) - Installs bsdcpio, which uses libarchive to support working with tar, pax, cpio, zip, jar, ar, and ISO 9660 cdrom images.
 * [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Creates admin clients and installs provided public key. Simplifies managing and recreating erchef nodes.
+* [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Creates admin clients and installs provided public key. Simplifies managing and recreating erchef nodes.
+* [haproxy-lwrp](http://community.opscode.com/cookbooks/haproxy-lwrp) - [scottmlikens](http://community.opscode.com/users/scottmlikens) -  Implementation free resource and provider for configuring haproxy instances.
+* [hubot](http://community.opscode.com/cookbooks/hubot) - [schisamo](http://community.opscode.com/users/schisamo) - Deploys and manages an instance of Github's Hubot.
+* [mailman](http://community.opscode.com/cookbooks/mailman) - [computerlyrik](http://community.opscode.com/users/computerlyrik) - Installs/Configures mailman
+* [mirth](http://community.opscode.com/cookbooks/mirth) - drumsrgr8forn8](http://community.opscode.com/users/drumsrgr8forn8) - Installs/Configures Mirth Connect
+* [opendj](http://community.opscode.com/cookbooks/opendj) - [elliotkendall](http://community.opscode.com/users/elliotkendall) - Installs OpenDJ LDAP server
 * [sauceproxy](https://github.com/secondmarket-cookbooks/sauceproxy) - [juliandunn](https://github.com/juliandunn) - Installs SauceLabs' "Connect" proxy on a server. The proxy allows you to test internal infrastructure with SauceLabs' Selenium testing service by setting up a tunnel.
+* [shibboleth_idp](http://community.opscode.com/cookbooks/shibboleth_idp) - [elliotkendall](http://community.opscode.com/users/elliotkendall) - Installs Shibboleth IdP
+* [shibboleth_sp](http://community.opscode.com/cookbooks/shibboleth_sp) - [elliotkendall](http://community.opscode.com/users/elliotkendall) - Installs and configures the Shibboleth SAML SP and Apache module.
+* [terracotta](http://community.opscode.com/cookbooks/terracotta) - [elliotkendall](http://community.opscode.com/users/elliotkendall) - Installs the Terracotta clustering software. This cookbook is intended for use with the Shibboleth IdP and has not been tested in other configurations.
+* [timezone-ii](http://community.opscode.com/cookbooks/timezone-ii) - [l2g](http://community.opscode.com/users/l2g) - The Timezone II cookbook contains recipes for installing the latest tzdata (a.k.a. IANA or Olson) timezone database and setting the timezone on your system. It is a fork of the [timezone cookbook by James Harton](http://community.opscode.com/cookbooks/timezone).
 * [unix_shells](http://community.opscode.com/cookbooks/unix_shells) (0.2.2) - [jackl0phty](http://community.opscode.com/users/jackl0phty) - A cookbook that can install multiple UNIX shells.
 
 ### Updated Cookbooks
+* [application_ruby](http://community.opscode.com/cookbooks/application_ruby) (1.1.0)
+* [apt](http://community.opscode.com/cookbooks/apt) (1.9.0)
 * [avahi-daemon](http://community.opscode.com/cookbooks/avahi-daemon) (0.0.12)
 * [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) (0.0.12)
+* [chef-client](http://community.opscode.com/cookbooks/chef-client) (2.2.0)
+* [cloudfoundry-health_manager](http://community.opscode.com/cookbooks/cloudfoundry-health_manager) (2.0.0)
+* [cloudfoundry-router](http://community.opscode.com/cookbooks/cloudfoundry-router)
+* [cloudkick](http://community.opscode.com/cookbooks/cloudkick) (1.3.0)
+* [dnsimple](http://community.opscode.com/cookbooks/dnsimple) (0.5.0)
 * [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) (0.2.0)
 * [fog](http://community.opscode.com/cookbooks/fog) (0.0.2)
+* [git](http://community.opscode.com/cookbooks/git) (2.3.0)
+* [gradle](http://community.opscode.com/cookbooks/gradle) (1.4.0)
+* [hostname](http://community.opscode.com/cookbooks/hostname) - [mpasternacki](http://community.opscode.com/users/mpasternacki)
+* [java](http://community.opscode.com/cookbooks/java) (1.9.4)
 * [ldapknife](http://community.opscode.com/cookbooks/ldapknife) (0.0.10)
 * [linux-dev-env](http://community.opscode.com/cookbooks/linux-dev-env) (0.0.10)
 * [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) (0.0.4)
+* [logstash](http://community.opscode.com/cookbooks/logstash) (0.5.5)
+* [maven](http://community.opscode.com/cookbooks/maven) (0.14.0)
+* [memcached](http://community.opscode.com/cookbooks/memcached) (1.3.0)
 * [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.1)
+* [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.3)
 * [mythtv](http://community.opscode.com/cookbooks/mythtv) (0.0.2)
+* [nexus](http://community.opscode.com/cookbooks/nexus) (1.0.0)
 * [npm](http://community.opscode.com/cookbooks/npm) (0.1.1)
+* [ohai](http://community.opscode.com/cookbooks/ohai) (1.1.8)
 * [openvas](http://community.opscode.com/cookbooks/openvas) (0.0.52)
+* [passenger_apache2](http://community.opscode.com/cookbooks/passenger_apache2) (2.0.0)
 * [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.2)
 * [pvpgn](http://community.opscode.com/cookbooks/pvpgn) (0.0.18)
 * [python](http://community.opscode.com/cookbooks/python) (1.2.2)
 * [rackspaceknife](http://community.opscode.com/cookbooks/rackspaceknife) (0.0.4)
+* [recognizer](http://community.opscode.com/cookbooks/recognizer) (0.0.8)
 * [redisio](http://community.opscode.com/cookbooks/redisio) (1.2.0)
+* [repos](http://community.opscode.com/cookbooks/repos) (0.0.3)
+* [runit](http://community.opscode.com/cookbooks/runit) (1.0.4)
 * [sensu](http://community.opscode.com/cookbooks/sensu) (0.4.0)
+* [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) (0.2.4)
 * [sptoolkit](http://community.opscode.com/cookbooks/sptoolkit) (0.0.16)
+* [squid](http://community.opscode.com/cookbooks/squid) (0.2.2)
 * [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.2)
+* [swap](http://community.opscode.com/cookbooks/swap) (0.1.2)
+* [unicorn](http://community.opscode.com/cookbooks/unicorn) (1.2.0)
+* [windows](http://community.opscode.com/cookbooks/windows) (1.8.4)
 * [xquartz](http://community.opscode.com/cookbooks/xquartz) (1.0.0)
+* [yumrepo](http://community.opscode.com/cookbooks/yumrepo) (0.16.6)
+* [zncrypt](http://community.opscode.com/cookbooks/zncrypt) (0.2.5)
+
 
 ### New and Updated Chef and Knife Gems
 This is a new section we're introducing this week.  We're running a `gem search -r` to find Chef-related gems.  The search is pretty basic, looking only for 'chef' or 'knife'.  Please let us know of Chef-related gems that don't include one of these strings.  Check-out the search we're using for [knife gems](https://github.com/foodfight/showz/blob/master/whats-cookin/knife_gems/find_knife_gems.sh) and [chef gems](https://github.com/foodfight/showz/blob/master/whats-cookin/chef_gems/find_chef_gems.sh); pull requests appreciated!
