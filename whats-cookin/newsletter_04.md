@@ -11,6 +11,7 @@ Welcome to the second issue of the What's Cookin' newsletter!  We've added a new
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
 * [Chef 11](https://github.com/foodfight/showz/blob/master/scripts/episode-x-chef-11.md) - [20 Feb 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+11&iso=20130220T12&p1=25)
+* LWRPs and Libraries - TBD
 
 In the News
 -----------
