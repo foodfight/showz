@@ -3,15 +3,14 @@ Food Fight Show News
 Welcome to the second issue of the What's Cookin' newsletter!  We've added a new section to this week's newsletter.  Be sure to checkout the **New and Updated Chef and Knife Gems** in this issue.
 
 ### Latest Episodes
+* [Logstash](http://foodfightshow.org/2013/02/logstash.html)
 * [USE - Thinking Methodically About Performance](http://foodfightshow.org/2013/02/use-thinking-methodically-about-performance.html)
 * [Applicaiton Deployment](http://foodfightshow.org/2013/01/application-deployment.html)
-* [Windows Roundtable](http://foodfightshow.org/2013/01/windows-roundtable.html)
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* [Logstash with Jordan Sissel and James Turnbull](https://github.com/foodfight/showz/blob/master/scripts/episode-40-logstash.md) - [13 Feb 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+logstash&iso=20130213T12&p1=1928)
-* Saving the World with DevOps - Big Data and HPC - [19 Feb 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Saving+the+World+with+DevOps&iso=20130219T11&p1=1928)
+* [Saving the World with DevOps - Big Data and HPC](https://github.com/foodfight/showz/blob/master/scripts/episode-41-saving-the-world.md) - [19 Feb 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Saving+the+World+with+DevOps&iso=20130219T11&p1=1928)
 * [Chef 11](https://github.com/foodfight/showz/blob/master/scripts/episode-x-chef-11.md) - [20 Feb 17:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+11&iso=20130220T12&p1=25)
 
 In the News
@@ -24,13 +23,6 @@ In the News
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
 
-* 11 Feb - Austin DevOps - [Write a first recipe with opscode chef](http://www.meetup.com/austin-devops/events/102802792/)
-* 11 Feb - Chicago Chef User Group - [Opscode & Promet Source Joint Meetup](http://www.eventbrite.com/event/5323386392/)
-* 12 Feb - Infrastructure Coders (Melbourne, Australia) - [February Meetup](http://meetup.infrastructurecoders.com/events/96083652/)
-* 13 Feb - Arlington Ruby (Arlington, VA) - [Getting Started with Chef: zero-to-Rails Application](http://www.meetup.com/Arlington-Ruby/events/95219522/)
-* 13 Feb - DevOps Minneapolis - [Casual Mixer](http://www.meetup.com/DevOps-Minneapolis/events/95703682/)
-* 13 Feb - Bay Area Chef User Group - [What's New in Chef 11 with Adam Jacob](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/103021912/)
-* 18 Feb - Lake Mary, FL DevOps/Cloud SIG - [DevOps/Cloud Discussion](http://www.meetup.com/LakeMary-DevOps/events/99711722/)
 * 19 Feb - DevOpsDC - [Creating the Next Generation of Techies](http://www.meetup.com/DevOpsDC/events/97686352/)
 * 19 Feb - Opscode Chef Meetup (Seattle) - [Monthly Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/98301712/)
 * 20 Feb - Triangle DevOps (Raleigh, NC) - [Learn About Cobbler and Ansible](http://www.meetup.com/Triangle-DevOps/events/101918702/)
@@ -43,25 +35,17 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 28 Feb - Infracoders Berlin - [First Meeting](http://www.meetup.com/Infracoders-Berlin/events/103499502/)
 
 
-#### Speaking Opportunities
-
-You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
-
-* [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
-
 ###  Special Offers
 
 #### Opscode Training
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Los Angeles, Denver, and Atlanta.  
 
-[Aaron Peterson](https://twitter.com/metaxis) is also offering some three-day Chef Fundamentals classes in [San Francisco](http://www.eventbrite.com/event/5411688506/) and [New York City](http://www.eventbrite.com/event/5411684494/).
+[Aaron Peterson](https://twitter.com/metaxis) is also offering a three-day Chef Fundamentals classes in [New York City](http://www.eventbrite.com/event/5411684494/).
 
 #### #ChefConf 2013
 
 [#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT).
-
-We want to hear YOUR stories at #ChefConf!  [Propose a talk today](https://chefconf2013.busyconf.com/proposals/new).
 
 Cookbook News<a name="cookbooks"></a>
 -------------
