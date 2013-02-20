@@ -60,6 +60,11 @@ Picks<a name="picks"></a>
 #### Dan
 
 #### Kevin
+* [Art of Multiprocessor Programming](http://www.amazon.com/The-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
+* [Characterizing the Scalability of Erlang VM on Many-Core Processors](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:392243)
+* [The Garbage Collection Handbook 2nd Ed.](http://www.amazon.com/Garbage-Collection-Handbook-Management-Algorithms/dp/1420082795)
+* [Dune: Safe User-level Access to Privileged CPU Features](http://dune.scs.stanford.edu/belay:dune.pdf)
+* Soundtrack by Flux Pavilion, Savant, Bare, Cookie Monsta, M83, and Seven Lions
 
 #### Seth
 
