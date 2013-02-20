@@ -61,6 +61,7 @@ Picks<a name="picks"></a>
 #### Dan
 
 #### Kevin
+* [21st Century C](http://www.amazon.com/21st-Century-Tips-New-School/dp/1449327141)
 * [Art of Multiprocessor Programming](http://www.amazon.com/The-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
 * [Characterizing the Scalability of Erlang VM on Many-Core Processors](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:392243)
 * [The Garbage Collection Handbook 2nd Ed.](http://www.amazon.com/Garbage-Collection-Handbook-Management-Algorithms/dp/1420082795)
