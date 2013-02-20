@@ -4,7 +4,7 @@ Panel<a name="panel"></a>
 -----
 
 * Dan DeLeo
-* Kevin Smith
+* Kevin Smith [github](http://github.com/kevsmith), [twitter](http://twitter.com/kevsmith)
 * Seth Falcon
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
@@ -19,8 +19,10 @@ Outline/Questions
 ## Erchef
 * Why Erlang?
 * Why PostgreSQL?
-* Can you share some of the details of the engineering effort required?  
-* How did you split work between the Ruby-based server and Erlang-based server? 
+* How much of the changes will be noticeable to Chef users?
+* What was the overall approach to the port?
+* What lessons did you learn from doing the port?
+* Would you still do the port if you had the chance to do it over?
 
 ## New Features
 * chef-apply
@@ -40,16 +42,15 @@ Outline/Questions
 * Knife Configuration Parameter Changes
 * Remote File Mirror Support
 * Certificate management (clients, etc.)?
-* Is there a new UI? Will any of us use it?
 
-## Open-source
-* What is NOT included in Open Source Chef?
+## Open-source Chef vs. Private/Hosted Chef
+* What's NOT included in the OSS release?
 * Can I get support for Open Source Chef?
-* What's going on with the webui in Open Source Chef?
+* What's the future of the open source webui?
 
 ## The Transition
+* Are you going to release Chef 10 -> Chef 11 migration tools? If so, when?
 
-* Could the roll-out have been handled better?
 
 ## Reference
 * [What's New in Chef 11](http://docs.opscode.com/breaking_changes_chef_11.html)
@@ -60,6 +61,13 @@ Picks<a name="picks"></a>
 #### Dan
 
 #### Kevin
+* [Art of Multiprocessor Programming](http://www.amazon.com/The-Multiprocessor-Programming-Revised-Reprint/dp/0123973376)
+* [Characterizing the Scalability of Erlang VM on Many-Core Processors](http://kth.diva-portal.org/smash/record.jsf?pid=diva2:392243)
+* [The Garbage Collection Handbook 2nd Ed.](http://www.amazon.com/Garbage-Collection-Handbook-Management-Algorithms/dp/1420082795)
+* [Dune: Safe User-level Access to Privileged CPU Features](http://dune.scs.stanford.edu/belay:dune.pdf)
+* [ConcurrencyKit](http://concurrencykit.org)
+* [ZeroMQ](http://zeromq.org)
+* Soundtrack by Flux Pavilion, Savant, Bare, Cookie Monsta, M83, and Seven Lions
 
 #### Seth
 
