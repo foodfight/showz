@@ -42,6 +42,7 @@ Baron, Jason, Brandon
   * Stall detection
 
 * What tools are available to help with this?
+* Can these things be detected w/ graphite/ganglia + nagios/sensu/zabbix or does it require a custom toolchain?
 * Is automated fault detection really possible?  Is it a good thing?
 
 
@@ -54,6 +55,10 @@ Picks<a name="picks"></a>
 #### Brandon
 
 #### Bryan  
+
+* the bidet
+* Control-\
+* Twitter rationing
 
 #### lusis  
 
