@@ -50,22 +50,22 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
 ### New Cookbooks
 
 * [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) - [anujbiyani](http://community.opscode.com/users/anujbiyani) - Installs/Configures aws_developer_tools
-* [openresty](http://community.opscode.com/cookbooks/openresty) - [priestjim](http://community.opscode.com/users/priestjim) - Installs and configures the OpenResty NGINX bundle
-* [znc](http://community.opscode.com/cookbooks/znc) - [schisamo](http://community.opscode.com/users/schisamo) - Installs/Configures ZNC IRC bouncer
-* [hotsauce](http://community.opscode.com/cookbooks/hotsauce) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures hotsauce
-* [stage](http://community.opscode.com/cookbooks/stage) - [rdeys](http://community.opscode.com/users/rdeys) - Multi stage chef runs. Run sub chef runs
-* [haproxy_lwrp](http://community.opscode.com/cookbooks/haproxy_lwrp) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Resource and Provider for configuring HAProxy.  No specific implementation patterns provided, provide your own and configure haproxy anyway you need it.
-* [solr_app](http://community.opscode.com/cookbooks/solr_app) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Install solr and configuration by LWRP
-* [systemd](http://community.opscode.com/cookbooks/systemd) - [sdanna](http://community.opscode.com/users/sdanna) - Installs/Configures systemd
-* [errbit](http://community.opscode.com/cookbooks/errbit) - [millisami](http://community.opscode.com/users/millisami) - Installs/Configures errbit
-* [postgres](http://community.opscode.com/cookbooks/postgres) - [sax](http://community.opscode.com/users/sax) - Installs/Configures postgres from sources, optimized for SmartOS, and ready for streaming replication
-* [resource-control](http://community.opscode.com/cookbooks/resource-control) - [sax](http://community.opscode.com/users/sax) - Lightweight resource providers for project and task management in Solaris
-* [chef-golang](http://community.opscode.com/cookbooks/chef-golang) - [nox73](http://community.opscode.com/users/nox73) - Installs go programming language
 * [carbon](http://community.opscode.com/cookbooks/carbon) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Installs/Configures carbon
+* [chef-golang](http://community.opscode.com/cookbooks/chef-golang) - [nox73](http://community.opscode.com/users/nox73) - Installs go programming language
+* [errbit](http://community.opscode.com/cookbooks/errbit) - [millisami](http://community.opscode.com/users/millisami) - Installs/Configures errbit
 * [graphite_lwrp](http://community.opscode.com/cookbooks/graphite_lwrp) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Installs/Configures graphite
-* [tomcat-openam](http://community.opscode.com/cookbooks/tomcat-openam) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures tomcat7 and OpenAM
+* [haproxy_lwrp](http://community.opscode.com/cookbooks/haproxy_lwrp) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Resource and Provider for configuring HAProxy.  No specific implementation patterns provided, provide your own and configure haproxy anyway you need it.
+* [hotsauce](http://community.opscode.com/cookbooks/hotsauce) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures hotsauce
 * [opendj-openam](http://community.opscode.com/cookbooks/opendj-openam) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures opendj
+* [openresty](http://community.opscode.com/cookbooks/openresty) - [priestjim](http://community.opscode.com/users/priestjim) - Installs and configures the OpenResty NGINX bundle
+* [postgres](http://community.opscode.com/cookbooks/postgres) - [sax](http://community.opscode.com/users/sax) - Installs/Configures postgres from sources, optimized for SmartOS, and ready for streaming replication
 * [ps1](http://community.opscode.com/cookbooks/ps1) - [mray](http://community.opscode.com/users/mray) - Removes assorted operating system annoyances.
+* [resource-control](http://community.opscode.com/cookbooks/resource-control) - [sax](http://community.opscode.com/users/sax) - Lightweight resource providers for project and task management in Solaris
+* [solr_app](http://community.opscode.com/cookbooks/solr_app) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Install solr and configuration by LWRP
+* [stage](http://community.opscode.com/cookbooks/stage) - [rdeys](http://community.opscode.com/users/rdeys) - Multi stage chef runs. Run sub chef runs
+* [systemd](http://community.opscode.com/cookbooks/systemd) - [sdanna](http://community.opscode.com/users/sdanna) - Installs/Configures systemd
+* [tomcat-openam](http://community.opscode.com/cookbooks/tomcat-openam) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures tomcat7 and OpenAM
+* [znc](http://community.opscode.com/cookbooks/znc) - [schisamo](http://community.opscode.com/users/schisamo) - Installs/Configures ZNC IRC bouncer
 
 ## Updated Cookbooks
 
@@ -73,53 +73,53 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
   * recipe for beaver, a lightweight log shipper
   * kibana recipe features the new Ruby-based kibana
   * better zeromq support
-* [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.2.0)
-* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.3)
-* [cloudfoundry-ruby-runtime](http://community.opscode.com/cookbooks/cloudfoundry-ruby-runtime) (1.2.1)
-* [cloudfoundry-cloud_controller](http://community.opscode.com/cookbooks/cloudfoundry-cloud_controller) (1.4.0)
-* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) (1.3.4)
-* [uwsgi](http://community.opscode.com/cookbooks/uwsgi) (0.0.10)
-* [trac](http://community.opscode.com/cookbooks/trac) (0.2.2)
-* [smf](http://community.opscode.com/cookbooks/smf) (0.6.8)
-* [ark](http://community.opscode.com/cookbooks/ark) (0.1.0)
-* [fail2ban](http://community.opscode.com/cookbooks/fail2ban) (1.2.0)
-* [munin](http://community.opscode.com/cookbooks/munin) (1.2.0)
-* [swap](http://community.opscode.com/cookbooks/swap) (0.2.0)
-* [web](http://community.opscode.com/cookbooks/web) (0.0.6)
-* [runit](http://community.opscode.com/cookbooks/runit) (1.1.0)
-* [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) (0.2.0)
-* [redisio](http://community.opscode.com/cookbooks/redisio) (1.4.1)
-* [x11vnc](http://community.opscode.com/cookbooks/x11vnc) (0.0.3)
-* [ulimit](http://community.opscode.com/cookbooks/ulimit) (0.1.3)
-* [reprepro](http://community.opscode.com/cookbooks/reprepro) (0.3.0)
-* [el2centos](http://community.opscode.com/cookbooks/el2centos) (0.0.4)
-* [maven](http://community.opscode.com/cookbooks/maven) (0.15.0)
-* [phpmyadmin](http://community.opscode.com/cookbooks/phpmyadmin) (1.0.4)
-* [nginx](http://community.opscode.com/cookbooks/nginx) (1.4.0)
-* [java](http://community.opscode.com/cookbooks/java) (1.9.6)
-* [couchdb](http://community.opscode.com/cookbooks/couchdb) (2.2.0)
-* [newrelic-sysmond](http://community.opscode.com/cookbooks/newrelic-sysmond) (1.3.2)
-* [hubot](http://community.opscode.com/cookbooks/hubot) (1.0.2)
-* [erlang](http://community.opscode.com/cookbooks/erlang) (1.2.0)
-* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.4)
-* [unicorn](http://community.opscode.com/cookbooks/unicorn) (1.2.2)
-* [dynect](http://community.opscode.com/cookbooks/dynect) (1.0.2)
 * [apache2](http://community.opscode.com/cookbooks/apache2) (1.6.0)
-* [lvm](http://community.opscode.com/cookbooks/lvm) (0.8.6)
-* [nagios](http://community.opscode.com/cookbooks/nagios) (4.0.0)
-* [razor](http://community.opscode.com/cookbooks/razor) (0.4.0)
-* [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.5)
-* [riak](http://community.opscode.com/cookbooks/riak) (1.3.0)
-* [postfix-dkim](http://community.opscode.com/cookbooks/postfix-dkim) (0.0.2)
-* [percona](http://community.opscode.com/cookbooks/percona) (0.14.2)
-* [newrelic](http://community.opscode.com/cookbooks/newrelic) (0.4.4)
-* [nodejs](http://community.opscode.com/cookbooks/nodejs) (1.0.4)
-* [yasm](http://community.opscode.com/cookbooks/yasm) (0.0.2)
-* [cloudfoundry-dea](http://community.opscode.com/cookbooks/cloudfoundry-dea) (1.1.5)
-* [freight](http://community.opscode.com/cookbooks/freight) (0.2.0)
-* [smartmachine_functions](http://community.opscode.com/cookbooks/smartmachine_functions) (0.4.1)
+* [ark](http://community.opscode.com/cookbooks/ark) (0.1.0)
 * [artifact](http://community.opscode.com/cookbooks/artifact) (1.3.1)
-* [nexus](http://community.opscode.com/cookbooks/nexus) (1.1.0) 
+* [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.2.0)
+* [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) (0.2.0)
+* [cloudfoundry-cloud_controller](http://community.opscode.com/cookbooks/cloudfoundry-cloud_controller) (1.4.0)
+* [cloudfoundry-dea](http://community.opscode.com/cookbooks/cloudfoundry-dea) (1.1.5)
+* [cloudfoundry-ruby-runtime](http://community.opscode.com/cookbooks/cloudfoundry-ruby-runtime) (1.2.1)
+* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) (1.3.4)
+* [couchdb](http://community.opscode.com/cookbooks/couchdb) (2.2.0)
+* [dynect](http://community.opscode.com/cookbooks/dynect) (1.0.2)
+* [el2centos](http://community.opscode.com/cookbooks/el2centos) (0.0.4)
+* [erlang](http://community.opscode.com/cookbooks/erlang) (1.2.0)
+* [fail2ban](http://community.opscode.com/cookbooks/fail2ban) (1.2.0)
+* [freight](http://community.opscode.com/cookbooks/freight) (0.2.0)
+* [hubot](http://community.opscode.com/cookbooks/hubot) (1.0.2)
+* [java](http://community.opscode.com/cookbooks/java) (1.9.6)
+* [lvm](http://community.opscode.com/cookbooks/lvm) (0.8.6)
+* [maven](http://community.opscode.com/cookbooks/maven) (0.15.0)
+* [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.5)
+* [munin](http://community.opscode.com/cookbooks/munin) (1.2.0)
+* [nagios](http://community.opscode.com/cookbooks/nagios) (4.0.0)
+* [newrelic-sysmond](http://community.opscode.com/cookbooks/newrelic-sysmond) (1.3.2)
+* [newrelic](http://community.opscode.com/cookbooks/newrelic) (0.4.4)
+* [nexus](http://community.opscode.com/cookbooks/nexus) (1.1.0)
+* [nginx](http://community.opscode.com/cookbooks/nginx) (1.4.0)
+* [nodejs](http://community.opscode.com/cookbooks/nodejs) (1.0.4)
+* [percona](http://community.opscode.com/cookbooks/percona) (0.14.2)
+* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.3)
+* [phpmyadmin](http://community.opscode.com/cookbooks/phpmyadmin) (1.0.4)
+* [postfix-dkim](http://community.opscode.com/cookbooks/postfix-dkim) (0.0.2)
+* [razor](http://community.opscode.com/cookbooks/razor) (0.4.0)
+* [redisio](http://community.opscode.com/cookbooks/redisio) (1.4.1)
+* [reprepro](http://community.opscode.com/cookbooks/reprepro) (0.3.0)
+* [riak](http://community.opscode.com/cookbooks/riak) (1.3.0)
+* [runit](http://community.opscode.com/cookbooks/runit) (1.1.0)
+* [smartmachine_functions](http://community.opscode.com/cookbooks/smartmachine_functions) (0.4.1)
+* [smf](http://community.opscode.com/cookbooks/smf) (0.6.8)
+* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.4)
+* [swap](http://community.opscode.com/cookbooks/swap) (0.2.0)
+* [trac](http://community.opscode.com/cookbooks/trac) (0.2.2)
+* [ulimit](http://community.opscode.com/cookbooks/ulimit) (0.1.3)
+* [unicorn](http://community.opscode.com/cookbooks/unicorn) (1.2.2)
+* [uwsgi](http://community.opscode.com/cookbooks/uwsgi) (0.0.10)
+* [web](http://community.opscode.com/cookbooks/web) (0.0.6)
+* [x11vnc](http://community.opscode.com/cookbooks/x11vnc) (0.0.3)
+* [yasm](http://community.opscode.com/cookbooks/yasm) (0.0.2)
 
 ### New and Updated Chef and Knife Gems
 * [chef-handler-sns](http://rubygems.org/gems/chef-handler-sns) (0.2.1) - Chef report handler to send SNS notifications on failures or changes
