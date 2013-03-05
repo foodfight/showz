@@ -1,6 +1,6 @@
 Show Ideas
 ==========
-* [The Phoenix Project](https://github.com/foodfight/showz/blob/master/scripts/episode-x-phoenix-project.md) - Gene Kim [Monday, March 25 22:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+and+the+Phoenix+Project&iso=20130325T18&p1=1928&ah=1)
+* [The Phoenix Project](https://github.com/foodfight/showz/blob/master/scripts/episode-x-phoenix-project.md) - Gene Kim - [Monday, March 25 22:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+and+the+Phoenix+Project&iso=20130325T18&p1=1928&ah=1)
 * Continuous Delivery - Jez Humble
 * libraries & lwrps - Doug Ireton, Dan DeLeo, Chris McClimans
 * application deployment & package mangement Part II - this time bring on EJ Ciramella, Sascha Bages, and Dan Nemec
