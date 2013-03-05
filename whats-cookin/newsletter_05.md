@@ -49,8 +49,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
 
 ### New Cookbooks
 
-
-_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (1.0.0) - [anujbiyani](http://community.opscode.com/users/anujbiyani) - Installs/Configures aws_developer_tools
+* [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (1.0.0) - [anujbiyani](http://community.opscode.com/users/anujbiyani) - Installs/Configures aws_developer_tools
 * [riak](http://community.opscode.com/cookbooks/riak) (1.3.0) - [cheeseplus](http://community.opscode.com/users/cheeseplus) - Installs and configures Riak distributed data store
 * [postfix-dkim](http://community.opscode.com/cookbooks/postfix-dkim) (0.0.2) - [jimryan](http://community.opscode.com/users/jimryan) - Installs/Configures opendkim, a postfix DKIM filter (see: https://help.ubuntu.com/community/Postfix/DKIM)
 * [percona](http://community.opscode.com/cookbooks/percona) (0.14.2) - [heavywater](http://community.opscode.com/users/heavywater) - Installs Percona MySQL client and server
@@ -114,9 +113,9 @@ _developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (1
 * [smartmachine_functions](http://community.opscode.com/cookbooks/smartmachine_functions) (0.4.1) - [sawanoboly](http://community.opscode.com/users/sawanoboly) - Chef patches, little fix and tools for joyent smartos(smartmachine).
 * [artifact](http://community.opscode.com/cookbooks/artifact) (1.3.1) - [reset](http://community.opscode.com/users/reset) - Provides your cookbooks with the Artifact Deploy LWRP
 * [nexus](http://community.opscode.com/cookbooks/nexus) (1.1.0) - [reset](http://community.opscode.com/users/reset) - Installs/Configures nexus
-* [ps1](http://community.opscode.com/cookbooks/ps1) (0.1.0) - [mray](http://community.opscode.com/users/mray) - Removes assorted operating system annoyances
+* [ps1](http://community.opscode.com/cookbooks/ps1) (0.1.0) - [mray](http://community.opscode.com/users/mray) - Removes assorted operating system annoyances.
 
-.## Updated Cookbooks
+## Updated Cookbooks
 
 * [chef-logstash](https://github.com/lusis/chef-logstash) - (0.5.5)
   * recipe for beaver, a lightweight log shipper
