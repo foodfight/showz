@@ -44,32 +44,28 @@ Cookbook News<a name="cookbooks"></a>
 ### Stats
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 831  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 113
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 113  
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
 
 ### New Cookbooks
 
-* [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (1.0.0) - [anujbiyani](http://community.opscode.com/users/anujbiyani) - Installs/Configures aws_developer_tools
-* [openresty](http://community.opscode.com/cookbooks/openresty) (0.1.6) - [priestjim](http://community.opscode.com/users/priestjim) - Installs and configures the OpenResty NGINX bundle
-* [znc](http://community.opscode.com/cookbooks/znc) (0.0.1) - [schisamo](http://community.opscode.com/users/schisamo) - Installs/Configures ZNC IRC bouncer
-* [hotsauce](http://community.opscode.com/cookbooks/hotsauce) (0.1.0) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures hotsauce
-* [stage](http://community.opscode.com/cookbooks/stage) (0.0.4) - [rdeys](http://community.opscode.com/users/rdeys) - Multi stage chef runs. Run sub chef runs
-* [haproxy_lwrp](http://community.opscode.com/cookbooks/haproxy_lwrp) (2.0.2) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Resource and Provider for configuring HAProxy.  No specific implementation patterns provided, provide your own and configure haproxy anyway you need it.
-* [solr_app](http://community.opscode.com/cookbooks/solr_app) (0.0.2) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Install solr and configuration by LWRP
-* [systemd](http://community.opscode.com/cookbooks/systemd) (0.1.0) - [sdanna](http://community.opscode.com/users/sdanna) - Installs/Configures systemd
-* [errbit](http://community.opscode.com/cookbooks/errbit) (0.2.0) - [millisami](http://community.opscode.com/users/millisami) - Installs/Configures errbit
-* [postgres](http://community.opscode.com/cookbooks/postgres) (0.0.10) - [sax](http://community.opscode.com/users/sax) - Installs/Configures postgres from sources, optimized for SmartOS, and ready for streaming replication
-* [resource-control](http://community.opscode.com/cookbooks/resource-control) (0.0.1) - [sax](http://community.opscode.com/users/sax) - Lightweight resource providers for project and task management in Solaris
-* [cloudfoundry-ruby-runtime](http://community.opscode.com/cookbooks/cloudfoundry-ruby-runtime) (1.2.1)
-* [cloudfoundry-cloud_controller](http://community.opscode.com/cookbooks/cloudfoundry-cloud_controller) (1.4.0)
-* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) (1.3.4)
-* [chef-golang](http://community.opscode.com/cookbooks/chef-golang) (1.0.0) - [nox73](http://community.opscode.com/users/nox73) - Installs go programming language
-* [carbon](http://community.opscode.com/cookbooks/carbon) (0.1.1) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Installs/Configures carbon
-* [graphite_lwrp](http://community.opscode.com/cookbooks/graphite_lwrp) (0.1.2) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Installs/Configures graphite
-* [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.2.0)
-* [tomcat-openam](http://community.opscode.com/cookbooks/tomcat-openam) (0.1.0) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures tomcat7 and OpenAM
-* [opendj-openam](http://community.opscode.com/cookbooks/opendj-openam) (0.1.0) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures opendj
-* [ps1](http://community.opscode.com/cookbooks/ps1) (0.1.0) - [mray](http://community.opscode.com/users/mray) - Removes assorted operating system annoyances.
+* [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) - [anujbiyani](http://community.opscode.com/users/anujbiyani) - Installs/Configures aws_developer_tools
+* [openresty](http://community.opscode.com/cookbooks/openresty) - [priestjim](http://community.opscode.com/users/priestjim) - Installs and configures the OpenResty NGINX bundle
+* [znc](http://community.opscode.com/cookbooks/znc) - [schisamo](http://community.opscode.com/users/schisamo) - Installs/Configures ZNC IRC bouncer
+* [hotsauce](http://community.opscode.com/cookbooks/hotsauce) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures hotsauce
+* [stage](http://community.opscode.com/cookbooks/stage) - [rdeys](http://community.opscode.com/users/rdeys) - Multi stage chef runs. Run sub chef runs
+* [haproxy_lwrp](http://community.opscode.com/cookbooks/haproxy_lwrp) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Resource and Provider for configuring HAProxy.  No specific implementation patterns provided, provide your own and configure haproxy anyway you need it.
+* [solr_app](http://community.opscode.com/cookbooks/solr_app) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Install solr and configuration by LWRP
+* [systemd](http://community.opscode.com/cookbooks/systemd) - [sdanna](http://community.opscode.com/users/sdanna) - Installs/Configures systemd
+* [errbit](http://community.opscode.com/cookbooks/errbit) - [millisami](http://community.opscode.com/users/millisami) - Installs/Configures errbit
+* [postgres](http://community.opscode.com/cookbooks/postgres) - [sax](http://community.opscode.com/users/sax) - Installs/Configures postgres from sources, optimized for SmartOS, and ready for streaming replication
+* [resource-control](http://community.opscode.com/cookbooks/resource-control) - [sax](http://community.opscode.com/users/sax) - Lightweight resource providers for project and task management in Solaris
+* [chef-golang](http://community.opscode.com/cookbooks/chef-golang) - [nox73](http://community.opscode.com/users/nox73) - Installs go programming language
+* [carbon](http://community.opscode.com/cookbooks/carbon) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Installs/Configures carbon
+* [graphite_lwrp](http://community.opscode.com/cookbooks/graphite_lwrp) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Installs/Configures graphite
+* [tomcat-openam](http://community.opscode.com/cookbooks/tomcat-openam) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures tomcat7 and OpenAM
+* [opendj-openam](http://community.opscode.com/cookbooks/opendj-openam) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures opendj
+* [ps1](http://community.opscode.com/cookbooks/ps1) - [mray](http://community.opscode.com/users/mray) - Removes assorted operating system annoyances.
 
 ## Updated Cookbooks
 
@@ -77,7 +73,11 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
   * recipe for beaver, a lightweight log shipper
   * kibana recipe features the new Ruby-based kibana
   * better zeromq support
+* [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.2.0)
 * [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.3)
+* [cloudfoundry-ruby-runtime](http://community.opscode.com/cookbooks/cloudfoundry-ruby-runtime) (1.2.1)
+* [cloudfoundry-cloud_controller](http://community.opscode.com/cookbooks/cloudfoundry-cloud_controller) (1.4.0)
+* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) (1.3.4)
 * [uwsgi](http://community.opscode.com/cookbooks/uwsgi) (0.0.10)
 * [trac](http://community.opscode.com/cookbooks/trac) (0.2.2)
 * [smf](http://community.opscode.com/cookbooks/smf) (0.6.8)
