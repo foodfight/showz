@@ -43,13 +43,80 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
 
-Cookbooks on the [Community Site](http://community.opscode.com) - 765  
+Cookbooks on the [Community Site](http://community.opscode.com) - 831  
 Knife Plugins on [RubyGems.org](http://rubygems.org) - 113
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
 
 ### New Cookbooks
 
-### Updated Cookbooks
+
+_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (1.0.0) - [anujbiyani](http://community.opscode.com/users/anujbiyani) - Installs/Configures aws_developer_tools
+* [riak](http://community.opscode.com/cookbooks/riak) (1.3.0) - [cheeseplus](http://community.opscode.com/users/cheeseplus) - Installs and configures Riak distributed data store
+* [postfix-dkim](http://community.opscode.com/cookbooks/postfix-dkim) (0.0.2) - [jimryan](http://community.opscode.com/users/jimryan) - Installs/Configures opendkim, a postfix DKIM filter (see: https://help.ubuntu.com/community/Postfix/DKIM)
+* [percona](http://community.opscode.com/cookbooks/percona) (0.14.2) - [heavywater](http://community.opscode.com/users/heavywater) - Installs Percona MySQL client and server
+* [newrelic](http://community.opscode.com/cookbooks/newrelic) (0.4.4) - [devesc](http://community.opscode.com/users/devesc) - Installs/Configures New Relic
+* [nodejs](http://community.opscode.com/cookbooks/nodejs) (1.0.4) - [mdxp](http://community.opscode.com/users/mdxp) - Installs/Configures nodejs
+* [openresty](http://community.opscode.com/cookbooks/openresty) (0.1.6) - [priestjim](http://community.opscode.com/users/priestjim) - Installs and configures the OpenResty NGINX bundle
+* [znc](http://community.opscode.com/cookbooks/znc) (0.0.1) - [schisamo](http://community.opscode.com/users/schisamo) - Installs/Configures ZNC IRC bouncer
+* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) (0.3.3) - [wik](http://community.opscode.com/users/wik) - Installs/Configures php-fpm
+* [razor](http://community.opscode.com/cookbooks/razor) (0.4.0) - [fnichol](http://community.opscode.com/users/fnichol) - Project Razor
+* [monit_bin](http://community.opscode.com/cookbooks/monit_bin) (0.3.5) - [sawanoboly](http://community.opscode.com/users/sawanoboly) - Installs/Configures monit_bin
+* [hotsauce](http://community.opscode.com/cookbooks/hotsauce) (0.1.0) - [clundquist](http://community.opscode.com/users/clundquist) - Installs/Configures hotsauce
+* [stage](http://community.opscode.com/cookbooks/stage) (0.0.4) - [rdeys](http://community.opscode.com/users/rdeys) - Multi stage chef runs. Run sub chef runs
+* [swap](http://community.opscode.com/cookbooks/swap) (0.2.0) - [sethvargo](http://community.opscode.com/users/sethvargo) - Provides an LWRP for easily creating a managing swap files and swap partitions.
+* [web](http://community.opscode.com/cookbooks/web) (0.0.6) - [melezhik](http://community.opscode.com/users/melezhik) - light weight resource to deliver web application from tarball to your host
+* [runit](http://community.opscode.com/cookbooks/runit) (1.1.0) - [opscode](http://community.opscode.com/users/opscode) - Installs runit and provides runit_service definition
+* [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) (0.2.0) - [anujbiyani](http://community.opscode.com/users/anujbiyani) - Installs/Configures chef_ec2_cli_tools
+* [haproxy_lwrp](http://community.opscode.com/cookbooks/haproxy_lwrp) (2.0.2) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Resource and Provider for configuring HAProxy.  No specific implementation patterns provided, provide your own and configure haproxy anyway you need it.
+* [redisio](http://community.opscode.com/cookbooks/redisio) (1.4.1) - [geekbri](http://community.opscode.com/users/geekbri) - Installs/Configures redis
+* [x11vnc](http://community.opscode.com/cookbooks/x11vnc) (0.0.3) - [jgoulah](http://community.opscode.com/users/jgoulah) - Installs/Configures x11vnc
+* [ulimit](http://community.opscode.com/cookbooks/ulimit) (0.1.3) - [bmhatfield](http://community.opscode.com/users/bmhatfield) - Provides user_ulimit resource
+* [reprepro](http://community.opscode.com/cookbooks/reprepro) (0.3.0) - [opscode](http://community.opscode.com/users/opscode) - Installs/Configures reprepro for an apt repository
+* [el2centos](http://community.opscode.com/cookbooks/el2centos) (0.0.4) - [atomic-penguin](http://community.opscode.com/users/atomic-penguin) - Converts an Enterprise Linux system to a CentOS system
+* [solr_app](http://community.opscode.com/cookbooks/solr_app) (0.0.2) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Install solr and configuration by LWRP
+* [munin](http://community.opscode.com/cookbooks/munin) (1.2.0) - [opscode](http://community.opscode.com/users/opscode) - Installs and configures munin
+* [systemd](http://community.opscode.com/cookbooks/systemd) (0.1.0) - [sdanna](http://community.opscode.com/users/sdanna) - Installs/Configures systemd
+* [fail2ban](http://community.opscode.com/cookbooks/fail2ban) (1.2.0) - [opscode](http://community.opscode.com/users/opscode) - Installs and configures fail2ban
+* [maven](http://community.opscode.com/cookbooks/maven) (0.15.0) - [opscode](http://community.opscode.com/users/opscode) - Installs/Configures maven
+* [errbit](http://community.opscode.com/cookbooks/errbit) (0.2.0) - [millisami](http://community.opscode.com/users/millisami) - Installs/Configures errbit
+* [ark](http://community.opscode.com/cookbooks/ark) (0.1.0) - [opscode](http://community.opscode.com/users/opscode) - Installs/Configures ark
+* [phpmyadmin](http://community.opscode.com/cookbooks/phpmyadmin) (1.0.4) - [priestjim](http://community.opscode.com/users/priestjim) - Installs/Configures PHPMyAdmin
+* [postgres](http://community.opscode.com/cookbooks/postgres) (0.0.10) - [sax](http://community.opscode.com/users/sax) - Installs/Configures postgres from sources, optimized for SmartOS, and ready for streaming replication
+* [smf](http://community.opscode.com/cookbooks/smf) (0.6.8) - [bixu](http://community.opscode.com/users/bixu) - A light weight resource provider (LWRP) for SMF (Service Management Facility)
+* [resource-control](http://community.opscode.com/cookbooks/resource-control) (0.0.1) - [sax](http://community.opscode.com/users/sax) - Lightweight resource providers for project and task management in Solaris
+* [cloudfoundry-ruby-runtime](http://community.opscode.com/cookbooks/cloudfoundry-ruby-runtime) (1.2.1) - [andreacampi](http://community.opscode.com/users/andreacampi) - Installs/Configures cloudfoundry-ruby-runtime
+* [cloudfoundry-cloud_controller](http://community.opscode.com/cookbooks/cloudfoundry-cloud_controller) (1.4.0) - [andreacampi](http://community.opscode.com/users/andreacampi) - Installs/Configures cloudfoundry-cloud_controller
+* [cloudfoundry](http://community.opscode.com/cookbooks/cloudfoundry) (1.3.4) - [andreacampi](http://community.opscode.com/users/andreacampi) - Installs/Configures cloudfoundry
+* [chef-golang](http://community.opscode.com/cookbooks/chef-golang) (1.0.0) - [nox73](http://community.opscode.com/users/nox73) - Installs go programming language
+* [nginx](http://community.opscode.com/cookbooks/nginx) (1.4.0) - [opscode](http://community.opscode.com/users/opscode) - Installs and configures nginx
+* [java](http://community.opscode.com/cookbooks/java) (1.9.6) - [opscode](http://community.opscode.com/users/opscode) - Installs Java runtime.
+* [couchdb](http://community.opscode.com/cookbooks/couchdb) (2.2.0) - [opscode](http://community.opscode.com/users/opscode) - Installs CouchDB package and starts service
+* [newrelic-sysmond](http://community.opscode.com/cookbooks/newrelic-sysmond) (1.3.2) - [phlipper](http://community.opscode.com/users/phlipper) - Setup New Relic sysmond for server monitoring
+* [hubot](http://community.opscode.com/cookbooks/hubot) (1.0.2) - [schisamo](http://community.opscode.com/users/schisamo) - Deploys and manages an instance of Github's Hubot.
+* [erlang](http://community.opscode.com/cookbooks/erlang) (1.2.0) - [opscode](http://community.opscode.com/users/opscode) - Installs erlang, optionally install GUI tools.
+* [ssh_known_hosts](http://community.opscode.com/cookbooks/ssh_known_hosts) (0.7.4) - [opscode](http://community.opscode.com/users/opscode) - Dyanmically generates /etc/ssh/known_hosts based on search indexes
+* [unicorn](http://community.opscode.com/cookbooks/unicorn) (1.2.2) - [opscode](http://community.opscode.com/users/opscode) - Installs/Configures unicorn
+* [dynect](http://community.opscode.com/cookbooks/dynect) (1.0.2) - [opscode](http://community.opscode.com/users/opscode) - LWRP for managing DNS records with Dynect's REST API
+* [apache2](http://community.opscode.com/cookbooks/apache2) (1.6.0) - [opscode](http://community.opscode.com/users/opscode) - Installs and configures all aspects of apache2 using Debian style symlinks with helper definitions
+* [lvm](http://community.opscode.com/cookbooks/lvm) (0.8.6) - [opscode](http://community.opscode.com/users/opscode) - Installs lvm2 package
+* [carbon](http://community.opscode.com/cookbooks/carbon) (0.1.1) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Installs/Configures carbon
+* [graphite_lwrp](http://community.opscode.com/cookbooks/graphite_lwrp) (0.1.2) - [scottmlikens](http://community.opscode.com/users/scottmlikens) - Installs/Configures graphite
+* [trac](http://community.opscode.com/cookbooks/trac) (0.2.2) - [opscode](http://community.opscode.com/users/opscode) - Installs/Configures Trac
+* [nagios](http://community.opscode.com/cookbooks/nagios) (4.0.0) - [opscode](http://community.opscode.com/users/opscode) - Installs and configures Nagios server and the NRPE client
+* [chef-server-populator](http://community.opscode.com/cookbooks/chef-server-populator) (0.2.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Populate chef server with stuff you want
+* [uwsgi](http://community.opscode.com/cookbooks/uwsgi) (0.0.10) - [idyedov](http://community.opscode.com/users/idyedov) - Installs/Configures uWSGI
+* [tomcat-openam](http://community.opscode.com/cookbooks/tomcat-openam) (0.1.0) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures tomcat7 and OpenAM
+* [opendj-openam](http://community.opscode.com/cookbooks/opendj-openam) (0.1.0) - [thomasalrin](http://community.opscode.com/users/thomasalrin) - Installs/Configures opendj
+* [yasm](http://community.opscode.com/cookbooks/yasm) (0.0.2) - [devesc](http://community.opscode.com/users/devesc) - Installs/Configures yasm
+* [cloudfoundry-dea](http://community.opscode.com/cookbooks/cloudfoundry-dea) (1.1.5) - [andreacampi](http://community.opscode.com/users/andreacampi) - Installs/Configures cloudfoundry-dea
+* [freight](http://community.opscode.com/cookbooks/freight) (0.2.0) - [mpasternacki](http://community.opscode.com/users/mpasternacki) - Installs/Configures freight
+* [btm-test](http://community.opscode.com/cookbooks/btm-test) (0.1.1) - [btm](http://community.opscode.com/users/btm) - Installs/Configures btm-test
+* [smartmachine_functions](http://community.opscode.com/cookbooks/smartmachine_functions) (0.4.1) - [sawanoboly](http://community.opscode.com/users/sawanoboly) - Chef patches, little fix and tools for joyent smartos(smartmachine).
+* [artifact](http://community.opscode.com/cookbooks/artifact) (1.3.1) - [reset](http://community.opscode.com/users/reset) - Provides your cookbooks with the Artifact Deploy LWRP
+* [nexus](http://community.opscode.com/cookbooks/nexus) (1.1.0) - [reset](http://community.opscode.com/users/reset) - Installs/Configures nexus
+* [ps1](http://community.opscode.com/cookbooks/ps1) (0.1.0) - [mray](http://community.opscode.com/users/mray) - Removes assorted operating system annoyances
+
+.## Updated Cookbooks
 
 * [chef-logstash](https://github.com/lusis/chef-logstash) - (0.5.5)
   * recipe for beaver, a lightweight log shipper
