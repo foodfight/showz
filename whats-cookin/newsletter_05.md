@@ -44,8 +44,8 @@ Cookbook News<a name="cookbooks"></a>
 ### Stats
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 765  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 82  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 94  
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 113
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
 
 ### New Cookbooks
 
@@ -55,6 +55,32 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 94
   * recipe for beaver, a lightweight log shipper
   * kibana recipe features the new Ruby-based kibana
   * better zeromq support
+
+### New and Updated Chef and Knife Gems
+* [chef-handler-sns](http://rubygems.org/gems/chef-handler-sns) (0.2.1) - Chef report handler to send SNS notifications on failures or changes
+* [chef-jenkins](http://rubygems.org/gems/chef-jenkins) (0.2.1) - Keep your chef server in sync with jenkins
+* [chef-workflow](http://rubygems.org/gems/chef-workflow) (0.2.1) - A comprehensive rake-based workflow for chef
+* [isbumiawake-chef](http://rubygems.org/gems/isbumiawake-chef) (0.1.5) - Chef Handler to notify isbumiawake to track if the peritically chef run is running
+* [klarna_chef](http://rubygems.org/gems/klarna_chef) (1.0.2) - Command Line utility to manage chef cookbooks.
+* [knife-backup](http://rubygems.org/gems/knife-backup) (0.0.3) - Chef knife plugins to help backup and restore chef servers
+* [knife-cleanup](http://rubygems.org/gems/knife-cleanup) (0.0.3) - Chef knife plugin to help cleanup unused versions of cookbooks from a chef server
+* [knife-community](http://rubygems.org/gems/knife-community) (0.1.1) - The centralized location for sharing cookbooks is the Community Site, this is a process helper to produce a repeatable method for releasing cookbooks.* [knife-cookbook-readme](http://rubygems.org/gems/knife-cookbook-readme) (0.1.1) - Knife plugin to generate README.md from metadata.rb* [knife-digital_ocean](http://rubygems.org/gems/knife-digital_ocean) (0.1.0) - A plugin for chef's knife to manage instances of DigitalOcean servers
+* [knife-glesys](http://rubygems.org/gems/knife-glesys) (0.1.0) - Glesys support for Chef's Knife Command
+* [knife-hadoop](http://rubygems.org/gems/knife-hadoop) (0.0.8) - Hadoop Chef Knife Plugin
+* [knife-inspect](http://rubygems.org/gems/knife-inspect) (0.6.2) - Inspect your chef repo as is compares to what is on your chef server
+* [knife-preflight](http://rubygems.org/gems/knife-preflight) (0.1.6) - Knife plugin for checking what your cookbook changes will affect
+* [knife-proxmox](http://rubygems.org/gems/knife-proxmox) (0.0.16) - ProxmoxVE Support for Chef's Knife Command
+* [knife-psearch](http://rubygems.org/gems/knife-psearch) (0.0.3) - Knife Plugin for Chef 11's Partial Search
+* [knife-rackspace-cluster](http://rubygems.org/gems/knife-rackspace-cluster) (0.0.7) - Creates rax clusters
+* [knife-server](http://rubygems.org/gems/knife-server) (1.0.0) - Chef Knife plugin to bootstrap Chef Servers
+* [knife-sharp](http://rubygems.org/gems/knife-sharp) (0.1.7) - Sharpen your knife with these handy features
+* [knife-stash](http://rubygems.org/gems/knife-stash) (0.1.0) - A knife plugin for Atlassian Stash.
+* [knife-xapi](http://rubygems.org/gems/knife-xapi) (0.5.1) - Xen API Support for Chef's Knife Command
+* [knife_cookbook_sync](http://rubygems.org/gems/knife_cookbook_sync) (0.0.4) - Sync only what's changed -- faster than cookbook upload
+* [librarian-chef](http://rubygems.org/gems/librarian-chef) (0.0.26) -  a tool that helps you manage the cookbooks that your chef-repo depends on.
+* [minitest-chef-handler](http://rubygems.org/gems/minitest-chef-handler) (0.6.8) - Run minitest suites after your Chef recipes to check the status of your system.
+* [ridley](http://rubygems.org/gems/ridley) (0.8.1) - A reliable Chef API client with a clean syntax
+* [searchef](http://rubygems.org/gems/searchef) (0.1.1) - Stub Chef Search!
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
