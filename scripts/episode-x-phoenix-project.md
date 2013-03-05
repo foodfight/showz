@@ -1,3 +1,5 @@
+# DevOps and The Phoenix Project
+
 Show Date:  [Monday, March 25 22:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+and+the+Phoenix+Project&iso=20130325T18&p1=1928&ah=1)
 
 Panel<a name="panel"></a>
@@ -11,7 +13,7 @@ Panel<a name="panel"></a>
 
 Outline/Questions
 -----------------
-* What is the Phoenix Project?
+* What is the [Phoenix Project](http://itrevolution.com/books/phoenix-project-devops-book/)?
 * Why write this book now?
 * What's your definition of "DevOps"?
 * This book draws on ideas from previous research and other books.
