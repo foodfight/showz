@@ -44,21 +44,31 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 
 #### Speaking Opportunities
 
-You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
+You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  [CFPs are closing soon](http://wiki.opscode.com/display/chef/Technical+Conferences) so submit your talk today!
 
-* [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
+* [HotCloud '13](https://www.usenix.org/conference/hotcloud13/) - CFP closes 7-March
+* [WiAC '13](https://www.usenix.org/conference/wiac13) - CFP closes 13-March
+* [Gotham Ruby Conference (GORUCO)](http://goruco.com/) - CFP closes 14-March
+* [RICON|East](http://ricon.io/east.html) - CFP closes 15-March
+* [DevOpsDays Paris](http://devopsdays.org/events/2013-paris/) - CFP closes 1-April
+* [DevOpsDays Berlin](http://devopsdays.org/events/2013-berlin/) - CFP closes 1-April
+* [Texas Linux Fest](http://2013.texaslinuxfest.org/) - CFP closes 1-April
+* [DevOpsDays Austin](http://devopsdays.org/events/2013-austin/) - CFP closes 1-April
+* [USENIX Configuration Management Summit](https://www.usenix.org/conference/ucms13/) - CFP closes 5-April
 
 ###  Special Offers
 
 #### Opscode Training
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+Use promotional code 'FOODFIGHT' to save 10% off 
+
+* [Chef Introductory Workshops](http://opscode.eventbrite.com/) in Atlanta, San Diego, Minneapolis, Boston, Philadelphila, and Atlanta.
+* [Chef Introductory Workshop for Windows](http://opscode.eventbrite.com/) in Seattle and New York.
+* [2-Day Chef Fundamentals](http://opscode.eventbrite.com/) in Seattle, New York, and DC.
 
 #### #ChefConf 2013
 
-[#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT).
-
-We want to hear YOUR stories at #ChefConf!  [Propose a talk today](https://chefconf2013.busyconf.com/proposals/new).
+[#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT). **Early Bird Pricing ends 10-March!**
 
 Cookbook News<a name="cookbooks"></a>
 -------------
