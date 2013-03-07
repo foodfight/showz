@@ -21,6 +21,27 @@ In the News
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
 
+* [DevOps Kansas City](http://www.meetup.com/DevOps-Kansas-City/) - A new group is forming!
+* 8-March - [svDevOps](http://www.meetup.com/SVDevOps/events/106522322/) - Logstash with Jordan Sissel - A great follow-up to [episode 40](http://foodfightshow.org/2013/02/logstash.html)
+* 12-March - [Infrastructure Coders March Meetup](http://meetup.infrastructurecoders.com/events/93953982/) - Melbourne, Australia
+* 12-March - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/104582152/) - Seattle - Preview of [#ChefConf](http://chefconf.opscode.com)
+* 13-March - [San Diego DevOps](http://www.meetup.com/sddevops/events/103407322/) - Eucalyptus Private Cloud
+* 13-March - [PDXCloud March Gathering](http://www.meetup.com/PDXCloud/events/107970162/)
+* 14-March - [DevOps Milwaukee](http://www.meetup.com/DevOps-Milwaukee/events/101106722/) - Casual Mixer
+* 20-March - [Trangle DevOps](http://www.meetup.com/Triangle-DevOps/events/105370252/) - Learn that Failure Comes In Flavors
+* 21-March - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/99809042/) - [Gene Kim](http://twitter.com/realgenekim) on "DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps" - a great preview for our upcoming episode.
+* 25-March - [Twin Cities Infracoders](http://www.meetup.com/Twin-Cities-Infracoders/events/104737642/) - talk about how we can automate ALL THE THINGS!
+* 26-March - [Chef-NYC](http://www.meetup.com/Chef-NYC/events/101936232/) - Writing better recipes with Jenkins and ChefSpec
+* 26-March - [Seattle DevOps](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/102064832/)
+* 3-April - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/108052522/) - Cloud Platforms, OpenStack and You...
+* 6-April - [DevOps Moscow](http://www.meetup.com/DevOps-Moscow-in-Russian/events/106192822/) - Говорим о том, как постоянно доставлять (continuous delivery)
+
+* Chef Cafes
+  * 7-March - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/106460472/)
+  * 14-March - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/103832112/)
+  * 19-March - [Austin](http://www.meetup.com/austin-devops/events/105513492/)
+  * 20-March - [SFO](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/106460472/)
+
 #### Speaking Opportunities
 
 You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
