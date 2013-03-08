@@ -17,7 +17,38 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+### LWRP
+A lightweight resource is a custom resource that creates an abstract approach for defining a set of actions and (for each action) a set of attributes and validation parameters. A lightweight resource relies on a lightweight provider to take the necessary steps to bring a piece of the system to a desired state.
 
+A lightweight provider is a custom provider that is designed to take the steps that are required to bring a piece of the system into a specific state based on an action that is defined by a lightweight resource.
+
+[About Lightweight Resources...](http://docs.opscode.com/lwrp.html)
+
+* When would one use an LWRP?
+* Is there a good cookbook that demonstrates the use of a LWRP?
+* What, if anything, changed about LWRPs in Chef 11?
+
+### Libraries
+A library allows arbitrary Ruby code to be included in a cookbook, either as a way to extend the Chef language or to implement a new class directly. A library is defined in /libraries/library_name.rb for each cookbook. A library that is included in a cookbook is automatically required and will be available to all recipes, attributes, file definitions, providers, and definitions. A library is defined in the library_name.rb, which is found in the libraries folder for each cookbook. The contents of a library will determine the potential uses of that library in a cookbook.
+
+[About Libraries...](http://docs.opscode.com/essentials_cookbook_libraries.html)
+
+* When would one use a library?
+* Is there a good cookbook that demonstrates the use of a library?
+* What, if anything, changed about libraries in Chef 11?
+
+### Definitions
+A definition is used to create a resource by stringing together one (or more) existing resources. A definition is not a resource and it does not take any actions by itself. A definition is replaced by one (or more) resources, and it then takes actions on behalf of those resources. There is no limit to the number of resources that can be part of a definition. All definitions within a cookbook must be located in the definitions/ folder. A definition is never declared into a cookbook. A definition is best-used when:
+
+* Data needs to be passed from one (or more) recipes into a single definition
+* A repeating usage pattern exists for one (or more) resources
+* An action does not need to be sent directly to a resource (when it does, it should be sent to a provider)
+
+[About Definitions...](http://docs.opscode.com/essentials_cookbook_definitions.html)
+
+* When would one use a definition?
+* Is there a good cookbook that demonstrates the use of a definition?
+* What, if anything, changed about definitions in Chef 11?
 
 Picks<a name="picks"></a>
 -----
