@@ -72,6 +72,9 @@ Picks<a name="picks"></a>
 #### John
 
 #### Nathen
+* [Community Metrics on Ranjib's site](http://ranjib.com/2013/03/05/community-cookbooks-at-a-glance/)
+* [Awesome Chef Awards](http://info.opscode.com/awesome-chefs)
+* [Community Guidelines](http://docs.opscode.com/community_guidelines.html)
 
 CLOSE
 -----
