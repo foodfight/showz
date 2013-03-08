@@ -8,7 +8,7 @@ Panel<a name="panel"></a>
 * Doug Ireton [github](http://github.com/dougireton), [twitter](http://twitter.com/dougireton), irc: dougireton, [blog](http://dougireton.com)
 * Chris McClimans [github](http://github.com/hh), [twitter](https://twitter.com/hippiehacker)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
@@ -53,25 +53,36 @@ A definition is used to create a resource by stringing together one (or more) ex
 Picks<a name="picks"></a>
 -----
 
-#### Bryan  
-
-#### lusis  
-
-#### Nathen  
+#### Miah
 
 
+####Ranjib
+
+
+#### Doug
+
+#### Chris
+
+#### Mike
+
+#### Matt
+
+#### Bryan
+
+#### John
+
+#### Nathen
 
 CLOSE
 -----
 
-Make sure to subscribe to the [Foodfight Weekly Newsletter](http://bit.ly/ffsmail) and send your cookbook
-news to info@foodfightshow.org
+Tell your friends about the Food Fight Show!
+
+Make sure to subscribe to the [Foodfight Weekly Newsletter](http://bit.ly/ffsmail) and send your cookbook news to info@foodfightshow.org
 
 Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
 
 Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
-
-
 
 Download
 --------
