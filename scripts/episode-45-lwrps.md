@@ -50,6 +50,13 @@ A definition is used to create a resource by stringing together one (or more) ex
 * Is there a good cookbook that demonstrates the use of a definition?
 * What, if anything, changed about definitions in Chef 11?
 
+## General Questions / Topics
+
+* When should you not use an lwrp? 
+* Can an lwrp be too flexible? 
+* When is your lwrp too complex?
+* What are some examples of what not to do?
+
 Picks<a name="picks"></a>
 -----
 
