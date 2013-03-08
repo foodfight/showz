@@ -3,7 +3,11 @@ Show Date:  [Wednesday, March 13, 15:00 UTC](http://www.timeanddate.com/worldclo
 Panel<a name="panel"></a>
 -----
 
-* 
+* Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
+* Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
+* Doug Ireton [github](http://github.com/dougireton), [twitter](http://twitter.com/dougireton), irc: dougireton, [blog](http://dougireton.com)
+* Chris McClimans [github](http://github.com/hh), [twitter](https://twitter.com/hippiehacker)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
