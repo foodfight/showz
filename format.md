@@ -13,11 +13,18 @@ Purpose
  conferences for busy people who can't necessarily be there or read
  the ML everyday
 2. For fun!
-3. Discuss w/ really smart people about subjects that are of interest
- to the general Chef community but not necessarily chef-related. For example, Ilumos, server orchestration, different virtualization
-technologies
+3. Discuss w/ really smart people about subjects that are of interest 
+operations professionals
 4. Help people in community feel like they “know” prominent community members
 5. Introduce Chef to new users
+
+Not the Purpose
+---------------
+
+1. To talk about religion, sex or politics
+2. discuss consumer technology, other shows do that better
+3. To hate on MicroSoft or other proprietary technology
+4. To promote desktop linux
 
 
 Recording an episode
