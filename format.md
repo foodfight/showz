@@ -23,7 +23,7 @@ Not the Purpose
 
 1. To talk about religion, sex or politics
 2. discuss consumer technology, other shows do that better
-3. To hate on MicroSoft or other proprietary technology
+3. To hate on Microsoft or other proprietary technology
 4. To promote desktop linux
 
 
