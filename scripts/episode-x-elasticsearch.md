@@ -50,6 +50,7 @@ Outline/Questions
 * puppet and chef support
    * what recipes are present?
    * what is lacking?
+* for Karmi: are you [jon bon jovi's twin brother?](http://www.google.com/url?sa=i&source=images&cd=&cad=rja&docid=g86J3WRXEG5_KM&tbnid=pWL2SEyS7w_xtM:&ved=0CAgQjRwwADjzAQ&url=http%3A%2F%2Fwww.listal.com%2Fviewimage%2F893551&ei=K8Y9UZeBFceL4ATJrYHACQ&psig=AFQjCNFRZGf3E_L68ra5jk08lUpn3ltFzA&ust=1363089323414884) 
 
 Picks<a name="picks"></a>
 -----
