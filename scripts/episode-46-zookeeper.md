@@ -33,6 +33,8 @@ Outline / Questions
 * how do u handle zk security?
 * what is the maturity of python and ruby libs for zk?
 * how could zk be part of an orchestration framework?
+* How do u separate namespaces for your different environments? prod, dev, qa
+* Should chef/puppet integrate/embed zk?
 
 
 Picks<a name="picks"></a>
