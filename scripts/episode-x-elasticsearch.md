@@ -46,6 +46,7 @@ Outline/Questions
    example, change the time_duration field in haproxy events to int so
    I can do range queries. How would
 * what are some useful lucene queries that ppl should know about?
+* from phrawtzy: When will @elasticsearch have a built-in backup mechanism?
 * what is the best way to monitor ES?
 * puppet and chef support
    * what recipes are present?
