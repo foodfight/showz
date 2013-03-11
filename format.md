@@ -31,13 +31,16 @@ Recording an episode
 --------------------
 
 In general, you should try to minimize the time you spend planning an
-episode. Time spend episode planning takes away from time spent recording.
+episode. Time spent episode planning takes away from time spent recording.
 
 0. Round up some prospective guests, tell each of them to wear a
 headset during recording and mute their built-in audio
 1. If you have multiple participants, use doodle.com to find a
 suitable time.
-2. Use Foodfightshow calendar to send an invite w/ the recording date
+2. Use Foodfightshow calendar to send an invite w/ the recording date we 
+have a good 
+[invitation template](https://github.com/foodfight/showz/blob/master/calendar_invite.txt) 
+to which you'll need to add a link to show notes.
 3. Notify participants w/ the url for the google hangout about 10 mins
 beforehand, remind them to use a headset and mute built-in audio
 4. Send a tweet notifying our fans of the episode
@@ -50,7 +53,7 @@ edit the video on youtube.
 hour
 9. Tell everyone when you go off air
 10. Post-production
-  0. create stub of show notes w/ link to youtube video and publish
+  0. create stub of show notes w/link to youtube video and publish
   1. download the video from youtube
   2. strip the audio using screenflow or ffmpeg
   3. put together show notes using the
@@ -72,7 +75,8 @@ Sections
 5. Picks
 6. Goodbye 
      1. send in cookbook news
-     2. thank guests
+     2. subscribe to newsletter
+     3. thank guests
 
 Notes for Guests
 ----------------
@@ -91,7 +95,7 @@ Rules
 2. Don't talk about politics, religion, your sexual exploits. 50% will
 disagree w/ you and the other 50% won't care.
 3. Don't trash other open-source projects
-4. Don't trash MicroSoft
+4. Don't trash Microsoft
 
 
 Show License: CC-BY 3.0
