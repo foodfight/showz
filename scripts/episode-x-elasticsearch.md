@@ -47,6 +47,9 @@ Outline/Questions
    I can do range queries. How would
 * what are some useful lucene queries that ppl should know about?
 * what is the best way to monitor ES?
+* puppet and chef support
+   * what recipes are present?
+   * what is lacking?
 
 Picks<a name="picks"></a>
 -----
