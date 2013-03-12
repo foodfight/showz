@@ -9,8 +9,10 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey),
   [twitter](http://twitter.com/nathenharvey), irc: nathenharvey,
   [blog](http://nathenharvey.com)
-* Charity Majors
-* Ben Hartshorne
+* Charity Majors [github](http://github.com/charity),
+[twitter](http://twitter.com/mipsytipsy), [blog](http://blog.parse.com)
+* Ben Hartshorne [github](http://github.com/maplebed),
+[twitter](http://twitter.com/maplebed), [blog](http://blog.parse.com)
 * Matt Wise
 
 Chef news
