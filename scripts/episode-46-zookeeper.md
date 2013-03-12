@@ -13,7 +13,7 @@ Panel<a name="panel"></a>
 [twitter](http://twitter.com/mipsytipsy), [blog](http://blog.parse.com)
 * Ben Hartshorne [github](http://github.com/maplebed),
 [twitter](http://twitter.com/maplebed), [blog](http://blog.parse.com)
-* Matt Wise
+* [Matt Wise](https://github.com/diranged)
 
 Chef news
 ---------
@@ -52,6 +52,15 @@ Outline / Questions
 * Should chef/puppet integrate/embed zk?
 
 
+Show Notes
+----------
+
+* Matt uses [kazoo](https://kazoo.readthedocs.org/)
+* Matt developed [zkwatcher](https://github.com/Nextdoor/zkwatcher)
+* Matt's post on creating a [service registry w/ zookeeper](http://engblog.nextdoor.com/post/43517659364/nextdoor-service-registry)
+* Ben and Charity are using the zookeeper gem
+* Ben's blog post on [distributed locks with ZooKeeper](http://blog.parse.com/2013/03/11/implementing-failover-for-random-cronjobs-with-zookeeper/)
+
 Picks<a name="picks"></a>
 -----
 
@@ -60,11 +69,20 @@ Picks<a name="picks"></a>
 * [CS 162](http://www.youtube.com/watch?v=XgQo4JkN4Bw)
 * [Java is the new C](http://www.slideshare.net/mobile/pcalcado/from-a-monolithic-ruby-on-rails-app-to-the-jvm)
 
-#### Matt  
+#### Matt Wise
+
+* logstash
+* http://blog.lusis.org/blog/2013/01/20/future-of-noah/
 
 #### lusis  
 
-#### Nathen  
+https://speakerdeck.com/lusis/cross-node-orchestration-with-chef-and-noah?slide=36
+
+
+### Ben Hartshorne
+
+* [ZooKeeper](http://zookeeper.apache.org/)
 
 Download
 --------
+https://kazoo.readthedocs.org/
