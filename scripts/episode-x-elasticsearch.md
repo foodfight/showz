@@ -64,6 +64,8 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 
+* [AWS podcast](http://aws.amazon.com/apac/awspodcast/)
+
 #### lusis  
 
 #### Nathen  
