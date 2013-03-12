@@ -18,9 +18,13 @@ Chef news
 
 * vote for awesome community chefs!
 * update on chefconf
-* test-kitchen runs in 20s w/ LXC on AWS, according to @fujin
+* test-kitchen runs in 20s w/ LXC on AWS, according to @fujin, [it's some next-level shhhtuff](https://twitter.com/fujin_/status/311311580518285312)
 * subscribe to the "What's Cookin" newsletter
-* changing the name of the foodfightshow
+
+Other news
+----------
+* bryanwb has a [new gig](http://cyclecomputing.com)
+* changing the [name of the foodfightshow](http://www.youtube.com/watch?v=MWRJRlYt6EY)
 
 Outline / Questions
 -------------------
