@@ -20,7 +20,7 @@ Chef news
 * update on chefconf
 * test-kitchen runs in 20s w/ LXC on AWS, according to @fujin
 * subscribe to the "What's Cookin" newsletter
-
+* changing the name of the foodfightshow
 
 Outline / Questions
 -------------------
@@ -52,7 +52,7 @@ Picks<a name="picks"></a>
 #### Bryan  
 
 * [CS 162](http://www.youtube.com/watch?v=XgQo4JkN4Bw)
-* 
+* [Java is the new C](http://www.slideshare.net/mobile/pcalcado/from-a-monolithic-ruby-on-rails-app-to-the-jvm)
 
 #### Matt  
 
