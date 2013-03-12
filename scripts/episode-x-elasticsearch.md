@@ -11,7 +11,7 @@ Panel<a name="panel"></a>
   [blog](http://nathenharvey.com)
 * Shay Banon [twitter](https://twitter.com/kimchy)
 * Karel Minarik
-* Rashid Khan [github](https://github.com/rashidkpc), [twitter](https://twitter.com/rashidkpc)
+* Rashid Khan [github](https://github.com/rashidkpc), [twitter](https://twitter.com/rashidkpc) irc: rashidkpc
 * Dan Phrawzty [github](https://github.com/phrawzty), [twitter](https://twitter.com/phrawzty), irc: phrawzty, [blog](http://www.dark.ca/)
 
 
@@ -70,6 +70,9 @@ Picks<a name="picks"></a>
 #### lusis  
 
 #### Nathen  
+
+#### rashidkpc
+* [JDK8 for Raspberry Pi](http://jdk8.java.net/fxarmpreview/javafx-arm-developer-preview.html)
 
 #### phrawzty
 
