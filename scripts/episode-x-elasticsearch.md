@@ -65,6 +65,7 @@ Picks<a name="picks"></a>
 #### Bryan  
 
 * [AWS podcast](http://aws.amazon.com/apac/awspodcast/)
+* Jason Stowe and Rob Futrick
 
 #### lusis  
 
