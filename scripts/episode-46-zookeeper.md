@@ -13,6 +13,15 @@ Panel<a name="panel"></a>
 * Ben Hartshorne
 * Matt Wise
 
+Chef news
+---------
+
+* vote for awesome community chefs!
+* update on chefconf
+* test-kitchen runs in 20s w/ LXC on AWS, according to @fujin
+* subscribe to the "What's Cookin" newsletter
+
+
 Outline / Questions
 -------------------
 
