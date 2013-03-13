@@ -67,6 +67,7 @@ Picks<a name="picks"></a>
 
 
 #### Doug
+[Continuous Deployment at Etsy presentation](http://www.slideshare.net/mobile/500startups/ross-synder-etsy-sxsw-lean-startup-2013)
 
 #### Chris
 
