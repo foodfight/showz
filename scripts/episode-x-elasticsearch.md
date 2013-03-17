@@ -10,7 +10,7 @@ Panel<a name="panel"></a>
   [twitter](http://twitter.com/nathenharvey), irc: nathenharvey,
   [blog](http://nathenharvey.com)
 * Shay Banon [twitter](https://twitter.com/kimchy)
-* Karel Minarik
+* Karel Minarik [github](https://github.com/karmi), [twitter](https://twitter.com/karmiq), irc: karmi
 * Rashid Khan [github](https://github.com/rashidkpc), [twitter](https://twitter.com/rashidkpc) irc: rashidkpc
 * Dan Phrawzty [github](https://github.com/phrawzty), [twitter](https://twitter.com/phrawzty), irc: phrawzty, [blog](http://www.dark.ca/)
 
@@ -18,7 +18,7 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
-* define
+* Define
    * node
    * index
    * shard
@@ -37,16 +37,28 @@ Outline/Questions
   list but written documentation is lacking. Are there plans to
   improve it?
 * Is there a public roadmap for kibana?
-* most sysadmins use ES in conjunction w/ logstash. what are some
+* Most sysadmins use ES in conjunction w/ logstash. what are some
   other uses ops ppl might find for ES?
+   * Structured vs. free text search
+   * [Analytics with facets](http://www.elasticsearch.org/blog/2011/05/13/data-visualization-with-elasticsearch-and-protovis.html)
+   * Percolator (alerting, document clustering, etc); [example with the Tire gem](https://github.com/karmi/tire/blob/master/test/integration/percolator_test.rb#L51-L73)
 * what are some helpful debugging tools for ES?
+   * The _essential_ one: ["Analyze API"](http://www.elasticsearch.org/guide/reference/api/admin-indices-analyze.html)
+     (play with different tokenizers and filters, build custom analyzers)
+   * The ["Explain API"](http://www.elasticsearch.org/guide/reference/api/explain.html)
+     (information if and how a specific document matches a query)
    * Debug queries: [Inquisitor](https://github.com/polyfractal/elasticsearch-inquisitor)
 * What plugins should ppl consider using?
    * Site "visualisation" plugins are especially handy for Ops:
      * [head](http://mobz.github.com/elasticsearch-head/)
      * [paramedic](https://github.com/karmi/elasticsearch-paramedic)
      * [bigdesk](https://github.com/lukas-vlcek/bigdesk)
-* how do i?
+   * The ["elasticsearch-lang-javascript"](https://github.com/elasticsearch/elasticsearch-lang-javascript)
+     allows to write scripts (sorting, faceting, etc) in JavaScript
+   * The [Hunspell analyzer](https://github.com/jprante/elasticsearch-analysis-hunspell)
+   * The [attachment](https://github.com/elasticsearch/elasticsearch-mapper-attachments) plugin
+     allows to extract information from RTF, PDF, etc documents
+* how do I?
   * check the health of a single index?
   * I want to change the value of a field from a string to an int. For
     example, change the time_duration field in haproxy events to int so
