@@ -3,17 +3,18 @@ Food Fight Show News
 Welcome to the fifth issue of the What's Cookin' newsletter!
 
 ### Latest Episodes
-* Adaptive Fault Detection - [Website](http://foodfightshow.org/2013/03/adaptive-fault-detection.html) | [YouTube](http://www.youtube.com/watch?v=nyR0elLfy28)
-* Chef 11 - [Website](http://foodfightshow.org/2013/02/chef-11.html) | [YouTube](http://www.youtube.com/watch?v=yo2vchHd_FE)
-* Logstash - [Website](http://foodfightshow.org/2013/02/logstash.html) | [YouTube](http://www.youtube.com/watch?v=zcTeyG80uY0)
+* LWRPs, Libraries, and Definitions - [Website](http://foodfightshow.org/2013/03/lwrps.html) | [YouTube](http://www.youtube.com/watch?v=sdPIiho1RLY)
+* Zookeeper - [Website](http://foodfightshow.org/2013/03/episode-46-zookeeper1.html) | [YouTube](http://www.youtube.com/watch?v=lnszk2BOMgQ)
+* Chef 11 on Hangops - [Website](http://foodfightshow.org/2013/03/hangops.html) | [YouTube](http://www.youtube.com/watch?v=jp9D_CFH6UY)
 
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
+* [Elastic Search](https://github.com/foodfight/showz/blob/master/scripts/episode-x-elasticsearch.md) - [Tuesday, March 19 15:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Elastic+Search&iso=20130319T08&p1=234)
 * [DevOps and The Phoenix Project](https://github.com/foodfight/showz/blob/master/scripts/episode-x-phoenix-project.md) with [Gene Kim](http://twitter.com/realgenekim) - [Monday, March 25 22:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+and+the+Phoenix+Project&iso=20130325T18&p1=1928&ah=1)
-* Libraries, LWRPs, and Definitions - TBD
-* Zookeeper - TBD - Seeking panelists - do you know anyone?
+* Amazon OpsWorks - TBD
+* Illumos - TBD
 
 In the News
 -----------
@@ -22,25 +23,29 @@ In the News
 Meetup with people in your neighborhood at one of the following meetup groups.
 
 * [DevOps Kansas City](http://www.meetup.com/DevOps-Kansas-City/) - A new group is forming!
-* 8-March - [svDevOps](http://www.meetup.com/SVDevOps/events/106522322/) - Logstash with Jordan Sissel - A great follow-up to [episode 40](http://foodfightshow.org/2013/02/logstash.html)
-* 12-March - [Infrastructure Coders March Meetup](http://meetup.infrastructurecoders.com/events/93953982/) - Melbourne, Australia
-* 12-March - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/104582152/) - Seattle - Preview of [#ChefConf](http://chefconf.opscode.com)
-* 13-March - [San Diego DevOps](http://www.meetup.com/sddevops/events/103407322/) - Eucalyptus Private Cloud
-* 13-March - [PDXCloud March Gathering](http://www.meetup.com/PDXCloud/events/107970162/)
-* 14-March - [DevOps Milwaukee](http://www.meetup.com/DevOps-Milwaukee/events/101106722/) - Casual Mixer
-* 20-March - [Trangle DevOps](http://www.meetup.com/Triangle-DevOps/events/105370252/) - Learn that Failure Comes In Flavors
-* 21-March - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/99809042/) - [Gene Kim](http://twitter.com/realgenekim) on "DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps" - a great preview for our upcoming episode.
+* 18-March - [DevOps/Cloud SIG](http://www.meetup.com/LakeMary-DevOps/events/108966602/) - Lake Mary, FL
+* 18-March - [pdxdevops](http://calagator.org/events/1250463823) - Portland DevOps user group meeting
+* 20-March - [Triangle DevOps](http://www.meetup.com/Triangle-DevOps/events/105370252/) - Learn that Failure Comes in Flavors
+* 21-March - [DevOps ATL](http://www.meetup.com/DevOpsATL/events/99809042/) - [Gene Kim](http://twitter.com/realgenekim) on DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps
 * 25-March - [Twin Cities Infracoders](http://www.meetup.com/Twin-Cities-Infracoders/events/104737642/) - talk about how we can automate ALL THE THINGS!
 * 26-March - [Chef-NYC](http://www.meetup.com/Chef-NYC/events/101936232/) - Writing better recipes with Jenkins and ChefSpec
+* 26-March - [PhillyDevOps](http://phillydevops.org/) - OpenStack: Theory and Practice
 * 26-March - [Seattle DevOps](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/102064832/)
 * 3-April - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/108052522/) - Cloud Platforms, OpenStack and You...
 * 6-April - [DevOps Moscow](http://www.meetup.com/DevOps-Moscow-in-Russian/events/106192822/) - Говорим о том, как постоянно доставлять (continuous delivery)
+* 9-April - [Infracoders April Meetup (Melbourne, Australia)](http://meetup.infrastructurecoders.com/events/106766922/) - Belvedere: Environment Consistency from Dev to Prod
+* 9-April - [Infracoders Berlin](http://www.meetup.com/Infracoders-Berlin/events/109049702/) - Logging and Monitoring
+* 9-April - [DevOpsDC](http://www.meetup.com/DevOpsDC/events/108266302/) - April Meetup
+* 11-April - [DevOps Milwaukee](http://www.meetup.com/DevOps-Milwaukee/events/101106722/)
+* 16-April - [Seattle Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/109042342/) - How I Wrote a Chef Server While Waiting in Line at Best Buy
+* 17-April - [nycdevops](http://www.meetup.com/nycdevops/events/106541262/) - [Gene Kim](http://twitter.com/realgenekim) on Devops - Implementing The Needed Practices In Four Practical Steps
+* 17-April - [San Diego DevOps](http://www.meetup.com/sddevops/events/109753162/)
 
 * Chef Cafes
-  * 7-March - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/106460472/)
-  * 14-March - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/103832112/)
   * 19-March - [Austin](http://www.meetup.com/austin-devops/events/105513492/)
   * 20-March - [SFO](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/106460472/)
+  * 4-April - [Mountain View, CA](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/104475382/)
+  * 11-April - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/dkcfndyrgbpb/)
 
 #### Speaking Opportunities
 
