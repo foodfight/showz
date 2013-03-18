@@ -83,6 +83,10 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### karmi
+
+* [Recline.js from OKFN](http://okfnlabs.org/recline/demos/)
+
 #### rashidkpc
 * [JDK8 for Raspberry Pi](http://jdk8.java.net/fxarmpreview/javafx-arm-developer-preview.html)
 
