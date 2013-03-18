@@ -1,19 +1,19 @@
 Food Fight Show News
 -------------------
-Welcome to the second issue of the What's Cookin' newsletter!
+Welcome to the fifth issue of the What's Cookin' newsletter!
 
 ### Latest Episodes
-* 
-* 
-*
+* Adaptive Fault Detection - [Website](http://foodfightshow.org/2013/03/adaptive-fault-detection.html) | [YouTube](http://www.youtube.com/watch?v=nyR0elLfy28)
+* Chef 11 - [Website](http://foodfightshow.org/2013/02/chef-11.html) | [YouTube](http://www.youtube.com/watch?v=yo2vchHd_FE)
+* Logstash - [Website](http://foodfightshow.org/2013/02/logstash.html) | [YouTube](http://www.youtube.com/watch?v=zcTeyG80uY0)
 
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* 
-* 
-* 
+* [DevOps and The Phoenix Project](https://github.com/foodfight/showz/blob/master/scripts/episode-x-phoenix-project.md) with [Gene Kim](http://twitter.com/realgenekim) - [Monday, March 25 22:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+and+the+Phoenix+Project&iso=20130325T18&p1=1928&ah=1)
+* Libraries, LWRPs, and Definitions - TBD
+* Zookeeper - TBD - Seeking panelists - do you know anyone?
 
 In the News
 -----------
@@ -21,37 +21,139 @@ In the News
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
 
+* [DevOps Kansas City](http://www.meetup.com/DevOps-Kansas-City/) - A new group is forming!
+* 8-March - [svDevOps](http://www.meetup.com/SVDevOps/events/106522322/) - Logstash with Jordan Sissel - A great follow-up to [episode 40](http://foodfightshow.org/2013/02/logstash.html)
+* 12-March - [Infrastructure Coders March Meetup](http://meetup.infrastructurecoders.com/events/93953982/) - Melbourne, Australia
+* 12-March - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/104582152/) - Seattle - Preview of [#ChefConf](http://chefconf.opscode.com)
+* 13-March - [San Diego DevOps](http://www.meetup.com/sddevops/events/103407322/) - Eucalyptus Private Cloud
+* 13-March - [PDXCloud March Gathering](http://www.meetup.com/PDXCloud/events/107970162/)
+* 14-March - [DevOps Milwaukee](http://www.meetup.com/DevOps-Milwaukee/events/101106722/) - Casual Mixer
+* 20-March - [Trangle DevOps](http://www.meetup.com/Triangle-DevOps/events/105370252/) - Learn that Failure Comes In Flavors
+* 21-March - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/99809042/) - [Gene Kim](http://twitter.com/realgenekim) on "DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps" - a great preview for our upcoming episode.
+* 25-March - [Twin Cities Infracoders](http://www.meetup.com/Twin-Cities-Infracoders/events/104737642/) - talk about how we can automate ALL THE THINGS!
+* 26-March - [Chef-NYC](http://www.meetup.com/Chef-NYC/events/101936232/) - Writing better recipes with Jenkins and ChefSpec
+* 26-March - [Seattle DevOps](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/102064832/)
+* 3-April - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/108052522/) - Cloud Platforms, OpenStack and You...
+* 6-April - [DevOps Moscow](http://www.meetup.com/DevOps-Moscow-in-Russian/events/106192822/) - Говорим о том, как постоянно доставлять (continuous delivery)
+
+* Chef Cafes
+  * 7-March - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/106460472/)
+  * 14-March - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/103832112/)
+  * 19-March - [Austin](http://www.meetup.com/austin-devops/events/105513492/)
+  * 20-March - [SFO](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/106460472/)
+
 #### Speaking Opportunities
 
-You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
+You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  [CFPs are closing soon](http://wiki.opscode.com/display/chef/Technical+Conferences) so submit your talk today!
 
-* [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
+* [HotCloud '13](https://www.usenix.org/conference/hotcloud13/) - CFP closes 7-March
+* [WiAC '13](https://www.usenix.org/conference/wiac13) - CFP closes 13-March
+* [Gotham Ruby Conference (GORUCO)](http://goruco.com/) - CFP closes 14-March
+* [RICON|East](http://ricon.io/east.html) - CFP closes 15-March
+* [DevOpsDays Paris](http://devopsdays.org/events/2013-paris/) - CFP closes 1-April
+* [DevOpsDays Berlin](http://devopsdays.org/events/2013-berlin/) - CFP closes 1-April
+* [Texas Linux Fest](http://2013.texaslinuxfest.org/) - CFP closes 1-April
+* [DevOpsDays Austin](http://devopsdays.org/events/2013-austin/) - CFP closes 1-April
+* [USENIX Configuration Management Summit](https://www.usenix.org/conference/ucms13/) - CFP closes 5-April
 
 ###  Special Offers
 
 #### Opscode Training
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+Use promotional code 'FOODFIGHT' to save 10% off 
+
+* [Chef Introductory Workshops](http://opscode.eventbrite.com/) in Atlanta, San Diego, Minneapolis, Boston, Philadelphila, and Atlanta.
+* [Chef Introductory Workshop for Windows](http://opscode.eventbrite.com/) in Seattle and New York.
+* [2-Day Chef Fundamentals](http://opscode.eventbrite.com/) in Seattle, New York, and DC.
 
 #### #ChefConf 2013
 
-[#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT).
-
-We want to hear YOUR stories at #ChefConf!  [Propose a talk today](https://chefconf2013.busyconf.com/proposals/new).
+[#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT). **Early Bird Pricing ends 10-March!**
 
 Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
 
-Cookbooks on the [Community Site](http://community.opscode.com) - 765  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 82  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 94  
+Cookbooks on the [Community Site](http://community.opscode.com) - 848  
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 113  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
 
 ### New Cookbooks
+* [rackspacecloudbackupagent](http://community.opscode.com/cookbooks/rackspacecloudbackupagent) (0.0.1) - [djoos](http://community.opscode.com/users/djoos) - Installs/Configures Rackspace Cloud Backup Agent aka RCBU Agent
+* [hollandbackup](http://community.opscode.com/cookbooks/hollandbackup) (0.0.5)
+* [remote_template](http://community.opscode.com/cookbooks/remote_template) (0.0.1) - [labria](http://community.opscode.com/users/labria) - provides the remote_template resource
+* [libmemcached](http://community.opscode.com/cookbooks/libmemcached) (0.1.0) - [fred](http://community.opscode.com/users/fred) - Install/Configure libmemcached
+* [etherpad-lite](http://community.opscode.com/cookbooks/etherpad-lite) (0.1.1) - [chrisballinger](http://community.opscode.com/users/chrisballinger) - Installs [etherpad-lite](http://etherpad.org/)
+* [x509](http://community.opscode.com/cookbooks/x509) (1.0.1) - [chrisandrews](http://community.opscode.com/users/chrisandrews) - Deploy a Chef-managed Certificate Authority
+* [vt-gpg](http://community.opscode.com/cookbooks/vt-gpg) (1.0.0) - [chrisandrews](http://community.opscode.com/users/chrisandrews) - install gpg, set up root's GPG trustdb in /root/.gnupg, and install and mark trusted all the "well known" GPG public keys from a named data bag.
+* [resource_masher](http://community.opscode.com/cookbooks/resource_masher) (0.9.0) - [binarybabel](http://community.opscode.com/users/binarybabel) - provides a library which extends Chef Resource objects with new abilities to export their attribute values, including default values, and with the added functionality of a Mash wrapper
+* [youtrack](http://community.opscode.com/cookbooks/youtrack) (0.0.0) - [vslinko](http://community.opscode.com/users/vslinko) - Installs YouTrack Issue Tracker from JetBrains
+* [unix_bin](http://community.opscode.com/cookbooks/unix_bin) (0.2.1) - [binarybabel](http://community.opscode.com/users/binarybabel) - Provide LWRPs for installing (or requiring) unix command-line executables, without needing to know or specify the OS package that provides it.
+* [application_nodejs](http://community.opscode.com/cookbooks/application_nodejs) (1.0.1) - [conradev](http://community.opscode.com/users/conradev) - describe and deploy Node.js web applications using Upstart.
+* [azure](http://community.opscode.com/cookbooks/azure) (0.1.0) - [priestjim](http://community.opscode.com/users/priestjim) - installs and configures the Windows Azure Linux agent for your selected distribution and provides an OHAI plugin that populates the azure and cloud mashes with proper data in the same way the EC2 and Rackspace plugins do.
+* [gemrc](http://community.opscode.com/cookbooks/gemrc) (0.0.1) - [uchouhan](http://community.opscode.com/users/uchouhan) - Configures rubygems to skip RI and RDoc installation.
+* [thread](http://community.opscode.com/cookbooks/thread) (0.1.0) - [rdeys](http://community.opscode.com/users/rdeys) - Provides an lwrp to execute start in parallel (via threads).
+* [apt-cacher-ng](http://community.opscode.com/cookbooks/apt-cacher-ng) (0.1.0) - [shellycloud](http://community.opscode.com/users/shellycloud) - Installs/Configures [apt-cacher-ng](http://www.unix-ag.uni-kl.de/~bloch/acng/)
+* [repository](http://community.opscode.com/cookbooks/repository) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Build a repository, using Chef.
+* [reportchef](http://community.opscode.com/cookbooks/reportchef) (1.0.3) - [appfission](http://community.opscode.com/users/appfission) - Installs and configures a handler for [ReportChef](http://www.reportchef.com/)
 
-### Updated Cookbooks
+## Updated Cookbooks
+* [vslinko](http://community.opscode.com/cookbooks/vslinko) (0.0.2)
+* [zarafa](http://community.opscode.com/cookbooks/zarafa) (1.2.0)
+* [newrelic](http://community.opscode.com/cookbooks/newrelic) (0.4.6)
+* [whitelist-node-attrs](http://community.opscode.com/cookbooks/whitelist-node-attrs) (1.1.0)
+* [errbit](http://community.opscode.com/cookbooks/errbit) (0.3.0)
+* [nodejs](http://community.opscode.com/cookbooks/nodejs) (1.1.0)
+* [logrotate](http://community.opscode.com/cookbooks/logrotate) (1.2.0)
+* [couchdb](http://community.opscode.com/cookbooks/couchdb) (2.4.0)
+* [chef-client](http://community.opscode.com/cookbooks/chef-client) (2.2.2)
+* [users](http://community.opscode.com/cookbooks/users) (1.4.0)
+* [application_python](http://community.opscode.com/cookbooks/application_python) (1.1.0)
+* [phpcb](http://community.opscode.com/cookbooks/phpcb) (0.0.3)
+* [phpdoc](http://community.opscode.com/cookbooks/phpdoc) (0.0.2)
+* [phpcpd](http://community.opscode.com/cookbooks/phpcpd) (0.0.4)
+* [phpdcd](http://community.opscode.com/cookbooks/phpdcd) (0.0.4)
+* [phpmd](http://community.opscode.com/cookbooks/phpmd) (0.0.3)
+* [phpcs](http://community.opscode.com/cookbooks/phpcs) (0.0.3)
+* [phpunit](http://community.opscode.com/cookbooks/phpunit) (0.0.7)
+* [phploc](http://community.opscode.com/cookbooks/phploc) (0.0.3)
+* [pdepend](http://community.opscode.com/cookbooks/pdepend) (0.0.2)
+* [cloudpassage](http://community.opscode.com/cookbooks/cloudpassage) (0.0.4)
+* [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) (0.1.2)
+* [composer](http://community.opscode.com/cookbooks/composer) (0.0.3)
+* [httplivestreamsegmenter](http://community.opscode.com/cookbooks/httplivestreamsegmenter) (0.0.8)
+* [mplayer](http://community.opscode.com/cookbooks/mplayer) (0.0.6)
+* [gpac](http://community.opscode.com/cookbooks/gpac) (0.0.6)
+* [yasm](http://community.opscode.com/cookbooks/yasm) (0.0.3)
+* [haproxy_lwrp](http://community.opscode.com/cookbooks/haproxy_lwrp) (2.0.3) 
+* [artifact](http://community.opscode.com/cookbooks/artifact) (1.4.0) 
+* [openresty](http://community.opscode.com/cookbooks/openresty) (0.1.7)
+* [logstash](http://community.opscode.com/cookbooks/logstash) (0.5.9)
+* [galera](http://community.opscode.com/cookbooks/galera) (0.4.1)
+* [glassfish](http://community.opscode.com/cookbooks/glassfish) (0.5.22)
+* [authbind](http://community.opscode.com/cookbooks/authbind) (0.1.6)
+* [pki](http://community.opscode.com/cookbooks/pki) (0.1.0)
+* [hwraid](http://community.opscode.com/cookbooks/hwraid) (0.2.0)
+* [mcollective](http://community.opscode.com/cookbooks/mcollective) (0.10.2)
+* [java](http://community.opscode.com/cookbooks/java) (1.10.0)
+* [aws_extras](http://community.opscode.com/cookbooks/aws_extras) (1.1.0)
+* [iterm2](http://community.opscode.com/cookbooks/iterm2) (1.3.0)
+* [openssl](http://community.opscode.com/cookbooks/openssl) (1.0.2)
+* [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) (0.3.0)
+* [hostsfile](http://community.opscode.com/cookbooks/hostsfile) (1.0.0)
+* [pkg-build](http://community.opscode.com/cookbooks/pkg-build) (0.1.9) 
+* [percona](http://community.opscode.com/cookbooks/percona) (0.14.3)
+* [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) (0.2.5)
+* [fpm-tng](http://community.opscode.com/cookbooks/fpm-tng) (0.1.3)
+* [builder](http://community.opscode.com/cookbooks/builder) (0.1.1)
+* [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (3.0.0)
+* [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) (0.2.0) - DEPRECATED - Use [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools)
+* [riak](http://community.opscode.com/cookbooks/riak) (1.3.0)
 
 * [elasticsearch](https://github.com/elasticsearch/cookbook-elasticsearch) ([0.2.6](https://github.com/elasticsearch/cookbook-elasticsearch/compare/0.2.5...0.2.6))
+
+
+### New and Updated Chef and Knife Gems
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
