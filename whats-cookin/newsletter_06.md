@@ -84,77 +84,68 @@ Knife Plugins on [RubyGems.org](http://rubygems.org) - 116
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 106
 
 ### New Cookbooks
-* [rackspacecloudbackupagent](http://community.opscode.com/cookbooks/rackspacecloudbackupagent) (0.0.1) - [djoos](http://community.opscode.com/users/djoos) - Installs/Configures Rackspace Cloud Backup Agent aka RCBU Agent
-* [hollandbackup](http://community.opscode.com/cookbooks/hollandbackup) (0.0.5)
-* [remote_template](http://community.opscode.com/cookbooks/remote_template) (0.0.1) - [labria](http://community.opscode.com/users/labria) - provides the remote_template resource
-* [libmemcached](http://community.opscode.com/cookbooks/libmemcached) (0.1.0) - [fred](http://community.opscode.com/users/fred) - Install/Configure libmemcached
-* [etherpad-lite](http://community.opscode.com/cookbooks/etherpad-lite) (0.1.1) - [chrisballinger](http://community.opscode.com/users/chrisballinger) - Installs [etherpad-lite](http://etherpad.org/)
-* [x509](http://community.opscode.com/cookbooks/x509) (1.0.1) - [chrisandrews](http://community.opscode.com/users/chrisandrews) - Deploy a Chef-managed Certificate Authority
-* [vt-gpg](http://community.opscode.com/cookbooks/vt-gpg) (1.0.0) - [chrisandrews](http://community.opscode.com/users/chrisandrews) - install gpg, set up root's GPG trustdb in /root/.gnupg, and install and mark trusted all the "well known" GPG public keys from a named data bag.
-* [resource_masher](http://community.opscode.com/cookbooks/resource_masher) (0.9.0) - [binarybabel](http://community.opscode.com/users/binarybabel) - provides a library which extends Chef Resource objects with new abilities to export their attribute values, including default values, and with the added functionality of a Mash wrapper
-* [youtrack](http://community.opscode.com/cookbooks/youtrack) (0.0.0) - [vslinko](http://community.opscode.com/users/vslinko) - Installs YouTrack Issue Tracker from JetBrains
-* [unix_bin](http://community.opscode.com/cookbooks/unix_bin) (0.2.1) - [binarybabel](http://community.opscode.com/users/binarybabel) - Provide LWRPs for installing (or requiring) unix command-line executables, without needing to know or specify the OS package that provides it.
 * [application_nodejs](http://community.opscode.com/cookbooks/application_nodejs) (1.0.1) - [conradev](http://community.opscode.com/users/conradev) - describe and deploy Node.js web applications using Upstart.
-* [azure](http://community.opscode.com/cookbooks/azure) (0.1.0) - [priestjim](http://community.opscode.com/users/priestjim) - installs and configures the Windows Azure Linux agent for your selected distribution and provides an OHAI plugin that populates the azure and cloud mashes with proper data in the same way the EC2 and Rackspace plugins do.
-* [gemrc](http://community.opscode.com/cookbooks/gemrc) (0.0.1) - [uchouhan](http://community.opscode.com/users/uchouhan) - Configures rubygems to skip RI and RDoc installation.
-* [thread](http://community.opscode.com/cookbooks/thread) (0.1.0) - [rdeys](http://community.opscode.com/users/rdeys) - Provides an lwrp to execute start in parallel (via threads).
-* [apt-cacher-ng](http://community.opscode.com/cookbooks/apt-cacher-ng) (0.1.0) - [shellycloud](http://community.opscode.com/users/shellycloud) - Installs/Configures [apt-cacher-ng](http://www.unix-ag.uni-kl.de/~bloch/acng/)
-* [repository](http://community.opscode.com/cookbooks/repository) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Build a repository, using Chef.
-* [reportchef](http://community.opscode.com/cookbooks/reportchef) (1.0.3) - [appfission](http://community.opscode.com/users/appfission) - Installs and configures a handler for [ReportChef](http://www.reportchef.com/)
-
+* [apt-cacher-ng](http://community.opscode.com/cookbooks/apt-cacher-ng) (0.1.0) - [shellycloud](http://community.opscode.com/users/shellycloud) - Installs/Configures [apt-cacher-ng](http://www.unix-ag.uni-kl.de/~bloch/acng/)* [azure](http://community.opscode.com/cookbooks/azure) (0.1.0) - [priestjim](http://community.opscode.com/users/priestjim) - installs and configures the Windows Azure Linux agent for your selected distribution and provides an OHAI plugin that populates the azure and cloud mashes with proper data in the same way the EC2 and Rackspace plugins do.* [etherpad-lite](http://community.opscode.com/cookbooks/etherpad-lite) (0.1.1) - [chrisballinger](http://community.opscode.com/users/chrisballinger) - Installs [etherpad-lite](http://etherpad.org/)* [gemrc](http://community.opscode.com/cookbooks/gemrc) (0.0.1) - [uchouhan](http://community.opscode.com/users/uchouhan) - Configures rubygems to skip RI and RDoc installation.
+* [hollandbackup](http://community.opscode.com/cookbooks/hollandbackup) (0.0.5)* [libmemcached](http://community.opscode.com/cookbooks/libmemcached) (0.1.0) - [fred](http://community.opscode.com/users/fred) - Install/Configure libmemcached
+* [rackspacecloudbackupagent](http://community.opscode.com/cookbooks/rackspacecloudbackupagent) (0.0.1) - [djoos](http://community.opscode.com/users/djoos) - Installs/Configures Rackspace Cloud Backup Agent aka RCBU Agent* [remote_template](http://community.opscode.com/cookbooks/remote_template) (0.0.1) - [labria](http://community.opscode.com/users/labria) - provides the remote_template resource* [reportchef](http://community.opscode.com/cookbooks/reportchef) (1.0.3) - [appfission](http://community.opscode.com/users/appfission) - Installs and configures a handler for [ReportChef](http://www.reportchef.com/)* [repository](http://community.opscode.com/cookbooks/repository) (0.1.0) - [chrisroberts](http://community.opscode.com/users/chrisroberts) - Build a repository, using Chef.
+* [resource_masher](http://community.opscode.com/cookbooks/resource_masher) (0.9.0) - [binarybabel](http://community.opscode.com/users/binarybabel) - provides a library which extends Chef Resource objects with new abilities to export their attribute values, including default values, and with the added functionality of a Mash wrapper* [thread](http://community.opscode.com/cookbooks/thread) (0.1.0) - [rdeys](http://community.opscode.com/users/rdeys) - Provides an lwrp to execute start in parallel (via threads).
+* [unix_bin](http://community.opscode.com/cookbooks/unix_bin) (0.2.1) - [binarybabel](http://community.opscode.com/users/binarybabel) - Provide LWRPs for installing (or requiring) unix command-line executables, without needing to know or specify the OS package that provides it.* [vt-gpg](http://community.opscode.com/cookbooks/vt-gpg) (1.0.0) - [chrisandrews](http://community.opscode.com/users/chrisandrews) - install gpg, set up root's GPG trustdb in /root/.gnupg, and install and mark trusted all the "well known" GPG public keys from a named data bag.
+* [x509](http://community.opscode.com/cookbooks/x509) (1.0.1) - [chrisandrews](http://community.opscode.com/users/chrisandrews) - Deploy a Chef-managed Certificate Authority
+* [youtrack](http://community.opscode.com/cookbooks/youtrack) (0.0.0) - [vslinko](http://community.opscode.com/users/vslinko) - Installs YouTrack Issue Tracker from JetBrains
+~
 ## Updated Cookbooks
-* [vslinko](http://community.opscode.com/cookbooks/vslinko) (0.0.2)
-* [zarafa](http://community.opscode.com/cookbooks/zarafa) (1.2.0)
-* [newrelic](http://community.opscode.com/cookbooks/newrelic) (0.4.6)
-* [whitelist-node-attrs](http://community.opscode.com/cookbooks/whitelist-node-attrs) (1.1.0)
-* [errbit](http://community.opscode.com/cookbooks/errbit) (0.3.0)
-* [nodejs](http://community.opscode.com/cookbooks/nodejs) (1.1.0)
-* [logrotate](http://community.opscode.com/cookbooks/logrotate) (1.2.0)
-* [couchdb](http://community.opscode.com/cookbooks/couchdb) (2.4.0)
-* [chef-client](http://community.opscode.com/cookbooks/chef-client) (2.2.2)
-* [users](http://community.opscode.com/cookbooks/users) (1.4.0)
 * [application_python](http://community.opscode.com/cookbooks/application_python) (1.1.0)
-* [phpcb](http://community.opscode.com/cookbooks/phpcb) (0.0.3)
-* [phpdoc](http://community.opscode.com/cookbooks/phpdoc) (0.0.2)
-* [phpcpd](http://community.opscode.com/cookbooks/phpcpd) (0.0.4)
-* [phpdcd](http://community.opscode.com/cookbooks/phpdcd) (0.0.4)
-* [phpmd](http://community.opscode.com/cookbooks/phpmd) (0.0.3)
-* [phpcs](http://community.opscode.com/cookbooks/phpcs) (0.0.3)
-* [phpunit](http://community.opscode.com/cookbooks/phpunit) (0.0.7)
-* [phploc](http://community.opscode.com/cookbooks/phploc) (0.0.3)
-* [pdepend](http://community.opscode.com/cookbooks/pdepend) (0.0.2)
-* [cloudpassage](http://community.opscode.com/cookbooks/cloudpassage) (0.0.4)
+* [artifact](http://community.opscode.com/cookbooks/artifact) (1.4.0)
+* [authbind](http://community.opscode.com/cookbooks/authbind) (0.1.6)
+* [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (3.0.0)
+* [aws_extras](http://community.opscode.com/cookbooks/aws_extras) (1.1.0)
 * [beanstalkd](http://community.opscode.com/cookbooks/beanstalkd) (0.1.2)
+* [builder](http://community.opscode.com/cookbooks/builder) (0.1.1)
+* [chef-client](http://community.opscode.com/cookbooks/chef-client) (2.2.2)
+* [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) (0.2.0) - DEPRECATED - Use [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools)
+* [cloudpassage](http://community.opscode.com/cookbooks/cloudpassage) (0.0.4)
 * [composer](http://community.opscode.com/cookbooks/composer) (0.0.3)
-* [httplivestreamsegmenter](http://community.opscode.com/cookbooks/httplivestreamsegmenter) (0.0.8)
-* [mplayer](http://community.opscode.com/cookbooks/mplayer) (0.0.6)
-* [gpac](http://community.opscode.com/cookbooks/gpac) (0.0.6)
-* [yasm](http://community.opscode.com/cookbooks/yasm) (0.0.3)
-* [haproxy_lwrp](http://community.opscode.com/cookbooks/haproxy_lwrp) (2.0.3) 
-* [artifact](http://community.opscode.com/cookbooks/artifact) (1.4.0) 
-* [openresty](http://community.opscode.com/cookbooks/openresty) (0.1.7)
-* [logstash](http://community.opscode.com/cookbooks/logstash) (0.5.9)
+* [couchdb](http://community.opscode.com/cookbooks/couchdb) (2.4.0)
+* [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) (0.2.5)
+* [elasticsearch](https://github.com/elasticsearch/cookbook-elasticsearch) ([0.2.6](https://github.com/elasticsearch/cookbook-elasticsearch/compare/0.2.5...0.2.6))
+* [errbit](http://community.opscode.com/cookbooks/errbit) (0.3.0)
+* [fpm-tng](http://community.opscode.com/cookbooks/fpm-tng) (0.1.3)
 * [galera](http://community.opscode.com/cookbooks/galera) (0.4.1)
 * [glassfish](http://community.opscode.com/cookbooks/glassfish) (0.5.22)
-* [authbind](http://community.opscode.com/cookbooks/authbind) (0.1.6)
-* [pki](http://community.opscode.com/cookbooks/pki) (0.1.0)
-* [hwraid](http://community.opscode.com/cookbooks/hwraid) (0.2.0)
-* [mcollective](http://community.opscode.com/cookbooks/mcollective) (0.10.2)
-* [java](http://community.opscode.com/cookbooks/java) (1.10.0)
-* [aws_extras](http://community.opscode.com/cookbooks/aws_extras) (1.1.0)
-* [iterm2](http://community.opscode.com/cookbooks/iterm2) (1.3.0)
-* [openssl](http://community.opscode.com/cookbooks/openssl) (1.0.2)
-* [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) (0.3.0)
+* [gpac](http://community.opscode.com/cookbooks/gpac) (0.0.6)
+* [haproxy_lwrp](http://community.opscode.com/cookbooks/haproxy_lwrp) (2.0.3)
 * [hostsfile](http://community.opscode.com/cookbooks/hostsfile) (1.0.0)
-* [pkg-build](http://community.opscode.com/cookbooks/pkg-build) (0.1.9) 
+* [httplivestreamsegmenter](http://community.opscode.com/cookbooks/httplivestreamsegmenter) (0.0.8)
+* [hwraid](http://community.opscode.com/cookbooks/hwraid) (0.2.0)
+* [iterm2](http://community.opscode.com/cookbooks/iterm2) (1.3.0)
+* [java](http://community.opscode.com/cookbooks/java) (1.10.0)
+* [logrotate](http://community.opscode.com/cookbooks/logrotate) (1.2.0)
+* [logstash](http://community.opscode.com/cookbooks/logstash) (0.5.9)
+* [mcollective](http://community.opscode.com/cookbooks/mcollective) (0.10.2)
+* [mplayer](http://community.opscode.com/cookbooks/mplayer) (0.0.6)
+* [newrelic](http://community.opscode.com/cookbooks/newrelic) (0.4.6)
+* [nodejs](http://community.opscode.com/cookbooks/nodejs) (1.1.0)
+* [openresty](http://community.opscode.com/cookbooks/openresty) (0.1.7)
+* [openssl](http://community.opscode.com/cookbooks/openssl) (1.0.2)
+* [pdepend](http://community.opscode.com/cookbooks/pdepend) (0.0.2)
 * [percona](http://community.opscode.com/cookbooks/percona) (0.14.3)
-* [elasticsearch](http://community.opscode.com/cookbooks/elasticsearch) (0.2.5)
-* [fpm-tng](http://community.opscode.com/cookbooks/fpm-tng) (0.1.3)
-* [builder](http://community.opscode.com/cookbooks/builder) (0.1.1)
-* [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (3.0.0)
-* [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) (0.2.0) - DEPRECATED - Use [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools)
+* [phpcb](http://community.opscode.com/cookbooks/phpcb) (0.0.3)
+* [phpcpd](http://community.opscode.com/cookbooks/phpcpd) (0.0.4)
+* [phpcs](http://community.opscode.com/cookbooks/phpcs) (0.0.3)
+* [phpdcd](http://community.opscode.com/cookbooks/phpdcd) (0.0.4)
+* [phpdoc](http://community.opscode.com/cookbooks/phpdoc) (0.0.2)
+* [phploc](http://community.opscode.com/cookbooks/phploc) (0.0.3)
+* [phpmd](http://community.opscode.com/cookbooks/phpmd) (0.0.3)
+* [phpunit](http://community.opscode.com/cookbooks/phpunit) (0.0.7)
+* [pkg-build](http://community.opscode.com/cookbooks/pkg-build) (0.1.9)
+* [pki](http://community.opscode.com/cookbooks/pki) (0.1.0)
 * [riak](http://community.opscode.com/cookbooks/riak) (1.3.0)
-* [elasticsearch](https://github.com/elasticsearch/cookbook-elasticsearch) ([0.2.6](https://github.com/elasticsearch/cookbook-elasticsearch/compare/0.2.5...0.2.6))
+* [simple_iptables](http://community.opscode.com/cookbooks/simple_iptables) (0.3.0)
+* [users](http://community.opscode.com/cookbooks/users) (1.4.0)
+* [whitelist-node-attrs](http://community.opscode.com/cookbooks/whitelist-node-attrs) (1.1.0)
+* [yasm](http://community.opscode.com/cookbooks/yasm) (0.0.3)
+* [zarafa](http://community.opscode.com/cookbooks/zarafa) (1.2.0)
+* [vslinko](http://community.opscode.com/cookbooks/vslinko) (0.0.2)
 
 
 ### New and Updated Chef and Knife Gems
