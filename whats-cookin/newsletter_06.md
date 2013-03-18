@@ -92,7 +92,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 106
 * [unix_bin](http://community.opscode.com/cookbooks/unix_bin) (0.2.1) - [binarybabel](http://community.opscode.com/users/binarybabel) - Provide LWRPs for installing (or requiring) unix command-line executables, without needing to know or specify the OS package that provides it.* [vt-gpg](http://community.opscode.com/cookbooks/vt-gpg) (1.0.0) - [chrisandrews](http://community.opscode.com/users/chrisandrews) - install gpg, set up root's GPG trustdb in /root/.gnupg, and install and mark trusted all the "well known" GPG public keys from a named data bag.
 * [x509](http://community.opscode.com/cookbooks/x509) (1.0.1) - [chrisandrews](http://community.opscode.com/users/chrisandrews) - Deploy a Chef-managed Certificate Authority
 * [youtrack](http://community.opscode.com/cookbooks/youtrack) (0.0.0) - [vslinko](http://community.opscode.com/users/vslinko) - Installs YouTrack Issue Tracker from JetBrains
-~
+
 ## Updated Cookbooks
 * [application_python](http://community.opscode.com/cookbooks/application_python) (1.1.0)
 * [artifact](http://community.opscode.com/cookbooks/artifact) (1.4.0)
