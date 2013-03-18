@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  [Tuesday, March 19 15:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Elastic+Search&iso=20130319T08&p1=234)
 
 Panel<a name="panel"></a>
 -----
