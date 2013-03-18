@@ -14,6 +14,21 @@ Panel<a name="panel"></a>
 * Rashid Khan [github](https://github.com/rashidkpc), [twitter](https://twitter.com/rashidkpc) irc: rashidkpc
 * Dan Phrawzty [github](https://github.com/phrawzty), [twitter](https://twitter.com/phrawzty), irc: phrawzty, [blog](http://www.dark.ca/)
 
+Chef news
+---------
+
+* vote for awesome community chefs!
+* update on chefconf
+* test-kitchen runs in 20s w/ LXC on AWS, according to @fujin, [it's some next-level shhhtuff](https://twitter.com/fujin_/status/311311580518285312)
+* subscribe to the "What's Cookin" newsletter
+
+Other news
+----------
+
+* bryanwb has a [new gig](http://cyclecomputing.com)
+* changing the [name of the foodfightshow](http://www.youtube.com/watch?v=MWRJRlYt6EY)
+
+
 
 Outline/Questions
 -----------------
