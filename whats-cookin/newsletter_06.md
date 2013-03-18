@@ -75,8 +75,8 @@ Cookbook News<a name="cookbooks"></a>
 ### Stats
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 848  
-Knife Plugins on [RubyGems.org](http://rubygems.org) - 113  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 116  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 106
 
 ### New Cookbooks
 * [rackspacecloudbackupagent](http://community.opscode.com/cookbooks/rackspacecloudbackupagent) (0.0.1) - [djoos](http://community.opscode.com/users/djoos) - Installs/Configures Rackspace Cloud Backup Agent aka RCBU Agent
@@ -149,11 +149,37 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
 * [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools) (3.0.0)
 * [chef_ec2_cli_tools](http://community.opscode.com/cookbooks/chef_ec2_cli_tools) (0.2.0) - DEPRECATED - Use [aws_developer_tools](http://community.opscode.com/cookbooks/aws_developer_tools)
 * [riak](http://community.opscode.com/cookbooks/riak) (1.3.0)
-
 * [elasticsearch](https://github.com/elasticsearch/cookbook-elasticsearch) ([0.2.6](https://github.com/elasticsearch/cookbook-elasticsearch/compare/0.2.5...0.2.6))
 
 
 ### New and Updated Chef and Knife Gems
+
+* [berkshelf-shims](http://rubygems.org/gems/berkshelf-shims) (0.1.0) - Shim functionality for Berkshelf
+* [berkshelf](http://rubygems.org/gems/berkshelf) (1.2.1) - Manages a Cookbook's, or an Application's, Cookbook dependencies
+* [capistrano-chef](http://rubygems.org/gems/capistrano-chef) (0.0.8) - Allows capistrano to use Chef data for deployment
+* [chef-handler-sns](http://rubygems.org/gems/chef-handler-sns) (0.2.4) - Chef report handler to send SNS notifications on failures or changes
+* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) (0.2.2) - A set of rake tasks provided as discrete libraries for forming a chef workflow
+* [chef-workflow](http://rubygems.org/gems/chef-workflow) (0.2.2) - A comprehensive rake-based workflow for chef
+* [erchef-expander](http://rubygems.org/gems/erchef-expander) (11.4.0) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+* [erchef-solr](http://rubygems.org/gems/erchef-solr) (11.4.0) - Vendored Apache Solr for use with Chef Server
+* [klarna_chef](http://rubygems.org/gems/klarna_chef) (1.1.0) - Command Line utility to manage chef cookbooks.
+* [knife-azure](http://rubygems.org/gems/knife-azure) (1.0.2) - A plugin to Opscode knife for creating instances on the Microsoft Azure platform
+* [knife-elb](http://rubygems.org/gems/knife-elb) (0.0.2) - ELB Support for Chef's Knife Command
+* [knife-essentials](http://rubygems.org/gems/knife-essentials) (0.9.6) - Universal knife verbs that work with your Chef repository
+* [knife-flip](http://rubygems.org/gems/knife-flip) (0.1.5) - A knife plugin to move a node, or all nodes in a role, to a specific environment
+* [knife-glesys](http://rubygems.org/gems/knife-glesys) (0.1.1) - [Glesys](http://www.glesys.com/) support for Chef's Knife Command
+* [knife-hadoop](http://rubygems.org/gems/knife-hadoop) (0.1.0) - Hadoop Chef Knife Plugin
+* [knife-hp](http://rubygems.org/gems/knife-hp) (0.3.0) - HP Cloud Services Cloud support for Chef's Knife command
+* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.1.1) - Joyent CloudAPI Support for Chef's Knife Command
+* [knife-openstack](http://rubygems.org/gems/knife-openstack) (0.7.0) - OpenStack Compute Support for Chef's Knife Command
+* [knife-rackspace-cluster](http://rubygems.org/gems/knife-rackspace-cluster) (0.0.8) - Creates Rackspace clusters
+* [knife-setup](http://rubygems.org/gems/knife-setup) (1.0.7) - Allows you to bootsrap machine and set role and env.
+* [knife-tagbulk](http://rubygems.org/gems/knife-tagbulk) (0.1.2) - Bulk create and delete node tags on Chef nodes selected by standard Chef search queries
+* [knife-whisk](http://rubygems.org/gems/knife-whisk) (1.0.0) - A utility for quickly whipping up new servers in a team environment
+* [knife_cookbook_sync](http://rubygems.org/gems/knife_cookbook_sync) (0.0.5) - Sync only what's changed -- faster than cookbook upload
+* [ridley](http://rubygems.org/gems/ridley) (0.8.5) - A reliable Chef API client with a clean syntax
+* [yyuu-capistrano-chef-solo](http://rubygems.org/gems/yyuu-capistrano-chef-solo) (0.1.0) - a capistrano recipe to invoke chef-solo.
+
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
