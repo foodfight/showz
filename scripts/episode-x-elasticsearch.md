@@ -23,7 +23,7 @@ Chef news
   * Hack Day on Saturday
   * Get you travel and [tickets](https://chefconf2013.busyconf.com/bookings/new) arranged now!
 * test-kitchen runs in 20s w/ LXC on AWS, according to @fujin, [it's some next-level shhhtuff](https://twitter.com/fujin_/status/311311580518285312)
-* subscribe to the "What's Cookin" newsletter
+* [subscribe](http://bit.ly/ffsmail) to the "What's Cookin" newsletter
 
 Other news
 ----------
