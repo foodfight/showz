@@ -118,6 +118,10 @@ Picks<a name="picks"></a>
 
 * The island nation of [Malta](https://en.wikipedia.org/wiki/Malta) :)
 
+#### Brandon
+* http://gun.io/blog/PaaS-under-the-hood-episode-1-kernel-namespaces/ 
+* http://www.dotcloud.com/ebook.html
+
 CLOSE
 -----
 
