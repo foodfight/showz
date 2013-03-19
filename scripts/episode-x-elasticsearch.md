@@ -99,6 +99,9 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+* [ICS Workshop at #ChefConf](http://chefconf2013.busyconf.com/schedule)
+* [Changing Culture and Being a Force For Awesome](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html) episode with Jesse Robbins.
+
 #### karmi
 
 * [Recline.js from OKFN](http://okfnlabs.org/recline/demos/)
