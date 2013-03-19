@@ -124,6 +124,11 @@ Picks<a name="picks"></a>
 #### Brandon
 * http://gun.io/blog/PaaS-under-the-hood-episode-1-kernel-namespaces/ 
 * http://www.dotcloud.com/ebook.html
+* 
+
+#### Shay
+* http://d3js.org/
+* http://www.dashingd3js.com/
 
 CLOSE
 -----
