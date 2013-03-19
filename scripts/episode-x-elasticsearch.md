@@ -102,6 +102,8 @@ Picks<a name="picks"></a>
 #### karmi
 
 * [Recline.js from OKFN](http://okfnlabs.org/recline/demos/)
+* [OpenNLP plugin for Elasticsearch](https://github.com/spinscale/elasticsearch-opennlp-plugin)
+* [Dangle, charting components for Elasticsearch facets](http://www.fullscale.co/dangle/)
 
 #### rashidkpc
 * [JDK8 for Raspberry Pi](http://jdk8.java.net/fxarmpreview/javafx-arm-developer-preview.html)
