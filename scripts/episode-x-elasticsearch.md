@@ -99,6 +99,9 @@ Picks<a name="picks"></a>
 * Jason Stowe and Rob Futrick
 
 #### lusis  
+* learning C properly
+* [21st Century C](http://www.amazon.com/21st-Century-Tips-New-School/dp/1449327141)
+
 
 #### Nathen  
 
