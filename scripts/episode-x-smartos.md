@@ -17,7 +17,6 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
-
 * Solaris
 * SmartOS
 * Illumos
