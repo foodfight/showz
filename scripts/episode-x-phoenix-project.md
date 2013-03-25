@@ -10,6 +10,14 @@ Panel<a name="panel"></a>
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+*
+
+In the News
+-----------
+* foodcritic 2.0.0
+* [jvmargs](http://rubygems.org/gems/jvmargs) - Sanity check command-line arguments to the JVM. [github](https://github.com/bryanwb/jvmargs.git)
+* [minitest-handler](http://community.opscode.com/cookbooks/minitest-handler) cookbook 
+* [Cookbook Versioning Policy](http://chef-community.github.com/cvp/) - Sane versioning for Chef Cookbooks
 
 Outline/Questions
 -----------------
