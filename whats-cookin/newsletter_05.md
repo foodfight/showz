@@ -160,7 +160,9 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 104
 * [klarna_chef](http://rubygems.org/gems/klarna_chef) (1.0.2) - Command Line utility to manage chef cookbooks.
 * [knife-backup](http://rubygems.org/gems/knife-backup) (0.0.3) - Chef knife plugins to help backup and restore chef servers
 * [knife-cleanup](http://rubygems.org/gems/knife-cleanup) (0.0.3) - Chef knife plugin to help cleanup unused versions of cookbooks from a chef server
-* [knife-community](http://rubygems.org/gems/knife-community) (0.1.1) - The centralized location for sharing cookbooks is the Community Site, this is a process helper to produce a repeatable method for releasing cookbooks.* [knife-cookbook-readme](http://rubygems.org/gems/knife-cookbook-readme) (0.1.1) - Knife plugin to generate README.md from metadata.rb* [knife-digital_ocean](http://rubygems.org/gems/knife-digital_ocean) (0.1.0) - A plugin for chef's knife to manage instances of DigitalOcean servers
+* [knife-community](http://rubygems.org/gems/knife-community) (0.1.1) - The centralized location for sharing cookbooks is the Community Site, this is a process helper to produce a repeatable method for releasing cookbooks.
+* [knife-cookbook-readme](http://rubygems.org/gems/knife-cookbook-readme) (0.1.1) - Knife plugin to generate README.md from metadata.rb
+* [knife-digital_ocean](http://rubygems.org/gems/knife-digital_ocean) (0.1.0) - A plugin for chef's knife to manage instances of DigitalOcean servers
 * [knife-glesys](http://rubygems.org/gems/knife-glesys) (0.1.0) - Glesys support for Chef's Knife Command
 * [knife-hadoop](http://rubygems.org/gems/knife-hadoop) (0.0.8) - Hadoop Chef Knife Plugin
 * [knife-inspect](http://rubygems.org/gems/knife-inspect) (0.6.2) - Inspect your chef repo as is compares to what is on your chef server
