@@ -3,16 +3,15 @@ Show Date:  [Tuesday, March 19 15:00 UTC](http://www.timeanddate.com/worldclock/
 Panel<a name="panel"></a>
 -----
 
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* Shay Banon [twitter](https://twitter.com/kimchy)
+* Karel Minarik [github](https://github.com/karmi), [twitter](https://twitter.com/karmiq), irc: karmi
+* Rashid Khan [github](https://github.com/rashidkpc), [twitter](https://twitter.com/rashidkpc) irc: rashidkpc
+* Dan Phrawzty [github](https://github.com/phrawzty), [twitter](https://twitter.com/phrawzty), irc: phrawzty, [blog](http://www.dark.ca/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey),
   [twitter](http://twitter.com/nathenharvey), irc: nathenharvey,
   [blog](http://nathenharvey.com)
-* Shay Banon [twitter](https://twitter.com/kimchy)
-* Karel Minarik [github](https://github.com/karmi), [twitter](https://twitter.com/karmiq), irc: karmi
-* Rashid Khan [github](https://github.com/rashidkpc), [twitter](https://twitter.com/rashidkpc) irc: rashidkpc
-* Dan Phrawzty [github](https://github.com/phrawzty), [twitter](https://twitter.com/phrawzty), irc: phrawzty, [blog](http://www.dark.ca/)
 
 Chef news
 ---------
