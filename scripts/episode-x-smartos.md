@@ -21,13 +21,27 @@ Outline/Questions
 * SmartOS
 * Illumos
 * OmniOS
- 
+* Does illumos use the BSD userland tools like Mac OS X does or maintain its own userland? put another way, is *BSD the upstream
+ for the Solaris userland?
+* How much of a challenge is it to support new hardware, particularly cpus like the Xeon Phi? Do architectures like 
+NUMA present special challenges?
+* Intel, AMD, and numerous ARM vendors employ tons of linux engineers to add support for their respective processors?
+How can Illumos keep up w/ that kind of investment? Can you somehow benefit from or reuse their work?
+* Is illumos x86-only? any support yet for ARM?
+* If Joyent were to disappear tomorrow, would Illumos be sustainable?
+* Do you see Illumos competing w/ linux directly as an application platform or being very successful in defined niches,
+such as a hypervisor platform or for storage appliances (Zemanta)?
+* What is the advantage of using Illumos as a kvm hypervisor rather than using linux as the hypervisor?
+* Imagine introducing Illumos to an experienced linux sysadmin (~5 years of experience) who has never used Solaris. What 
+would you tell him to get him excited about Illumos and to actually take the time to learn it?
+* what are the biggest stumbling blocks for n00bs who get started w/ Illumos?
+* How does [ZFS on Linux](http://zfsonlinux.org/) compare to ZFS on Illumos?
+* Are Linux's LXC containers reaching parity w/ Illumos' zones or are they still a long way off? What do they lack?
+* What are the greatest challenges, technically and community-wise, for Illumos in the future?
 
 
 Picks<a name="picks"></a>
 -----
-
-#### Bryan   
 
 #### Nathen 
 
