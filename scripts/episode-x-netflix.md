@@ -12,6 +12,11 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+* looking at the netflix oss stack, which really optimizes for high
+  availability, i don't see most of the traditional linux ha tools like
+  heartbeat, pacemaker, clustered filesystems, master-slave db w/ auto-failover etc. Instead most of
+  the ha is pushed up to the application layer. Can you talk about why
+  the traditional tools didn't meet your needs?
 * can orgs w/ non-jvm stacks take advantage of netflixOSS?
 * Can you explain how hystrix functions as a "circuit-breaker"?
 * Archaius pulls configuration from multiple sources, can this be
