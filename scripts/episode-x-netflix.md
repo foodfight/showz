@@ -17,6 +17,9 @@ Outline/Questions
   heartbeat, pacemaker, clustered filesystems, master-slave db w/ auto-failover etc. Instead most of
   the ha is pushed up to the application layer. Can you talk about why
   the traditional tools didn't meet your needs?
+* it seems that you have pushed most of your monitoring into the jvm
+  level but do you do any monitoring at lower levels? do you monitor
+  filesystem,network, etc.? and what do u use, collectd, ganglia, foobar?
 * can orgs w/ non-jvm stacks take advantage of netflixOSS?
 * Can you explain how hystrix functions as a "circuit-breaker"?
 * Archaius pulls configuration from multiple sources, can this be
