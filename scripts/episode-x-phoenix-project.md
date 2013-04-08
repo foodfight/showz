@@ -5,16 +5,15 @@ Show Date:  [Monday, March 25 22:00 UTC](http://www.timeanddate.com/worldclock/f
 Panel<a name="panel"></a>
 -----
 * Gene Kim [twitter](https://twitter.com/realgenekim)
+* Jez Humble [twitter](https://twitter.com/jezhumble), [github](https://github.com/jezhumble)
+* Matthew Zeier [twitter](https://twitter.com/mrz)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 *
 
-In the News
+In the News<a name="news"></a>
 -----------
-* foodcritic 2.0.0
+* [foodcritic](http://acrmp.github.com/foodcritic/) 2.0.0 - [CHANGELOG](https://github.com/acrmp/foodcritic/blob/master/CHANGELOG.md)
 * [jvmargs](http://rubygems.org/gems/jvmargs) - Sanity check command-line arguments to the JVM. [github](https://github.com/bryanwb/jvmargs.git)
 * [minitest-handler](http://community.opscode.com/cookbooks/minitest-handler) cookbook 
 * [Cookbook Versioning Policy](http://chef-community.github.com/cvp/) - Sane versioning for Chef Cookbooks
