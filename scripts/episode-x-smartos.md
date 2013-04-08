@@ -11,6 +11,8 @@ Panel<a name="panel"></a>
 * Brandon Burton [github](http://github.com/solarce), [twitter](http://twitter.com/solarce), irc: solarce
 * Sean O'Meara
 * Bryan HorstmannAllen
+* Eric Saxby [github](http://github.com/sax), [twitter](http://twitter.com/ecdysone)
+* Blake Irvin [github](http://github.com/bixu), [twitter](http://twitter.com/blakeirvin)
 * Someone from Joyent, maybe benr
 
 
@@ -23,6 +25,7 @@ Outline/Questions
 * OmniOS
 * Does illumos use the BSD userland tools like Mac OS X does or maintain its own userland? put another way, is *BSD the upstream
  for the Solaris userland?
+* Why should an application developer care about the platform their code is deployed to?
 * How much of a challenge is it to support new hardware, particularly cpus like the Xeon Phi? Do architectures like 
 NUMA present special challenges?
 * Intel, AMD, and numerous ARM vendors employ tons of linux engineers to add support for their respective processors?
@@ -53,10 +56,18 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
-#### ????
+#### Eric
 
+* http://joyent.com/blog/smartos-proc-tools
+* http://www.stgeorgespirits.com/spirit/terroir-gin/
+* prstat -Lm
+* prctl / prstat -J
 
+#### Blake
 
+* http://goo.gl/sq1bi
+* prstat -Lm
+* dladm
 
 
 CLOSE
