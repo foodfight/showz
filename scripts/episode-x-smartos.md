@@ -54,7 +54,19 @@ Picks<a name="picks"></a>
 
 #### Sean
 
+#### Ben
+* lusis
+* https://github.com/someara/vagrant-joyent
+* sumologic & ...security
+* heretic brewery
+
 #### Bryan
+* dtrace.org - brendan gregg's blog posts workload and USE
+* smart datacenter from joyent
+* project fifo
+* building private clouds
+* 
+
 
 #### Eric
 
