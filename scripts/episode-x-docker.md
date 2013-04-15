@@ -22,6 +22,8 @@ Outline/Questions
  * This was a rewrite?
 * Open Sourcing DotCloud Sandbox
  * competitive advantage because of open sourc community?
+* How can I fit Docker into my existing bare metal/IaaS workflow?
+* Kitchen-LXC/Vagabond/Other things?
 * The future of PaaS?
  * Stay on AWS?
  * Multi-cloud
