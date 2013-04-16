@@ -4,11 +4,12 @@ Show Date:  2013-04-15
 
 Panel<a name="panel"></a>
 -----
-* Jerome
-* Solomon
-* Chris Roberts
+* Jérôme Petazzoni [github](http://github.com/jpetazzo), [twitter](https://twitter.com/jpetazzo), irc:  jpetazzo
+* Solomon Hykes [github](http://github.com/shykes), [twitter](https://twitter.com/solomonstre), irc: shykes
+* Chris Roberts [github](http://github.com/chrisroberts), [twitter](https://twitter.com/_spox), irc: spox
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Outline/Questions
