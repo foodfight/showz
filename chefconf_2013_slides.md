@@ -14,7 +14,7 @@ Pull Requests are appreciated!
 * Who Says Elephants Can't Cook? How IBM and Opscode are changing the role of code in defining next generation infrastructures - Mitch Hill & Mohammed Abdula - [video](http://youtu.be/mBArai8EsEE)
 
 
-## Food Fight Show Episodes from ChefConf
+## Food Fight Show Episodes from \#ChefConf
 
 * [ChefConf 2013 - Day 1 Wrap-up](http://foodfightshow.org/2013/04/chefconf-2013-day-1-wrap-up.html)
 * [Talking About Push Jobs With Kevin Smith](http://foodfightshow.org/2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html)
