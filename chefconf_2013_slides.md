@@ -4,6 +4,15 @@ Pull Requests are appreciated!
 
 ## Slides and Videos from ChefConf 2013
 
+* Keynote - Opscode - Mitch Hill and Christopher Brown - [video](http://www.youtube.com/watch?v=erU1UOlmlvI)
+* Scaling systems configuration at Facebook - Phil Dibowitz - [video](http://www.youtube.com/watch?v=SYZ2GzYAw_Q)
+* Powering The Industrial internet With The GE Commercial Cloud - Robert Kightlinger - [video](http://youtu.be/bapTyrdkuRA)
+* The Berkshelf Way - Jamie Winsor - [video](http://youtu.be/hYt0E84kYUI)
+* Keynote - Opscode - Adam Jacob - [video](http://youtu.be/Hb4y0EHfOFQ)
+* Utility HPC: Right Systems, Right Scale, Right Science - Jason Stowe - [video](http://youtu.be/5vtVj5PIK_0)
+* Level Up the Change in Your Enterprise - Nordstrom - Robert Cummings - [video](http://youtu.be/Ot5H2KfWAxI)
+* Who Says Elephants Can't Cook? How IBM and Opscode are changing the role of code in defining next generation infrastructures - Mitch Hill & Mohammed Abdula - [video](http://youtu.be/mBArai8EsEE)
+
 
 ## Food Fight Show Episodes from ChefConf
 
