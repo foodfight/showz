@@ -2,7 +2,7 @@ Please let us know where to find other slides and videos.
 
 Pull Requests are appreciated!
 
-## Slides and Videos from ChefConf 2013
+## Slides and Videos from \#ChefConf 2013
 
 * Keynote - Opscode - Mitch Hill and Christopher Brown - [video](http://www.youtube.com/watch?v=erU1UOlmlvI)
 * Scaling systems configuration at Facebook - Phil Dibowitz - [video](http://www.youtube.com/watch?v=SYZ2GzYAw_Q)
