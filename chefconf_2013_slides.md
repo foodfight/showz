@@ -22,3 +22,4 @@ Pull Requests are appreciated!
 
 ## Follow-up Community Coverage
 
+* [Pictures from the Saturday Hack Day](http://t.co/rHJcQ3wBje)
