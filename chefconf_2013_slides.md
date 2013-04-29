@@ -12,7 +12,7 @@ Pull Requests are appreciated!
 * Utility HPC: Right Systems, Right Scale, Right Science - Jason Stowe - [video](http://youtu.be/5vtVj5PIK_0)
 * Level Up the Change in Your Enterprise - Nordstrom - Robert Cummings - [video](http://youtu.be/Ot5H2KfWAxI)
 * Who Says Elephants Can't Cook? How IBM and Opscode are changing the role of code in defining next generation infrastructures - Mitch Hill & Mohammed Abdula - [video](http://youtu.be/mBArai8EsEE)
-
+* Taming Chef for Developer Happiness - Ninefold - Warren Bain - [slides](http://www.rvl.io/thoughtcroft/taming-chef-for-developer-happiness/fullscreen)
 
 ## Food Fight Show Episodes from \#ChefConf
 
