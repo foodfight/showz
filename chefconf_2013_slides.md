@@ -15,6 +15,7 @@ Pull Requests are appreciated!
 * Taming Chef for Developer Happiness - Ninefold - Warren Bain - [slides](http://www.rvl.io/thoughtcroft/taming-chef-for-developer-happiness/fullscreen)
 * Test Kitchen: Multi-Platform Integration Testing for the Masses - Seth Chisamore, Joshua Timberman, Fletcher Nichol - [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses)
 * How Chef enables the DevOps culture at Prezi - Zsolt Dollenstein - [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/)
+* Enterprise Cloud with IBM & Chef - Ann Marie Fred and Michael Elder - [slides](http://www.slideshare.net/MichaelElder/2013chef-conf-scdscov02)
 
 ## Food Fight Show Episodes from \#ChefConf
 
