@@ -13,6 +13,7 @@ Pull Requests are appreciated!
 * Level Up the Change in Your Enterprise - Nordstrom - Robert Cummings - [video](http://youtu.be/Ot5H2KfWAxI)
 * Who Says Elephants Can't Cook? How IBM and Opscode are changing the role of code in defining next generation infrastructures - Mitch Hill & Mohammed Abdula - [video](http://youtu.be/mBArai8EsEE)
 * Taming Chef for Developer Happiness - Ninefold - Warren Bain - [slides](http://www.rvl.io/thoughtcroft/taming-chef-for-developer-happiness/fullscreen)
+* Test Kitchen: Multi-Platform Integration Testing for the Masses - Seth Chisamore, Joshua Timberman, Fletcher Nichol - [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses)
 
 ## Food Fight Show Episodes from \#ChefConf
 
