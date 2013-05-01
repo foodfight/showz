@@ -17,7 +17,7 @@ Pull Requests are appreciated!
 ### Successful Automation
 * Zero to Production in Crazy Time: Adobe's Transformation - John Martinez
 * The Postmortem - it doesn't have to be messy - Rob Schnepp
-* Creating a Culture for Continuous Delivery - John Esser
+* Creating a Culture for Continuous Delivery - John Esser - [video](http://www.youtube.com/watch?v=f3s0gxp_RA4)
 * Building and Managing Hadoop with Chef - John Martin
 * The InstallShield of the 21st Century - Theo Schlossnagle
 * Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse
