@@ -60,7 +60,7 @@ Pull Requests are appreciated!
 * Managing Resources and their Providers - Miah Johnson
 * Cookbook refactoring & abstracting logic to Ruby(gems) - Seth Vargo
 * Writing a Knife Plugin for your shiny new VMWare vCloud Director-based cloud - Chirag Jog
-* Harnessing the Power of Bare Metal with Razor and Chef Server - Fletcher Nichol
+* Harnessing the Power of Bare Metal with Razor and Chef Server - Fletcher Nichol, [slides](https://speakerdeck.com/fnichol/chefconf-2013-harnessing-the-power-of-bare-metal-with-razor-and-chef-server)
 * Showing the JVM Some Love: Best Practices for Working with Java Applications - Bryan W. Berry
 * Push jobs: an orchestration building block for private Chef - Mark Anderson
 * Eat the Whole Bowl: Building a Full-Stack Installer with Omnibus - Seth Chisamore and Christopher Maier
