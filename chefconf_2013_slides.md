@@ -11,7 +11,7 @@ Pull Requests are appreciated!
 * The Berkshelf Way - Jamie Winsor - [video](http://youtu.be/hYt0E84kYUI)
 * Keynote Session - Opscode - Adam Jacob - [video](http://youtu.be/Hb4y0EHfOFQ)
 * Utility HPC: Right Systems, Right Scale, Right Science - Jason Stowe - [video](http://youtu.be/5vtVj5PIK_0)
-* Level Up the Change in Your Enterprise - Nordstrom - Robert Cummings - [video](http://youtu.be/Ot5H2KfWAxI)
+* Level Up the Change in Your Enterprise - Nordstrom - Robert Cummings - [video](http://youtu.be/Ot5H2KfWAxI), [slides](http://www.slideshare.net/robc77/chefconf-2013-nordstrom-keynote)
 * Who Says Elephants Can't Cook? How IBM and Opscode are changing the role of code in defining next generation infrastructures - Mohammed Abdula and Mitch Hill - [video](http://youtu.be/mBArai8EsEE)
 
 ### Successful Automation
@@ -21,7 +21,7 @@ Pull Requests are appreciated!
 * Building and Managing Hadoop with Chef - John Martin
 * The InstallShield of the 21st Century - Theo Schlossnagle
 * Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse
-* A Storage Story - Kyle Bader
+* A Storage Story - Kyle Bader - [slides](http://www.slideshare.net/kbader/a-storage-story-chef-conf2013)
 * How To Let Devs Do Your Job For You - Aaron Suggs - [slides](https://speakerdeck.com/ktheory/how-to-let-developers-do-your-job-number-chefconf-2013)
 * Splunk Storm - powered by Chef - powered by Splunk - Alex Munk
 * Multi-provider Vagrant and Chef: AWS, VMware, and more. - Mitchell Hashimoto
@@ -49,7 +49,7 @@ Pull Requests are appreciated!
 * DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps - Gene Kim
 * Exploiting Conway's Law for Underpants and Profit - Jeff Hackert
 * Cooking on Windows without the Windows Cookbook - Adam Edwards
-* Application Automation Patterns - Dan Nemec
+* Application Automation Patterns - Dan Nemec - [slides](https://docs.google.com/presentation/d/1GFezWsKxfKc5KVEj5BbTEZggFJeZZ9KjeV1uRA51n3c/pub?start=false&loop=false&delayms=3000)
 * Using Kanban and Chef: A Case Study - Jeffrey Hulten
 * Golden Images vs Chef: Why not both? - Jason Cook
 * How Chef enables the DevOps culture at Prezi. - Zsolt Dollenstein, [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/)
@@ -59,12 +59,12 @@ Pull Requests are appreciated!
 * Test Kitchen: Multi-Platform Integration Testing for the Masses - Fletcher Nichol, Seth Chisamore, and Joshua Timberman, [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses)
 * Managing Resources and their Providers - Miah Johnson - [slides](http://www.slideshare.net/rosekolodny/resources-and-providers-chef-conf-2013)
 * Cookbook refactoring & abstracting logic to Ruby(gems) - Seth Vargo
-* Writing a Knife Plugin for your shiny new VMWare vCloud Director-based cloud - Chirag Jog
+* Writing a Knife Plugin for your shiny new VMWare vCloud Director-based cloud - Chirag Jog - [slides](http://www.slideshare.net/Clogeny/writing-a-knife-cloud-plugin-for-your-shiny-vmware-vcloud-director)
 * Harnessing the Power of Bare Metal with Razor and Chef Server - Fletcher Nichol - [slides](https://speakerdeck.com/fnichol/chefconf-2013-harnessing-the-power-of-bare-metal-with-razor-and-chef-server)
 * Showing the JVM Some Love: Best Practices for Working with Java Applications - Bryan W. Berry
 * Push jobs: an orchestration building block for private Chef - Mark Anderson
 * Eat the Whole Bowl: Building a Full-Stack Installer with Omnibus - Seth Chisamore and Christopher Maier - [slides](https://speakerdeck.com/schisamo/eat-the-whole-bowl-building-a-full-stack-installer-with-omnibus)
-* How I Wrote a Chef Server While Waiting in Line at Best Buy - John Keiser
+* How I Wrote a Chef Server While Waiting in Line at Best Buy - John Keiser - [slides](http://johnkeiser.com/presentation/chef-zero)
 
 ### Cooking with Friends
 * SDN, Network Virtualization and the Software Defined Data Center - Brad Hedlund
