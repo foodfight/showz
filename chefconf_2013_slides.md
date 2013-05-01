@@ -22,7 +22,7 @@ Pull Requests are appreciated!
 * The InstallShield of the 21st Century - Theo Schlossnagle
 * Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse
 * A Storage Story - Kyle Bader
-* How To Let Devs Do Your Job For You - Aaron Suggs
+* How To Let Devs Do Your Job For You - Aaron Suggs - [slides](https://speakerdeck.com/ktheory/how-to-let-developers-do-your-job-number-chefconf-2013)
 * Splunk Storm - powered by Chef - powered by Splunk - Alex Munk
 * Multi-provider Vagrant and Chef: AWS, VMware, and more. - Mitchell Hashimoto
 
@@ -30,11 +30,11 @@ Pull Requests are appreciated!
 * Beginning Chef Antipatterns - Julian Dunn - [slides](http://www.slideshare.net/JulianDunn/beginner-chef-antipatterns)
 * Configuration management and #monitoringlove - Ulf Månsson
 * Chef and the Cloud - Trotter Cashion
-* Treating Your Infrastructure Like Garbage - Mike Fiedler
-* Hey, kid! Don't copy that floppy! - Aaron Kalin
+* Treating Your Infrastructure Like Garbage - Mike Fiedler - [slides](https://speakerdeck.com/miketheman/treating-your-infrastructure-like-garbage)
+* Hey, kid! Don't copy that floppy! - Aaron Kalin - [slides](https://speakerdeck.com/martinisoft/hey-kid-dont-copy-that-floppy)
 * Managing MongoDB Clusters on AWS with Chef - Charity Majors
 * Tips and Tricks for Automating Windows with Chef - Doug Ireton
-* How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates
+* How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps)
 * Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross
 * Automating secure server baselines with Chef - Andrew Hay
 
@@ -57,13 +57,13 @@ Pull Requests are appreciated!
 ### Master Chef
 * Cross-platform Friendly Cookbooking - Mandi Walls
 * Test Kitchen: Multi-Platform Integration Testing for the Masses - Fletcher Nichol, Seth Chisamore, and Joshua Timberman, [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses)
-* Managing Resources and their Providers - Miah Johnson
+* Managing Resources and their Providers - Miah Johnson - [slides](http://www.slideshare.net/rosekolodny/resources-and-providers-chef-conf-2013)
 * Cookbook refactoring & abstracting logic to Ruby(gems) - Seth Vargo
 * Writing a Knife Plugin for your shiny new VMWare vCloud Director-based cloud - Chirag Jog
 * Harnessing the Power of Bare Metal with Razor and Chef Server - Fletcher Nichol - [slides](https://speakerdeck.com/fnichol/chefconf-2013-harnessing-the-power-of-bare-metal-with-razor-and-chef-server)
 * Showing the JVM Some Love: Best Practices for Working with Java Applications - Bryan W. Berry
 * Push jobs: an orchestration building block for private Chef - Mark Anderson
-* Eat the Whole Bowl: Building a Full-Stack Installer with Omnibus - Seth Chisamore and Christopher Maier
+* Eat the Whole Bowl: Building a Full-Stack Installer with Omnibus - Seth Chisamore and Christopher Maier - [slides](https://speakerdeck.com/schisamo/eat-the-whole-bowl-building-a-full-stack-installer-with-omnibus)
 * How I Wrote a Chef Server While Waiting in Line at Best Buy - John Keiser
 
 ### Cooking with Friends
@@ -75,7 +75,7 @@ Pull Requests are appreciated!
 * Cookin' up Hybrid Clouds:  Chef and the Accenture Cloud Platform - Thomas Myers
 * NetdevOps: Delivering Network Abstractions using Chef and EOS - Peter Sprygada
 * Using Chef and AppFirst to Automate Scale-out/Scale-down of Web Applications - Mark White
-* Deploying OpenStack with Chef and Operational Tooling - Joseph Breu and Justin Shepherd
+* Deploying OpenStack with Chef and Operational Tooling - Joseph Breu and Justin Shepherd - [slides](http://www.slideshare.net/jbreu/rackspace-private-cloud-presentation-for-chefconf-2013)
 * Why the (legacy) Enterprise is Scared of Git – and what you can do about it - Laurence Sweeney
 
 ## Food Fight Show Episodes from \#ChefConf
