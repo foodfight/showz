@@ -87,3 +87,7 @@ Pull Requests are appreciated!
 ## Follow-up Community Coverage
 
 * [Pictures from the Saturday Hack Day](http://t.co/rHJcQ3wBje)
+
+## Follow \#ChefConf Attendees and Speakers on Twitter
+* [\#ChefConf Speakers](https://twitter.com/ChefConf/chefconf-2013-speakers/members)
+* [\#ChefConf Attendees](https://twitter.com/ChefConf/chefconf-2013-attendees/members)
