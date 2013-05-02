@@ -35,7 +35,7 @@ Pull Requests are appreciated!
 * Managing MongoDB Clusters on AWS with Chef - Charity Majors
 * Tips and Tricks for Automating Windows with Chef - Doug Ireton
 * How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps)
-* Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross
+* Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross - [slides](http://www.slideshare.net/andrewwgross/getting-morechefsinthekitchen)
 * Automating secure server baselines with Chef - Andrew Hay
 
 ### Teams and Workflow Patterns
