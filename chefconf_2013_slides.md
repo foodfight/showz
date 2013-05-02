@@ -18,7 +18,7 @@ Pull Requests are appreciated!
 * Zero to Production in Crazy Time: Adobe's Transformation - John Martinez
 * The Postmortem - it doesn't have to be messy - Rob Schnepp
 * Creating a Culture for Continuous Delivery - John Esser - [video](http://www.youtube.com/watch?v=f3s0gxp_RA4)
-* Building and Managing Hadoop with Chef - John Martin - [slides](http://www.slideshare.net/tekbuddha/building-hadoop-with-chef)
+* Building and Managing Hadoop with Chef - John Martin - [slides](http://www.slideshare.net/tekbuddha/building-hadoop-with-chef), [video]()
 * The InstallShield of the 21st Century - Theo Schlossnagle
 * Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse
 * A Storage Story - Kyle Bader - [slides](http://www.slideshare.net/kbader/a-storage-story-chef-conf2013)
@@ -27,7 +27,7 @@ Pull Requests are appreciated!
 * Multi-provider Vagrant and Chef: AWS, VMware, and more. - Mitchell Hashimoto
 
 ### Building Your Chef Skills
-* Beginning Chef Antipatterns - Julian Dunn - [slides](http://www.slideshare.net/JulianDunn/beginner-chef-antipatterns)
+* Beginning Chef Antipatterns - Julian Dunn - [slides](http://www.slideshare.net/JulianDunn/beginner-chef-antipatterns), [video](http://www.youtube.com/watch?v=IJCY2cEr6Rw)
 * Configuration management and #monitoringlove - Ulf Månsson
 * Chef and the Cloud - Trotter Cashion
 * Treating Your Infrastructure Like Garbage - Mike Fiedler - [slides](https://speakerdeck.com/miketheman/treating-your-infrastructure-like-garbage)
@@ -36,10 +36,10 @@ Pull Requests are appreciated!
 * Tips and Tricks for Automating Windows with Chef - Doug Ireton
 * How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps)
 * Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross - [slides](http://www.slideshare.net/andrewwgross/getting-morechefsinthekitchen)
-* Automating secure server baselines with Chef - Andrew Hay
+* Automating secure server baselines with Chef - Andrew Hay - [video](http://youtu.be/w8pX4A7tmD8)
 
 ### Teams and Workflow Patterns
-* Bootable DevOps on USB - Instant Infrastructure in Developing Nations - Chris McClimans
+* Bootable DevOps on USB - Instant Infrastructure in Developing Nations - Chris McClimans - [slides](http://ii.can.cd/), [video](http://youtu.be/3OF-JyIh1i4)
 * Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins
 * Cooking with Chef and Amazon's cloud formation - Jeremy Przygode
 * Chef ignited a DevOps revolution - BK Box
@@ -49,7 +49,7 @@ Pull Requests are appreciated!
 * DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps - Gene Kim
 * Exploiting Conway's Law for Underpants and Profit - Jeff Hackert
 * Cooking on Windows without the Windows Cookbook - Adam Edwards
-* Application Automation Patterns - Dan Nemec - [slides](https://docs.google.com/presentation/d/1GFezWsKxfKc5KVEj5BbTEZggFJeZZ9KjeV1uRA51n3c/pub?start=false&loop=false&delayms=3000)
+* Application Automation Patterns - Dan Nemec - [slides](https://docs.google.com/presentation/d/1GFezWsKxfKc5KVEj5BbTEZggFJeZZ9KjeV1uRA51n3c/pub?start=false&loop=false&delayms=3000), [video](http://youtu.be/Q_ALf-KOiGw)
 * Using Kanban and Chef: A Case Study - Jeffrey Hulten
 * Golden Images vs Chef: Why not both? - Jason Cook
 * How Chef enables the DevOps culture at Prezi. - Zsolt Dollenstein, [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/)
