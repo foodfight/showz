@@ -18,9 +18,9 @@ Pull Requests are appreciated!
 * Zero to Production in Crazy Time: Adobe's Transformation - John Martinez
 * The Postmortem - it doesn't have to be messy - Rob Schnepp
 * Creating a Culture for Continuous Delivery - John Esser - [video](http://www.youtube.com/watch?v=f3s0gxp_RA4)
-* Building and Managing Hadoop with Chef - John Martin - [slides](http://www.slideshare.net/tekbuddha/building-hadoop-with-chef), [video]()
+* Building and Managing Hadoop with Chef - John Martin - [slides](http://www.slideshare.net/tekbuddha/building-hadoop-with-chef), [video](http://youtu.be/KPe6At1ofCE)
 * The InstallShield of the 21st Century - Theo Schlossnagle
-* Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse
+* Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse - [video](http://youtu.be/CoTijToI10c)
 * A Storage Story - Kyle Bader - [slides](http://www.slideshare.net/kbader/a-storage-story-chef-conf2013)
 * How To Let Devs Do Your Job For You - Aaron Suggs - [slides](https://speakerdeck.com/ktheory/how-to-let-developers-do-your-job-number-chefconf-2013)
 * Splunk Storm - powered by Chef - powered by Splunk - Alex Munk
@@ -46,9 +46,9 @@ Pull Requests are appreciated!
 * The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby
 * Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet
 * The Unintended Benefits of Chef - Clinton Wolfe
-* DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps - Gene Kim
+* DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps - Gene Kim - [video](http://youtu.be/9jD200ZxIrQ)
 * Exploiting Conway's Law for Underpants and Profit - Jeff Hackert
-* Cooking on Windows without the Windows Cookbook - Adam Edwards
+* Cooking on Windows without the Windows Cookbook - Adam Edwards - [video](http://youtu.be/SPhOSDRRoGA)
 * Application Automation Patterns - Dan Nemec - [slides](https://docs.google.com/presentation/d/1GFezWsKxfKc5KVEj5BbTEZggFJeZZ9KjeV1uRA51n3c/pub?start=false&loop=false&delayms=3000), [video](http://youtu.be/Q_ALf-KOiGw)
 * Using Kanban and Chef: A Case Study - Jeffrey Hulten
 * Golden Images vs Chef: Why not both? - Jason Cook
