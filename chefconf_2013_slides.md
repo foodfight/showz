@@ -35,14 +35,14 @@ Pull Requests are appreciated!
 * Managing MongoDB Clusters on AWS with Chef - Charity Majors
 * Tips and Tricks for Automating Windows with Chef - Doug Ireton
 * How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps)
-* Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross - [slides](http://www.slideshare.net/andrewwgross/getting-morechefsinthekitchen)
+* Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross - [slides](http://www.slideshare.net/andrewwgross/getting-morechefsinthekitchen), [video](http://youtu.be/ipSudpDYhTM)
 * Automating secure server baselines with Chef - Andrew Hay - [video](http://youtu.be/w8pX4A7tmD8)
 
 ### Teams and Workflow Patterns
 * Bootable DevOps on USB - Instant Infrastructure in Developing Nations - Chris McClimans - [slides](http://ii.can.cd/), [video](http://youtu.be/3OF-JyIh1i4)
 * Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins
 * Cooking with Chef and Amazon's cloud formation - Jeremy Przygode
-* Chef ignited a DevOps revolution - BK Box
+* Chef ignited a DevOps revolution - BK Box - [video](http://youtu.be/XLnjBCjiaeU)
 * The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby
 * Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet
 * The Unintended Benefits of Chef - Clinton Wolfe
