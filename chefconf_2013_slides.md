@@ -22,26 +22,26 @@ Pull Requests are appreciated!
 * The InstallShield of the 21st Century - Theo Schlossnagle
 * Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse - [video](http://youtu.be/CoTijToI10c)
 * A Storage Story - Kyle Bader - [slides](http://www.slideshare.net/kbader/a-storage-story-chef-conf2013)
-* How To Let Devs Do Your Job For You - Aaron Suggs - [slides](https://speakerdeck.com/ktheory/how-to-let-developers-do-your-job-number-chefconf-2013)
+* How To Let Devs Do Your Job For You - Aaron Suggs - [slides](https://speakerdeck.com/ktheory/how-to-let-developers-do-your-job-number-chefconf-2013), [video](http://youtu.be/K0zd08aECz0)
 * Splunk Storm - powered by Chef - powered by Splunk - Alex Munk
-* Multi-provider Vagrant and Chef: AWS, VMware, and more. - Mitchell Hashimoto
+* Multi-provider Vagrant and Chef: AWS, VMware, and more. - Mitchell Hashimoto - [video](http://youtu.be/vk7hHhhIt10)
 
 ### Building Your Chef Skills
 * Beginning Chef Antipatterns - Julian Dunn - [slides](http://www.slideshare.net/JulianDunn/beginner-chef-antipatterns), [video](http://www.youtube.com/watch?v=IJCY2cEr6Rw)
-* Configuration management and #monitoringlove - Ulf Månsson
+* Configuration management and #monitoringlove - Ulf Månsson - [video](http://youtu.be/3LLU8Ythosw)
 * Chef and the Cloud - Trotter Cashion - [video](http://youtu.be/KSScdObVdCM)
 * Treating Your Infrastructure Like Garbage - Mike Fiedler - [slides](https://speakerdeck.com/miketheman/treating-your-infrastructure-like-garbage)
 * Hey, kid! Don't copy that floppy! - Aaron Kalin - [slides](https://speakerdeck.com/martinisoft/hey-kid-dont-copy-that-floppy)
-* Managing MongoDB Clusters on AWS with Chef - Charity Majors
+* Managing MongoDB Clusters on AWS with Chef - Charity Majors - [slides](http://youtu.be/dBk5RyExsOE)
 * Tips and Tricks for Automating Windows with Chef - Doug Ireton
-* How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps)
+* How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps), [video](http://youtu.be/pHmU0aNkENc)
 * Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross - [slides](http://www.slideshare.net/andrewwgross/getting-morechefsinthekitchen), [video](http://youtu.be/ipSudpDYhTM)
 * Automating secure server baselines with Chef - Andrew Hay - [video](http://youtu.be/w8pX4A7tmD8)
 
 ### Teams and Workflow Patterns
 * Bootable DevOps on USB - Instant Infrastructure in Developing Nations - Chris McClimans - [slides](http://ii.can.cd/), [video](http://youtu.be/3OF-JyIh1i4)
 * Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins
-* Cooking with Chef and Amazon's cloud formation - Jeremy Przygode
+* Cooking with Chef and Amazon's cloud formation - Jeremy Przygode - [video](http://youtu.be/t50L172BDOo)
 * Chef ignited a DevOps revolution - BK Box - [video](http://youtu.be/XLnjBCjiaeU)
 * The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby
 * Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet - [video](http://youtu.be/4_Qc-DshHl0)
@@ -51,20 +51,20 @@ Pull Requests are appreciated!
 * Cooking on Windows without the Windows Cookbook - Adam Edwards - [video](http://youtu.be/SPhOSDRRoGA)
 * Application Automation Patterns - Dan Nemec - [slides](https://docs.google.com/presentation/d/1GFezWsKxfKc5KVEj5BbTEZggFJeZZ9KjeV1uRA51n3c/pub?start=false&loop=false&delayms=3000), [video](http://youtu.be/Q_ALf-KOiGw)
 * Using Kanban and Chef: A Case Study - Jeffrey Hulten
-* Golden Images vs Chef: Why not both? - Jason Cook
-* How Chef enables the DevOps culture at Prezi. - Zsolt Dollenstein, [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/)
+* Golden Images vs Chef: Why not both? - Jason Cook - [video](http://youtu.be/eWbUBTkdj1g)
+* How Chef enables the DevOps culture at Prezi. - Zsolt Dollenstein, [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/), [video](http://youtu.be/WH4NUPMqK7k)
  
 ### Master Chef
 * Cross-platform Friendly Cookbooking - Mandi Walls
 * Test Kitchen: Multi-Platform Integration Testing for the Masses - Fletcher Nichol, Seth Chisamore, and Joshua Timberman, [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses)
 * Managing Resources and their Providers - Miah Johnson - [slides](http://www.slideshare.net/rosekolodny/resources-and-providers-chef-conf-2013)
-* Cookbook refactoring & abstracting logic to Ruby(gems) - Seth Vargo
+* Cookbook refactoring & abstracting logic to Ruby(gems) - Seth Vargo - [video](http://youtu.be/3JTlcnEpWD4)
 * Writing a Knife Plugin for your shiny new VMWare vCloud Director-based cloud - Chirag Jog - [slides](http://www.slideshare.net/Clogeny/writing-a-knife-cloud-plugin-for-your-shiny-vmware-vcloud-director)
-* Harnessing the Power of Bare Metal with Razor and Chef Server - Fletcher Nichol - [slides](https://speakerdeck.com/fnichol/chefconf-2013-harnessing-the-power-of-bare-metal-with-razor-and-chef-server)
+* Harnessing the Power of Bare Metal with Razor and Chef Server - Fletcher Nichol - [slides](https://speakerdeck.com/fnichol/chefconf-2013-harnessing-the-power-of-bare-metal-with-razor-and-chef-server), [video](http://youtu.be/sFQ5X8xNT4A)
 * Showing the JVM Some Love: Best Practices for Working with Java Applications - Bryan W. Berry - [slides](https://speakerdeck.com/bryanwb/managing-java-applications-with-chef)
 * Push jobs: an orchestration building block for private Chef - Mark Anderson
 * Eat the Whole Bowl: Building a Full-Stack Installer with Omnibus - Seth Chisamore and Christopher Maier - [video](http://www.youtube.com/watch?v=q8iJAntXCNY), [slides](https://speakerdeck.com/schisamo/eat-the-whole-bowl-building-a-full-stack-installer-with-omnibus)
-* How I Wrote a Chef Server While Waiting in Line at Best Buy - John Keiser - [slides](http://johnkeiser.com/presentation/chef-zero)
+* How I Wrote a Chef Server While Waiting in Line at Best Buy - John Keiser - [slides](http://johnkeiser.com/presentation/chef-zero), [video](http://youtu.be/bUYjX1SNUh8)
 
 ### Cooking with Friends
 * SDN, Network Virtualization and the Software Defined Data Center - Brad Hedlund
