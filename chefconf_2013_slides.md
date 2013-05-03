@@ -29,7 +29,7 @@ Pull Requests are appreciated!
 ### Building Your Chef Skills
 * Beginning Chef Antipatterns - Julian Dunn - [slides](http://www.slideshare.net/JulianDunn/beginner-chef-antipatterns), [video](http://www.youtube.com/watch?v=IJCY2cEr6Rw)
 * Configuration management and #monitoringlove - Ulf Månsson
-* Chef and the Cloud - Trotter Cashion
+* Chef and the Cloud - Trotter Cashion - [video](http://youtu.be/KSScdObVdCM)
 * Treating Your Infrastructure Like Garbage - Mike Fiedler - [slides](https://speakerdeck.com/miketheman/treating-your-infrastructure-like-garbage)
 * Hey, kid! Don't copy that floppy! - Aaron Kalin - [slides](https://speakerdeck.com/martinisoft/hey-kid-dont-copy-that-floppy)
 * Managing MongoDB Clusters on AWS with Chef - Charity Majors
@@ -44,7 +44,7 @@ Pull Requests are appreciated!
 * Cooking with Chef and Amazon's cloud formation - Jeremy Przygode
 * Chef ignited a DevOps revolution - BK Box - [video](http://youtu.be/XLnjBCjiaeU)
 * The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby
-* Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet
+* Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet - [video](http://youtu.be/4_Qc-DshHl0)
 * The Unintended Benefits of Chef - Clinton Wolfe
 * DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps - Gene Kim - [video](http://youtu.be/9jD200ZxIrQ)
 * Exploiting Conway's Law for Underpants and Profit - Jeff Hackert
