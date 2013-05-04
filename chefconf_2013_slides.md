@@ -23,7 +23,7 @@ Pull Requests are appreciated!
 * Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse - [video](http://youtu.be/CoTijToI10c)
 * A Storage Story - Kyle Bader - [slides](http://www.slideshare.net/kbader/a-storage-story-chef-conf2013)
 * How To Let Devs Do Your Job For You - Aaron Suggs - [slides](https://speakerdeck.com/ktheory/how-to-let-developers-do-your-job-number-chefconf-2013), [video](http://youtu.be/K0zd08aECz0)
-* Splunk Storm - powered by Chef - powered by Splunk - Alex Munk
+* Splunk Storm - powered by Chef - powered by Splunk - Alex Munk - [video](http://youtu.be/VZEbhiQ0-EI)
 * Multi-provider Vagrant and Chef: AWS, VMware, and more. - Mitchell Hashimoto - [video](http://youtu.be/vk7hHhhIt10)
 
 ### Building Your Chef Skills
@@ -33,7 +33,7 @@ Pull Requests are appreciated!
 * Treating Your Infrastructure Like Garbage - Mike Fiedler - [slides](https://speakerdeck.com/miketheman/treating-your-infrastructure-like-garbage)
 * Hey, kid! Don't copy that floppy! - Aaron Kalin - [slides](https://speakerdeck.com/martinisoft/hey-kid-dont-copy-that-floppy)
 * Managing MongoDB Clusters on AWS with Chef - Charity Majors - [slides](http://youtu.be/dBk5RyExsOE)
-* Tips and Tricks for Automating Windows with Chef - Doug Ireton
+* Tips and Tricks for Automating Windows with Chef - Doug Ireton - [video](http://youtu.be/APBSff1_oVY)
 * How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps), [video](http://youtu.be/pHmU0aNkENc)
 * Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross - [slides](http://www.slideshare.net/andrewwgross/getting-morechefsinthekitchen), [video](http://youtu.be/ipSudpDYhTM)
 * Automating secure server baselines with Chef - Andrew Hay - [video](http://youtu.be/w8pX4A7tmD8)
@@ -55,14 +55,14 @@ Pull Requests are appreciated!
 * How Chef enables the DevOps culture at Prezi. - Zsolt Dollenstein, [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/), [video](http://youtu.be/WH4NUPMqK7k)
  
 ### Master Chef
-* Cross-platform Friendly Cookbooking - Mandi Walls
+* Cross-platform Friendly Cookbooking - Mandi Walls - [video](http://youtu.be/jgId1u2hIY8)
 * Test Kitchen: Multi-Platform Integration Testing for the Masses - Fletcher Nichol, Seth Chisamore, and Joshua Timberman, [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses)
 * Managing Resources and their Providers - Miah Johnson - [slides](http://www.slideshare.net/rosekolodny/resources-and-providers-chef-conf-2013)
 * Cookbook refactoring & abstracting logic to Ruby(gems) - Seth Vargo - [video](http://youtu.be/3JTlcnEpWD4)
 * Writing a Knife Plugin for your shiny new VMWare vCloud Director-based cloud - Chirag Jog - [slides](http://www.slideshare.net/Clogeny/writing-a-knife-cloud-plugin-for-your-shiny-vmware-vcloud-director)
 * Harnessing the Power of Bare Metal with Razor and Chef Server - Fletcher Nichol - [slides](https://speakerdeck.com/fnichol/chefconf-2013-harnessing-the-power-of-bare-metal-with-razor-and-chef-server), [video](http://youtu.be/sFQ5X8xNT4A)
-* Showing the JVM Some Love: Best Practices for Working with Java Applications - Bryan W. Berry - [slides](https://speakerdeck.com/bryanwb/managing-java-applications-with-chef)
-* Push jobs: an orchestration building block for private Chef - Mark Anderson
+* Showing the JVM Some Love: Best Practices for Working with Java Applications - Bryan W. Berry - [slides](https://speakerdeck.com/bryanwb/managing-java-applications-with-chef), [video](http://youtu.be/-jq6fyWYYkc)
+* Push jobs: an orchestration building block for private Chef - Mark Anderson - [video](http://youtu.be/yHub6E4DNvg)
 * Eat the Whole Bowl: Building a Full-Stack Installer with Omnibus - Seth Chisamore and Christopher Maier - [video](http://www.youtube.com/watch?v=q8iJAntXCNY), [slides](https://speakerdeck.com/schisamo/eat-the-whole-bowl-building-a-full-stack-installer-with-omnibus)
 * How I Wrote a Chef Server While Waiting in Line at Best Buy - John Keiser - [slides](http://johnkeiser.com/presentation/chef-zero), [video](http://youtu.be/bUYjX1SNUh8)
 
