@@ -10,7 +10,7 @@ Pull Requests are appreciated!
 * Powering The Industrial internet With The GE Commercial Cloud - Robert Kightlinger - [video](http://youtu.be/bapTyrdkuRA)
 * The Berkshelf Way - Jamie Winsor - [video](http://youtu.be/hYt0E84kYUI)
 * Awesome Community Chefs Award Presentation - [video](http://youtu.be/xpkxsMUPvmo)
-* Keynote Session - Opscode - Adam Jacob - [video](http://youtu.be/Hb4y0EHfOFQ)
+* Keynote Session - Opscode - Adam Jacob - [video](http://youtu.be/Hb4y0EHfOFQ), [slides](http://www.slideshare.net/opscode/opscode-keynoteadamjacob)
 * Utility HPC: Right Systems, Right Scale, Right Science - Jason Stowe - [video](http://youtu.be/5vtVj5PIK_0)
 * Level Up the Change in Your Enterprise - Nordstrom - Robert Cummings - [video](http://youtu.be/Ot5H2KfWAxI), [slides](http://www.slideshare.net/robc77/chefconf-2013-nordstrom-keynote)
 * Who Says Elephants Can't Cook? How IBM and Opscode are changing the role of code in defining next generation infrastructures - Mohammed Abdula and Mitch Hill - [video](http://youtu.be/mBArai8EsEE), [slides](http://www.slideshare.net/opscode/ibm-opscode-keynote)
@@ -20,11 +20,11 @@ Pull Requests are appreciated!
 * The Postmortem - it doesn't have to be messy - Rob Schnepp - [video](http://youtu.be/52z0aVeawxY), [slides](http://www.slideshare.net/opscode/postmortem-rob-schnepp)
 * Creating a Culture for Continuous Delivery - John Esser - [video](http://www.youtube.com/watch?v=f3s0gxp_RA4), [slides](http://www.slideshare.net/opscode/creating-a-culture-for-continuous-delivery-chef-conf-2013-john-esser)
 * Building and Managing Hadoop with Chef - John Martin - [slides](http://www.slideshare.net/tekbuddha/building-hadoop-with-chef), [video](http://youtu.be/KPe6At1ofCE)
-* The InstallShield of the 21st Century - Theo Schlossnagle - [video](http://youtu.be/TkffUcBNZx0)
+* The InstallShield of the 21st Century - Theo Schlossnagle - [video](http://youtu.be/TkffUcBNZx0), [slides](http://www.slideshare.net/opscode/chef-install-shieldtheoschlossnagle)
 * Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse - [video](http://youtu.be/CoTijToI10c)
 * A Storage Story - Kyle Bader - [slides](http://www.slideshare.net/kbader/a-storage-story-chef-conf2013), [video](http://www.youtube.com/watch?v=AXyI2MULkdI)
 * How To Let Devs Do Your Job For You - Aaron Suggs - [slides](https://speakerdeck.com/ktheory/how-to-let-developers-do-your-job-number-chefconf-2013), [video](http://youtu.be/K0zd08aECz0)
-* Splunk Storm - powered by Chef - powered by Splunk - Alex Munk - [video](http://youtu.be/VZEbhiQ0-EI)
+* Splunk Storm - powered by Chef - powered by Splunk - Alex Munk - [video](http://youtu.be/VZEbhiQ0-EI), [slides](http://www.slideshare.net/opscode/splunk-storm-alex-munk)
 * Multi-provider Vagrant and Chef: AWS, VMware, and more. - Mitchell Hashimoto - [video](http://youtu.be/vk7hHhhIt10), [slides](http://www.slideshare.net/slideshow/embed_code/20495007?rel=0#)
 
 ### Building Your Chef Skills
@@ -43,7 +43,7 @@ Pull Requests are appreciated!
 * Bootable DevOps on USB - Instant Infrastructure in Developing Nations - Chris McClimans - [slides](http://ii.can.cd/), [video](http://youtu.be/3OF-JyIh1i4)
 * Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins - [video](http://youtu.be/GYGEYYdCEZs)
 * Cooking with Chef and Amazon's cloud formation - Jeremy Przygode - [video](http://youtu.be/t50L172BDOo), [slides](https://speakerdeck.com/przygode/automating-infrastructures-with-aws-cloud-formation-and-chef)
-* Chef ignited a DevOps revolution - BK Box - [video](http://youtu.be/XLnjBCjiaeU)
+* Chef ignited a DevOps revolution - BK Box - [video](http://youtu.be/XLnjBCjiaeU), [slides](http://www.slideshare.net/opscode/chef-igniteda-devopsrevolution)
 * The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby - [video](http://youtu.be/T2teScqAqsc)
 * Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet - [video](http://youtu.be/4_Qc-DshHl0)
 * The Unintended Benefits of Chef - Clinton Wolfe - [video](http://youtu.be/-yXkYHQvx5w), [slides](http://www.slideshare.net/opscode/the-unintended-benefits-of-chef-clinton-wolfe)
@@ -68,14 +68,14 @@ Pull Requests are appreciated!
 * How I Wrote a Chef Server While Waiting in Line at Best Buy - John Keiser - [slides](http://johnkeiser.com/presentation/chef-zero), [video](http://youtu.be/bUYjX1SNUh8)
 
 ### Cooking with Friends
-* SDN, Network Virtualization and the Software Defined Data Center - Brad Hedlund
+* SDN, Network Virtualization and the Software Defined Data Center - Brad Hedlund - [slides](http://www.slideshare.net/opscode/network-virtualization-bradhedlund)
 * Enterprise Cloud with IBM & Chef - Ann Marie Fred and Michael Elder - [slides](http://www.slideshare.net/MichaelElder/2013chef-conf-scdscov02)
 * Working with Chef on Windows and Windows Azure - Brian Benz
 * Getting Started with AWS Opsworks - Simone Brunozzi
 * Taming Chef for Developer Happiness - Warren Bain (Wazza), [slides](http://www.rvl.io/thoughtcroft/taming-chef-for-developer-happiness/fullscreen)
 * Cookin' up Hybrid Clouds:  Chef and the Accenture Cloud Platform - Thomas Myers - [slides](http://www.slideshare.net/opscode/cookin-uphybridclouds-tommyers)
 * NetdevOps: Delivering Network Abstractions using Chef and EOS - Peter Sprygada
-* Using Chef and AppFirst to Automate Scale-out/Scale-down of Web Applications - Mark White
+* Using Chef and AppFirst to Automate Scale-out/Scale-down of Web Applications - Mark White - [slides](http://www.slideshare.net/opscode/using-chef-and-appfirst-to-automate-scaleoutscaledown-of-web-applications-mark-white)
 * Deploying OpenStack with Chef and Operational Tooling - Joseph Breu and Justin Shepherd - [slides](http://www.slideshare.net/jbreu/rackspace-private-cloud-presentation-for-chefconf-2013)
 * Why the (legacy) Enterprise is Scared of Git – and what you can do about it - Laurence Sweeney
 
