@@ -30,10 +30,10 @@ Pull Requests are appreciated!
 ### Building Your Chef Skills
 * Beginning Chef Antipatterns - Julian Dunn - [slides](http://www.slideshare.net/JulianDunn/beginner-chef-antipatterns), [video](http://www.youtube.com/watch?v=IJCY2cEr6Rw)
 * Configuration management and #monitoringlove - Ulf Månsson - [video](http://youtu.be/3LLU8Ythosw), [slides](http://www.slideshare.net/opscode/configuration-mgmt-and-monitoring-love-ulf-masson)
-* Chef and the Cloud - Trotter Cashion - [video](http://youtu.be/KSScdObVdCM)
+* Chef and the Cloud - Trotter Cashion - [video](http://youtu.be/KSScdObVdCM), [slides](https://speakerdeck.com/trotter/chef-and-the-cloud)
 * Treating Your Infrastructure Like Garbage - Mike Fiedler - [slides](https://speakerdeck.com/miketheman/treating-your-infrastructure-like-garbage), [video](http://youtu.be/2s2ql6qcM2Y)
 * Hey, kid! Don't copy that floppy! - Aaron Kalin - [slides](https://speakerdeck.com/martinisoft/hey-kid-dont-copy-that-floppy), [video](http://youtu.be/Ryz__nT6RCg)
-* Managing MongoDB Clusters on AWS with Chef - Charity Majors - [slides](http://youtu.be/dBk5RyExsOE), [video](http://www.youtube.com/watch?v=dBk5RyExsOE)
+* Managing MongoDB Clusters on AWS with Chef - Charity Majors - [slides](https://speakerdeck.com/charity/chefconf-2013-managing-multiple-mongodb-clusters-with-chef-1), [video](http://www.youtube.com/watch?v=dBk5RyExsOE)
 * Tips and Tricks for Automating Windows with Chef - Doug Ireton - [video](http://youtu.be/APBSff1_oVY), [slides](http://www.slideshare.net/opscode/chef-conf-windowsdougireton)
 * How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps), [video](http://youtu.be/pHmU0aNkENc), [video](http://www.youtube.com/watch?v=pHmU0aNkENc)
 * Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross - [slides](http://www.slideshare.net/andrewwgross/getting-morechefsinthekitchen), [video](http://youtu.be/ipSudpDYhTM)
@@ -42,7 +42,7 @@ Pull Requests are appreciated!
 ### Teams and Workflow Patterns
 * Bootable DevOps on USB - Instant Infrastructure in Developing Nations - Chris McClimans - [slides](http://ii.can.cd/), [video](http://youtu.be/3OF-JyIh1i4)
 * Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins - [video](http://youtu.be/GYGEYYdCEZs)
-* Cooking with Chef and Amazon's cloud formation - Jeremy Przygode - [video](http://youtu.be/t50L172BDOo)
+* Cooking with Chef and Amazon's cloud formation - Jeremy Przygode - [video](http://youtu.be/t50L172BDOo), [slides](https://speakerdeck.com/przygode/automating-infrastructures-with-aws-cloud-formation-and-chef)
 * Chef ignited a DevOps revolution - BK Box - [video](http://youtu.be/XLnjBCjiaeU)
 * The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby - [video](http://youtu.be/T2teScqAqsc)
 * Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet - [video](http://youtu.be/4_Qc-DshHl0)
