@@ -9,17 +9,18 @@ Pull Requests are appreciated!
 * Welcome to the IT Industrial Revolution! Are you ready? - Glenn O'Donnell
 * Powering The Industrial internet With The GE Commercial Cloud - Robert Kightlinger - [video](http://youtu.be/bapTyrdkuRA)
 * The Berkshelf Way - Jamie Winsor - [video](http://youtu.be/hYt0E84kYUI)
+* Awesome Community Chefs Award Presentation - [video](http://youtu.be/xpkxsMUPvmo)
 * Keynote Session - Opscode - Adam Jacob - [video](http://youtu.be/Hb4y0EHfOFQ)
 * Utility HPC: Right Systems, Right Scale, Right Science - Jason Stowe - [video](http://youtu.be/5vtVj5PIK_0)
 * Level Up the Change in Your Enterprise - Nordstrom - Robert Cummings - [video](http://youtu.be/Ot5H2KfWAxI), [slides](http://www.slideshare.net/robc77/chefconf-2013-nordstrom-keynote)
 * Who Says Elephants Can't Cook? How IBM and Opscode are changing the role of code in defining next generation infrastructures - Mohammed Abdula and Mitch Hill - [video](http://youtu.be/mBArai8EsEE)
 
 ### Successful Automation
-* Zero to Production in Crazy Time: Adobe's Transformation - John Martinez
-* The Postmortem - it doesn't have to be messy - Rob Schnepp
+* Zero to Production in Crazy Time: Adobe's Transformation - John Martinez - [video](http://youtu.be/EyDaC3RRCfU)
+* The Postmortem - it doesn't have to be messy - Rob Schnepp - [video](http://youtu.be/52z0aVeawxY)
 * Creating a Culture for Continuous Delivery - John Esser - [video](http://www.youtube.com/watch?v=f3s0gxp_RA4)
 * Building and Managing Hadoop with Chef - John Martin - [slides](http://www.slideshare.net/tekbuddha/building-hadoop-with-chef), [video](http://youtu.be/KPe6At1ofCE)
-* The InstallShield of the 21st Century - Theo Schlossnagle
+* The InstallShield of the 21st Century - Theo Schlossnagle - [video](http://youtu.be/TkffUcBNZx0)
 * Automation Cross Cloud Deployment - Chef The Operating System for the Cloud - Jeremy LaTrasse - [video](http://youtu.be/CoTijToI10c)
 * A Storage Story - Kyle Bader - [slides](http://www.slideshare.net/kbader/a-storage-story-chef-conf2013)
 * How To Let Devs Do Your Job For You - Aaron Suggs - [slides](https://speakerdeck.com/ktheory/how-to-let-developers-do-your-job-number-chefconf-2013), [video](http://youtu.be/K0zd08aECz0)
@@ -30,8 +31,8 @@ Pull Requests are appreciated!
 * Beginning Chef Antipatterns - Julian Dunn - [slides](http://www.slideshare.net/JulianDunn/beginner-chef-antipatterns), [video](http://www.youtube.com/watch?v=IJCY2cEr6Rw)
 * Configuration management and #monitoringlove - Ulf Månsson - [video](http://youtu.be/3LLU8Ythosw)
 * Chef and the Cloud - Trotter Cashion - [video](http://youtu.be/KSScdObVdCM)
-* Treating Your Infrastructure Like Garbage - Mike Fiedler - [slides](https://speakerdeck.com/miketheman/treating-your-infrastructure-like-garbage)
-* Hey, kid! Don't copy that floppy! - Aaron Kalin - [slides](https://speakerdeck.com/martinisoft/hey-kid-dont-copy-that-floppy)
+* Treating Your Infrastructure Like Garbage - Mike Fiedler - [slides](https://speakerdeck.com/miketheman/treating-your-infrastructure-like-garbage), [video](http://youtu.be/2s2ql6qcM2Y)
+* Hey, kid! Don't copy that floppy! - Aaron Kalin - [slides](https://speakerdeck.com/martinisoft/hey-kid-dont-copy-that-floppy), [video](http://youtu.be/Ryz__nT6RCg)
 * Managing MongoDB Clusters on AWS with Chef - Charity Majors - [slides](http://youtu.be/dBk5RyExsOE)
 * Tips and Tricks for Automating Windows with Chef - Doug Ireton - [video](http://youtu.be/APBSff1_oVY)
 * How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps), [video](http://youtu.be/pHmU0aNkENc)
@@ -40,26 +41,26 @@ Pull Requests are appreciated!
 
 ### Teams and Workflow Patterns
 * Bootable DevOps on USB - Instant Infrastructure in Developing Nations - Chris McClimans - [slides](http://ii.can.cd/), [video](http://youtu.be/3OF-JyIh1i4)
-* Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins
+* Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins - [video](http://youtu.be/GYGEYYdCEZs)
 * Cooking with Chef and Amazon's cloud formation - Jeremy Przygode - [video](http://youtu.be/t50L172BDOo)
 * Chef ignited a DevOps revolution - BK Box - [video](http://youtu.be/XLnjBCjiaeU)
-* The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby
+* The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby - [video](http://youtu.be/T2teScqAqsc)
 * Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet - [video](http://youtu.be/4_Qc-DshHl0)
-* The Unintended Benefits of Chef - Clinton Wolfe
+* The Unintended Benefits of Chef - Clinton Wolfe - [video](http://youtu.be/-yXkYHQvx5w)
 * DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps - Gene Kim - [video](http://youtu.be/9jD200ZxIrQ)
 * Exploiting Conway's Law for Underpants and Profit - Jeff Hackert
 * Cooking on Windows without the Windows Cookbook - Adam Edwards - [video](http://youtu.be/SPhOSDRRoGA)
 * Application Automation Patterns - Dan Nemec - [slides](https://docs.google.com/presentation/d/1GFezWsKxfKc5KVEj5BbTEZggFJeZZ9KjeV1uRA51n3c/pub?start=false&loop=false&delayms=3000), [video](http://youtu.be/Q_ALf-KOiGw)
-* Using Kanban and Chef: A Case Study - Jeffrey Hulten
+* Using Kanban and Chef: A Case Study - Jeffrey Hulten - [video](http://youtu.be/YSbjoh9M1wQ)
 * Golden Images vs Chef: Why not both? - Jason Cook - [video](http://youtu.be/eWbUBTkdj1g)
 * How Chef enables the DevOps culture at Prezi. - Zsolt Dollenstein, [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/), [video](http://youtu.be/WH4NUPMqK7k)
  
 ### Master Chef
 * Cross-platform Friendly Cookbooking - Mandi Walls - [video](http://youtu.be/jgId1u2hIY8)
-* Test Kitchen: Multi-Platform Integration Testing for the Masses - Fletcher Nichol, Seth Chisamore, and Joshua Timberman, [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses)
-* Managing Resources and their Providers - Miah Johnson - [slides](http://www.slideshare.net/rosekolodny/resources-and-providers-chef-conf-2013)
+* Test Kitchen: Multi-Platform Integration Testing for the Masses - Fletcher Nichol, Seth Chisamore, and Joshua Timberman, [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses), [video](http://youtu.be/VMnwwsSYqi8)
+* Managing Resources and their Providers - Miah Johnson - [slides](http://www.slideshare.net/rosekolodny/resources-and-providers-chef-conf-2013), [video](http://youtu.be/u5wfN1OEFmY)
 * Cookbook refactoring & abstracting logic to Ruby(gems) - Seth Vargo - [video](http://youtu.be/3JTlcnEpWD4)
-* Writing a Knife Plugin for your shiny new VMWare vCloud Director-based cloud - Chirag Jog - [slides](http://www.slideshare.net/Clogeny/writing-a-knife-cloud-plugin-for-your-shiny-vmware-vcloud-director)
+* Writing a Knife Plugin for your shiny new VMWare vCloud Director-based cloud - Chirag Jog - [slides](http://www.slideshare.net/Clogeny/writing-a-knife-cloud-plugin-for-your-shiny-vmware-vcloud-director), [video](http://youtu.be/ogB-UTW77Cg)
 * Harnessing the Power of Bare Metal with Razor and Chef Server - Fletcher Nichol - [slides](https://speakerdeck.com/fnichol/chefconf-2013-harnessing-the-power-of-bare-metal-with-razor-and-chef-server), [video](http://youtu.be/sFQ5X8xNT4A)
 * Showing the JVM Some Love: Best Practices for Working with Java Applications - Bryan W. Berry - [slides](https://speakerdeck.com/bryanwb/managing-java-applications-with-chef), [video](http://youtu.be/-jq6fyWYYkc)
 * Push jobs: an orchestration building block for private Chef - Mark Anderson - [video](http://youtu.be/yHub6E4DNvg)
