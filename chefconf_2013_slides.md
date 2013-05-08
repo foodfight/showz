@@ -35,7 +35,7 @@ Pull Requests are appreciated!
 * Hey, kid! Don't copy that floppy! - Aaron Kalin - [slides](https://speakerdeck.com/martinisoft/hey-kid-dont-copy-that-floppy), [video](http://youtu.be/Ryz__nT6RCg)
 * Managing MongoDB Clusters on AWS with Chef - Charity Majors - [slides](https://speakerdeck.com/charity/chefconf-2013-managing-multiple-mongodb-clusters-with-chef-1), [video](http://www.youtube.com/watch?v=dBk5RyExsOE)
 * Tips and Tricks for Automating Windows with Chef - Doug Ireton - [video](http://youtu.be/APBSff1_oVY), [slides](http://www.slideshare.net/opscode/chef-conf-windowsdougireton)
-* How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps), [video](http://youtu.be/pHmU0aNkENc), [video](http://www.youtube.com/watch?v=pHmU0aNkENc)
+* How to f*ck up your Configuration Management adoption and really piss people off in the process. - Sascha Bates - [slides](https://speakerdeck.com/sbates/doom-your-chef-in-3-easy-steps), [video](http://youtu.be/pHmU0aNkENc)
 * Getting More Chefs in the Kitchen - Developing Infrastructure as a Team - Andrew Gross - [slides](http://www.slideshare.net/andrewwgross/getting-morechefsinthekitchen), [video](http://youtu.be/ipSudpDYhTM)
 * Automating secure server baselines with Chef - Andrew Hay - [video](http://youtu.be/w8pX4A7tmD8), [slides](http://www.slideshare.net/opscode/automating-secure-serverbaselinesandrewhay)
 
@@ -51,7 +51,7 @@ Pull Requests are appreciated!
 * Exploiting Conway's Law for Underpants and Profit - Jeff Hackert - [video](http://www.youtube.com/watch?v=B73UueoNIWY), [slides](http://www.slideshare.net/opscode/conways-law-jeffhackert)
 * Cooking on Windows without the Windows Cookbook - Adam Edwards - [video](http://youtu.be/SPhOSDRRoGA)
 * Application Automation Patterns - Dan Nemec - [slides](https://docs.google.com/presentation/d/1GFezWsKxfKc5KVEj5BbTEZggFJeZZ9KjeV1uRA51n3c/pub?start=false&loop=false&delayms=3000), [video](http://youtu.be/Q_ALf-KOiGw)
-* Using Kanban and Chef: A Case Study - Jeffrey Hulten - [video](http://youtu.be/YSbjoh9M1wQ)
+* Using Kanban and Chef: A Case Study - Jeffrey Hulten - [video](http://youtu.be/YSbjoh9M1wQ), [slides](http://www.slideshare.net/opscode/chef-andkanban)
 * Golden Images vs Chef: Why not both? - Jason Cook - [video](http://youtu.be/eWbUBTkdj1g)
 * How Chef enables the DevOps culture at Prezi. - Zsolt Dollenstein, [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/), [video](http://youtu.be/WH4NUPMqK7k)
  
@@ -90,6 +90,9 @@ Pull Requests are appreciated!
 ## Follow-up Community Coverage
 
 * [Pictures from the Saturday Hack Day](http://t.co/rHJcQ3wBje)
+* [Pictures of #ChefConf Attendees](https://www.facebook.com/media/set/?set=a.10151469613534302.1073741825.99334479301)
+* [Picutres of #ChefConf Speakers](https://www.facebook.com/media/set/?set=a.10151476061919302.1073741826.99334479301)
+* [Pictures from the Charlie Mars concert](https://www.facebook.com/media/set/?set=a.10151476902269302.1073741827.99334479301)
 
 ## Follow \#ChefConf Attendees and Speakers on Twitter
 * [\#ChefConf Speakers](https://twitter.com/ChefConf/chefconf-2013-speakers/members)
