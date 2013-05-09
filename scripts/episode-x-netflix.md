@@ -91,6 +91,9 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+* [#ChefConf 2013 Talks](http://www.opscode.com/blog/chefconf-talks/)
+* [Spaceteam](https://itunes.apple.com/us/app/spaceteam/id570510529?mt=8) - Addictive team game for iPhone or iPad.  Hat tip to [Jamie Winsor](https://twitter.com/resetexistence) for the introduction.
+
 #### Adrian
 
 * [Adrian's live demo benchmark on Cassandra on SSD](http://www.youtube.com/watch?v=Wo-zkUH1R8A&feature=youtu.be)
