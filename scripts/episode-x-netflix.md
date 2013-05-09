@@ -93,14 +93,25 @@ Picks<a name="picks"></a>
 * [#ChefConf 2013 Talks](http://www.opscode.com/blog/chefconf-talks/)
 * [Spaceteam](https://itunes.apple.com/us/app/spaceteam/id570510529?mt=8) - Addictive team game for iPhone or iPad.  Hat tip to [Jamie Winsor](https://twitter.com/resetexistence) for the introduction.
 
+#### Brandon Burton
+
+* [Real Talk Podcast](http://realtalk.io/)
+
 #### Adrian
 
 * [Adrian's live demo benchmark on Cassandra on SSD](http://www.youtube.com/watch?v=Wo-zkUH1R8A&feature=youtu.be)
+* [Drift into Failure](http://www.amazon.com/Drift-into-Failure-Sidney-Dekker/dp/1409422216) Sydney Dekker
+* Netflix OSS Meetup
+
 
 #### Jedberg
 
 * [Netflix's re:invent presentations](http://techblog.netflix.com/2012/12/videos-of-netflix-talks-at-aws-reinvent.html)
 
+#### Trotter
+
+* [Release It](http://pragprog.com/book/mnee/release-it)
+* [Way of Kings](http://www.amazon.com/Way-Kings-Stormlight-Archive/dp/0765365278)
 
 CLOSE
 -----
