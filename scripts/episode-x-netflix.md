@@ -9,7 +9,7 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey),
   [twitter](http://twitter.com/nathenharvey), irc: nathenharvey,
   [blog](http://nathenharvey.com)
-* Trotter Cashion  
+* Trotter Cashion [github](http://github.com/trotter), [twitter](http://twitter.com/cashion), [blog](http://trottercashion.com) 
 * Adrian Cockcroft [github](http://github.com/adrianco), [twitter](http://twitter.com/adrianco), [blog](http://perfcap.blogspot.com)
 * Jeremy Edberg [github](http://github.com/jedberg), [twitter](http://twitter.com/), [blog](http://www.jedberg.net)
 
