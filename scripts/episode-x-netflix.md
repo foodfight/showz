@@ -10,7 +10,7 @@ Panel<a name="panel"></a>
   [twitter](http://twitter.com/nathenharvey), irc: nathenharvey,
   [blog](http://nathenharvey.com)
 * Trotter Cashion  
-* Adrian Cockcroft
+* Adrian Cockcroft [github](http://github.com/adrianco), [twitter](http://twitter.com/adrianco), [blog](http://perfcap.blogspot.com)
 * Jeremy Edberg
 
 Outline/Questions
@@ -21,7 +21,7 @@ The Why:
   availability, i don't see most of the traditional linux ha tools like
   heartbeat, pacemaker, clustered filesystems, master-slave db w/ auto-failover etc. Instead most of
   the ha is pushed up to the application layer. Can you talk about why
-  the traditional tools didn't meet your needs?
+  the traditional tools didn't meet your needs? A: < Quorum FTW
 * Why are you open-sourcing most of your whole infrastructure stack?
 
 The stuff:
@@ -41,30 +41,34 @@ Config Mgt:
 * What are ribbon, tachyon, archaius, eureka, edda etc? How do they
   work together?
 * Archaius pulls configuration from multiple sources, can this be
-  confusing? to sort out which particular level you a value came from?
+  confusing? to sort out which particular level you a value came from? < Hierarchical, doesn't seem to be an issue
 * it seems that you have pushed most of your monitoring into the
   application (jvm) level but do you do any monitoring at lower levels? do you monitor
-  filesystem,network, etc.? and what do u use, collectd, ganglia, foobar?
+  filesystem,network, etc.? and what do u use, collectd, ganglia, foobar? < Atlas and Appdynamics
+* can orgs w/ non-jvm stacks take advantage of netflixOSS? < Yes, Python
+* Can you explain how hystrix functions as a "circuit-breaker"? < Bzzzzzt, Zap! Yes.
 * How can orgs w/ non-jvm stacks take advantage of archaius, eureka, edda?
 * What do you use zookeeper for? you have lots of libs for it but it
   doesn't figure prominently in your diagrams
 * Eureka seems to reimplement a lot of what zookeeper does. Why did
-  you choose to build a new tool rather than use zk?
+  you choose to build a new tool rather than use zk?  < Built Eureka in 2008 before ZK was stable, Eng's decision, not mine
 * while you have a very sophisticated Paas, your stack is simple in
   other ways. Virtually all your apps, except the monkeys, are tomcat
-  instances or cassandra instances. Was this simplicity intentional?
+  instances or cassandra instances. Was this simplicity intentional? < follow patterns. Platform support is a problem when platform is changing fast.
 
 HA and monitoring:
 
 * Pls talk about how you add resiliency to your stack. Is that
   backpressure? Can you explain how hystrix functions as a "circuit-breaker"?
 * What can you tell us about your monitoring and alerting systems Atlas and Odin?
+* What can you tell us about Atlas and Odin? < Taking a long time to get ready to OSS...
 * I presume that Atlas is a cassandra-backed storage rather than RRD,
 is that correct? How does its api compare to say, Graphite? does it
 have support for graphite like functions such as mostdeviant,
 holt-winters, percentiles, etc? Is there a timeline for the release of
-Atlas?
-* Odin is the api or orchestration engine for Asgard?
+Atlas? < not Cassandra backed *its complicated*. REST API. Percentiles, 3DES, Used to use HoltWinters
+* Odin is the api or orchestration engine for Asgard? 
+* Odin is the api or orchestration engine for Asgard? < Yes 
 * Chaos Monkey Qs?
 
 Other Stuff:
@@ -72,8 +76,8 @@ Other Stuff:
 * If you had to start from scratch today, would you choose base your entire
   architecture off the JVM? Or would you choose something like golang instead?
 * Tell us about the Netflix prize
-* what would be the ideal outcome for netflix oss campaign?
-* how can ppl get involved?
+* what would be the ideal outcome for netflix oss campaign? 
+* how can ppl get involved? < I'm "selling" you free code that works at scale. Use it and fix/tune/extend it and enter the cloud prize.
 
 Picks<a name="picks"></a>
 -----
@@ -87,6 +91,10 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### Adrian
+
+* [Adrian's live demo benchmark on Cassandra on SSD](http://www.youtube.com/watch?v=Wo-zkUH1R8A&feature=youtu.be)
+ 
 
 
 CLOSE
