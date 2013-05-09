@@ -11,7 +11,7 @@ Panel<a name="panel"></a>
   [blog](http://nathenharvey.com)
 * Trotter Cashion  
 * Adrian Cockcroft [github](http://github.com/adrianco), [twitter](http://twitter.com/adrianco), [blog](http://perfcap.blogspot.com)
-* Jeremy Edberg
+* Jeremy Edberg [github](http://github.com/jedberg), [twitter](http://twitter.com/), [blog](http://www.jedberg.net)
 
 Outline/Questions
 -----------------
@@ -22,7 +22,7 @@ The Why:
   heartbeat, pacemaker, clustered filesystems, master-slave db w/ auto-failover etc. Instead most of
   the ha is pushed up to the application layer. Can you talk about why
   the traditional tools didn't meet your needs? A: < Quorum FTW
-* Why are you open-sourcing most of your whole infrastructure stack?
+* Why are you open-sourcing most of your whole infrastructure stack? A: We want to provide what we hope becomes the standard platform for IaaS
 
 The stuff:
 
@@ -30,9 +30,9 @@ The stuff:
   works?
   * the customizatin part of the ami seems to start w/ a single giant
     rpm or deb that includes all the customizations and code for a
-    specific app. How do you come up w/ that package?
+    specific app. How do you come up w/ that package? A: It's built that way out of jenkins, but it's not a single rpm.
   * would it be possible to upload a set of cookbooks and run
-    chef-solo as a step in aminator?
+    chef-solo as a step in aminator? A: Yes!  In fact the build team is expirmenting with this right now.
 
 Config Mgt:
 
@@ -47,7 +47,7 @@ Config Mgt:
   filesystem,network, etc.? and what do u use, collectd, ganglia, foobar? < Atlas and Appdynamics
 * can orgs w/ non-jvm stacks take advantage of netflixOSS? < Yes, Python
 * Can you explain how hystrix functions as a "circuit-breaker"? < Bzzzzzt, Zap! Yes.
-* How can orgs w/ non-jvm stacks take advantage of archaius, eureka, edda?
+* How can orgs w/ non-jvm stacks take advantage of archaius, eureka, edda? A: They're all REST api's at the core. 
 * What do you use zookeeper for? you have lots of libs for it but it
   doesn't figure prominently in your diagrams
 * Eureka seems to reimplement a lot of what zookeeper does. Why did
@@ -59,15 +59,14 @@ Config Mgt:
 HA and monitoring:
 
 * Pls talk about how you add resiliency to your stack. Is that
-  backpressure? Can you explain how hystrix functions as a "circuit-breaker"?
+  backpressure? Can you explain how hystrix functions as a "circuit-breaker"? 
 * What can you tell us about your monitoring and alerting systems Atlas and Odin?
 * What can you tell us about Atlas and Odin? < Taking a long time to get ready to OSS...
 * I presume that Atlas is a cassandra-backed storage rather than RRD,
 is that correct? How does its api compare to say, Graphite? does it
 have support for graphite like functions such as mostdeviant,
 holt-winters, percentiles, etc? Is there a timeline for the release of
-Atlas? < not Cassandra backed *its complicated*. REST API. Percentiles, 3DES, Used to use HoltWinters
-* Odin is the api or orchestration engine for Asgard? 
+Atlas? < not Cassandra backed *its complicated*. REST API. Percentiles, 3DES, Used to use HoltWinters. Built a lot like OpenTSDB
 * Odin is the api or orchestration engine for Asgard? < Yes 
 * Chaos Monkey Qs?
 
@@ -97,7 +96,10 @@ Picks<a name="picks"></a>
 #### Adrian
 
 * [Adrian's live demo benchmark on Cassandra on SSD](http://www.youtube.com/watch?v=Wo-zkUH1R8A&feature=youtu.be)
- 
+
+#### Jedberg
+
+* [Netflix's re:invent presentations](http://techblog.netflix.com/2012/12/videos-of-netflix-talks-at-aws-reinvent.html)
 
 
 CLOSE
