@@ -309,7 +309,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 126
 * [chef-reporting](http://rubygems.org/gems/chef-reporting) (0.1.0) - Backport of Chef Reporting handler for Chef < 11.6.0
 * [chef-ssl-client](http://rubygems.org/gems/chef-ssl-client) (1.0.5) - A command-line client the ssl cookbook's signing requirements
 * [chef-vault](http://rubygems.org/gems/chef-vault) (1.2.3) - Data encryption support for chef using data bags
-* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) (0.2.3) - 
+* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) (0.2.3) - A set of rake tasks provided as discrete libraries for forming a chef workflow
 * [chef-workflow](http://rubygems.org/gems/chef-workflow) (0.2.5) - A comprehensive rake-based workflow for chef
 * [chef-zero](http://rubygems.org/gems/chef-zero) (0.9.8) - Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
 * [chefspec](http://rubygems.org/gems/chefspec) (1.1.0) - Write RSpec examples for Opscode Chef recipes
