@@ -142,9 +142,6 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) -
 * [vagrant](http://community.opscode.com/cookbooks/vagrant) - [jtimberman](http://community.opscode.com/users/jtimberman) - Installs/Configures vagrant
 * [vcruntime](http://community.opscode.com/cookbooks/vcruntime) - [dlrobinson](http://community.opscode.com/users/dlrobinson) - Installs Microsoft VC runtime
 * [wait](http://community.opscode.com/cookbooks/wait) - [jwitrick](http://community.opscode.com/users/jwitrick) - Installs/Configures wait
-* [wait](http://community.opscode.com/cookbooks/wait) - [jwitrick](http://community.opscode.com/users/jwitrick) - Installs/Configures wait
-* [wait](http://community.opscode.com/cookbooks/wait) - [jwitrick](http://community.opscode.com/users/jwitrick) - Installs/Configures wait
-* [wait](http://community.opscode.com/cookbooks/wait) - [jwitrick](http://community.opscode.com/users/jwitrick) - Installs/Configures wait
 * [wikiarguments](http://community.opscode.com/cookbooks/wikiarguments) - [computerlyrik](http://community.opscode.com/users/computerlyrik) - Installs/Configures wikiarguments
 * [windirstat](http://community.opscode.com/cookbooks/windirstat) - [tklein](http://community.opscode.com/users/tklein) - Installs/Configures the WinDirStat
 * [wkhtmltopdf](http://community.opscode.com/cookbooks/wkhtmltopdf) - [bflad](http://community.opscode.com/users/bflad) - Installs wkhtmltopdf static binaries
