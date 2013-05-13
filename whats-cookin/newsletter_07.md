@@ -4,10 +4,10 @@ Welcome to the seventh issue of the What's Cookin' newsletter!  \#ChefConf has k
 
 ### Latest Episodes
 * Netflix OSS [website](http://foodfightshow.org/2013/05/netflix-oss.html) | [YouTube](http://www.youtube.com/watch?v=A69uTnfQgB8)
-* \#ChefConf Day Two Wrap-up [website](http://foodfightshow.org/2013/04/chefconf-day-two-wrap-up.html)
-* \#ChefConf 2013:  Talking Shop With Spheromak [website](http://foodfightshow.org/2013/04/chefconf-2013-talking-shop-with-spheromak.html)
-* \#ChefConf 2013:  Talking About Push Jobs With Kevin Smith [website](http://foodfightshow.org/2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html)
-* \#ChefConf Day One Wrap-up [website](http://foodfightshow.org/2013/04/chefconf-2013-day-1-wrap-up.html)
+* [\#ChefConf Day Two Wrap-up](http://foodfightshow.org/2013/04/chefconf-day-two-wrap-up.html)
+* [\#ChefConf 2013:  Talking Shop With Spheromak](http://foodfightshow.org/2013/04/chefconf-2013-talking-shop-with-spheromak.html)
+* [\#ChefConf 2013:  Talking About Push Jobs With Kevin Smith](http://foodfightshow.org/2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html)
+* [\#ChefConf Day One Wrap-up](http://foodfightshow.org/2013/04/chefconf-2013-day-1-wrap-up.html)
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
