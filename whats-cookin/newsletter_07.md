@@ -44,8 +44,8 @@ Cookbook News<a name="cookbooks"></a>
 ### Stats
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 952  
-Knife Plugins on [RubyGems.org](http://rubygems.org) -   
-Chef Gems available on [RubyGems.org](http://rubygems.org) -   
+Knife Plugins on [RubyGems.org](http://rubygems.org) - 123  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 126   
 
 ### New Cookbooks
 
@@ -292,6 +292,81 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) -
 
 
 ### New and Updated Chef and Knife Gems
+
+* [furnish-knife-server](http://rubygems.org/gems/furnish-knife-server) (0.0.1)
+* [knife-backup](http://rubygems.org/gems/knife-backup) (0.0.5)
+* [knife-bluebox](http://rubygems.org/gems/knife-bluebox) (0.8.5)
+* [knife-cfn](http://rubygems.org/gems/knife-cfn) (0.1.5)
+* [knife-cisco_asa](http://rubygems.org/gems/knife-cisco_asa) (0.2.0)
+* [knife-cleanup](http://rubygems.org/gems/knife-cleanup) (0.0.5)
+* [knife-cloudstack](http://rubygems.org/gems/knife-cloudstack) (0.0.14)
+* [knife-community](http://rubygems.org/gems/knife-community) (0.2.0)
+* [knife-cookbook-doc](http://rubygems.org/gems/knife-cookbook-doc) (0.3.0)
+* [knife-cookbook-sync](http://rubygems.org/gems/knife-cookbook-sync) (0.1.0)
+* [knife-digital_ocean](http://rubygems.org/gems/knife-digital_ocean) (0.1.1)
+* [knife-easybake](http://rubygems.org/gems/knife-easybake) (0.1.0)
+* [knife-ec2](http://rubygems.org/gems/knife-ec2) (0.6.4)
+* [knife-essentials](http://rubygems.org/gems/knife-essentials) (0.9.8)
+* [knife-flip](http://rubygems.org/gems/knife-flip) (0.1.6)
+* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.1.4)
+* [knife-nodefu](http://rubygems.org/gems/knife-nodefu) (0.1.2)
+* [knife-openstack](http://rubygems.org/gems/knife-openstack) (0.7.1)
+* [knife-packager](http://rubygems.org/gems/knife-packager) (0.1.3)
+* [knife-proxmox](http://rubygems.org/gems/knife-proxmox) (0.0.18)
+* [knife-rhn](http://rubygems.org/gems/knife-rhn) (0.3.0)
+* [knife-rightscale](http://rubygems.org/gems/knife-rightscale) (0.0.3)
+* [knife-server](http://rubygems.org/gems/knife-server) (1.0.1)
+* [knife-setup](http://rubygems.org/gems/knife-setup) (1.1.0)
+* [knife-sharp](http://rubygems.org/gems/knife-sharp) (0.2.0)
+* [knife-solo_data_bag](http://rubygems.org/gems/knife-solo_data_bag) (0.3.2)
+* [knife-stalenodes](http://rubygems.org/gems/knife-stalenodes) (1.0.1)
+* [knife-stash](http://rubygems.org/gems/knife-stash) (0.2.0)
+* [knife-tarsnap](http://rubygems.org/gems/knife-tarsnap) (0.1.1)
+* [knife-twitter](http://rubygems.org/gems/knife-twitter) (0.1.0)
+* [knife-voxel](http://rubygems.org/gems/knife-voxel) (0.0.9)
+* [knife-vsphere](http://rubygems.org/gems/knife-vsphere) (0.5.0)
+* [knife-whisk](http://rubygems.org/gems/knife-whisk) (2.0.0)
+* [pocketknife_ec2dream](http://rubygems.org/gems/pocketknife_ec2dream) (0.1.7)
+* [realityforge-knife-windows](http://rubygems.org/gems/realityforge-knife-windows) (0.5.17)
+* [berkshelf-shims](http://rubygems.org/gems/berkshelf-shims) (0.1.1)
+* [berkshelf-vagrant](http://rubygems.org/gems/berkshelf-vagrant) (1.1.3)
+* [berkshelf](http://rubygems.org/gems/berkshelf) (1.4.3)
+* [berkshelf_ext](http://rubygems.org/gems/berkshelf_ext) (1.0.12)
+* [capistrano-paratrooper-chef](http://rubygems.org/gems/capistrano-paratrooper-chef) (0.2.0)
+* [chef-berks](http://rubygems.org/gems/chef-berks) (0.0.1)
+* [chef-expander](http://rubygems.org/gems/chef-expander) (10.26.0)
+* [chef-handler-copperegg](http://rubygems.org/gems/chef-handler-copperegg) (0.1.3)
+* [chef-handler-datadog](http://rubygems.org/gems/chef-handler-datadog) (0.1.2)
+* [chef-handler-motd](http://rubygems.org/gems/chef-handler-motd) (0.1.2)
+* [chef-handler-sensu](http://rubygems.org/gems/chef-handler-sensu) (0.1.1)
+* [chef-handler-timestamp](http://rubygems.org/gems/chef-handler-timestamp) (0.1.0)
+* [chef-handler-xmpp](http://rubygems.org/gems/chef-handler-xmpp) (0.2.2)
+* [chef-keepass](http://rubygems.org/gems/chef-keepass) (0.2.1)
+* [chef-reporting](http://rubygems.org/gems/chef-reporting) (0.1.0)
+* [chef-server-api](http://rubygems.org/gems/chef-server-api) (10.26.0)
+* [chef-server-webui](http://rubygems.org/gems/chef-server-webui) (10.26.0)
+* [chef-server](http://rubygems.org/gems/chef-server) (10.26.0)
+* [chef-solr](http://rubygems.org/gems/chef-solr) (10.26.0)
+* [chef-ssl-client](http://rubygems.org/gems/chef-ssl-client) (1.0.5)
+* [chef-vault](http://rubygems.org/gems/chef-vault) (1.2.3)
+* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) (0.2.3)
+* [chef-workflow](http://rubygems.org/gems/chef-workflow) (0.2.5)
+* [chef-zero](http://rubygems.org/gems/chef-zero) (0.9.8)
+* [chef](http://rubygems.org/gems/chef) (11.4.4)
+* [chefspec](http://rubygems.org/gems/chefspec) (1.1.0)
+* [cucumber-chef](http://rubygems.org/gems/cucumber-chef) (3.0.8)
+* [flowchef](http://rubygems.org/gems/flowchef) (0.0.2)
+* [foodcritic](http://rubygems.org/gems/foodcritic) (2.1.0)
+* [jvmargs](http://rubygems.org/gems/jvmargs) (0.0.4)
+* [librarian-chef](http://rubygems.org/gems/librarian-chef) (0.0.1)
+* [minitest-chef-handler](http://rubygems.org/gems/minitest-chef-handler) (1.0.1)
+* [ridley](http://rubygems.org/gems/ridley) (0.11.1)
+* [vagrant-chef-apply](http://rubygems.org/gems/vagrant-chef-apply) (0.0.1)
+* [vagrant-chefnode](http://rubygems.org/gems/vagrant-chefnode) (0.0.2)
+* [vagrant-librarian-chef](http://rubygems.org/gems/vagrant-librarian-chef) (0.0.1)
+* [yard-chef](http://rubygems.org/gems/yard-chef) (1.0.0)
+* [yyuu-capistrano-chef-solo](http://rubygems.org/gems/yyuu-capistrano-chef-solo) (0.1.6)
+
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
