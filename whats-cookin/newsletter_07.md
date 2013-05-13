@@ -293,79 +293,73 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 126
 
 ### New and Updated Chef and Knife Gems
 
-* [furnish-knife-server](http://rubygems.org/gems/furnish-knife-server) (0.0.1)
-* [knife-backup](http://rubygems.org/gems/knife-backup) (0.0.5)
-* [knife-bluebox](http://rubygems.org/gems/knife-bluebox) (0.8.5)
-* [knife-cfn](http://rubygems.org/gems/knife-cfn) (0.1.5)
-* [knife-cisco_asa](http://rubygems.org/gems/knife-cisco_asa) (0.2.0)
-* [knife-cleanup](http://rubygems.org/gems/knife-cleanup) (0.0.5)
-* [knife-cloudstack](http://rubygems.org/gems/knife-cloudstack) (0.0.14)
-* [knife-community](http://rubygems.org/gems/knife-community) (0.2.0)
-* [knife-cookbook-doc](http://rubygems.org/gems/knife-cookbook-doc) (0.3.0)
-* [knife-cookbook-sync](http://rubygems.org/gems/knife-cookbook-sync) (0.1.0)
-* [knife-digital_ocean](http://rubygems.org/gems/knife-digital_ocean) (0.1.1)
-* [knife-easybake](http://rubygems.org/gems/knife-easybake) (0.1.0)
-* [knife-ec2](http://rubygems.org/gems/knife-ec2) (0.6.4)
-* [knife-essentials](http://rubygems.org/gems/knife-essentials) (0.9.8)
-* [knife-flip](http://rubygems.org/gems/knife-flip) (0.1.6)
-* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.1.4)
-* [knife-nodefu](http://rubygems.org/gems/knife-nodefu) (0.1.2)
-* [knife-openstack](http://rubygems.org/gems/knife-openstack) (0.7.1)
-* [knife-packager](http://rubygems.org/gems/knife-packager) (0.1.3)
-* [knife-proxmox](http://rubygems.org/gems/knife-proxmox) (0.0.18)
-* [knife-rhn](http://rubygems.org/gems/knife-rhn) (0.3.0)
-* [knife-rightscale](http://rubygems.org/gems/knife-rightscale) (0.0.3)
-* [knife-server](http://rubygems.org/gems/knife-server) (1.0.1)
-* [knife-setup](http://rubygems.org/gems/knife-setup) (1.1.0)
-* [knife-sharp](http://rubygems.org/gems/knife-sharp) (0.2.0)
-* [knife-solo_data_bag](http://rubygems.org/gems/knife-solo_data_bag) (0.3.2)
-* [knife-stalenodes](http://rubygems.org/gems/knife-stalenodes) (1.0.1)
-* [knife-stash](http://rubygems.org/gems/knife-stash) (0.2.0)
-* [knife-tarsnap](http://rubygems.org/gems/knife-tarsnap) (0.1.1)
-* [knife-twitter](http://rubygems.org/gems/knife-twitter) (0.1.0)
-* [knife-voxel](http://rubygems.org/gems/knife-voxel) (0.0.9)
-* [knife-vsphere](http://rubygems.org/gems/knife-vsphere) (0.5.0)
-* [knife-whisk](http://rubygems.org/gems/knife-whisk) (2.0.0)
-* [pocketknife_ec2dream](http://rubygems.org/gems/pocketknife_ec2dream) (0.1.7)
-* [realityforge-knife-windows](http://rubygems.org/gems/realityforge-knife-windows) (0.5.17)
-* [berkshelf-shims](http://rubygems.org/gems/berkshelf-shims) (0.1.1)
-* [berkshelf-vagrant](http://rubygems.org/gems/berkshelf-vagrant) (1.1.3)
-* [berkshelf](http://rubygems.org/gems/berkshelf) (1.4.3)
-* [berkshelf_ext](http://rubygems.org/gems/berkshelf_ext) (1.0.12)
-* [capistrano-paratrooper-chef](http://rubygems.org/gems/capistrano-paratrooper-chef) (0.2.0)
-* [chef-berks](http://rubygems.org/gems/chef-berks) (0.0.1)
-* [chef-expander](http://rubygems.org/gems/chef-expander) (10.26.0)
-* [chef-handler-copperegg](http://rubygems.org/gems/chef-handler-copperegg) (0.1.3)
-* [chef-handler-datadog](http://rubygems.org/gems/chef-handler-datadog) (0.1.2)
-* [chef-handler-motd](http://rubygems.org/gems/chef-handler-motd) (0.1.2)
-* [chef-handler-sensu](http://rubygems.org/gems/chef-handler-sensu) (0.1.1)
-* [chef-handler-timestamp](http://rubygems.org/gems/chef-handler-timestamp) (0.1.0)
-* [chef-handler-xmpp](http://rubygems.org/gems/chef-handler-xmpp) (0.2.2)
-* [chef-keepass](http://rubygems.org/gems/chef-keepass) (0.2.1)
-* [chef-reporting](http://rubygems.org/gems/chef-reporting) (0.1.0)
-* [chef-server-api](http://rubygems.org/gems/chef-server-api) (10.26.0)
-* [chef-server-webui](http://rubygems.org/gems/chef-server-webui) (10.26.0)
-* [chef-server](http://rubygems.org/gems/chef-server) (10.26.0)
-* [chef-solr](http://rubygems.org/gems/chef-solr) (10.26.0)
-* [chef-ssl-client](http://rubygems.org/gems/chef-ssl-client) (1.0.5)
-* [chef-vault](http://rubygems.org/gems/chef-vault) (1.2.3)
-* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) (0.2.3)
-* [chef-workflow](http://rubygems.org/gems/chef-workflow) (0.2.5)
-* [chef-zero](http://rubygems.org/gems/chef-zero) (0.9.8)
-* [chef](http://rubygems.org/gems/chef) (11.4.4)
-* [chefspec](http://rubygems.org/gems/chefspec) (1.1.0)
-* [cucumber-chef](http://rubygems.org/gems/cucumber-chef) (3.0.8)
-* [flowchef](http://rubygems.org/gems/flowchef) (0.0.2)
-* [foodcritic](http://rubygems.org/gems/foodcritic) (2.1.0)
-* [jvmargs](http://rubygems.org/gems/jvmargs) (0.0.4)
-* [librarian-chef](http://rubygems.org/gems/librarian-chef) (0.0.1)
-* [minitest-chef-handler](http://rubygems.org/gems/minitest-chef-handler) (1.0.1)
-* [ridley](http://rubygems.org/gems/ridley) (0.11.1)
-* [vagrant-chef-apply](http://rubygems.org/gems/vagrant-chef-apply) (0.0.1)
-* [vagrant-chefnode](http://rubygems.org/gems/vagrant-chefnode) (0.0.2)
-* [vagrant-librarian-chef](http://rubygems.org/gems/vagrant-librarian-chef) (0.0.1)
-* [yard-chef](http://rubygems.org/gems/yard-chef) (1.0.0)
-* [yyuu-capistrano-chef-solo](http://rubygems.org/gems/yyuu-capistrano-chef-solo) (0.1.6)
+* [berkshelf-shims](http://rubygems.org/gems/berkshelf-shims) (0.1.1) - Shim functionality for Berkshelf
+* [berkshelf-vagrant](http://rubygems.org/gems/berkshelf-vagrant) (1.1.3) - Renamed to vagrant-berkshelf
+* [berkshelf](http://rubygems.org/gems/berkshelf) (1.4.3) - Manages a Cookbook's, or an Application's, Cookbook dependencies
+* [berkshelf_ext](http://rubygems.org/gems/berkshelf_ext) (1.0.12) - Extenstions for berkshelf
+* [capistrano-paratrooper-chef](http://rubygems.org/gems/capistrano-paratrooper-chef) (0.2.0) - A capistrano task to invoke chef-solo
+* [chef-berks](http://rubygems.org/gems/chef-berks) (0.0.1) - Allows chef-client/solo to grab cookbooks on the fly using berkshelf
+* [chef-handler-copperegg](http://rubygems.org/gems/chef-handler-copperegg) (0.1.3) - This Handler will report the metrics for a chef-client run to CopperEgg.
+* [chef-handler-datadog](http://rubygems.org/gems/chef-handler-datadog) (0.1.2) - This Handler will report the events and metrics for a chef-client run to DataDog.
+* [chef-handler-motd](http://rubygems.org/gems/chef-handler-motd) (0.1.2) - Edits MOTD at the end of a Chef run
+* [chef-handler-sensu](http://rubygems.org/gems/chef-handler-sensu) (0.1.1) - Cleans up old Sensu checks during a Chef run
+* [chef-handler-timestamp](http://rubygems.org/gems/chef-handler-timestamp) (0.1.0) - Adds a timestamp at the end of a successful Chef run
+* [chef-handler-xmpp](http://rubygems.org/gems/chef-handler-xmpp) (0.2.2) - Chef report handler to send messages to xmpp/jabber/gchat accounts.
+* [chef-keepass](http://rubygems.org/gems/chef-keepass) (0.2.1) - Data encryption support for chef using data bags
+* [chef-reporting](http://rubygems.org/gems/chef-reporting) (0.1.0) - Backport of Chef Reporting handler for Chef < 11.6.0
+* [chef-ssl-client](http://rubygems.org/gems/chef-ssl-client) (1.0.5) - A command-line client the ssl cookbook's signing requirements
+* [chef-vault](http://rubygems.org/gems/chef-vault) (1.2.3) - Data encryption support for chef using data bags
+* [chef-workflow-tasklib](http://rubygems.org/gems/chef-workflow-tasklib) (0.2.3) - 
+* [chef-workflow](http://rubygems.org/gems/chef-workflow) (0.2.5) - A comprehensive rake-based workflow for chef
+* [chef-zero](http://rubygems.org/gems/chef-zero) (0.9.8) - Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
+* [chefspec](http://rubygems.org/gems/chefspec) (1.1.0) - Write RSpec examples for Opscode Chef recipes
+* [cucumber-chef](http://rubygems.org/gems/cucumber-chef) (3.0.8) - Framework for test-driven infrastructure development.
+* [flowchef](http://rubygems.org/gems/flowchef) (0.0.2) - Send chef run information to a Flowdock channel
+* [foodcritic](http://rubygems.org/gems/foodcritic) (2.1.0) - Lint tool for Opscode Chef cookbooks.
+* [furnish-knife-server](http://rubygems.org/gems/furnish-knife-server) (0.0.1) - Furnish provisioner for knife-server -- automate a build of a chef-server
+* [jvmargs](http://rubygems.org/gems/jvmargs) (0.0.4) - Sanity check command-line arguments to the JVM 
+* [knife-backup](http://rubygems.org/gems/knife-backup) (0.0.5) - Chef knife plugins to help backup and restore chef servers
+* [knife-bluebox](http://rubygems.org/gems/knife-bluebox) (0.8.5) - Chef knife plugin for Blue Box
+* [knife-cfn](http://rubygems.org/gems/knife-cfn) (0.1.5) - CloudFormation Support for Chef's Knife Command
+* [knife-cisco_asa](http://rubygems.org/gems/knife-cisco_asa) (0.2.0) - A knife plugin for managing Cisco ASA devices.
+* [knife-cleanup](http://rubygems.org/gems/knife-cleanup) (0.0.5) - Chef knife plugin to help cleanup unused versions of cookbooks from a chef server
+* [knife-cloudstack](http://rubygems.org/gems/knife-cloudstack) (0.0.14) - A Knife plugin to create, list and manage CloudStack servers
+* [knife-community](http://rubygems.org/gems/knife-community) (0.2.0) - The centralized location for sharing cookbooks is the Community Site, this is a process helper to produce a repeatable method for releasing cookbooks.
+* [knife-cookbook-doc](http://rubygems.org/gems/knife-cookbook-doc) (0.3.0) - Knife plugin to generate README.md for a cookbook
+* [knife-cookbook-sync](http://rubygems.org/gems/knife-cookbook-sync) (0.1.0) - Sync only what's changed -- faster than cookbook upload
+* [knife-digital_ocean](http://rubygems.org/gems/knife-digital_ocean) (0.1.1) - A plugin for chef's knife to manage instances of DigitalOcean servers
+* [knife-easybake](http://rubygems.org/gems/knife-easybake) (0.1.0) - Making Easybake Possible
+* [knife-ec2](http://rubygems.org/gems/knife-ec2) (0.6.4) - EC2 Support for Chef's Knife Command
+* [knife-essentials](http://rubygems.org/gems/knife-essentials) (0.9.8) - Universal knife verbs that work with your Chef repository
+* [knife-flip](http://rubygems.org/gems/knife-flip) (0.1.6) - A knife plugin to move a node, or all nodes in a role, to a specific environment
+* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.1.4) - Joyent CloudAPI Support for Chef's Knife Command
+* [knife-nodefu](http://rubygems.org/gems/knife-nodefu) (0.1.2) - A knife plugin for simple node creation automation 
+* [knife-openstack](http://rubygems.org/gems/knife-openstack) (0.7.1) - OpenStack Compute Support for Chef's Knife Command
+* [knife-packager](http://rubygems.org/gems/knife-packager) (0.1.3) - Knife pluging to deploy cookbooks to S3
+* [knife-proxmox](http://rubygems.org/gems/knife-proxmox) (0.0.18) - ProxmoxVE Support for Chef's Knife Command
+* [knife-rhn](http://rubygems.org/gems/knife-rhn) (0.3.0) - A knife plugin for managing RHN.
+* [knife-rightscale](http://rubygems.org/gems/knife-rightscale) (0.0.3) - One plugin to provision them all! This plugin allows the Chef developer to provision Chef clients on all major clouds using the RightScale platform.
+* [knife-server](http://rubygems.org/gems/knife-server) (1.0.1) - Chef Knife plugin to bootstrap Chef Servers
+* [knife-setup](http://rubygems.org/gems/knife-setup) (1.1.0) - Allows you to bootsrap machine and set role and env.
+* [knife-sharp](http://rubygems.org/gems/knife-sharp) (0.2.0) - Sharpen your knife
+* [knife-solo_data_bag](http://rubygems.org/gems/knife-solo_data_bag) (0.3.2) - A knife plugin for working with data bags and chef solo
+* [knife-stalenodes](http://rubygems.org/gems/knife-stalenodes) (1.0.1) - Knife plugin for listing nodes that have not checked in
+* [knife-stash](http://rubygems.org/gems/knife-stash) (0.2.0) - A knife plugin for Atlassian Stash.
+* [knife-tarsnap](http://rubygems.org/gems/knife-tarsnap) (0.1.1) - Knife plugin and Chef cookbook for managing tarsnap. 
+* [knife-twitter](http://rubygems.org/gems/knife-twitter) (0.1.0) - knife-plugin for twitter.
+* [knife-voxel](http://rubygems.org/gems/knife-voxel) (0.0.9) - Voxel hAPI Support for Chef's knife command
+* [knife-vsphere](http://rubygems.org/gems/knife-vsphere) (0.5.0) - VMware vSphere Support for Chef's Knife Command
+* [knife-whisk](http://rubygems.org/gems/knife-whisk) (2.0.0) - A utility for quickly whipping up new servers in a team environment
+* [librarian-chef](http://rubygems.org/gems/librarian-chef) (0.0.1) - Librarian::Chef
+* [minitest-chef-handler](http://rubygems.org/gems/minitest-chef-handler) (1.0.1) - Run minitest suites after your Chef recipes to check the status of your system.
+* [pocketknife_ec2dream](http://rubygems.org/gems/pocketknife_ec2dream) (0.1.7) - tool for managing computers running chef-solo
+* [realityforge-knife-windows](http://rubygems.org/gems/realityforge-knife-windows) (0.5.17) - Plugin that adds functionality to Chef's Knife CLI for configuring/interacting with nodes running Microsoft Windows
+* [ridley](http://rubygems.org/gems/ridley) (0.11.1) - A reliable Chef API client with a clean syntax
+* [vagrant-chef-apply](http://rubygems.org/gems/vagrant-chef-apply) (0.0.1) - A Vagrant plugin to add simple chef-apply provisioner
+* [vagrant-chefnode](http://rubygems.org/gems/vagrant-chefnode) (0.0.2) - Remove nodes and clients from Chef Server when instances are destroyed
+* [vagrant-librarian-chef](http://rubygems.org/gems/vagrant-librarian-chef) (0.0.1) - A Vagrant plugin to install Chef cookbooks using Librarian-Chef.
+* [yard-chef](http://rubygems.org/gems/yard-chef) (1.0.0) - yard-chef is a YARD plugin for Chef that adds support for documenting Chef cookbooks, resources, providers, and definitions.
+* [yyuu-capistrano-chef-solo](http://rubygems.org/gems/yyuu-capistrano-chef-solo) (0.1.6) - a capistrano recipe to invoke chef-solo.
 
 
 <hr />
