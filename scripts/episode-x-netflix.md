@@ -13,6 +13,13 @@ Panel<a name="panel"></a>
 * Adrian Cockcroft [github](http://github.com/adrianco), [twitter](http://twitter.com/adrianco), [blog](http://perfcap.blogspot.com)
 * Jeremy Edberg [github](http://github.com/jedberg), [twitter](http://twitter.com/), [blog](http://www.jedberg.net)
 
+Chef News
+--------
+
+* [Test Kitchen and Jenkins](http://jtimberman.housepub.org/blog/2013/05/08/test-kitchen-and-jenkins/) - A blog post from Joshua Timberman about how he's set up a Jenkins build server to run test-kitchen on cookbooks.
+* [chefabulous](https://github.com/scalp42/chefabulous) - Bootstrap a Chef server on Amazon's EC2 or using Vagrant with Fabric.
+* [The Application Cookbook Pattern, Berkshelf, and Team Chef Workflow](http://alluvium.com/blog/2013/05/03/the-application-cookbook-pattern-berkshelf-and-team-chef-workflow/) - A blog post from Eric Reeves
+
 Outline/Questions
 -----------------
 
