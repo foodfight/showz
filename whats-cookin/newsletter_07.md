@@ -32,7 +32,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 126
 
 ### New Cookbooks
 
-101 New Cookbooks
+100 New Cookbooks
 
 * [accumulator](http://community.opscode.com/cookbooks/accumulator) - [kisoku](http://community.opscode.com/users/kisoku) - Installs/Configures accumulator
 * [admin-user](http://community.opscode.com/cookbooks/admin-user) - [boroczadam](http://community.opscode.com/users/boroczadam) - Sets up a shared admin user to manage the system
