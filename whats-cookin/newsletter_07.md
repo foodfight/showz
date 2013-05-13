@@ -17,12 +17,10 @@ We are preparing episodes on the following topics and would love your help gener
 * Testing in Practice
 * Chef and Openstack
 
-In the News
------------
+Opscode Training
+----------------
 
-#### Opscode Training
-
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in Philadelphia, Chicago, Corvallis, DC, Austin, San Francisco, and Boston.
 
 Cookbook News<a name="cookbooks"></a>
 -------------
