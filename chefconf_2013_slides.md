@@ -1,6 +1,4 @@
-Please let us know where to find other slides and videos.
-
-Pull Requests are appreciated!
+Checkout the [\#ChefConf Talks page](http://www.opscode.com/blog/chefconf-talks/) on the Opscode blog or the list below for all of the videos and slides from \#ChefConf 2013.
 
 ## Slides and Videos from \#ChefConf 2013
 ### Keynote Sessions
@@ -8,10 +6,10 @@ Pull Requests are appreciated!
 * Scaling systems configuration at Facebook:  The paradigms, design, and software behind managing massive numbers of systems with open source and small teams - Phil Dibowitz - [video](http://www.youtube.com/watch?v=SYZ2GzYAw_Q)
 * Welcome to the IT Industrial Revolution! Are you ready? - Glenn O'Donnell - [slides](http://www.slideshare.net/opscode/it-industrial-revolution-glennodonnell)
 * Powering The Industrial internet With The GE Commercial Cloud - Robert Kightlinger - [video](http://youtu.be/bapTyrdkuRA)
-* The Berkshelf Way - Jamie Winsor - [video](http://youtu.be/hYt0E84kYUI)
+* The Berkshelf Way - Jamie Winsor - [video](http://youtu.be/hYt0E84kYUI), [slides](http://www.slideshare.net/opscode/the-berkshelf-way-20882903)
 * Awesome Community Chefs Award Presentation - [video](http://youtu.be/xpkxsMUPvmo)
 * Keynote Session - Opscode - Adam Jacob - [video](http://youtu.be/Hb4y0EHfOFQ), [slides](http://www.slideshare.net/opscode/opscode-keynoteadamjacob)
-* Utility HPC: Right Systems, Right Scale, Right Science - Jason Stowe - [video](http://youtu.be/5vtVj5PIK_0)
+* Utility HPC: Right Systems, Right Scale, Right Science - Jason Stowe - [video](http://youtu.be/5vtVj5PIK_0), [slides](http://www.slideshare.net/opscode/utility-hpc-right-systems-right-scale-right-science)
 * Level Up the Change in Your Enterprise - Nordstrom - Robert Cummings - [video](http://youtu.be/Ot5H2KfWAxI), [slides](http://www.slideshare.net/robc77/chefconf-2013-nordstrom-keynote)
 * Who Says Elephants Can't Cook? How IBM and Opscode are changing the role of code in defining next generation infrastructures - Mohammed Abdula and Mitch Hill - [video](http://youtu.be/mBArai8EsEE), [slides](http://www.slideshare.net/opscode/ibm-opscode-keynote)
 
@@ -41,22 +39,22 @@ Pull Requests are appreciated!
 
 ### Teams and Workflow Patterns
 * Bootable DevOps on USB - Instant Infrastructure in Developing Nations - Chris McClimans - [slides](http://ii.can.cd/), [video](http://youtu.be/3OF-JyIh1i4)
-* Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins - [video](http://youtu.be/GYGEYYdCEZs)
+* Growing Pains with Chef - a Tale of DevOps in a Large Organization - Brian Akins - [video](http://youtu.be/GYGEYYdCEZs), [slides](http://www.slideshare.net/opscode/growing-painsbrianakins)
 * Cooking with Chef and Amazon's cloud formation - Jeremy Przygode - [video](http://youtu.be/t50L172BDOo), [slides](https://speakerdeck.com/przygode/automating-infrastructures-with-aws-cloud-formation-and-chef)
 * Chef ignited a DevOps revolution - BK Box - [video](http://youtu.be/XLnjBCjiaeU), [slides](http://www.slideshare.net/opscode/chef-igniteda-devopsrevolution)
-* The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby - [video](http://youtu.be/T2teScqAqsc)
+* The Kitchen Cloud How To: Automating Joyent SmartMachines with Chef - Eric Saxby - [video](http://youtu.be/T2teScqAqsc), [slides](http://www.slideshare.net/opscode/chef-on-smartos-eric-saxby)
 * Coming to Terms with Chef: A Support Group for the Weary and Downtrodden Admin - Joan Touzet - [video](http://youtu.be/4_Qc-DshHl0)
 * The Unintended Benefits of Chef - Clinton Wolfe - [video](http://youtu.be/-yXkYHQvx5w), [slides](http://www.slideshare.net/opscode/the-unintended-benefits-of-chef-clinton-wolfe)
-* DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps - Gene Kim - [video](http://youtu.be/9jD200ZxIrQ)
+* DevOps Patterns Distilled: Implementing The Needed Practices In Four Practical Steps - Gene Kim - [video](http://youtu.be/9jD200ZxIrQ), [slides](http://www.slideshare.net/opscode/why-we-need-dev-ops-now)
 * Exploiting Conway's Law for Underpants and Profit - Jeff Hackert - [video](http://www.youtube.com/watch?v=B73UueoNIWY), [slides](http://www.slideshare.net/opscode/conways-law-jeffhackert)
-* Cooking on Windows without the Windows Cookbook - Adam Edwards - [video](http://youtu.be/SPhOSDRRoGA)
+* Cooking on Windows without the Windows Cookbook - Adam Edwards - [video](http://youtu.be/SPhOSDRRoGA), [slides](http://www.slideshare.net/opscode/windows-cookingwithoutwindowscookbookadamedwards)
 * Application Automation Patterns - Dan Nemec - [slides](https://docs.google.com/presentation/d/1GFezWsKxfKc5KVEj5BbTEZggFJeZZ9KjeV1uRA51n3c/pub?start=false&loop=false&delayms=3000), [video](http://youtu.be/Q_ALf-KOiGw)
 * Using Kanban and Chef: A Case Study - Jeffrey Hulten - [video](http://youtu.be/YSbjoh9M1wQ), [slides](http://www.slideshare.net/opscode/chef-andkanban)
 * Golden Images vs Chef: Why not both? - Jason Cook - [video](http://youtu.be/eWbUBTkdj1g)
 * How Chef enables the DevOps culture at Prezi. - Zsolt Dollenstein, [slides](http://prezi.com/urjjss5dn2_b/chef-at-prezi/), [video](http://youtu.be/WH4NUPMqK7k)
  
 ### Master Chef
-* Cross-platform Friendly Cookbooking - Mandi Walls - [video](http://youtu.be/jgId1u2hIY8)
+* Cross-platform Friendly Cookbooking - Mandi Walls - [video](http://youtu.be/jgId1u2hIY8), [slides](http://www.slideshare.net/opscode/cross-platform-friendly-cookbookingmandi-walls)
 * Test Kitchen: Multi-Platform Integration Testing for the Masses - Fletcher Nichol, Seth Chisamore, and Joshua Timberman, [slides](https://speakerdeck.com/fnichol/chefconf-2013-test-kitchen-multi-platform-integration-testing-for-the-masses), [video](http://youtu.be/VMnwwsSYqi8)
 * Managing Resources and their Providers - Miah Johnson - [slides](http://www.slideshare.net/rosekolodny/resources-and-providers-chef-conf-2013), [video](http://youtu.be/u5wfN1OEFmY)
 * Cookbook refactoring & abstracting logic to Ruby(gems) - Seth Vargo - [video](http://youtu.be/3JTlcnEpWD4), [slides](http://www.slideshare.net/opscode/extracting-logic-into-rubygems-seth-vargo)
@@ -70,14 +68,12 @@ Pull Requests are appreciated!
 ### Cooking with Friends
 * SDN, Network Virtualization and the Software Defined Data Center - Brad Hedlund - [slides](http://www.slideshare.net/opscode/network-virtualization-bradhedlund)
 * Enterprise Cloud with IBM & Chef - Ann Marie Fred and Michael Elder - [slides](http://www.slideshare.net/MichaelElder/2013chef-conf-scdscov02)
-* Working with Chef on Windows and Windows Azure - Brian Benz
-* Getting Started with AWS Opsworks - Simone Brunozzi
+* Working with Chef on Windows and Windows Azure - Brian Benz - [slides](http://www.slideshare.net/opscode/chefon-windowsazure-brianbenz)
 * Taming Chef for Developer Happiness - Warren Bain (Wazza), [slides](http://www.rvl.io/thoughtcroft/taming-chef-for-developer-happiness/fullscreen)
 * Cookin' up Hybrid Clouds:  Chef and the Accenture Cloud Platform - Thomas Myers - [slides](http://www.slideshare.net/opscode/cookin-uphybridclouds-tommyers)
-* NetdevOps: Delivering Network Abstractions using Chef and EOS - Peter Sprygada
 * Using Chef and AppFirst to Automate Scale-out/Scale-down of Web Applications - Mark White - [slides](http://www.slideshare.net/opscode/using-chef-and-appfirst-to-automate-scaleoutscaledown-of-web-applications-mark-white)
 * Deploying OpenStack with Chef and Operational Tooling - Joseph Breu and Justin Shepherd - [slides](http://www.slideshare.net/jbreu/rackspace-private-cloud-presentation-for-chefconf-2013)
-* Why the (legacy) Enterprise is Scared of Git – and what you can do about it - Laurence Sweeney
+* Why the (legacy) Enterprise is Scared of Git – and what you can do about it - Laurence Sweeney - [slides](http://www.slideshare.net/opscode/why-theenterpriseisscaredofgit)
 
 ## Food Fight Show Episodes from \#ChefConf
 
