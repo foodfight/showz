@@ -49,6 +49,8 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) -
 
 ### New Cookbooks
 
+101 New Cookbooks
+
 * [accumulator](http://community.opscode.com/cookbooks/accumulator) - [kisoku](http://community.opscode.com/users/kisoku) - Installs/Configures accumulator
 * [admin-user](http://community.opscode.com/cookbooks/admin-user) - [boroczadam](http://community.opscode.com/users/boroczadam) - Sets up a shared admin user to manage the system
 * [aminator](http://community.opscode.com/cookbooks/aminator) - [simple](http://community.opscode.com/users/simple) - Netflix AMI bakery
@@ -153,6 +155,8 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) -
 
 
 ### Updated Cookbooks
+
+131 updated cookbooks
 
 * [activemq](http://community.opscode.com/cookbooks/activemq) - (1.1.0)
 * [afw](http://community.opscode.com/cookbooks/afw) - (0.0.7)
