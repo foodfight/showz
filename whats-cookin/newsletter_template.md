@@ -51,6 +51,8 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 94
 
 ### Updated Cookbooks
 
+### New and Updated Chef and Knife Gems
+
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
 
