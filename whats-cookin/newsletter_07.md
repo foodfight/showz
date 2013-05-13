@@ -76,7 +76,6 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 126
 * [java-management](http://community.opscode.com/cookbooks/java-management) - [bflad](http://community.opscode.com/users/bflad) - Java Management Cookbook
 * [jemalloc](http://community.opscode.com/cookbooks/jemalloc) - [priestjim](http://community.opscode.com/users/priestjim) - Installs and configures the jemalloc library
 * [jolicode-php](http://community.opscode.com/cookbooks/jolicode-php) - [jwurtz](http://community.opscode.com/users/jwurtz) - Installs/Configures Jolicode Chef Cookbook for PHP
-* [kernel](http://community.opscode.com/cookbooks/kernel) - [guilhemfr](http://community.opscode.com/users/guilhemfr) - Not working for now
 * [kismet](http://community.opscode.com/cookbooks/kismet) - [tas50](http://community.opscode.com/users/tas50) - Installs/Configures kismet
 * [kitchen-jenkins](http://community.opscode.com/cookbooks/kitchen-jenkins) - [jtimberman](http://community.opscode.com/users/jtimberman) - Set up a node to run test-kitchen in Jenkins
 * [libqrencode](http://community.opscode.com/cookbooks/libqrencode) - [irohiroki](http://community.opscode.com/users/irohiroki) - Installs/Configures libqrencode
