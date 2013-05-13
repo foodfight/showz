@@ -1,43 +1,28 @@
 Food Fight Show News
 -------------------
-Welcome to the seventh issue of the What's Cookin' newsletter!
+Welcome to the seventh issue of the What's Cookin' newsletter!  \#ChefConf has kept us so busy that we've not had time to get out a proper newsletter lately.  We'll correct that with one or two newsletters this week and then try to get back on a more regular schedule of a newsletter every one or two weeks.
 
 ### Latest Episodes
-* 
-* 
-*
-
+* Netflix OSS [website](http://foodfightshow.org/2013/05/netflix-oss.html) | [YouTube](http://www.youtube.com/watch?v=A69uTnfQgB8)
+* \#ChefConf Day Two Wrap-up [website](http://foodfightshow.org/2013/04/chefconf-day-two-wrap-up.html)
+* \#ChefConf 2013:  Talking Shop With Spheromak [website](http://foodfightshow.org/2013/04/chefconf-2013-talking-shop-with-spheromak.html)
+* \#ChefConf 2013:  Talking About Push Jobs With Kevin Smith [website](http://foodfightshow.org/2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html)
+* \#ChefConf Day One Wrap-up [website](http://foodfightshow.org/2013/04/chefconf-2013-day-1-wrap-up.html)
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* 
-* 
-* 
+* Continuous Delivery
+* Chef and AWS
+* Testing in Practice
+* Chef and Openstack
 
 In the News
 -----------
 
-### Upcoming Meetup Groups and Events
-Meetup with people in your neighborhood at one of the following meetup groups.
-
-#### Speaking Opportunities
-
-You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
-
-* [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
-
-###  Special Offers
-
 #### Opscode Training
 
 Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
-
-#### #ChefConf 2013
-
-[#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT).
-
-We want to hear YOUR stories at #ChefConf!  [Propose a talk today](https://chefconf2013.busyconf.com/proposals/new).
 
 Cookbook News<a name="cookbooks"></a>
 -------------
