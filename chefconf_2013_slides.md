@@ -85,6 +85,10 @@ Checkout the [\#ChefConf Talks page](http://www.opscode.com/blog/chefconf-talks/
 
 ## Follow-up Community Coverage
 
+* [Thoughts from ChefConf 2013](http://blog.pagerduty.com/2013/05/chefconf-2013-recap/)
+* [Reflections on #ChefConf 2013](http://www.opscode.com/blog/2013/05/08/reflections-on-chefconf-2013/)
+* [Awesome Community Chefs](http://www.opscode.com/blog/2013/05/07/awesome-community-chefs/)
+* [\#ChefConf Hack Day](http://www.opscode.com/blog/2013/05/07/chefconf-hack-day/)
 * [Pictures from the Saturday Hack Day](http://t.co/rHJcQ3wBje)
 * [Pictures of #ChefConf Attendees](https://www.facebook.com/media/set/?set=a.10151469613534302.1073741825.99334479301)
 * [Picutres of #ChefConf Speakers](https://www.facebook.com/media/set/?set=a.10151476061919302.1073741826.99334479301)
