@@ -29,19 +29,19 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 20-May - [Los Angeles Chef Users Group](http://www.meetup.com/Los-Angeles-Chef-Users-Group/events/117028672/) - Automating the Hadoop Stack
 * 20-May - [pdxdevops](http://calagator.org/events/1250464204) - Portland DevOps user group meeting
 * 21-May - [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/events/76429592/) - Cookbook testing and continuous integration
-* 21-May - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/117063392/) - Meetup!
+* 21-May - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/117063392/), Seattle - Meetup!
 * 23-May - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/113551412/) - Meetup!
 * 28-May - [PhillyDevOps](http://phillydevops.org/) - Large-scale Storage with ZFS
 * 28-May - [Seattle DevOps](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/112283222/) - Meetup!
 * 29-May - [Infracoders Berlin](http://www.meetup.com/Infracoders-Berlin/events/116452472/) - Meetup!
 * 03-Jun - [Twin Cities Infracoders](http://www.meetup.com/Twin-Cities-Infracoders/events/118181862/) - Talk about Selenium for test automation and an expanded Sensu/LXC demo
-* 03-Jun - [Cook Geeks DevOps](http://www.meetup.com/Cool-Geeks-DevOps/events/119749612/) - Scaling Nagios with Chef
+* 03-Jun - [Cool Geeks DevOps](http://www.meetup.com/Cool-Geeks-DevOps/events/119749612/), San Francisco - Scaling Nagios with Chef
 * 06-Jun - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/117096482/) - Reducing the ops with Continuous Integration/Testing framework
 * 11-Jun - [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/events/117237112/), Melbourne - Meetup!
 * 11-Jun - [DevOpsDC](http://www.meetup.com/DevOpsDC/events/112312272/) - June Meetup
 * 12-Jun - [Bucks County DevOps](http://www.meetup.com/Bucks-County-DevOps/events/119675632/) - Riak
 
-* Chef Cafes - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
+* **Chef Cafes** - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
   * 22-May - [Austin](http://austinchefcafe0513-eorg.eventbrite.com/)
   * 06-Jun - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/116486342/)
   * 12-Jun - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/dkcfndyrjbrb/)
