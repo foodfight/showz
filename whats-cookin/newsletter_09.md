@@ -47,13 +47,31 @@ Cookbook News<a name="cookbooks"></a>
 
 Cookbooks on the [Community Site](http://community.opscode.com) - 961  
 Knife Plugins on [RubyGems.org](http://rubygems.org) - 124  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 139  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 137  
 
 ### New Cookbooks
 
 ### Updated Cookbooks
 
 ### New and Updated Chef and Knife Gems
+
+* [berkshelf](http://rubygems.org/gems/berkshelf) (1.4.4) - Manages a Cookbook's, or an Application's, Cookbook dependencies
+* [chef-handler-librato](http://rubygems.org/gems/chef-handler-librato) (1.1.6) - Push reporting stats to Librato metrics
+* [chef-handler-motd](http://rubygems.org/gems/chef-handler-motd) (0.3.0) - Edits MOTD at the end of a Chef run
+* [chef-zero](http://rubygems.org/gems/chef-zero) (0.9.9) - Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
+* [chefspec](http://rubygems.org/gems/chefspec) (1.2.0) - Write RSpec examples for Opscode Chef recipes
+* [kitchen-bluebox](http://rubygems.org/gems/kitchen-bluebox) (0.5.0) - Kitchen::Driver::Bluebox - A Blue Box block API driver for Test Kitchen
+* [kitchen-cloudstack](http://rubygems.org/gems/kitchen-cloudstack) (0.1.3) - A Test Kitchen Driver for Cloudstack
+* [kitchen-digitalocean](http://rubygems.org/gems/kitchen-digitalocean) (0.1.1) - A Test Kitchen Digital Ocean driver
+* [kitchen-docker](http://rubygems.org/gems/kitchen-docker) (0.1.3) - A Test Kitchen Driver for Docker
+* [kitchen-ec2](http://rubygems.org/gems/kitchen-ec2) (0.4.0) - Kitchen::Driver::Ec2 - A Test Kitchen Driver for Ec2
+* [kitchen-openstack](http://rubygems.org/gems/kitchen-openstack) (0.2.0) - A Test Kitchen OpenStack Nova driver
+* [kitchen-rackspace](http://rubygems.org/gems/kitchen-rackspace) (0.2.0) - A Test Kitchen Rackspace driver
+* [kitchen-scribe](http://rubygems.org/gems/kitchen-scribe) (0.2.0) - Knife plugin for tracking your chef configuration changes
+* [kitchen-vagrant](http://rubygems.org/gems/kitchen-vagrant) (0.10.0) - Kitchen::Driver::Vagrant - A Vagrant Driver for Test Kitchen.
+* [ridley](http://rubygems.org/gems/ridley) (0.12.2) - A reliable Chef API client with a clean syntax
+* [strainer](http://rubygems.org/gems/strainer) (2.0.1) - Run isolated cookbook tests against your chef repository with Strainer.
+* [vagrant-berkshelf](http://rubygems.org/gems/vagrant-berkshelf) (1.2.0) - A Vagrant plugin to add Berkshelf integration to the Chef provisioners
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
