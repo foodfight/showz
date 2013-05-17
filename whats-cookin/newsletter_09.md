@@ -55,6 +55,13 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 137
 
 ### New and Updated Chef and Knife Gems
 
+* [knife-google](http://rubygems.org/gems/knife-google) (1.0.0) - Google Compute Engine Support for Chef's Knife Command
+* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.2.1) - Joyent CloudAPI Support for Chef's Knife Comman
+* [knife-nodefu](http://rubygems.org/gems/knife-nodefu) (0.2.1) - A knife plugin for simple node creation automation
+* [knife-openstack](http://rubygems.org/gems/knife-openstack) (0.8.0) - OpenStack Compute Support for Chef's Knife Command
+* [knife-setup](http://rubygems.org/gems/knife-setup) (1.1.1) - Allows you to bootsrap machine and set role and env.
+* [knife-testcoverage](http://rubygems.org/gems/knife-testcoverage) (1.0.1) - A simple plugin to report on minitest-handler coverage in a cookbook
+
 * [berkshelf](http://rubygems.org/gems/berkshelf) (1.4.4) - Manages a Cookbook's, or an Application's, Cookbook dependencies
 * [chef-handler-librato](http://rubygems.org/gems/chef-handler-librato) (1.1.6) - Push reporting stats to Librato metrics
 * [chef-handler-motd](http://rubygems.org/gems/chef-handler-motd) (0.3.0) - Edits MOTD at the end of a Chef run
