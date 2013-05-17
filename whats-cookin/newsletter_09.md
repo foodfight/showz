@@ -23,17 +23,12 @@ In the News
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
 
-#### Speaking Opportunities
-
-You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
-
-* [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
-
-###  Special Offers
 
 #### Opscode Training
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in DC, San Francisco, Boston, Portland, New York, Philadelphia, Austin, Chicago, Miami, Los Angeles, Denver, and Atlanta.  
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in Chicago, DC, Austin, San Francisco, and Boston.
+
+[FREE Chef training](http://www.eventbrite.com/event/6364994871) next week in Corvallis, OR.
 
 #### #ChefConf 2013
 
