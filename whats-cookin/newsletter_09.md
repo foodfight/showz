@@ -23,6 +23,7 @@ In the News
 *  [Brian Scott](http://twitter.com/brainscott) started an [Opscode Chef News](http://chef.bscott.me/) paper.li site.
 * [Why SysAdmin's Can't Code](http://cuddletech.com/blog/?p=817) - A post from [Ben Rockwood](https://twitter.com/benr) that includes a five-step plan on how any SA can become an honest to goodness programmer.
 * [Linode StackScript for Open Source Chef Server](https://www.linode.com/stackscripts/view/?StackScriptID=6566) - easily launch an Open Source Chef Server on Linode.com
+* [ChefConf 2013 Revue Review](http://soberbuildengineer.com/blog/2013/05/chefconf-2013-revue-review/) - A review of \#ChefConf from firt-time attendee and co-host of the [Ship Show Podcast](http://theshipshow.com/), [J. Paul Reed](https://twitter.com/SoberBuildEng)
 
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
