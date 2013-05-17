@@ -85,6 +85,7 @@ Checkout the [\#ChefConf Talks page](http://www.opscode.com/blog/chefconf-talks/
 
 ## Follow-up Community Coverage
 
+* [ChefConf 2013 Revue Review](http://soberbuildengineer.com/blog/2013/05/chefconf-2013-revue-review/)
 * [Thoughts from ChefConf 2013](http://blog.pagerduty.com/2013/05/chefconf-2013-recap/)
 * [Reflections on #ChefConf 2013](http://www.opscode.com/blog/2013/05/08/reflections-on-chefconf-2013/)
 * [Awesome Community Chefs](http://www.opscode.com/blog/2013/05/07/awesome-community-chefs/)
