@@ -55,9 +55,7 @@ Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](h
 
 #### #ChefConf 2013
 
-[#ChefConf 2013](http://chefconf.opscode.com) will be taking place April 22-24 in San Francisco.  Order your [tickets with promotional code 'FOODFIGHT' to save 15%](https://chefconf2013.busyconf.com/bookings/new?discount=FOODFIGHT).
-
-We want to hear YOUR stories at #ChefConf!  [Propose a talk today](https://chefconf2013.busyconf.com/proposals/new).
+Need to catch-up on all of the videos and slides from \#ChefConf?  Check the [\#ChefConf Talks](http://www.opscode.com/blog/chefconf-talks/) page on the Opscode blog for links to all of the talks.
 
 Cookbook News<a name="cookbooks"></a>
 -------------
