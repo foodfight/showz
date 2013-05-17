@@ -50,15 +50,15 @@ Knife Plugins on [RubyGems.org](http://rubygems.org) - 124
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 137  
 
 ### New Cookbooks
-* [berkshelf-cookbook-fixture](http://community.opscode.com/cookbooks/berkshelf-cookbook-fixture) - [ivey](http://community.opscode.com/users/ivey) - Installs/Configures berkshelf-cookbook-fixture
-* [chef-solo-search](http://community.opscode.com/cookbooks/chef-solo-search) - [tobami](http://community.opscode.com/users/tobami) - Data bag search for Chef Solo 
-* [chruby](http://community.opscode.com/cookbooks/chruby) - [atalanta](http://community.opscode.com/users/atalanta) - Installs/Configures chruby
-* [ckbk](http://community.opscode.com/cookbooks/ckbk) - [fnichol](http://community.opscode.com/users/fnichol) - A sweet, do-nothing cookbook for tooling testing
-* [dc](http://community.opscode.com/cookbooks/dc) - [vskubriev](http://community.opscode.com/users/vskubriev) - Installs/Configures dc
-* [docker](http://community.opscode.com/cookbooks/docker) - [bflad](http://community.opscode.com/users/bflad) - Installs/Configures Docker
+* [berkshelf-cookbook-fixture](http://community.opscode.com/cookbooks/berkshelf-cookbook-fixture) - [ivey](http://community.opscode.com/users/ivey) - A fixture cookbook for Berkshelf tests
+* [chef-solo-search](http://community.opscode.com/cookbooks/chef-solo-search) - [tobami](http://community.opscode.com/users/tobami) - Chef-solo-search is a cookbook library that adds data bag search powers to Chef Solo. Data bag support was added to Chef Solo by Chef 0.10.4. Please see [Supported queries](https://github.com/edelight/chef-solo-search#supported-queries) for a list of query types which are supported.
+* [chruby](http://community.opscode.com/cookbooks/chruby) - [atalanta](http://community.opscode.com/users/atalanta) - Installs the Chruby utility for changing between Ruby versions. [Chruby](https://github.com/postmodern/chruby) is a vastly simplified rbenv - it's about 90 lines of code, and very easy to understand.
+* [ckbk](http://community.opscode.com/cookbooks/ckbk) - [fnichol](http://community.opscode.com/users/fnichol) - A sweet, do-nothing cookbook for tooling testing.  There is probably no good reason to use this anywhere. But your mileage may vary.
+* [dc](http://community.opscode.com/cookbooks/dc) - [vskubriev](http://community.opscode.com/users/vskubriev) -  - DEPRECATED - Use [openldap](http://community.opscode.com/cookbooks/openldap)
+* [docker](http://community.opscode.com/cookbooks/docker) - [bflad](http://community.opscode.com/users/bflad) - Installs/Configures Docker. Please see [COMPATIBILITY.md](https://github.com/bflad/chef-docker/blob/master/COMPATIBILITY.md) for more information about Docker versions that are tested and supported by cookbook versions.
 * [netdev](http://community.opscode.com/cookbooks/netdev) - [privateip](http://community.opscode.com/users/privateip) - NetdevOps provides a vendor neutral abstraction of network resources
 * [netdev_eos](http://community.opscode.com/cookbooks/netdev_eos) - [privateip](http://community.opscode.com/users/privateip) - Implements an EOS specific provider for netdev resources
-* [puma](http://community.opscode.com/cookbooks/puma) - [yourabi](http://community.opscode.com/users/yourabi) - Installs and configures puma
+* [puma](http://community.opscode.com/cookbooks/puma) - [yourabi](http://community.opscode.com/users/yourabi) - Chef cookbook for the [puma](http://puma.io/) server.
 
 ### Updated Cookbooks
 * [aws](http://community.opscode.com/cookbooks/aws) - (0.101.0)
