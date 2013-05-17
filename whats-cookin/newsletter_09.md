@@ -101,13 +101,6 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 137
 
 ### New and Updated Chef and Knife Gems
 
-* [knife-google](http://rubygems.org/gems/knife-google) (1.0.0) - Google Compute Engine Support for Chef's Knife Command
-* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.2.1) - Joyent CloudAPI Support for Chef's Knife Comman
-* [knife-nodefu](http://rubygems.org/gems/knife-nodefu) (0.2.1) - A knife plugin for simple node creation automation
-* [knife-openstack](http://rubygems.org/gems/knife-openstack) (0.8.0) - OpenStack Compute Support for Chef's Knife Command
-* [knife-setup](http://rubygems.org/gems/knife-setup) (1.1.1) - Allows you to bootsrap machine and set role and env.
-* [knife-testcoverage](http://rubygems.org/gems/knife-testcoverage) (1.0.1) - A simple plugin to report on minitest-handler coverage in a cookbook
-
 * [berkshelf](http://rubygems.org/gems/berkshelf) (1.4.4) - Manages a Cookbook's, or an Application's, Cookbook dependencies
 * [chef-handler-librato](http://rubygems.org/gems/chef-handler-librato) (1.1.6) - Push reporting stats to Librato metrics
 * [chef-handler-motd](http://rubygems.org/gems/chef-handler-motd) (0.3.0) - Edits MOTD at the end of a Chef run
@@ -122,6 +115,12 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 137
 * [kitchen-rackspace](http://rubygems.org/gems/kitchen-rackspace) (0.2.0) - A Test Kitchen Rackspace driver
 * [kitchen-scribe](http://rubygems.org/gems/kitchen-scribe) (0.2.0) - Knife plugin for tracking your chef configuration changes
 * [kitchen-vagrant](http://rubygems.org/gems/kitchen-vagrant) (0.10.0) - Kitchen::Driver::Vagrant - A Vagrant Driver for Test Kitchen.
+* [knife-google](http://rubygems.org/gems/knife-google) (1.0.0) - Google Compute Engine Support for Chef's Knife Command
+* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.2.1) - Joyent CloudAPI Support for Chef's Knife Comman
+* [knife-nodefu](http://rubygems.org/gems/knife-nodefu) (0.2.1) - A knife plugin for simple node creation automation
+* [knife-openstack](http://rubygems.org/gems/knife-openstack) (0.8.0) - OpenStack Compute Support for Chef's Knife Command
+* [knife-setup](http://rubygems.org/gems/knife-setup) (1.1.1) - Allows you to bootsrap machine and set role and env.
+* [knife-testcoverage](http://rubygems.org/gems/knife-testcoverage) (1.0.1) - A simple plugin to report on minitest-handler coverage in a cookbook
 * [ridley](http://rubygems.org/gems/ridley) (0.12.2) - A reliable Chef API client with a clean syntax
 * [strainer](http://rubygems.org/gems/strainer) (2.0.1) - Run isolated cookbook tests against your chef repository with Strainer.
 * [vagrant-berkshelf](http://rubygems.org/gems/vagrant-berkshelf) (1.2.0) - A Vagrant plugin to add Berkshelf integration to the Chef provisioners
