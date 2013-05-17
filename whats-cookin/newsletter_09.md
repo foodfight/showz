@@ -20,6 +20,10 @@ We are preparing episodes on the following topics and would love your help gener
 In the News
 -----------
 
+*  [Brian Scott](http://twitter.com/brainscott) started an [Opscode Chef News](http://chef.bscott.me/) paper.li site.
+* [Why SysAdmin's Can't Code](http://cuddletech.com/blog/?p=817) - A post from [Ben Rockwood](https://twitter.com/benr) that includes a five-step plan on how any SA can become an honest to goodness programmer.
+* [Linode StackScript for Open Source Chef Server](https://www.linode.com/stackscripts/view/?StackScriptID=6566) - easily launch an Open Source Chef Server on Linode.com
+
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
 
@@ -67,6 +71,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 137
 
 ### New Cookbooks
 * [berkshelf-cookbook-fixture](http://community.opscode.com/cookbooks/berkshelf-cookbook-fixture) - [ivey](http://community.opscode.com/users/ivey) - A fixture cookbook for Berkshelf tests
+* [chef-pry-demo](https://github.com/bryanwb/chef-pry-demo) - [bryanwb](https://github.com/bryanwb/) - This is a super simple cookbook that teaches you how to use pry within Chef.
 * [chef-solo-search](http://community.opscode.com/cookbooks/chef-solo-search) - [tobami](http://community.opscode.com/users/tobami) - Chef-solo-search is a cookbook library that adds data bag search powers to Chef Solo. Data bag support was added to Chef Solo by Chef 0.10.4. Please see [Supported queries](https://github.com/edelight/chef-solo-search#supported-queries) for a list of query types which are supported.
 * [chruby](http://community.opscode.com/cookbooks/chruby) - [atalanta](http://community.opscode.com/users/atalanta) - Installs the Chruby utility for changing between Ruby versions. [Chruby](https://github.com/postmodern/chruby) is a vastly simplified rbenv - it's about 90 lines of code, and very easy to understand.
 * [ckbk](http://community.opscode.com/cookbooks/ckbk) - [fnichol](http://community.opscode.com/users/fnichol) - A sweet, do-nothing cookbook for tooling testing.  There is probably no good reason to use this anywhere. But your mileage may vary.
