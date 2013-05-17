@@ -50,8 +50,54 @@ Knife Plugins on [RubyGems.org](http://rubygems.org) - 124
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 137  
 
 ### New Cookbooks
+* [berkshelf-cookbook-fixture](http://community.opscode.com/cookbooks/berkshelf-cookbook-fixture) - [ivey](http://community.opscode.com/users/ivey) - Installs/Configures berkshelf-cookbook-fixture
+* [chef-solo-search](http://community.opscode.com/cookbooks/chef-solo-search) - [tobami](http://community.opscode.com/users/tobami) - Data bag search for Chef Solo 
+* [chruby](http://community.opscode.com/cookbooks/chruby) - [atalanta](http://community.opscode.com/users/atalanta) - Installs/Configures chruby
+* [ckbk](http://community.opscode.com/cookbooks/ckbk) - [fnichol](http://community.opscode.com/users/fnichol) - A sweet, do-nothing cookbook for tooling testing
+* [dc](http://community.opscode.com/cookbooks/dc) - [vskubriev](http://community.opscode.com/users/vskubriev) - Installs/Configures dc
+* [docker](http://community.opscode.com/cookbooks/docker) - [bflad](http://community.opscode.com/users/bflad) - Installs/Configures Docker
+* [netdev](http://community.opscode.com/cookbooks/netdev) - [privateip](http://community.opscode.com/users/privateip) - NetdevOps provides a vendor neutral abstraction of network resources
+* [netdev_eos](http://community.opscode.com/cookbooks/netdev_eos) - [privateip](http://community.opscode.com/users/privateip) - Implements an EOS specific provider for netdev resources
+* [puma](http://community.opscode.com/cookbooks/puma) - [yourabi](http://community.opscode.com/users/yourabi) - Installs and configures puma
 
 ### Updated Cookbooks
+* [aws](http://community.opscode.com/cookbooks/aws) - (0.101.0)
+* [cloudpassage](http://community.opscode.com/cookbooks/cloudpassage) - (0.0.5)
+* [cpan](http://community.opscode.com/cookbooks/cpan) - (0.0.28)
+* [datadog](http://community.opscode.com/cookbooks/datadog) - (1.0.1)
+* [debian](http://community.opscode.com/cookbooks/debian) - (1.4.0)
+* [dnsmasq](http://community.opscode.com/cookbooks/dnsmasq) - (0.1.2)
+* [ebs](http://community.opscode.com/cookbooks/ebs) - (0.3.4)
+* [hipsnip-jetty](http://community.opscode.com/cookbooks/hipsnip-jetty) - (0.8.0)
+* [hipsnip-solr](http://community.opscode.com/cookbooks/hipsnip-solr) - (0.4.0)
+* [hosts_file](http://community.opscode.com/cookbooks/hosts_file) - (0.1.2)
+* [java](http://community.opscode.com/cookbooks/java) - (1.11.4)
+* [linux-gamer](http://community.opscode.com/cookbooks/linux-gamer) - (0.0.6)
+* [liquibase](http://community.opscode.com/cookbooks/liquibase) - (0.3.0)
+* [monitor](http://community.opscode.com/cookbooks/monitor) - (0.0.2)
+* [omnibus_updater](http://community.opscode.com/cookbooks/omnibus_updater) - (0.2.0)
+* [ossec](http://community.opscode.com/cookbooks/ossec) - (1.0.4)
+* [pdepend](http://community.opscode.com/cookbooks/pdepend) - (0.0.4)
+* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) - (0.4.2)
+* [phpcb](http://community.opscode.com/cookbooks/phpcb) - (0.0.4)
+* [phpcpd](http://community.opscode.com/cookbooks/phpcpd) - (0.0.5)
+* [phpcs](http://community.opscode.com/cookbooks/phpcs) - (0.0.4)
+* [phpdcd](http://community.opscode.com/cookbooks/phpdcd) - (0.0.5)
+* [phpdoc](http://community.opscode.com/cookbooks/phpdoc) - (0.0.3)
+* [phploc](http://community.opscode.com/cookbooks/phploc) - (0.0.6)
+* [phpmd](http://community.opscode.com/cookbooks/phpmd) - (0.0.5)
+* [phpunit](http://community.opscode.com/cookbooks/phpunit) - (0.0.9)
+* [pinto](http://community.opscode.com/cookbooks/pinto) - (0.1.7)
+* [psgi](http://community.opscode.com/cookbooks/psgi) - (0.0.11)
+* [rails_application](http://community.opscode.com/cookbooks/rails_application) - (0.1.7)
+* [rake](http://community.opscode.com/cookbooks/rake) - (0.1.1)
+* [redmine](http://community.opscode.com/cookbooks/redmine) - (0.10.3)
+* [s3_file](http://community.opscode.com/cookbooks/s3_file) - (2.0.2)
+* [squid](http://community.opscode.com/cookbooks/squid) - (0.2.2)
+* [stash](http://community.opscode.com/cookbooks/stash) - (2.12.0)
+* [sudo](http://community.opscode.com/cookbooks/sudo) - (2.1.2)
+* [yum](http://community.opscode.com/cookbooks/yum) - (2.2.2)
+
 
 ### New and Updated Chef and Knife Gems
 
