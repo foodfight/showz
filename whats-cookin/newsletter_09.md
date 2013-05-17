@@ -1,6 +1,6 @@
 Food Fight Show News
 -------------------
-Welcome to the second issue of the What's Cookin' newsletter!
+Welcome to the ninth issue of the What's Cookin' newsletter!
 
 ### Latest Episodes
 * Netflix OSS [website](http://foodfightshow.org/2013/05/netflix-oss.html) | [YouTube](http://www.youtube.com/watch?v=A69uTnfQgB8)
