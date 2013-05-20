@@ -46,6 +46,7 @@ Networking Weirdness
 Other Stuff
 -----------
 
+* What lwrps should ppl use for interacting w/ aws? which ones are missing?
 * Ruby gems recommended to interact w/ AWS? aws-s3? fog?
 * What is Amazon Linux? Why use that instead of CentOS?
 * Using python to interact w/ aws? fabric + boto?
