@@ -5,13 +5,13 @@ Panel<a name="panel"></a>
 
 ### Confirmed
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 
 
 ### Invited
 * Adam Jacob [twitter](http://twitter.com/adamhjk), [github](http://gitub.com/adamhjk)
 * Andrew Crump [twitter](https://twitter.com/acrmp), [github](http://github.com/acrmp)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Dr. Nic Williams [twitter](https://twitter.com/drnic), [github](https://twitter.com/drnic)
 * Eric G. Wolfe [twitter](https://twitter.com/#!/atomic_penguin), [github](http://github.com/atomic-penguin)
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
@@ -52,6 +52,9 @@ A quick review of each of the frameworks that are avaiable and in use today:
 * Which frameworks are you employing?
 * What other tools, such as Jenkins, are being used?
 * How/do you do code reviews?
+* How do you structure your tests? do u put them in your main cookbook or a sub-ckbk like
+foo/test/cookbooks/foo_test?
+* What are helpers in minitest & rspec?
 * How much testing is too much testing?  Is there such a thing?
 * What is the status of each of these testing tools on windows?
 * What role can chef-zero play in testing?
