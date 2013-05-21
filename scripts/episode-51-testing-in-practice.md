@@ -8,12 +8,14 @@ Panel<a name="panel"></a>
 
 
 ### Invited
-* Adam Jacob [twitter](http://twitter.com/adamhjk), [github](http://gitub.com/adamhjk)* Andrew Crump [twitter](https://twitter.com/acrmp), [github](http://github.com/acrmp)
+* Adam Jacob [twitter](http://twitter.com/adamhjk), [github](http://gitub.com/adamhjk)
+* Andrew Crump [twitter](https://twitter.com/acrmp), [github](http://github.com/acrmp)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Dr. Nic Williams [twitter](https://twitter.com/drnic), [github](https://twitter.com/drnic)
 * Eric G. Wolfe [twitter](https://twitter.com/#!/atomic_penguin), [github](http://github.com/atomic-penguin)
-* Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)* Joshua Timberman [twitter](https://twitter.com/jtimberman), [github](http://github.com/jtimberman), [blog](http://jtimberman.housepub.org/)
+* Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
+* Joshua Timberman [twitter](https://twitter.com/jtimberman), [github](http://github.com/jtimberman), [blog](http://jtimberman.housepub.org/)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
@@ -51,6 +53,8 @@ A quick review of each of the frameworks that are avaiable and in use today:
 * What other tools, such as Jenkins, are being used?
 * How/do you do code reviews?
 * How much testing is too much testing?  Is there such a thing?
+* What is the status of each of these testing tools on windows?
+* What role can chef-zero play in testing?
 
 Picks<a name="picks"></a>
 -----
