@@ -1,14 +1,20 @@
-Show Date:  
+Show Date:  [Wednesday, 5 June 2013, 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+AWS&iso=20130605T15&p1=1928)
 
 Panel<a name="panel"></a>
 -----
 
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+### Confirmed
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
+### Invited
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Chirag Jog
+* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
+* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
+* Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)A
+* Trotter Cashion [github](http://github.com/trotter), [twitter](http://twitter.com/cashion), [blog](http://trottercashion.com)
 
 Outline/Questions
 -----------------
@@ -35,12 +41,18 @@ S3
 * How do i mirror yum, apt, rubygems, on S3?
 * Can I access S3 from a VPC?
 
+Authentication
+--------------
+* What do I need to authenticate with AWS?
+* What is IAM and how does that work?
+
 Networking Weirdness
 -------------------
 
 * Cassandra has Ec2Snitch, Elasticsearch special AWS discovery mechanism. why these needed?
 * monitoring in AWS, use CloudWatch? custom monitoring?
 * explain what a network partition is
+* discuss VPC - definition, challenges, advantages, etc.
 
 
 Other Stuff
@@ -53,17 +65,49 @@ Other Stuff
 * Using a better web ui, Asgard
 * back up to S3, glacier? anyone have a public chef recipe for this?
 
+Time Permitting (yeah, right)
+----------------------------
+
+* Direct Connect
+* Elastic MapReduce
+* Route 53
+* CloudFront
+* Glacier
+* Storage Gateway
+* DynamoDB
+* ElastiCache
+* RDS
+* Redshift
+* CloudFormation
+* Data Pipeline
+* Elastic Beanstalk
+* CloudSearch
+* Elastic Transcoder
+* SES
+* SNS
+* SQS
+* SWF
 
 Picks<a name="picks"></a>
 -----
 
+#### Brandon
+
 #### Bryan  
 
-#### lusis  
+#### Chirag
 
-#### Nathen  
+#### Julian
 
+#### Matt
 
+#### Mike
+
+#### Nathen
+
+#### Sean
+
+#### Trotter
 
 CLOSE
 -----
