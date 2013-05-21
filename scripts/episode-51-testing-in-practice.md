@@ -6,6 +6,7 @@ Panel<a name="panel"></a>
 ### Confirmed
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 
 
 ### Invited
@@ -18,7 +19,6 @@ Panel<a name="panel"></a>
 * Joshua Timberman [twitter](https://twitter.com/jtimberman), [github](http://github.com/jtimberman), [blog](http://jtimberman.housepub.org/)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)* Seth Chisamore [twitter](https://twitter.com/schisamo), [github](http://github.com/schisamo)
 * Seth Vargo [twitter](https://twitter.com/sethvargo), [github](http://github.com/sethvargo)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
@@ -87,6 +87,9 @@ Picks<a name="picks"></a>
 #### Matt
 
 #### Mike
+
+- [tailor](https://github.com/turboladen/tailor) - ruby stlye linter
+- [Benziger Family Winery](http://www.benziger.com/) - especially the [2009 Tribute](http://www.benziger.com/2009_tribute)
 
 #### Nathen
 
