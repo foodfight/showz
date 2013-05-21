@@ -4,24 +4,19 @@ Panel<a name="panel"></a>
 -----
 
 ### Confirmed
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-
+* Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)* Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 
 ### Invited
 * Adam Jacob [twitter](http://twitter.com/adamhjk), [github](http://gitub.com/adamhjk)
-* Andrew Crump [twitter](https://twitter.com/acrmp), [github](http://github.com/acrmp)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Dr. Nic Williams [twitter](https://twitter.com/drnic), [github](https://twitter.com/drnic)
 * Eric G. Wolfe [twitter](https://twitter.com/#!/atomic_penguin), [github](http://github.com/atomic-penguin)
-* Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Joshua Timberman [twitter](https://twitter.com/jtimberman), [github](http://github.com/jtimberman), [blog](http://jtimberman.housepub.org/)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)* Seth Chisamore [twitter](https://twitter.com/schisamo), [github](http://github.com/schisamo)
 * Seth Vargo [twitter](https://twitter.com/sethvargo), [github](http://github.com/sethvargo)
-* Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 
 Outline/Questions
 -----------------
@@ -67,8 +62,6 @@ Picks<a name="picks"></a>
 -----
 
 #### Adam
-
-#### Andrew
 
 #### Brandon
 
