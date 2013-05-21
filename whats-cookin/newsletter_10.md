@@ -12,9 +12,9 @@ Welcome to the tenth issue of the What's Cookin' newsletter!
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
+* Testing in Practice - [Wednesday, 22 May 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&iso=20130521T15&p1=1928)
+* Chef and AWS - [Wednesday, 5 June 2013, 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+AWS&iso=20130605T15&p1=1928)
 * Continuous Delivery
-* Chef and AWS
-* Testing in Practice
 * Chef and Openstack
 
 In the News
