@@ -20,7 +20,6 @@ We are preparing episodes on the following topics and would love your help gener
 In the News
 -----------
 
-* [Video demonstration of Emeril, a RubyGem to tag and release Chef cookbooks as a library.](http://vimeo.com/66622495) from [Fletcher Nichol](https://twitter.com/fnichol)
 * [TDD your DevOps with test-kitchen 1.0](http://starkandwayne.com/articles/2013/05/07/tdd-your-devops-with-test-kitchen/) a video from [@drnic](http://twitter.com/drnic) showing off TDD with test-kitchen.
 * Managing Your Ruby Toolchain - a series of blog posts from [@sascha_d](https://twitter.com/sascha_d):  [Part 1](http://blog.brattyredhead.com/blog/2013/05/12/pieces-and-parts-managing-your-ruby-toolchain/) and [Part 2:  The Package Repo Rant](http://blog.brattyredhead.com/blog/2013/05/17/managing-your-ruby-toolchain-part-2-the-package-repo-rant)
 * [The Chef Survival Guide:  An Opinionated Approach to Test Driven Chef Development](https://leanpub.com/chef-survival-guide) - The is an eBook from [Jason Fox](http://twitter.com/jasonrobertfox)
