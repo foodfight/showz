@@ -20,6 +20,10 @@ We are preparing episodes on the following topics and would love your help gener
 In the News
 -----------
 
+* [Video demonstration of Emeril, a RubyGem to tag and release Chef cookbooks as a library.](http://vimeo.com/66622495) from [Fletcher Nichol](https://twitter.com/fnichol)
+* [TDD your DevOps with test-kitchen 1.0](http://starkandwayne.com/articles/2013/05/07/tdd-your-devops-with-test-kitchen/) a video from [@drnic](http://twitter.com/drnic) showing off TDD with test-kitchen.
+* Managing Your Ruby Toolchain - a series of blog posts from [@sascha_d](https://twitter.com/sascha_d):  [Part 1](http://blog.brattyredhead.com/blog/2013/05/12/pieces-and-parts-managing-your-ruby-toolchain/) and [Part 2:  The Package Repo Rant](http://blog.brattyredhead.com/blog/2013/05/17/managing-your-ruby-toolchain-part-2-the-package-repo-rant)
+
 ### Upcoming Meetup Groups and Events
 Meetup with people in your neighborhood at one of the following meetup groups.
 * 28-May - [PhillyDevOps](http://phillydevops.org/) - Large-scale Storage with ZFS
@@ -40,8 +44,6 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 #### Speaking Opportunities
 
 You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
-
-* [#ChefConf 2013](https://chefconf2013.busyconf.com/proposals/new) - You have to be there! - CFP closes 15-Feb
 
 ###  Special Offers
 
