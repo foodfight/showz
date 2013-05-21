@@ -5,12 +5,12 @@ Panel<a name="panel"></a>
 
 ### Confirmed
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 ### Invited
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Chirag Jog
-* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
 * Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)A
