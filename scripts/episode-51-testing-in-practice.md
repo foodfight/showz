@@ -57,6 +57,8 @@ A quick review of each of the frameworks that are avaiable and in use today:
 foo/test/cookbooks/foo_test?
 * What are helpers in minitest & rspec?
 * How much testing is too much testing?  Is there such a thing?
+* What is a driver for test-kitchen? What drivers are available and which are the most mature?
+How difficult is it to write a new driver?
 * What is the status of each of these testing tools on windows?
 * What role can chef-zero play in testing?
 * What can one use to test a cluster of servers and their interactions?
