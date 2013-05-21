@@ -5,7 +5,8 @@ Panel<a name="panel"></a>
 
 ### Confirmed
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)* Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
+* Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)* Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 
 ### Invited
 * Adam Jacob [twitter](http://twitter.com/adamhjk), [github](http://gitub.com/adamhjk)
@@ -57,6 +58,8 @@ How difficult is it to write a new driver?
 * What is the status of each of these testing tools on windows?
 * What role can chef-zero play in testing?
 * What can one use to test a cluster of servers and their interactions?
+* Is there a way to use different drivers for different environments? i.e. on my mac os x laptop 
+i want to use the vagrant/virtualbox driver but on my jenkins server I want to use LXC or AWS
 
 Picks<a name="picks"></a>
 -----
