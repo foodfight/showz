@@ -45,6 +45,7 @@ A quick review of each of the frameworks that are avaiable and in use today:
 * bats
 * test-kitchen
 * [serverspec](http://serverspec.org/)
+* chef-workflow
 
 ## Testing in practice
 
@@ -58,6 +59,7 @@ foo/test/cookbooks/foo_test?
 * How much testing is too much testing?  Is there such a thing?
 * What is the status of each of these testing tools on windows?
 * What role can chef-zero play in testing?
+* What can one use to test a cluster of servers and their interactions?
 
 Picks<a name="picks"></a>
 -----
