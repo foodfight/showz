@@ -41,6 +41,7 @@ A quick definition of the various types of testing:
 * unit testing
 * integration testing
 * functional testing
+* smoke testing
 
 These are all software development concepts. For Chef, what should go in each type of test? What constitutes a "unit" in Chef for example?
 
