@@ -16,7 +16,7 @@ Panel<a name="panel"></a>
 * Dr. Nic Williams [twitter](https://twitter.com/drnic), [github](https://twitter.com/drnic)
 * Eric G. Wolfe [twitter](https://twitter.com/#!/atomic_penguin), [github](http://github.com/atomic-penguin)
 * Joshua Timberman [twitter](https://twitter.com/jtimberman), [github](http://github.com/jtimberman), [blog](http://jtimberman.housepub.org/)
-* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
+* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn), [blog](http://www.juliandunn.net/)
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)* Seth Chisamore [twitter](https://twitter.com/schisamo), [github](http://github.com/schisamo)
 * Seth Vargo [twitter](https://twitter.com/sethvargo), [github](http://github.com/sethvargo)
@@ -24,6 +24,7 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 ## Testing defined
+
 A quick definition of the various types of testing:
 
 * syntax and linting
@@ -31,37 +32,63 @@ A quick definition of the various types of testing:
 * integration testing
 * functional testing
 
+These are all software development concepts. For Chef, what should go in each type of test? What constitutes a "unit" in Chef for example?
+
 ## Testing tools and frameworks available
 
-A quick review of each of the frameworks that are avaiable and in use today:
+A quick review of each of the frameworks that are available and in use today:
+
+### Syntax and Linting
 
 * `knife cookbook test`
 * foodcritic
+
+### Unit
+
 * chefspec
+
+### Integration
+
 * minitest
 * cucumber-chef
+
+### Functional (I think these are all functional?)
+
 * bats
 * test-kitchen
 * [serverspec](http://serverspec.org/)
 * chef-workflow
 
+I feel we should also mention Vagrant since a lot (all?) of these assume familiarity with Vagrant and usage thereof.
+
 ## Testing in practice
 
+### Getting started with testing
+
+* What's more important -- unit or integration?
+* Best tools for getting started? / which frameworks are you employing
 * What testing strategies are in-place in your organization?
-* Which frameworks are you employing?
-* What other tools, such as Jenkins, are being used?
+
+### CI, code review, automated testing procedures
+
+* Mandatory gates in place at your org? (check-in control, unit tests, etc.)
+* Integrating testing into CI -- are you doing it and if so what are you doing?
 * How/do you do code reviews?
-* How do you structure your tests? do u put them in your main cookbook or a sub-ckbk like
-foo/test/cookbooks/foo_test?
+
+### Test structure & discipline
+* How do you structure your tests? do u put them in your main cookbook or a sub-ckbk like foo/test/cookbooks/foo_test?
 * What are helpers in minitest & rspec?
+
+### "Best Practices"
+
 * How much testing is too much testing?  Is there such a thing?
-* What is a driver for test-kitchen? What drivers are available and which are the most mature?
-How difficult is it to write a new driver?
-* What is the status of each of these testing tools on windows?
-* What role can chef-zero play in testing?
+* Test kitchen drivers - what are they? Which ones are available? What if I want to use driver A on my laptop but driver B in my CI system? How difficult is it to write a new driver?
 * What can one use to test a cluster of servers and their interactions?
-* Is there a way to use different drivers for different environments? i.e. on my mac os x laptop 
-i want to use the vagrant/virtualbox driver but on my jenkins server I want to use LXC or AWS
+
+### Miscellaneous (I'm going to argue "if there's time")
+
+* What is the status of each of these testing tools on Windows?
+* What role can chef-zero play in testing?
 
 Picks<a name="picks"></a>
 -----
@@ -81,6 +108,9 @@ Picks<a name="picks"></a>
 #### Joshua
 
 #### Julian
+
+- Beta of our expanded LWRP documentation -- please check it out and submit PRs! [resource](http://docs.opscode.com/lwrp_custom_resource.html) and [provider](http://docs.opscode.com/lwrp_custom_provider_resources.html)
+- [Summit Sága IPA](http://www.summitbrewing.com/brews/saga-ipa) -- because I'm in Minneapolis, and in honor of the fact that we deployed Bifröst, the new authentication backend for Hosted Chef
 
 #### Matt
 
