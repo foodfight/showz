@@ -4,23 +4,14 @@ Panel<a name="panel"></a>
 -----
 
 ### Confirmed
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Jason Fox [twitter](https://twitter.com/jasonrobertfox), [github](https://github.com/jasonrobertfox), [blog](http://neverstopbuilding.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
-
-### Invited
-* Adam Jacob [twitter](http://twitter.com/adamhjk), [github](http://gitub.com/adamhjk)
-* Dr. Nic Williams [twitter](https://twitter.com/drnic), [github](https://twitter.com/drnic)
-* Eric G. Wolfe [twitter](https://twitter.com/#!/atomic_penguin), [github](http://github.com/atomic-penguin)
-* Joshua Timberman [twitter](https://twitter.com/jtimberman), [github](http://github.com/jtimberman), [blog](http://jtimberman.housepub.org/)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn), [blog](http://www.juliandunn.net/)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)* Seth Chisamore [twitter](https://twitter.com/schisamo), [github](http://github.com/schisamo)
-* Seth Vargo [twitter](https://twitter.com/sethvargo), [github](http://github.com/sethvargo)
 
 Chef News
 --------
@@ -101,18 +92,16 @@ I feel we should also mention Vagrant since a lot (all?) of these assume familia
 * What is the status of each of these testing tools on Windows?
 * What role can chef-zero play in testing?
 
+
+### mentioned on the show
+
+* [Searchef](https://github.com/fnichol/searchef)
+* [Mocks aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html)
+* [bats](https://github.com/sstephenson/bats)
+
+
 Picks<a name="picks"></a>
 -----
-
-#### Adam
-
-#### Brandon
-
-#### Bryan  
-
-#### Dr. Nic
-
-#### Eric
 
 #### Fletcher
 
@@ -120,27 +109,37 @@ Picks<a name="picks"></a>
 - [Busser gem's Rakefile](https://github.com/fnichol/busser/blob/master/Rakefile) -- An example showing how to wire unit, integration, and quality tests into TravisCI
 - [Newcastle Brown Ale](http://beeradvocate.com/beer/profile/342/639) -- The beer that fueled Jamie (Test Kitchen 1.0) and many other projects
 
-#### Joshua
-
 #### Julian
 
 - Beta of our expanded LWRP documentation -- please check it out and submit PRs! [resource](http://docs.opscode.com/lwrp_custom_resource.html) and [provider](http://docs.opscode.com/lwrp_custom_provider_resources.html)
 - [Summit Sága IPA](http://www.summitbrewing.com/brews/saga-ipa) -- because I'm in Minneapolis, and in honor of the fact that we deployed Bifröst, the new authentication backend for Hosted Chef
-
-#### Matt
 
 #### Mike
 
 - [tailor](https://github.com/turboladen/tailor) - ruby stlye linter
 - [Benziger Family Winery](http://www.benziger.com/) - especially the [2009 Tribute](http://www.benziger.com/2009_tribute)
 
-#### Nathen
-
 #### Ranjib
 
-#### Seth C.
+- [jenkins.rb](https://github.com/jenkinsci/jenkins.rb) ruby api on top of jenkins
 
-#### Seth V.
+### Stephen 
+
+- [chruby](https://github.com/postmodern/chruby) and his [cookbook](https://github.com/Atalanta/chef-chruby) for it
+- [interloper live 2006, Miles Hunt](https://itunes.apple.com/us/album/interloper-live-2006-live/id320047495)
+
+### Jason
+- Wheat beer
+- [chef survival guide](https://leanpub.com/chef-survival-guide)
+
+### Fletcher
+- [cane](https://github.com/square/cane)
+- busser gem's [Rakefile](https://github.com/fnichol/busser/blob/master/Rakefile)
+- new castle brown ale
+
+### Bryan
+- [Prague Fatale](http://www.amazon.com/Prague-Fatale-Bernie-Gunther-Philip/dp/B00B1L6B4G)
+- [POODR](http://poodr.info)
 
 
 
