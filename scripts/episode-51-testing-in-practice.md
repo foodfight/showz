@@ -129,7 +129,7 @@ Picks<a name="picks"></a>
 - [interloper live 2006, Miles Hunt](https://itunes.apple.com/us/album/interloper-live-2006-live/id320047495)
 
 ### Jason
-- Wheat beer
+- [Troegs Dreamweaver](http://t.co/vFOKd2wiqv)
 - [chef survival guide](https://leanpub.com/chef-survival-guide)
 
 ### Fletcher
