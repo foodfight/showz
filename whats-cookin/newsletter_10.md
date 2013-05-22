@@ -50,7 +50,8 @@ You've got a great story or two to share about Chef and how automation has trans
 
 #### Opscode Training
 
-Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [Berlin](http://chef-berlin.eventbrite.de/), [Austin](http://www.eventbrite.com/event/5854090743/), [DC](http://www.eventbrite.com/event/6652009339/), [San Francisco](http://www.eventbrite.com/event/6651822781/), and [Boston](http://www.eventbrite.com/event/6652057483/).
+Use promotional code 'FOODFIGHT' to save 10% off [Chef Introductory Workshops](http://opscode.eventbrite.com/) in [Austin](http://www.eventbrite.com/event/5854090743/), [DC](http://www.eventbrite.com/event/6652009339/), [San Francisco](http://www.eventbrite.com/event/6651822781/), and [Boston](http://www.eventbrite.com/event/6652057483/).
+Also and for the first time, there's going to be an [Introductory Workshop in Berlin](http://chef-berlin.eventbrite.de/) - celebrating this, use 'FOODFIGHT' to save 20% there.
 
 Cookbook News<a name="cookbooks"></a>
 -------------
