@@ -116,6 +116,10 @@ Picks<a name="picks"></a>
 
 #### Fletcher
 
+- [Cane gem](https://github.com/square/cane) -- Code quality threshold checking as part of your build
+- [Busser gem's Rakefile](https://github.com/fnichol/busser/blob/master/Rakefile) -- An example showing how to wire unit, integration, and quality tests into TravisCI
+- [Newcastle Brown Ale](http://beeradvocate.com/beer/profile/342/639) -- The beer that fueled Jamie (Test Kitchen 1.0) and many other projects
+
 #### Joshua
 
 #### Julian
