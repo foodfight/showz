@@ -4,15 +4,16 @@ Panel<a name="panel"></a>
 -----
 
 ### Confirmed
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
+* Jason Fox [twitter](https://twitter.com/jasonrobertfox), [github](https://github.com/jasonrobertfox), [blog](http://neverstopbuilding.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 
 ### Invited
 * Adam Jacob [twitter](http://twitter.com/adamhjk), [github](http://gitub.com/adamhjk)
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Dr. Nic Williams [twitter](https://twitter.com/drnic), [github](https://twitter.com/drnic)
 * Eric G. Wolfe [twitter](https://twitter.com/#!/atomic_penguin), [github](http://github.com/atomic-penguin)
 * Joshua Timberman [twitter](https://twitter.com/jtimberman), [github](http://github.com/jtimberman), [blog](http://jtimberman.housepub.org/)
