@@ -112,6 +112,10 @@ Picks<a name="picks"></a>
 CLOSE
 -----
 
+We'd like to tell you about an interesting conference in Budapest, Hungary in July called RAMP. Theo Schlossnagle ([@postwait](http://twitter.com/postwait)) will be the keynote speaker and speakers from Netflix, Yahoo, Dropbox, Percona and other great companies will present their experiences in building scalable systems. Topics range from patterns that worked for them in the past to big mistakes that we can learn from. From MySQL scaling tips to what you have to pay attention to if your engineering team is growing.  
+Budapest is beautiful in July and listeners of the Food Fight Show can register with discount code [FOODFIGHTSHOW](http://rampconf.eventbrite.com/?discount=FOODFIGHTSHOW) to save $50.  
+To learn more about the conference, go to [rampconf.com](http://rampconf.com).
+
 Make sure to subscribe to the [Foodfight Weekly Newsletter](http://bit.ly/ffsmail) and send your cookbook
 news to info@foodfightshow.org
 
