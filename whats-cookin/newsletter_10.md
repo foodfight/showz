@@ -7,13 +7,11 @@ Welcome to the tenth issue of the What's Cookin' newsletter!
 * [DevOps Delicacies from Monitorama 2013](http://foodfightshow.org/2013/05/monitorama-2013.html)
 * Netflix OSS [website](http://foodfightshow.org/2013/05/netflix-oss.html) | [YouTube](http://www.youtube.com/watch?v=A69uTnfQgB8)
 * [\#ChefConf 2013:  Talking Shop With Spheromak](http://foodfightshow.org/2013/04/chefconf-2013-talking-shop-with-spheromak.html)
-* [\#ChefConf 2013:  Talking About Push Jobs With Kevin Smith](http://foodfightshow.org/2013/04/chefconf-2013-talking-about-push-jobs-with-kevin-smith.html)
 
 
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
-* Testing in Practice - [Wednesday, 22 May 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Testing+In+Practice&iso=20130521T15&p1=1928)
 * Chef and AWS - [Wednesday, 5 June 2013, 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+AWS&iso=20130605T15&p1=1928)
 * Continuous Delivery
 * Chef and Openstack
