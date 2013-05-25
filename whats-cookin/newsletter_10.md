@@ -73,6 +73,40 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 137
 
 ### Updated Cookbooks
 
+* [accumulator](http://community.opscode.com/cookbooks/accumulator) - (0.2.0)
+* [ark](http://community.opscode.com/cookbooks/ark) - (0.2.2)
+* [authconfig](http://community.opscode.com/cookbooks/authconfig) - (0.3.0)
+* [ca_openldap](http://community.opscode.com/cookbooks/ca_openldap) - (0.2.1)
+* [certificate](http://community.opscode.com/cookbooks/certificate) - (0.2.1)
+* [chef-client](http://community.opscode.com/cookbooks/chef-client) - (2.2.4)
+* [ckbk](http://community.opscode.com/cookbooks/ckbk) - (0.2.4)
+* [control_groups](http://community.opscode.com/cookbooks/control_groups) - (0.1.2)
+* [debian](http://community.opscode.com/cookbooks/debian) - (1.5.0)
+* [deploy_wrapper](http://community.opscode.com/cookbooks/deploy_wrapper) - (0.0.3)
+* [fpm-tng](http://community.opscode.com/cookbooks/fpm-tng) - (0.1.7)
+* [haproxy](http://community.opscode.com/cookbooks/haproxy) - (1.3.0)
+* [iis](http://community.opscode.com/cookbooks/iis) - (1.5.0)
+* [jn_sysctl](http://community.opscode.com/cookbooks/jn_sysctl) - (2.0.0)
+* [memcached](http://community.opscode.com/cookbooks/memcached) - (1.4.0)
+* [nexus](http://community.opscode.com/cookbooks/nexus) - (2.1.0)
+* [php](http://community.opscode.com/cookbooks/php) - (1.2.0)
+* [postgresql](http://community.opscode.com/cookbooks/postgresql) - (3.0.0)
+* [python](http://community.opscode.com/cookbooks/python) - (1.3.0)
+* [rbac](http://community.opscode.com/cookbooks/rbac) - (1.0.1)
+* [resource-control](http://community.opscode.com/cookbooks/resource-control) - (0.1.0)
+* [riak](http://community.opscode.com/cookbooks/riak) - (2.0.1)
+* [rsyslog](http://community.opscode.com/cookbooks/rsyslog) - (1.6.0)
+* [ruby_build](http://community.opscode.com/cookbooks/ruby_build) - (0.8.0)
+* [rubygems](http://community.opscode.com/cookbooks/rubygems) - (0.2.0)
+* [s3_file](http://community.opscode.com/cookbooks/s3_file) - (2.0.3)
+* [sensu](http://community.opscode.com/cookbooks/sensu) - (0.5.2)
+* [smf](http://community.opscode.com/cookbooks/smf) - (1.0.1)
+* [tomcat](http://community.opscode.com/cookbooks/tomcat) - (0.13.0)
+* [tomcat_latest](http://community.opscode.com/cookbooks/tomcat_latest) - (0.1.5)
+* [trac](http://community.opscode.com/cookbooks/trac) - (1.0.0)
+* [user](http://community.opscode.com/cookbooks/user) - (0.3.0)
+* [wordpress](http://community.opscode.com/cookbooks/wordpress) - (1.1.2)
+
 ### New and Updated Chef and Knife Gems
 
 <hr />
