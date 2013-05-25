@@ -3,7 +3,7 @@ Food Fight Show News
 Welcome to the tenth issue of the What's Cookin' newsletter!
 
 ### Latest Episodes
-* Testing in Practice [video](http://foodfightshow.org/2013/05/testing-in-practice.html) | Audio coming soon!
+* Testing in Practice [website](http://foodfightshow.org/2013/05/testing-in-practice.html) | [YouTube](http://www.youtube.com/watch?v=DhcXXOIerIc)
 * [DevOps Delicacies from Monitorama 2013](http://foodfightshow.org/2013/05/monitorama-2013.html)
 * Netflix OSS [website](http://foodfightshow.org/2013/05/netflix-oss.html) | [YouTube](http://www.youtube.com/watch?v=A69uTnfQgB8)
 * [\#ChefConf 2013:  Talking Shop With Spheromak](http://foodfightshow.org/2013/04/chefconf-2013-talking-shop-with-spheromak.html)
