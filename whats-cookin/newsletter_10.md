@@ -39,6 +39,7 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * **Chef Cafes** - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
   * 06-Jun - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/116486342/)
   * 12-Jun - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/dkcfndyrjbrb/)
+  * 20-Jun - [Austin](http://austinchefcafe0613-eorg.eventbrite.com/)
 
 ###  Special Offers
 
