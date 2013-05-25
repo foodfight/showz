@@ -40,11 +40,6 @@ Meetup with people in your neighborhood at one of the following meetup groups.
   * 06-Jun - [Mountain View](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/116486342/)
   * 12-Jun - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/dkcfndyrjbrb/)
 
-
-#### Speaking Opportunities
-
-You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
-
 ###  Special Offers
 
 #### Opscode Training
