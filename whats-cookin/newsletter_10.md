@@ -57,11 +57,20 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
 
-Cookbooks on the [Community Site](http://community.opscode.com) - 961
+Cookbooks on the [Community Site](http://community.opscode.com) - 968
 Knife Plugins on [RubyGems.org](http://rubygems.org) - 124
 Chef Gems available on [RubyGems.org](http://rubygems.org) - 137
 
 ### New Cookbooks
+
+* [doozer](http://community.opscode.com/cookbooks/doozer) - [johnbellone](http://community.opscode.com/users/johnbellone) - Manages [doozerd](https://github.com/ha/doozer), a highly available, consistent, distrbuted data store, and associated client libraries.
+* [gdebi](http://community.opscode.com/cookbooks/gdebi) - [bakins](http://community.opscode.com/users/bakins) - Installs/Configures [gdebi](http://en.wikipedia.org/wiki/GDebi)
+* [jenkins_build](http://community.opscode.com/cookbooks/jenkins_build) - [jskarbek](http://community.opscode.com/users/jskarbek) - Build a complete Jenkins CI server.
+* [opensmtpd](http://community.opscode.com/cookbooks/opensmtpd) - [nd](http://community.opscode.com/users/nd) - Install and configure OpenSMTPD, the FREE implementation of the server-side SMTP protocol as defined by RFC 5321, with some additional standard extensions. It allows ordinary machines to exchange e-mails with other systems speaking the SMTP protocol.
+* [ruby_pkg](http://community.opscode.com/cookbooks/ruby_pkg) - [tmatilai](http://community.opscode.com/users/tmatilai) - Builds a ruby package using [ruby_build](http://community.opscode.com/cookbooks/ruby_build) and [fpm](https://github.com/jordansissel/fpm)
+* [rubygems-compatibility](http://community.opscode.com/cookbooks/rubygems-compatibility) - [sax](http://community.opscode.com/users/sax) - Fixes chef rubygems for 2.0 API compatibility for pre-11.6 chef-client.  Chef's interactions with Rubygems (i.e. chef_gem) depends on the internals of Rubygems, which changed in version 2 of the API.  This has been fixed in chef master and is targeted for release in 11.6. Until then, this cookbook brings in the new code to fix compatibility in order versions of the client.
+* [searchef](http://community.opscode.com/cookbooks/searchef) - [fnichol](http://community.opscode.com/users/fnichol) - Chef cookbook to use [Searchef](https://github.com/fnichol/searchef), a library to stub Chef searches.
+* [the_silver_searcher](http://community.opscode.com/cookbooks/the_silver_searcher) - [markcornick](http://community.opscode.com/users/markcornick) - Installs/Configures [The Silver Searcher](https://github.com/ggreer/the_silver_searcher)
 
 ### Updated Cookbooks
 
