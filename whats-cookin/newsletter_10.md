@@ -51,6 +51,8 @@ Meetup with people in your neighborhood at one of the following meetup groups.
   * 19-Jun - [San Francisco](http://www.meetup.com/The-Bay-Area-Chef-User-Group/events/111551612/)
   * 20-Jun - [Austin](http://austinchefcafe0613-eorg.eventbrite.com/)
 
+[RAMP](http://rampconf.com/) will be held July 11-12 in Budapest, Hungary.  Theo Schlossnagle ([@postwait](http://twitter.com/postwait)) will be the keynote speaker and speakers from Netflix, Yahoo, Dropbox, Percona and other great companies will present their experiences in building scalable systems.  Budapest is beautiful in July and listeners of the Food Fight Show can register with discount code [FOODFIGHTSHOW](http://rampconf.eventbrite.com/?discount=FOODFIGHTSHOW) to save $50.
+
 ###  Special Offers
 
 #### Opscode Training
