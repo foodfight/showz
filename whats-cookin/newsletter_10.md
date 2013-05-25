@@ -109,6 +109,19 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 147
 
 ### New and Updated Chef and Knife Gems
 
+* [knife-backup](http://rubygems.org/gems/knife-backup) (0.0.7) - Chef knife plugins to help backup and restore chef servers.
+* [knife-cloudstack-fog](http://rubygems.org/gems/knife-cloudstack-fog) (0.3.3) - Support for the Chef Knife command, leveraging FOG, for the Apache CloudStack / Citrix CloudPlatform API
+* [knife-essentials](http://rubygems.org/gems/knife-essentials) (1.0.0) - Universal knife verbs that work with your Chef repository
+* [knife-joyent](http://rubygems.org/gems/knife-joyent) (0.2.2) - Joyent CloudAPI Support for Chef's Knife Command
+* [knife-nodefu](http://rubygems.org/gems/knife-nodefu) (0.3.1) - A knife plugin for simple node creation automation
+* [knife-reporting](http://rubygems.org/gems/knife-reporting) (0.1.0) - Knife plugin for OpsCode Reporting
+* [knife-twitter](http://rubygems.org/gems/knife-twitter) (0.1.2) - knife-plugin for twitter.
+* [knife-update](http://rubygems.org/gems/knife-update) (0.0.4) - A small collection of knife plugins to ease the process of safely updating chef in a setup with hundreds of nodes.
+* [knife-xapi](http://rubygems.org/gems/knife-xapi) (0.5.3) - Xen API Support for Chef's Knife Command
+* [pocketknife_ec2dream](http://rubygems.org/gems/pocketknife_ec2dream) (0.1.8) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.  This is modified to work with EC2Dream Fogviz.
+* [pocketknife_windows](http://rubygems.org/gems/pocketknife_windows) (0.1.5) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef.
+
+
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
 
