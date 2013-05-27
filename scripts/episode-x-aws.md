@@ -13,7 +13,7 @@ Panel<a name="panel"></a>
 * Chirag Jog
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler)
-* Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)A
+* Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)
 * Trotter Cashion [github](http://github.com/trotter), [twitter](http://twitter.com/cashion), [blog](http://trottercashion.com)
 
 Outline/Questions
@@ -94,6 +94,10 @@ Picks<a name="picks"></a>
 #### Brandon
 
 #### Bryan  
+
+* [Pry, the good Parts](http://www.confreaks.com/videos/2467-railsconf2013-pry-the-good-parts)
+and Pry.rescue do #.... end
+* [fog](http://fog.io)
 
 #### Chirag
 
