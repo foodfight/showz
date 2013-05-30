@@ -114,6 +114,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 151
 
 * [berkshelf](http://rubygems.org/gems/berkshelf) (1.4.5) - Manages a Cookbook's, or an Application's, Cookbook dependencies
 * [busser-rspec](http://rubygems.org/gems/busser-rspec) (0.7.0) - A Busser runner plugin for RSpec
+* [busser-serverspec](https://github.com/cl-lab-k/busser-serverspec) (0.1.0) - A Busser runner plugin for serverspec
 * [chef-handler-motd](http://rubygems.org/gems/chef-handler-motd) (0.3.1) - Edits MOTD at the end of a Chef run
 * [chef-handler-run-data](http://rubygems.org/gems/chef-handler-run-data) (0.1.0) - Exports node data to disk at end of successful run
 * [chef-rewind-pdf](http://rubygems.org/gems/chef-rewind-pdf) (0.0.6) - Monkey patches Chef to allow rewinding of existing resources
