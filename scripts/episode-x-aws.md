@@ -45,6 +45,7 @@ Authentication
 --------------
 * What do I need to authenticate with AWS?
 * What is IAM and how does that work?
+* How would I use IAM roles with Chef bootstrapping?
 
 Networking Weirdness
 -------------------
