@@ -67,6 +67,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 151
 * [zone2ldif](http://community.opscode.com/cookbooks/zone2ldif) - [jackl0phty](http://community.opscode.com/users/jackl0phty) - This cookbook installs zone2ldif, a Perl script that converts a DNS zone file to an LDIF file, to /usr/local/bin/zone2ldif.pl.
 
 ### Updated Cookbooks
+* [annoyances](http://community.opscode.com/cookbooks/annoyances) - (0.4.0)
 * [ant](http://community.opscode.com/cookbooks/ant) - (1.0.2)
 * [application](http://community.opscode.com/cookbooks/application) - (2.0.4)
 * [application_php](http://community.opscode.com/cookbooks/application_php) - (1.1.2)
