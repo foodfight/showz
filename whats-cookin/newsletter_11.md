@@ -64,7 +64,6 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 151
 * [cloudwatch-monitoring](http://community.opscode.com/cookbooks/cloudwatch-monitoring) - [neillturner](http://community.opscode.com/users/neillturner) - Cloudwatch-monitoring: The Amazon CloudWatch Monitoring Scripts for Linux - custom metrics that reports memory, swap, and disk space utilization metrics.
 * [elefant](http://community.opscode.com/cookbooks/elefant) - [jbroadway](http://community.opscode.com/users/jbroadway) - Installs/configures the [Elefant CMS](http://www.elefantcms.com/) and associated LAMP stack (Apache2, MySQL, SQLite, and PHP).
 * [ipf_configure](http://community.opscode.com/cookbooks/ipf_configure) - [sawanoboly](http://community.opscode.com/users/sawanoboly) - variable ipfilter configration. simple, but useful.
-* [ldap](http://community.opscode.com/cookbooks/ldap) - [someara](http://community.opscode.com/users/someara) - Installs/Configures ldap
 * [zone2ldif](http://community.opscode.com/cookbooks/zone2ldif) - [jackl0phty](http://community.opscode.com/users/jackl0phty) - This cookbook installs zone2ldif, a Perl script that converts a DNS zone file to an LDIF file, to /usr/local/bin/zone2ldif.pl.
 
 ### Updated Cookbooks
