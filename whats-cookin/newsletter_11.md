@@ -55,13 +55,77 @@ Cookbook News<a name="cookbooks"></a>
 -------------
 ### Stats
 
-Cookbooks on the [Community Site](http://community.opscode.com) - 968  
+Cookbooks on the [Community Site](http://community.opscode.com) - 975  
 Knife Plugins on [RubyGems.org](http://rubygems.org) - 126  
-Chef Gems available on [RubyGems.org](http://rubygems.org) - 147  
+Chef Gems available on [RubyGems.org](http://rubygems.org) - 151  
 
 ### New Cookbooks
+* [buildr](http://community.opscode.com/cookbooks/buildr) - [paulgoldbaum](http://community.opscode.com/users/paulgoldbaum) - Installs/Configures buildr
+* [cloudwatch-monitoring](http://community.opscode.com/cookbooks/cloudwatch-monitoring) - [neillturner](http://community.opscode.com/users/neillturner) - Cloudwatch-monitoring: The Amazon CloudWatch Monitoring Scripts for Linux - custom metrics that reports memory, swap, and disk space utilization metrics.
+* [elefant](http://community.opscode.com/cookbooks/elefant) - [jbroadway](http://community.opscode.com/users/jbroadway) - Installs/configures the Elefant CMS
+* [ipf_configure](http://community.opscode.com/cookbooks/ipf_configure) - [sawanoboly](http://community.opscode.com/users/sawanoboly) - variable ipfilter configration. simple, but useful.
+* [ldap](http://community.opscode.com/cookbooks/ldap) - [someara](http://community.opscode.com/users/someara) - Installs/Configures ldap
+* [zone2ldif](http://community.opscode.com/cookbooks/zone2ldif) - [jackl0phty](http://community.opscode.com/users/jackl0phty) - Installs/Configures zone2ldif
 
 ### Updated Cookbooks
+* [ant](http://community.opscode.com/cookbooks/ant) - (1.0.2)
+* [application](http://community.opscode.com/cookbooks/application) - (2.0.4)
+* [application_php](http://community.opscode.com/cookbooks/application_php) - (1.1.2)
+* [application_python](http://community.opscode.com/cookbooks/application_python) - (1.2.4)
+* [application_ruby](http://community.opscode.com/cookbooks/application_ruby) - (1.1.4)
+* [apt](http://community.opscode.com/cookbooks/apt) - (1.10.0)
+* [artifact](http://community.opscode.com/cookbooks/artifact) - (1.6.0)
+* [bind-chroot](http://community.opscode.com/cookbooks/bind-chroot) - (0.0.16)
+* [chruby](http://community.opscode.com/cookbooks/chruby) - (0.1.4)
+* [database](http://community.opscode.com/cookbooks/database) - (1.4.0)
+* [drbd](http://community.opscode.com/cookbooks/drbd) - (0.8.2)
+* [dynect](http://community.opscode.com/cookbooks/dynect) - (1.0.4)
+* [ebs](http://community.opscode.com/cookbooks/ebs) - (0.3.5)
+* [gecode](http://community.opscode.com/cookbooks/gecode) - (2.0.2)
+* [git](http://community.opscode.com/cookbooks/git) - (2.5.2)
+* [haproxy](http://community.opscode.com/cookbooks/haproxy) - (1.3.2)
+* [jetty](http://community.opscode.com/cookbooks/jetty) - (0.1.2)
+* [munin](http://community.opscode.com/cookbooks/munin) - (1.3.2)
+* [nagios](http://community.opscode.com/cookbooks/nagios) - (4.1.2)
+* [omnibus_updater](http://community.opscode.com/cookbooks/omnibus_updater) - (0.2.3)
+* [pacman](http://community.opscode.com/cookbooks/pacman) - (1.0.4)
+* [pdns](http://community.opscode.com/cookbooks/pdns) - (0.1.2)
+* [perl](http://community.opscode.com/cookbooks/perl) - (1.1.2)
+* [php-fpm](http://community.opscode.com/cookbooks/php-fpm) - (0.4.3)
+* [psgi](http://community.opscode.com/cookbooks/psgi) - (0.0.12)
+* [rabbitmq](http://community.opscode.com/cookbooks/rabbitmq) - (2.1.0)
+* [radiant](http://community.opscode.com/cookbooks/radiant) - (1.0.2)
+* [rc_mon](http://community.opscode.com/cookbooks/rc_mon) - (0.1.4)
+* [resolver](http://community.opscode.com/cookbooks/resolver) - (1.1.2)
+* [ruby_pkg](http://community.opscode.com/cookbooks/ruby_pkg) - (0.3.2)
+* [s3fs](http://community.opscode.com/cookbooks/s3fs) - (1.0.0)
+* [samba](http://community.opscode.com/cookbooks/samba) - (0.11.2)
+* [squid](http://community.opscode.com/cookbooks/squid) - (0.2.6)
+* [stash](http://community.opscode.com/cookbooks/stash) - (2.13.0)
+* [supervisor](http://community.opscode.com/cookbooks/supervisor) - (0.4.2)
+* [sysctl](http://community.opscode.com/cookbooks/sysctl) - (0.3.2)
+* [thrift](http://community.opscode.com/cookbooks/thrift) - (1.1.0)
+* [transmission](http://community.opscode.com/cookbooks/transmission) - (1.0.4)
+* [ucspi-tcp](http://community.opscode.com/cookbooks/ucspi-tcp) - (1.0.2)
+* [windows](http://community.opscode.com/cookbooks/windows) - (1.9.0)
+* [zenoss](http://community.opscode.com/cookbooks/zenoss) - (0.7.6)
+
+### New and Updated Chef and Knife Gems
+
+* [berkshelf](http://rubygems.org/gems/berkshelf) (1.4.5) - Manages a Cookbook's, or an Application's, Cookbook dependencies
+* [busser-rspec](http://rubygems.org/gems/busser-rspec) (0.7.0) - A Busser runner plugin for RSpec
+* [chef-handler-motd](http://rubygems.org/gems/chef-handler-motd) (0.3.1) - Edits MOTD at the end of a Chef run
+* [chef-handler-run-data](http://rubygems.org/gems/chef-handler-run-data) (0.1.0) - Exports node data to disk at end of successful run
+* [chef-rewind-pdf](http://rubygems.org/gems/chef-rewind-pdf) (0.0.6) - Monkey patches Chef to allow rewinding of existing resources
+* [chef-tlc-workflow](http://rubygems.org/gems/chef-tlc-workflow) (0.1.3) - makes our workflow for developing with Chef explict by adding a set of Rake tasks embodying the workflow
+* [chef-zero](http://rubygems.org/gems/chef-zero) (1.1.3) - Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
+* [knife-essentials](http://rubygems.org/gems/knife-essentials) (1.1.1) - Universal knife verbs that work with your Chef repository
+* [knife-testcoverage](http://rubygems.org/gems/knife-testcoverage) (1.0.2) - A simple plugin to report on minitest-handler coverage in a cookbook
+* [knife-update](http://rubygems.org/gems/knife-update) (0.0.5) - A small collection of knife plugins to ease the process of safely updating chef in a setup with hundreds of nodes.
+* [knife-zcloudjp](http://rubygems.org/gems/knife-zcloudjp) (0.1.7) - knife plugin for Z Cloud
+* [ridley](http://rubygems.org/gems/ridley) (0.12.4) - A reliable Chef API client with a clean syntax
+* [strainer](http://rubygems.org/gems/strainer) (2.1.0) - Run isolated cookbook tests against your chef repository with Strainer.
+
 
 <hr />
 The Food Fight Show is brought to you by [Bryan Berry](https://twitter.com/bryanwb) and [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
