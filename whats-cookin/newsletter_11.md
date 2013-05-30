@@ -123,6 +123,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 151
 * [knife-update](http://rubygems.org/gems/knife-update) (0.0.5) - A small collection of knife plugins to ease the process of safely updating chef in a setup with hundreds of nodes.
 * [knife-zcloudjp](http://rubygems.org/gems/knife-zcloudjp) (0.1.7) - knife plugin for Z Cloud
 * [ridley](http://rubygems.org/gems/ridley) (0.12.4) - A reliable Chef API client with a clean syntax
+* [spiceweasel](http://rubygems.org/gems/spiceweasel) (2.3.0) - Chef repository automation and validation tool
 * [strainer](http://rubygems.org/gems/strainer) (2.1.0) - Run isolated cookbook tests against your chef repository with Strainer.
 
 
