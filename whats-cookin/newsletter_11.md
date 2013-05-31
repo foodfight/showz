@@ -21,20 +21,31 @@ In the News
 
 ### Upcoming Meetup Groups and Events
 
-*New Meetup Group* - [DevOps hangops](http://www.meetup.com/DevOps-hangops/)
+#### New Meetup Groups 
+- [DevOps hangops](http://www.meetup.com/DevOps-hangops/)
+- [Chef User Group Hamburg](http://www.meetup.com/Chef-User-Group-Hamburg/)
+- [Continuous Integration](http://www.meetup.com/Continuous-integration/) - Bellevue, WA
 
 Meetup with people in your neighborhood at one of the following meetup groups.
 * 03-Jun - [Twin Cities Infracoders](http://www.meetup.com/Twin-Cities-Infracoders/events/118181862/) - Talk about Selenium for test automation and an expanded Sensu/LXC demo
-* 03-Jun - [Cool Geeks DevOps](http://www.meetup.com/Cool-Geeks-DevOps/events/119749612/), San Francisco - June Meetup
+* 03-Jun - [Cool Geeks DevOps](http://www.meetup.com/Cool-Geeks-DevOps/events/119749612/), San Francisco - OpenStack Hypervisors Networking Topics
 * 06-Jun - [nycdevops](http://www.meetup.com/nycdevops/events/121063822/) - An Evening of Lighting Talks
 * 06-Jun - [DevOps Minneapolis](http://www.meetup.com/DevOps-Minneapolis/events/117096482/) - Reducing the ops with Continuous Integration/Testing framework
 * 11-Jun - [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/events/117237112/), Melbourne - Meetup!
 * 11-Jun - [DevOpsDC](http://www.meetup.com/DevOpsDC/events/112312272/) - June Meetup
 * 12-Jun - [Bucks County DevOps](http://www.meetup.com/Bucks-County-DevOps/events/119675632/) - Riak
 * 13-Jun - [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/events/76429592/) - Cookbook testing and continuous integration
+* 18-Jun - [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/events/114190842/) - June Meetup
+* 18-Jun - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/qbscvdyrjbxb/) - Seattle - June Meetup
+* 19-Jun - [Triangle DevOps](http://www.meetup.com/Triangle-DevOps/events/121662952/) - Raleigh, NC - Learn How Wayin Does Cloud Orchestration
 * 19-Jun - [Software Configuration Management business lunch](http://calagator.org/events/1250464265) - Portland, OR
-* 19-Jun [San Diego DevOps](http://www.meetup.com/sddevops/events/110022532/) - OSSEC Intrusion Detection System
-* 24-Jun [DevOps Kansas City](http://www.meetup.com/DevOps-Kansas-City/events/121035052/) - Social Mixer and Lightning Talks
+* 19-Jun - [San Diego DevOps](http://www.meetup.com/sddevops/events/110022532/) - OSSEC Intrusion Detection System
+* 24-Jun - [DevOps Kansas City](http://www.meetup.com/DevOps-Kansas-City/events/121035052/) - Social Mixer and Lightning Talks
+* 25-Jun - [First Chef User Group Hamburg Meetup](http://www.meetup.com/Chef-User-Group-Hamburg/events/122050692/)
+* 25-Jun - [Seattle DevOps Meetup](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/102632382/) - June Meetup
+* 27-Jun - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/119242842/) - DevOpsATL Monthly Meetup
+* 27-Jun - [DevOps Chicago](http://www.meetup.com/devops/events/119916312/) - Monitoring Tools
+* 29-Jun - [Логирование и DevOps](http://www.meetup.com/DevOps-Moscow-in-Russian/events/120833962/) - Moscow
 
 
 * **Chef Cafes** - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
