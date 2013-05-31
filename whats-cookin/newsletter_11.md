@@ -42,6 +42,7 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 19-Jun - [San Diego DevOps](http://www.meetup.com/sddevops/events/110022532/) - OSSEC Intrusion Detection System
 * 24-Jun - [DevOps Kansas City](http://www.meetup.com/DevOps-Kansas-City/events/121035052/) - Social Mixer and Lightning Talks
 * 25-Jun - [First Chef User Group Hamburg Meetup](http://www.meetup.com/Chef-User-Group-Hamburg/events/122050692/)
+* 25-Jun - [Chef-NYC](http://www.meetup.com/Chef-NYC/events/122219772/) - The Hows and Whys of Cookbook Testing
 * 25-Jun - [Seattle DevOps Meetup](http://www.meetup.com/Seattle-DevOps-Meetup-Group/events/102632382/) - June Meetup
 * 27-Jun - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/119242842/) - DevOpsATL Monthly Meetup
 * 27-Jun - [DevOps Chicago](http://www.meetup.com/devops/events/119916312/) - Monitoring Tools
