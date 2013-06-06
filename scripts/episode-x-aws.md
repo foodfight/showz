@@ -114,6 +114,10 @@ and Pry.rescue do #.... end
 
 #### Trotter
 
+* [Mistborn](http://www.amazon.com/Mistborn-Trilogy-ebook/dp/B004H1TQBW/ref=sr_1_2?ie=UTF8&qid=1370481968&sr=8-2&keywords=mistborn)
+* [The Atlantic Ocean](http://en.wikipedia.org/wiki/Atlantic_Ocean)
+* [Ela](http://elaphilly.com/)
+
 CLOSE
 -----
 
