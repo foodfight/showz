@@ -13,4 +13,4 @@
 * Jason Fox [twitter](https://twitter.com/jasonrobertfox), [github](https://github.com/jasonrobertfox), [blog](http://neverstopbuilding.net/)
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
-
+* Kevin Nuckolls [github](https://github.com/knuckolls), [twitter](https://twitter.com/knuckolls)
