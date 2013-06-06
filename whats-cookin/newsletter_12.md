@@ -77,8 +77,9 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 154
 
 ### New and Updated Chef and Knife Gems
 
+* [berkshelf](http://rubygems.org/gems/berkshelf) (2.0.0) - Manages a Cookbook's, or an Application's, Cookbook dependencies
 * [busser-serverspec](http://rubygems.org/gems/busser-serverspec) (0.1.1) - A Busser runner plugin for Serverspec
-* [chef-zero](http://rubygems.org/gems/chef-zero) (1.2.1) - Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
+* [chef-zero](http://rubygems.org/gems/chef-zero) (1.3) - Self-contained, easy-setup, fast-start in-memory Chef server for testing and solo setup purposes
 * [kitchen-openstack](http://rubygems.org/gems/kitchen-openstack) (0.4.0) - A Test Kitchen OpenStack Nova driver
 * [knife-essentials](http://rubygems.org/gems/knife-essentials) (1.2) - Universal knife verbs that work with your Chef repository
 * [knife-flip](http://rubygems.org/gems/knife-flip) (0.1.7) - A knife plugin to move a node, or all nodes in a role, to a specific environment
@@ -88,6 +89,7 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 154
 * [knife-update](http://rubygems.org/gems/knife-update) (0.0.6) - A small collection of knife plugins to ease the process of safely updating chef in a setup with hundreds of nodes.
 * [knife-vsphere](http://rubygems.org/gems/knife-vsphere) (0.7.0) - VMware vSphere Support for Chef's Knife Command
 * [pocketknife_ec2dream](http://rubygems.org/gems/pocketknife_ec2dream) (0.1.9) - pocketknife is a devops tool for managing computers running chef-solo, powered by Opscode Chef. 
+* [ridley](http://rubygems.org/gems/ridley) (1.0.0) - A reliable Chef API client with a clean syntax
 * [vagrant-chefzero](http://rubygems.org/gems/vagrant-chefzero) (0.3.13) - Vagrant chef-zero provisioner plugin
 * [vagrant-librarian-chef](http://rubygems.org/gems/vagrant-librarian-chef) (0.1.0) - A Vagrant plugin to install Chef cookbooks using Librarian-Chef.
 
