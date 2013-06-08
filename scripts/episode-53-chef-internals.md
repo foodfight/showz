@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  [Wednesday, June 12, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Internals&iso=20130612T15&p1=1928&ah=1)
 
 Panel<a name="panel"></a>
 -----
