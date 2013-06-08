@@ -7,7 +7,6 @@ Food Fight Show News
 * [DevOps Delicacies from Monitorama 2013](http://foodfightshow.org/2013/05/monitorama-2013.html)
 * Netflix OSS [website](http://foodfightshow.org/2013/05/netflix-oss.html) | [YouTube](http://www.youtube.com/watch?v=A69uTnfQgB8)
 
-
 ### Upcoming Episodes
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
@@ -23,11 +22,14 @@ In the News
 - [DevOps hangops](http://www.meetup.com/DevOps-hangops/)
 - [Chef User Group Hamburg](http://www.meetup.com/Chef-User-Group-Hamburg/)
 - [Continuous Integration](http://www.meetup.com/Continuous-integration/) - Bellevue, WA
+- [Scale DC](http://www.meetup.com/Scale-DC) - Washington, DC
 
 Meetup with people in your neighborhood at one of the following meetup groups.
+
+* 10-Jun - [Austin DevOps](http://www.meetup.com/austin-devops/events/122952872/) - Define Devops and Set Agenda for Next Few Months
 * 11-Jun - [Infrastructure Coders](http://www.meetup.com/Infrastructure-Coders/events/117237112/), Melbourne - Meetup!
 * 11-Jun - [DevOpsDC](http://www.meetup.com/DevOpsDC/events/112312272/) - June Meetup
-* 12-Jun - [Bucks County DevOps](http://www.meetup.com/Bucks-County-DevOps/events/119675632/) - Riak
+* 12-Jun - [Bucks County DevOps](http://www.meetup.com/Bucks-County-DevOps/events/119675632/) - Deploying Riak on Amazon Web Services
 * 13-Jun - [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/events/76429592/) - Cookbook testing and continuous integration
 * 18-Jun - [Chef-BOSTON](http://www.meetup.com/Chef-BOSTON/events/114190842/) - June Meetup
 * 18-Jun - [Opscode Chef Meetup](http://www.meetup.com/Opscode-Chef-Meetup/events/qbscvdyrjbxb/) - Seattle - June Meetup
@@ -41,7 +43,7 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 * 27-Jun - [DevOpsATL](http://www.meetup.com/DevOpsATL/events/119242842/) - DevOpsATL Monthly Meetup
 * 27-Jun - [DevOps Chicago](http://www.meetup.com/devops/events/119916312/) - Monitoring Tools
 * 29-Jun - [Логирование и DevOps](http://www.meetup.com/DevOps-Moscow-in-Russian/events/120833962/) - Moscow
-
+* 09-Jul - [Scale DC](http://www.meetup.com/Scale-DC/events/122924802/) - Veewee, Vagrant and Chef
 
 * **Chef Cafes** - Have questions about Chef? Are you doing some cool stuff with Chef and what to share it with others chefs?  Stop by a Chef Cafe in your area.
   * 13-Jun - [Chicago](http://www.meetup.com/Chicago-Chef-User-Group/events/dkcfndyrjbrb/)
