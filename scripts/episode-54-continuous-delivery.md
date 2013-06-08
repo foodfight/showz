@@ -1,4 +1,4 @@
-Show Date:   
+Show Date:   [Monday, June 17, 2013 18:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Continuous+Delivery&iso=20130617T14&p1=1928)
 
 Confirmed Panel<a name="panel"></a>
 ---------------

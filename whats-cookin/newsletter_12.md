@@ -12,7 +12,7 @@ Food Fight Show News
 We are preparing episodes on the following topics and would love your help generating questions, identifying panelists, etc.
 
 * Chef Internals - [Wednesday, June 12, 2013 19:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+Internals&iso=20130612T15&p1=1928&ah=1)
-* Continuous Delivery
+* Continuous Delivery - [Monday, June 17, 2013 18:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Continuous+Delivery&iso=20130617T14&p1=1928)
 * Chef and Openstack
 
 In the News
