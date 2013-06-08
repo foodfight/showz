@@ -13,10 +13,10 @@ Outline/Questions
 -----------------
 
 * Gems w/ in Chef
-** chef
-** ohai
-** Mixlib-shell out interface :: A portable , cross platform command execution module. How to use it with any arbitrary code, how chef interfaces with it (shellout, shellout! etc)
-** Mixlib-Cli :: The awesome command line argument processor. How to use it with any arbitrary program , How pita it is to from re-usability stand point (check the knife plugins where people have hacked for this :-) )
+  * chef
+  * ohai
+  * Mixlib-shell out interface :: A portable , cross platform command execution module. How to use it with any arbitrary code, how chef interfaces with it (shellout, shellout! etc)
+  * Mixlib-Cli :: The awesome command line argument processor. How to use it with any arbitrary program , How pita it is to from re-usability stand point (check the knife plugins where people have hacked for this :-) )
 * Anatomy of a chef run (revisited with chef internal) : 
 * setup phase (logging setup, configuration setups, client registration, getting a node's runlist)
 * cookbook syncing, 
@@ -27,8 +27,8 @@ Outline/Questions
 * Digging deep inside a run context: what it holds, which all chef core components (e.g runner, provider etc) needs run context to function
 * What are the "god" objects in chef?
 * Digging deep inside a provider (we can talk about resource, but theres not moch). 
-** the notion of convergence, how why_run works, how to make an arbitrary resource (custom) why_run compatible
-** how the action_* works
+  * the notion of convergence, how why_run works, how to make an arbitrary resource (custom) why_run compatible
+  * how the action_* works
 * Knife..we all know how to write knife plugins..how many people write knife plugins that can be reused by other knife plugins?  what are the pitfalls (Mixlibb::Config rant session). What to avoid, & other trick (like dep loading, config settings etc). 
 * The events api: hardly 1% of the chef users uses or aware of the awesome events api chef provides. Chef provides event hooks/callbacks to a wide set of states (like cookbok sync begin., chef run starts etc). A brief overview of what all events available and a small example on how to hook your logic against a particular event.
 * Ohai .. extending ohai, pitfalls, apis etc. 
