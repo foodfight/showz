@@ -60,6 +60,16 @@ Meetup with people in your neighborhood at one of the following meetup groups.
 
 You've got a great story or two to share about Chef and how automation has transformed the way you work.  Why not share that at your local meetup group or by submitting a talk to one of these conferences?  CFPs are closing soon so submit your talk today!
 
+* [DevOps Days Brazil](http://www.devopsdays.org/events/2013-brazil/propose/)
+* [GoGaRuCo 2013](http://gogaruco.wufoo.com/forms/gogaruco-2013-call-for-proposals/)
+* [Agile Cambridge 2013](http://lanyrd.com/2013/agile-cambridge/calls/qpxh/)
+* [ColudCamp Silicon Valley](http://www.cloudcamp.org/siliconvalley/380)
+* [cloudopen North America](http://events.linuxfoundation.org/events/cloudopen-north-america/program/cfp)
+* [AWS re:Invent](https://reinvent.activeevents.com/portal/cfp/cfpLogin.ww)
+* [CloudCamp Chicago](http://www.cloudcamp.org/chicago/378)
+
+You'll find more information about these and other upcoming technical conferences on the [Technical Conferences](http://wiki.opscode.com/display/chef/Technical+Conferences) page of the Opscode wiki.
+
 ###  Special Offers
 
 [RAMP](http://rampconf.com/) will be held July 11-12 in Budapest, Hungary.  Theo Schlossnagle ([@postwait](http://twitter.com/postwait)) will be the keynote speaker and speakers from Netflix, Yahoo, Dropbox, Percona and other great companies will present their experiences in building scalable systems.  Budapest is beautiful in July and listeners of the Food Fight Show can register with discount code [FOODFIGHTSHOW](http://rampconf.eventbrite.com/?discount=FOODFIGHTSHOW) to save $50.
