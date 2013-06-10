@@ -103,7 +103,6 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 154
 
 ### Updated Cookbooks
 
-* [annoyances](http://community.opscode.com/cookbooks/annoyances) - (0.4.0)
 * [ark](http://community.opscode.com/cookbooks/ark) - (0.2.4)
 * [artifact](http://community.opscode.com/cookbooks/artifact) - (1.7.0)
 * [bind](http://community.opscode.com/cookbooks/bind) - (0.2.0)
