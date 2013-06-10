@@ -16,6 +16,11 @@ We are preparing episodes on the following topics and would love your help gener
 
 In the News
 -----------
+
+* [Introducing AutOssec: automated Ossec deployment for Chef](http://jve.linuxwall.info/blog/index.php?post/2013/06/09/Introducing-AutOssec%3A-automated-Ossec-deployment-for-Chef)
+* [Responsive infrastructure with Opscode Chef–an introduction](https://www.bluebox.net/about/blog/2013/06/responsive-infrastructure-with-opscode-chef-an-introduction/)
+* [Effective Development with Opscode Chef](http://www.murphybytes.com/2013/06/06/opscode-chef-development/)
+
 ### Upcoming Meetup Groups and Events
 
 #### New Meetup Groups
