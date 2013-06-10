@@ -90,13 +90,13 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 154
 
 ### New Cookbooks
 
-* [beaver](http://community.opscode.com/cookbooks/beaver) - [nd](http://community.opscode.com/users/nd) - Installs/Configures beaver — the python daemon that munches on logs and sends their contents to logstash.
+* [beaver](http://community.opscode.com/cookbooks/beaver) - [nd](http://community.opscode.com/users/nd) - Installs/Configures [beaver](https://github.com/josegonzalez/beaver) — the python daemon that munches on logs and sends their contents to logstash.
 * [bind9-chroot](http://community.opscode.com/cookbooks/bind9-chroot) - [tnarik](http://community.opscode.com/users/tnarik) - Installs/Configures bind9 with chroot and hiding CHAOS INFORMATION
-* [crypto-coin](http://community.opscode.com/cookbooks/crypto-coin) - [andruby](http://community.opscode.com/users/andruby) - Installs/Configures crypto-coin
-* [pgbouncer](http://community.opscode.com/cookbooks/pgbouncer) - [owynrichen](http://community.opscode.com/users/owynrichen) - Installs/Configures pgbouncer
-* [racoon-ipsec-osx](http://community.opscode.com/cookbooks/racoon-ipsec-osx) - [jtimberman](http://community.opscode.com/users/jtimberman) - Manages racoon configuration for OS X
+* [crypto-coin](http://community.opscode.com/cookbooks/crypto-coin) - [andruby](http://community.opscode.com/users/andruby) - This cookbook provides a LWRP to compile bitcoin based crypto coins.
+* [pgbouncer](http://community.opscode.com/cookbooks/pgbouncer) - [owynrichen](http://community.opscode.com/users/owynrichen) - This cookbook provides a [Chef LWRP](http://docs.opscode.com/lwrp.html) that sets up a basic [PGBouncer](http://wiki.postgresql.org/wiki/PgBouncer) connection pool that fronts a Postgresql database. It has example configuration for integration on client machines, exposing a local *nix socket that routes to a downstream database on another host.
+* [racoon-ipsec-osx](http://community.opscode.com/cookbooks/racoon-ipsec-osx) - [jtimberman](http://community.opscode.com/users/jtimberman) - Manages racoon, the IKE key management daemon used for IPSec on Mac OS X (and other platforms).
 * [re2](http://community.opscode.com/cookbooks/re2) - [llonchj](http://community.opscode.com/users/llonchj) - Installs/Configures re2
-* [selfsigned_certificate](http://community.opscode.com/cookbooks/selfsigned_certificate) - [cgravier](http://community.opscode.com/users/cgravier) - Creates/Installs/Configures a self-signed certificate.
+* [selfsigned_certificate](http://community.opscode.com/cookbooks/selfsigned_certificate) - [cgravier](http://community.opscode.com/users/cgravier) - This cookbook allow you to create a self signed certificate using openssl. The certificate is configured using the provided attributes.
 * [sox_mp3](http://community.opscode.com/cookbooks/sox_mp3) - [edcanvas](http://community.opscode.com/users/edcanvas) - Installs/Configures sox_mp3
 * [windows-hostname](http://community.opscode.com/cookbooks/windows-hostname) - [kreisys](http://community.opscode.com/users/kreisys) - Sets hostname and FQDN of a windows node.
 
