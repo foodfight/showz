@@ -90,7 +90,43 @@ Chef Gems available on [RubyGems.org](http://rubygems.org) - 154
 
 ### New Cookbooks
 
+* [beaver](http://community.opscode.com/cookbooks/beaver) - [nd](http://community.opscode.com/users/nd) - Installs/Configures beaver — the python daemon that munches on logs and sends their contents to logstash.
+* [bind9-chroot](http://community.opscode.com/cookbooks/bind9-chroot) - [tnarik](http://community.opscode.com/users/tnarik) - Installs/Configures bind9 with chroot and hiding CHAOS INFORMATION
+* [crypto-coin](http://community.opscode.com/cookbooks/crypto-coin) - [andruby](http://community.opscode.com/users/andruby) - Installs/Configures crypto-coin
+* [pgbouncer](http://community.opscode.com/cookbooks/pgbouncer) - [owynrichen](http://community.opscode.com/users/owynrichen) - Installs/Configures pgbouncer
+* [racoon-ipsec-osx](http://community.opscode.com/cookbooks/racoon-ipsec-osx) - [jtimberman](http://community.opscode.com/users/jtimberman) - Manages racoon configuration for OS X
+* [re2](http://community.opscode.com/cookbooks/re2) - [llonchj](http://community.opscode.com/users/llonchj) - Installs/Configures re2
+* [selfsigned_certificate](http://community.opscode.com/cookbooks/selfsigned_certificate) - [cgravier](http://community.opscode.com/users/cgravier) - Creates/Installs/Configures a self-signed certificate.
+* [sox_mp3](http://community.opscode.com/cookbooks/sox_mp3) - [edcanvas](http://community.opscode.com/users/edcanvas) - Installs/Configures sox_mp3
+* [windows-hostname](http://community.opscode.com/cookbooks/windows-hostname) - [kreisys](http://community.opscode.com/users/kreisys) - Sets hostname and FQDN of a windows node.
+
+
 ### Updated Cookbooks
+
+* [annoyances](http://community.opscode.com/cookbooks/annoyances) - (0.4.0)
+* [ark](http://community.opscode.com/cookbooks/ark) - (0.2.4)
+* [artifact](http://community.opscode.com/cookbooks/artifact) - (1.7.0)
+* [bind](http://community.opscode.com/cookbooks/bind) - (0.2.0)
+* [chruby](http://community.opscode.com/cookbooks/chruby) - (0.2.1)
+* [ebs](http://community.opscode.com/cookbooks/ebs) - (0.3.6)
+* [hipsnip-mongodb](http://community.opscode.com/cookbooks/hipsnip-mongodb) - (1.1.0)
+* [line](http://community.opscode.com/cookbooks/line) - (0.4.2)
+* [magento](http://community.opscode.com/cookbooks/magento) - (0.6.2)
+* [minecraft](http://community.opscode.com/cookbooks/minecraft) - (0.3.0)
+* [nexus](http://community.opscode.com/cookbooks/nexus) - (2.2.0)
+* [opensmtpd](http://community.opscode.com/cookbooks/opensmtpd) - (0.2.0)
+* [pinto](http://community.opscode.com/cookbooks/pinto) - (0.1.8)
+* [rails_application](http://community.opscode.com/cookbooks/rails_application) - (0.1.8)
+* [rbac](http://community.opscode.com/cookbooks/rbac) - (1.0.1)
+* [rbenv](http://community.opscode.com/cookbooks/rbenv) - (1.4.2)
+* [redisio](http://community.opscode.com/cookbooks/redisio) - (1.5.0)
+* [repository](http://community.opscode.com/cookbooks/repository) - (0.1.6)
+* [rubygems](http://community.opscode.com/cookbooks/rubygems) - (0.3.0)
+* [s3fs](http://community.opscode.com/cookbooks/s3fs) - (1.0.1)
+* [smf](http://community.opscode.com/cookbooks/smf) - (1.1.1)
+* [snmp](http://community.opscode.com/cookbooks/snmp) - (1.0.0)
+* [the_silver_searcher](http://community.opscode.com/cookbooks/the_silver_searcher) - (1.1.1)
+
 
 ### New and Updated Chef and Knife Gems
 
