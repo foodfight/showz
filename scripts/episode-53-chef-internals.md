@@ -5,9 +5,10 @@ Panel<a name="panel"></a>
 
 * Ranjib Dey
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Joshua Timberman
+* Daniel DeLeo
 
+[Youtube Stream](http://youtu.be/1ulVUl_O47g)
 
 News
 ----
@@ -43,6 +44,17 @@ Outline/Questions
 Random Qs
 * why are files in a cookbook individually uploaded, rather than tarred up and sent?
 
+
+Links
+-----
+* [Chef::Client](https://github.com/opscode/chef/blob/master/lib/chef/client.rb)
+* [Chef::CookbookLoader](https://github.com/opscode/chef/blob/master/lib/chef/cookbook_loader.rb)
+* [Chef::RunContext](https://github.com/opscode/chef/blob/master/lib/chef/run_context.rb)
+* [File Provider changes in 11.6](http://lists.opscode.com/sympa/arc/chef/2013-06/msg00093.html)
+* [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
+* [ruby-prof](https://github.com/rdp/ruby-prof)
+
+
 Picks<a name="picks"></a>
 -----
 
@@ -52,9 +64,18 @@ Picks<a name="picks"></a>
 * [Celluloid::Future.new](https://github.com/celluloid/celluloid/wiki/futures)
 * [Elixir](http://elixir-lang.org
 
-#### lusis  
+#### Dan
 
-#### Nathen  
+* [Inverting the Pyramid](http://www.amazon.com/Inverting-Pyramid-History-Football-Tactics/dp/1409102041)
+
+#### Joshua
+
+
+
+#### Ranjib
+
+* [KCacheGrind](http://kcachegrind.sourceforge.net/html/Home.html)
+* [ruby-prof](https://github.com/rdp/ruby-prof)
 
 
 
