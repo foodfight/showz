@@ -40,6 +40,8 @@ Outline/Questions
 * Ohai .. extending ohai, pitfalls, apis etc. 
 * A brief overview of Mash , ChefFS, Mixlib::JSONCompat . Why these modules are used inside chef , instead of vanilla ruby alternatives? And why someone extending chef should use these components
 
+Random Qs
+* why are files in a cookbook individually uploaded, rather than tarred up and sent?
 
 Picks<a name="picks"></a>
 -----
