@@ -23,6 +23,7 @@ Outline/Questions
   * ohai
   * Mixlib-shell out interface :: A portable , cross platform command execution module. How to use it with any arbitrary code, how chef interfaces with it (shellout, shellout! etc)
   * Mixlib-Cli :: The awesome command line argument processor. How to use it with any arbitrary program , How pita it is to from re-usability stand point (check the knife plugins where people have hacked for this :-) )
+* What are the "god" objects in chef? i.e. the main objects.
 * Anatomy of a chef run (revisited with chef internal) : 
 * setup phase (logging setup, configuration setups, client registration, getting a node's runlist)
 * cookbook syncing, 
@@ -31,7 +32,6 @@ Outline/Questions
 * execution phase .. notifications resolution
 * handlers execution (report/exception) & optional node.save
 * Digging deep inside a run context: what it holds, which all chef core components (e.g runner, provider etc) needs run context to function
-* What are the "god" objects in chef?
 * Digging deep inside a provider (we can talk about resource, but theres not moch). 
   * the notion of convergence, how why_run works, how to make an arbitrary resource (custom) why_run compatible
   * how the action_* works
@@ -41,11 +41,14 @@ Outline/Questions
 * A brief overview of Mash , ChefFS, Mixlib::JSONCompat . Why these modules are used inside chef , instead of vanilla ruby alternatives? And why someone extending chef should use these components
 
 
-
 Picks<a name="picks"></a>
 -----
 
 #### Bryan  
+
+* [KEXP](http://kexp.org)
+* [Celluloid::Future.new](https://github.com/celluloid/celluloid/wiki/futures)
+* [Elixir](http://elixir-lang.org
 
 #### lusis  
 
