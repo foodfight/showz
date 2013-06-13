@@ -62,7 +62,7 @@ Picks<a name="picks"></a>
 
 * [KEXP](http://kexp.org)
 * [Celluloid::Future.new](https://github.com/celluloid/celluloid/wiki/futures)
-* [Elixir](http://elixir-lang.org
+* [Elixir](http://elixir-lang.org)
 
 #### Dan
 
@@ -70,7 +70,20 @@ Picks<a name="picks"></a>
 
 #### Joshua
 
-
+* Check out and participate in Chef internals conversations at
+  #chef-hacking IRC and chef-dev mailing list
+* Shameless self-promotion: my "5 things you didn't know about Chef"
+  [talk from Big Ruby 2013](http://confreaks.com/videos/2301-bigruby2013-5-things-you-didn-t-know
+-about-chef).
+* Geeky pick:
+  [Pathfinder RPG: Ultimate Campaign](http://paizo.com/products/btpy8x64/).
+  This is a great resource for GMs, and the fact that it collects all
+  the character traits in one place is great for players.
+* Tech pick: [OmniOS](http://omnios.omniti.com)! I've been playing
+  with this a bit, and it's great. OmniOS is an IllumOS distribution
+  by OmniTI, and is built for enterprise class stability and use.
+* New Belgium Abbey ale, it's a Belgian Dubbel style. Delicious and
+  refreshing, even on a hot summer day
 
 #### Ranjib
 
