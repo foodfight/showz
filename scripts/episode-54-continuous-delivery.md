@@ -45,6 +45,7 @@ Picks<a name="picks"></a>
 #### Jez
 
 #### Mike
+* [cane](http://corner.squareup.com/2012/02/cane.html)
 
 #### Bryan  
 
