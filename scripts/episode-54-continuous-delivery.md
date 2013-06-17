@@ -57,6 +57,7 @@ Picks<a name="picks"></a>
 #### Nathen
 * [Mike Fiedler's "What's in this Cookbook" talk](http://www.youtube.com/watch?v=bmGQVo7UHbU&feature=share&list=PLdh-RwQzDsaNlz-Ho-BAjKfoPaUs7UIwQ) from a recent meetup group.
 * [The Magic Tricks of Testing](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf) - A talk from Sandi Metz given at [RubyNation](http://rubynation.org)
+* [Adam's #ChefConf Keynote](http://www.opscode.com/blog/chefconf-talks/chefconf-2013-keynote-session-opscode-adam-jacob/)
 
 
 CLOSE
