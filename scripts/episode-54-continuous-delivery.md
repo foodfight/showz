@@ -49,6 +49,10 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 
+* [Elixir Getting Started Guide](http://elixir-lang.org/getting_started/1.html)
+* [Riak Core](https://github.com/basho/riak_core)
+
+
 #### Julian
 
 #### Matt
