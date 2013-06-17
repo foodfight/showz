@@ -16,9 +16,19 @@ Invited Panelists
 Outline/Questions
 -----------------
 * What is Continuous Delivery?
-* How do I get started?
+* How do I get started? - new application vs. existing application
 * What are the challenges I'm likely to encounter in my organization?
 * Can / should I continuously deliver my infrastructure code, too?
+* Configuration Management
+* Continuous Integration
+* Testing Strategy
+* Deployment Pipeline
+* Build & Deployment scripting
+* Acceptance Testing
+* Testing operational requirements
+* Version control - to branch or not to branch?
+* Rolling back code
+* cultural challenges with continuous delivery
 
 Picks<a name="picks"></a>
 -----
