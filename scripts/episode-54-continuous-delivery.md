@@ -12,8 +12,6 @@ Invited Panelists
 -----------------
 
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 
 Outline/Questions
 -----------------
