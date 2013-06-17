@@ -13,6 +13,15 @@ Invited Panelists
 
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 
+
+Chef News
+---------
+
+* [Continuous Delivery at SAP](https://www.dropbox.com/s/ps4icmboani9wpn/SAP%20Continuous%20Delivery%20-%20JFokus%202013.pdf)
+* [Jenkins running Test-Kitchen via Vagrant. On Windows.](http://www.kickflop.net/blog/2013/06/11/jenkins-running-test-kitchen-via-vagrant-on-windows/)
+* [Using Opscode Chef on Blue Box with Knife Bluebox](https://www.bluebox.net/about/blog/2013/06/using-opscode-chef-on-blue-box-with-knife-bluebox/)
+
+
 Outline/Questions
 -----------------
 * What is Continuous Delivery?
@@ -46,6 +55,8 @@ Picks<a name="picks"></a>
 #### Mike
 
 #### Nathen
+* [Mike Fiedler's "What's in this Cookbook" talk](http://www.youtube.com/watch?v=bmGQVo7UHbU&feature=share&list=PLdh-RwQzDsaNlz-Ho-BAjKfoPaUs7UIwQ) from a recent meetup group.
+* [The Magic Tricks of Testing](https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf) - A talk from Sandi Metz given at [RubyNation](http://rubynation.org)
 
 
 CLOSE
