@@ -19,11 +19,15 @@ Outline/Questions
 -----------------
 
 * Managing Secrets with Chef
+** passwords
+** private ssh/ssl keys
+** AWS access and secret keys
+** encrypted volumes
 * Encrypted Data Bags
 * Secrets and AWS IAM Roles
 * [Chef Vault](http://rubygems.org/gems/chef-vault)
 * [Keeping Secrets](http://wiki.opscode.com/display/chef/Keeping+Secrets)
-
+* Keeping secrets w/ and w/out chef-server
 
 Picks<a name="picks"></a>
 -----
