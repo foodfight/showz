@@ -9,15 +9,9 @@ Invited Panel<a name="panel"></a>
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
-* Jason Williams - [github](https://github.com/jasonjwwilliams)
+* Cameron Johnston - [github](https://github.com/cwjohnston)
 * Jeffrey Hulten - [github](https://github.com/jhulten)
-* Carl Perry
-* Joe Nuspl 
-* Peter Loren
-* Stephen Nelson-Smith
-* Mike Roth
-* Geoff Papillon 
-
+* Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 
 Outline/Questions
 -----------------
