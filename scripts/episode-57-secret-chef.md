@@ -9,9 +9,11 @@ Invited Panel<a name="panel"></a>
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Cameron Johnston - [github](https://github.com/cwjohnston)
 * Jeffrey Hulten - [github](https://github.com/jhulten)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
+* Kevin Moser  [github](https://github.com/moserke), [twitter](https://twitter.com/moserke)
 
 Outline/Questions
 -----------------
