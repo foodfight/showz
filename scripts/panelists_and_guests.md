@@ -20,3 +20,4 @@
 * Daniel DeLeo [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
 * Joshua Timberman [github](http://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org/)
 * Adam Jacob [twitter](https://twitter.com/adamhjk), [github](https://github.com/adamhjk)
+* Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
