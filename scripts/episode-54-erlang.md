@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  [Monday, July 1, 2013 21:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Erlang+Eye+for+the+DevOps+Guy+%28and+Gal%29&iso=20130701T17&p1=1928&ah=1)
 
 Panel<a name="panel"></a>
 -----
