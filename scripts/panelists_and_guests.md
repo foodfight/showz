@@ -21,3 +21,5 @@
 * Joshua Timberman [github](http://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org/)
 * Adam Jacob [twitter](https://twitter.com/adamhjk), [github](https://github.com/adamhjk)
 * Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
+* Chad Fowler [twitter](https://twitter.com/chadfowler), [github](https://github.com/chad), [blog](http://chadfowler.com/)
+* Panos Papadomitsos [twitter](http://twitter.com/priestjim), [github](https://github.com/priestjim)
