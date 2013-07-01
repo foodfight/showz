@@ -1,4 +1,5 @@
-Show Date:  
+Show Date:  [Tuesday, July 9, 2013 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Secret+Chef&iso=20130709T12&p1=1928&ah=1)
+
 Confirmed Panel<a name="panel"></a>
 -----
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
