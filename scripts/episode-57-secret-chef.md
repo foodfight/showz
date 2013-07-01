@@ -14,6 +14,7 @@ Invited Panel<a name="panel"></a>
 * Jeffrey Hulten - [github](https://github.com/jhulten)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 * Kevin Moser  [github](https://github.com/moserke), [twitter](https://twitter.com/moserke)
+* Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
 
 Outline/Questions
 -----------------
