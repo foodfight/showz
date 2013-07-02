@@ -5,8 +5,11 @@ Panel<a name="panel"></a>
 
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* 
-*
+* Panos Papadomitsos
+* Steve Vinoski
+* Hector Castro
+* Chris Meikeljohn
+* Seth Thomas
 
 [Youtube Stream]()
 
@@ -64,6 +67,32 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 
+* [mostlyerlang podcast](http://mostlyerlang.com)
+* [learn you some erlang](http://learnyousomeerlang.com)
+* [all your cores belong to us](http://www.youtube.com/watch?v=GyHXLIHtPDM)
+
+
+#### Chris
+
+* All Things Distributed Podcast coming soon! join the [ML](http://eepurl.com/BK2Ff) for updates on it
+* [Hitchhiker's Guide to the Erlang VM](http://www.youtube.com/watch?v=owCu5rveBYI)
+
+#### Seth
+
+* [Project FIFO](http://project-fifo.net/display/PF/Project+FiFo+Home)
+
+#### Panos
+
+
+
+#### Nathen
+
+* [The Ship Show Podcast](http://theshipshow.com)
+
+#### Steve
+
+* [Erlang Solutions Youtube channel](http://www.youtube.com/user/ErlangSolutions)
+* [The Kid is not my son](http://steve.vinoski.net/blog/2008/04/21/father-of-corba-not/)
 
 
 
