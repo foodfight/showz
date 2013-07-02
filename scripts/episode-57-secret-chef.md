@@ -4,6 +4,7 @@ Confirmed Panel<a name="panel"></a>
 -----
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 
 Invited Panel<a name="panel"></a>
 -----
@@ -11,7 +12,6 @@ Invited Panel<a name="panel"></a>
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Cameron Johnston - [github](https://github.com/cwjohnston)
 * Jeffrey Hulten - [github](https://github.com/jhulten)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
@@ -30,6 +30,8 @@ Outline/Questions
 * [Chef Vault](http://rubygems.org/gems/chef-vault)
 * [Keeping Secrets](http://wiki.opscode.com/display/chef/Keeping+Secrets)
 * Keeping secrets w/ and w/out chef-server
+* Managing secrets for development, i.e. git scm chef deploys without a key
+* Pros vs Cons: User accounts on servers
 
 Picks<a name="picks"></a>
 -----
@@ -40,6 +42,9 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### Mike
+
+- http://www.amazon.com/Five-Dysfunctions-Team-Large-Print/dp/0470580461
 
 
 CLOSE
