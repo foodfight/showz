@@ -22,4 +22,9 @@
 * Adam Jacob [twitter](https://twitter.com/adamhjk), [github](https://github.com/adamhjk)
 * Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
 * Chad Fowler [twitter](https://twitter.com/chadfowler), [github](https://github.com/chad), [blog](http://chadfowler.com/)
-* Panos Papadomitsos [twitter](http://twitter.com/priestjim), [github](https://github.com/priestjim)
+* Seth Thomas [github](https://github.com/cheeseplus), [twitter](https://twitter.com/cheeseplus)
+* Hector Castro  [twitter](https://twitter.com/hectcastro), [github](https://github.com/hectcastro), [blog](http://hectcastro.me/)
+* Chris Meiklejohn [twitter](https://twitter.com/cmeik), [github](https://github.com/cmeiklejohn/), [blog](http://christophermeiklejohn.com/)
+* Panos Papadomitsos (PJ) - [twitter](https://twitter.com/priestjim), [github](https://github.com/priestjim), [blog](http://ezgr.net/)
+* Steve Vinoksi [github](https://github.com/vinoski), [twitter](https://twitter.com/stevevinoski), [blog](http://steve.vinoski.net/blog/)
+
