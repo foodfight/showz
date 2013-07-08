@@ -3,16 +3,16 @@ Show Date:  [Tuesday, July 9, 2013 16:00 UTC](http://www.timeanddate.com/worldcl
 Confirmed Panel<a name="panel"></a>
 -----
 * Cameron Johnston - [github](https://github.com/cwjohnston)
+* Kevin Moser  [github](https://github.com/moserke), [twitter](https://twitter.com/moserke)
+* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel<a name="panel"></a>
 -----
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Jeffrey Hulten - [github](https://github.com/jhulten)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
-* Kevin Moser  [github](https://github.com/moserke), [twitter](https://twitter.com/moserke)
 
 Outline/Questions
 -----------------
