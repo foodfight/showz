@@ -2,17 +2,14 @@ Show Date:  [Tuesday, July 9, 2013 16:00 UTC](http://www.timeanddate.com/worldcl
 
 Confirmed Panel<a name="panel"></a>
 -----
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Cameron Johnston - [github](https://github.com/cwjohnston)
 * Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel<a name="panel"></a>
 -----
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
-* Cameron Johnston - [github](https://github.com/cwjohnston)
 * Jeffrey Hulten - [github](https://github.com/jhulten)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 * Kevin Moser  [github](https://github.com/moserke), [twitter](https://twitter.com/moserke)
