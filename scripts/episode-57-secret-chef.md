@@ -26,6 +26,7 @@ Outline/Questions
 * [Chef Vault](https://github.com/Nordstrom/chef-vault)
 * [Knife Briefcase](https://github.com/3ofcoins/knife-briefcase)
 * [Gazzang zTrustee](http://www.gazzang.com/products/ztrustee)
+* [OpenStack Cloud Keep](http://www.openstack.org/summit/portland-2013/session-videos/presentation/cloud-keep-openstack-key-management-as-a-service)
 * [Keeping Secrets](http://wiki.opscode.com/display/chef/Keeping+Secrets)
 * Keeping secrets w/ and w/out chef-server
 * Managing secrets for development, i.e. git scm chef deploys without a key
@@ -39,6 +40,11 @@ Picks<a name="picks"></a>
 #### Kevin
 
 #### Matt
+
+* [Electronic Frontier Foundation](https://www.eff.org/)
+* [Electronic Privacy Information Center](http://epic.org/)
+* [Ghostery](http://www.ghostery.com/)
+* [Future Perfect: The Case For Progress In A Networked Age](http://www.amazon.com/Future-Perfect-Case-Progress-Networked/dp/1594488207/ref=sr_1_5?s=books&ie=UTF8&qid=1373383371&sr=1-5)
 
 #### Miah
 
