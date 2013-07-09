@@ -1,4 +1,4 @@
-Show Date:
+Show Date:  [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Immutable+Infrastructure&iso=20130722T12&p1=1928&ah=1)
 
 Confirmed Panel<a name="panel"></a>
 -----
