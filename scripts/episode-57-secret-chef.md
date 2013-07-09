@@ -26,6 +26,7 @@ Outline/Questions
 * Secrets and AWS IAM Roles
 * [Chef Vault](https://github.com/Nordstrom/chef-vault)
 * [Knife Briefcase](https://github.com/3ofcoins/knife-briefcase)
+* [Gazzang zTrustee](http://www.gazzang.com/products/ztrustee)
 * [Keeping Secrets](http://wiki.opscode.com/display/chef/Keeping+Secrets)
 * Keeping secrets w/ and w/out chef-server
 * Managing secrets for development, i.e. git scm chef deploys without a key
