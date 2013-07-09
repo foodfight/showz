@@ -22,6 +22,7 @@ Outline/Questions
 * [Chef Vault](https://github.com/Nordstrom/chef-vault)
 * [Knife Briefcase](https://github.com/3ofcoins/knife-briefcase)
 * [Gazzang zTrustee](http://www.gazzang.com/products/ztrustee)
+  * [zTrustee bootstrap](https://gist.github.com/mattray/5960123)
 * [OpenStack Cloud Keep](http://www.openstack.org/summit/portland-2013/session-videos/presentation/cloud-keep-openstack-key-management-as-a-service)
 * [Keeping Secrets](http://wiki.opscode.com/display/chef/Keeping+Secrets)
 * Keeping secrets w/ and w/out chef-server
