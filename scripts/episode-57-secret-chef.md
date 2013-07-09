@@ -31,6 +31,7 @@ Outline/Questions
 * Keeping secrets w/ and w/out chef-server
 * Managing secrets for development, i.e. git scm chef deploys without a key
 * Pros vs Cons: User accounts on servers
+* Role-based Access Controls in Hosted/Private Chef [RBAC](http://docs.opscode.com/auth_authorization.html)
 
 Picks<a name="picks"></a>
 -----
