@@ -2,7 +2,7 @@ Show Date:  [Tuesday, July 9, 2013 16:00 UTC](http://www.timeanddate.com/worldcl
 
 Confirmed Panel<a name="panel"></a>
 -----
-* Cameron Johnston - [github](https://github.com/cwjohnston)
+* Cameron Johnston - [github](https://github.com/cwjohnston), [twitter](https://twitter.com/cwjohnston)
 * Kevin Moser  [github](https://github.com/moserke), [twitter](https://twitter.com/moserke)
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Miah Johnson [github](https://github.com/miah), [twitter](https://twitter.com/miah_)
