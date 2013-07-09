@@ -11,7 +11,6 @@ Confirmed Panel<a name="panel"></a>
 
 Invited Panel<a name="panel"></a>
 -----
-* Jeffrey Hulten - [github](https://github.com/jhulten)
 * Stephen Nelson-Smith [twitter](https://twitter.com/lordcope), [github](http://github.com/lordcope)
 
 Outline/Questions
@@ -35,15 +34,19 @@ Outline/Questions
 Picks<a name="picks"></a>
 -----
 
-#### Bryan  
+#### Cameron
 
-#### lusis  
+#### Kevin
 
-#### Nathen  
+#### Matt
+
+#### Miah
 
 #### Mike
 
-- http://www.amazon.com/Five-Dysfunctions-Team-Large-Print/dp/0470580461
+* http://www.amazon.com/Five-Dysfunctions-Team-Large-Print/dp/0470580461
+
+#### Nathen  
 
 
 CLOSE
