@@ -37,19 +37,24 @@ Also ref: http://www.opscode.com/blog/chefconf-talks/treating-your-infrastructur
 
 Picks<a name="picks"></a>
 -----
+#### Brandon
 
 #### Bryan
 
-#### lusis
+#### Chad
 
-#### Nathen
+#### Fletcher
+
+#### lusis
 
 #### Mike
 
 - http://www.codeschool.com
 - https://codeclimate.com/
 
+#### Nathen
 
+#### Panos 
 
 CLOSE
 -----
