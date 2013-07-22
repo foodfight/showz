@@ -3,17 +3,17 @@ Show Date:  [Monday, July 22, 16:00 UTC](http://www.timeanddate.com/worldclock/f
 Confirmed Panel<a name="panel"></a>
 -----
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Chad Fowler [twitter](https://twitter.com/chadfowler), [github](https://github.com/chad), [blog](http://chadfowler.com/)
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Panos Papadomitsos [twitter](http://twitter.com/priestjim), [github](https://github.com/priestjim)
 
 Invited Panel<a name="panel"></a>
 -----
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
-* Panos Papadomitsos [twitter](http://twitter.com/priestjim), [github](https://github.com/priestjim)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 
 
