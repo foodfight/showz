@@ -9,12 +9,7 @@ Confirmed Panel<a name="panel"></a>
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Panos Papadomitsos [twitter](http://twitter.com/priestjim), [github](https://github.com/priestjim)
-
-Invited Panel<a name="panel"></a>
------
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
-
 
 Outline/Questions
 -----------------
