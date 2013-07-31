@@ -39,6 +39,10 @@ Picks<a name="picks"></a>
 
 #### Fletcher
 
+- http://www.datadoghq.com/2013/05/treating-your-infrastructure-like-garbage-chefconf-presentation/
+- http://pragprog.com/book/cfcar2/the-passionate-programmer
+- http://www.rdio.com/artist/Alice_In_Chains/album/The_Devil_Put_Dinosaurs_Here/
+
 #### lusis
 
 #### Mike
