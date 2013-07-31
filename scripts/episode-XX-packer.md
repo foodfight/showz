@@ -1,18 +1,20 @@
-Show Date:   TBD
+Show Date:  [Wednesday, August 14, 2013 at 16:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Packer&iso=20130814T12&p1=1928&ah=1)
 
 Confirmed Panel<a name="panel"></a>
 -----
+
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
 
 * Mitchell Hashimoto [github](https://github.com/mitchellh), [twitter](https://twitter.com/mitchellh)
+* Ross Timson [github](https://github.com/rosstimson), [twitter](https://twitter.com/rosstimson)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
 Outline/Questions
