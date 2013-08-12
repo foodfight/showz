@@ -1,4 +1,4 @@
-Show Date:  [Tuesday, August 20, 2013 at 17:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+Riot%21&iso=20130820T13&p1=1928&ah=1)
+Show Date:  [Tuesday, August 20, 2013 at 17:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+DevOps+Riot%21&iso=20130820T13&p1=1928&ah=1)
 
 Confirmed Panel<a name="panel"></a>
 -------------
