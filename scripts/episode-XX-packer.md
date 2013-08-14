@@ -5,15 +5,13 @@ Confirmed Panel<a name="panel"></a>
 * Mitchell Hashimoto [github](https://github.com/mitchellh), [twitter](https://twitter.com/mitchellh)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
-* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Ross Timson [github](https://github.com/rosstimson), [twitter](https://twitter.com/rosstimson)
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 
 
 Outline/Questions
@@ -23,6 +21,8 @@ Outline/Questions
 * Any other projects that you're working on?
 * [What is Packer](http://www.packer.io/intro/index.html)?
 * [Why Use Packer](http://www.packer.io/intro/why.html)?
+* Why choose Go?
+* Why build something new and not extend Veewee?
 * Can I build Windows images with Packer?
 * What problem is Packer solving?
 * How does Packer work?
