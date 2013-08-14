@@ -22,7 +22,9 @@ Outline/Questions
 * [What is Packer](http://www.packer.io/intro/index.html)?
 * [Why Use Packer](http://www.packer.io/intro/why.html)?
 * Why choose Go?
-* Why build something new and not extend Veewee?
+* The Veewee project has been used for quite some time to build Vagrant boxes.
+  * Why build something new and not extend Veewee?
+  * In the past there have been integration issues between Veewee and new releases of Vagrant.  Is there some way to avoid similar integration issues moving forward?
 * Can I build Windows images with Packer?
 * What problem is Packer solving?
 * How does Packer work?
