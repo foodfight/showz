@@ -1,4 +1,4 @@
-Show Date:  [Monday, August 26, 2013 at 20:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130826T16&p1=419&ah=1)
+Show Date:  [Monday, August 26, 2013 at 20:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130826T16&p1=419&ah=1)
 
 Panel<a name="panel"></a>
 -----
