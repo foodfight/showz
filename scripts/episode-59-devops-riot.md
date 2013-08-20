@@ -5,6 +5,7 @@ Confirmed Panel<a name="panel"></a>
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Erik Black [github](http://github.com/elebertus), [twitter](https://twitter.com/elebertus), irc: eblack
 * Jeff Hackert
+* Josiah Kiehl [github](http://github.com/bluepojo), [twitter](http://twitter.com/bluepojo)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -15,7 +16,6 @@ Invited Panel
 * Carl Quinn
 * Dominica DeGrandis
 * Michael Ivey
-* Josiah Kiehl
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 
 
