@@ -3,7 +3,7 @@ Show Date:  [Tuesday, August 20, 2013 at 17:00:00 UTC](http://www.timeanddate.co
 Confirmed Panel<a name="panel"></a>
 -------------
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* Erik Black
+* Erik Black [github](http://github.com/elebertus), [twitter](https://twitter.com/elebertus), irc: eblack
 * Jeff Hackert
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
