@@ -39,7 +39,9 @@ Outline/Questions
   * How do you balance time employees spend on open source with time they spend on their "day job"?
   * What are some of the projects Riot Games has contributed to/
 
-
+From Mike:
+* What's the deal with 'thor'? What was wrong with 'rake'?
+* How do you enforce any kind of consistency if everyone is 'doing their own thing' in siloed teams?
 
 Picks<a name="picks"></a>
 -----
