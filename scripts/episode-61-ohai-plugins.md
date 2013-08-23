@@ -9,7 +9,7 @@ Invited Panel
 * Mandi Walls
 * Claire McQuin
 * Serdar Sutay
-* Warren Bain
+* Warren 'Wazza' Bain [github](http://github.com/thoughtcroft), [twitter](https://twitter.com/thoughtcroft)
 * Sean O'Meara
 * Julian Dunn
 * Lamont Granquist
@@ -35,6 +35,12 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### Wazza
+
+- https://github.com/carlhuda/janus
+- https://flood.io/
+- http://tridiv.com/
+- http://www.imdb.com/title/tt0434409/
 
 
 CLOSE
