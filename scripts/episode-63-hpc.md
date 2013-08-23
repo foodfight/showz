@@ -19,14 +19,19 @@ Invited Panel
 Outline/Questions
 -----------------
 
-
+* What is HPC
+* What is Chef
+* Challenges in HPC
+* Special considerations for Chef in HPC environment
 
 Picks<a name="picks"></a>
 -----
 
-#### Bryan  
+#### Brock  
 
-#### lusis  
+#### Jeff
+  
+#### Bryan  
 
 #### Nathen  
 
