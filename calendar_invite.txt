@@ -1,7 +1,5 @@
 This episode of the Food Fight Show will be hosted via Google+ Hangout.  The Hangout will be streamed live on YouTube and then the audio will be extracted and released as a podcast episode.
 
-If you have a google account, please send me your google ID so that I can add you to the Food Fight Show's circles, and my own.  The Food Fight Show's Google+ Name is "Bryan Nathen" because of the rules for setting up a Google+ account.
-
 You will receive the URL for the hangout shortly before it begins, probably about 15 minutes prior to our start time.
 
 Please use a USB headset if you have one available.  Muting yourself while not speaking is always appreciated and helps with the quality of the show.  
@@ -9,7 +7,6 @@ Please use a USB headset if you have one available.  Muting yourself while not s
 The beginning of an outline can be found in our github page [1].  We'd love to see feedback, pull requests, etc. on the show notes.  At a minimum, please let me know what links you'd like to include in the "Panel" section.  We typically include your name, twitter, github, and IRC handles plus a link to your blog.  If you'd like we will include your title and company, too.
 
 We include a "picks" section at the end of each episode so please come prepared with a pick or two as well.  The picks could be anything:  a protip, a tool, a book, a beer, whatever.  Something technical or non-technical that you've been using or interested in lately that you'd like to share.
-
 
 Thanks!
 Bryan & Nathen
