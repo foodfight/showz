@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  [Friday, September 27, 2013 at 11:00:00 AM UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Chef+and+HPC&iso=20130927T11&p1=419)
 
 Panel<a name="panel"></a>
 -----
