@@ -23,7 +23,16 @@ Invited Panel
 
 Outline/Questions
 -----------------
-[how to write and install an Ohai plugin, the Fight Club way](http://ninefold.com/blog/cloud-programming/cloud-programming-part-four-how-to-write-and-install-an-ohai-plugin-the-fight-club-way/)
+* What is Ohai?
+* What role does Ohai play when the chef-client runs?
+* What is an Ohai plugin?
+* Why might I need an ohai plugin?
+* Where can I find some example Ohai plugins?
+* How do I write an Ohai plugin?
+* Is there a way to pass hints to Ohai?
+* How do I test an Ohai plugin?
+* How are ohai plugins distributed?
+* [how to write and install an Ohai plugin, the Fight Club way](http://ninefold.com/blog/cloud-programming/cloud-programming-part-four-how-to-write-and-install-an-ohai-plugin-the-fight-club-way/)
 
 
 Picks<a name="picks"></a>
