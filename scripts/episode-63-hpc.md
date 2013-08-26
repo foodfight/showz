@@ -2,7 +2,7 @@ Show Date:  [Friday, September 27, 2013 at 11:00:00 AM UTC](http://www.timeandda
 
 Panel<a name="panel"></a>
 -----
-* Brock Palen [twitter](https://twitter.com/brockpalen), [github](https://github.com/brockpalen)
+* Brock Palen [twitter](https://twitter.com/brockpalen), [github](https://github.com/brockpalen), [blog](http://www.failureasaservice.com/)
 * Jeff Squyres [twitter](https://twitter.com/jsquyres), [github](https://github.com/jsquyres)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -26,6 +26,8 @@ Picks<a name="picks"></a>
 -----
 
 #### Brock  
+* [Marginal Revolution](http://marginalrevolution.com/)
+* Sitting on Yoga balls and Standing Desks
 
 #### Jeff
   
