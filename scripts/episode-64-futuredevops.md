@@ -1,8 +1,8 @@
-Show Date:  
+Show Date:  [Tuesday, October 1, 2013 at 15:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Andrew+Clay+Shafer&iso=20131001T11&p1=263&ah=1)
 
 Panel<a name="panel"></a>
 -----
-
+* Andrew Clay Shafer [twitter](http:twitter.com/littleidea), 
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
