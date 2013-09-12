@@ -1,4 +1,4 @@
-Show Date:  [Monday, August 26, 2013 at 20:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130826T16&p1=419&ah=1)
+Show Date:  [Tuesday, September 17, 2013 at 19:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Ohai+Plugins&iso=20130917T15&p1=263&ah=1)
 
 Panel<a name="panel"></a>
 -----
@@ -7,6 +7,7 @@ Invited Panel
 -------------
 
 * Mandi Walls
+* Bryan McLellan
 * Claire McQuin
 * Serdar Sutay
 * Warren 'Wazza' Bain [github](http://github.com/thoughtcroft), [twitter](https://twitter.com/thoughtcroft)
