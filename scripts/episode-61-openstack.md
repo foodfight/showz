@@ -15,7 +15,7 @@ Invited Panel<a name="panel"></a>
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Crag Tracey
 * Edmund Haselwanter
-* Carl Perry
+* Carl Perry, [twitter](http://twitter.com/edolnx), [github](http://github.com/edolnx), irc: carlp@freenode
 * Victor Lowther
 
 
