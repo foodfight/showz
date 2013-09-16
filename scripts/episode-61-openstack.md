@@ -32,6 +32,22 @@ Outline/Questions
 
 Picks<a name="picks"></a>
 -----
+#### Brandon
+
+#### Bryan
+
+#### Hendrik
+
+#### Judd
+
+#### Matt
+
+#### Mike
+
+#### Nathen
+
+* [Chromecast](http://www.google.com/intl/en/chrome/devices/chromecast/)
+* [Community Summit](https://wiki.opscode.com/display/chef/Community+Summit+3+-+2013)
 
 
 CLOSE
