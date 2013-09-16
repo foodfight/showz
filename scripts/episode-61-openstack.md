@@ -4,7 +4,7 @@ Confirmed Panel<a name="panel"></a>
 -----
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Hendrik Volkmer
+* Hendrik Volkmer  [github](http://github.com/hvolkmer), [twitter](http://www.twitter.com/hvolkmer), blog: [Refactoring life. Mercilessly.](http://blog.hendrikvolkmer.de/)
 * Judd Maltin
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
