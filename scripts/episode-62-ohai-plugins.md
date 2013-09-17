@@ -33,7 +33,7 @@ Outline/Questions
 * Is there a way to pass hints to Ohai?
 * How do I test an Ohai plugin?
 * How are ohai plugins distributed?
-* [how to write and install an Ohai plugin, the Fight Club way](http://ninefold.com/blog/cloud-programming/cloud-programming-part-four-how-to-write-and-install-an-ohai-plugin-the-fight-club-way/)
+* [how to write and install an Ohai plugin, the Fight Club way](http://webcache.googleusercontent.com/search?q=cache:U9EvlCf34iQJ:buff.ly/13K7jyb+&cd=1&hl=en&ct=clnk&gl=au)
 
 
 Picks<a name="picks"></a>
@@ -51,6 +51,7 @@ Picks<a name="picks"></a>
 - https://flood.io/
 - http://tridiv.com/
 - http://www.imdb.com/title/tt0434409/
+- http://ninefold.com
 
 
 CLOSE
