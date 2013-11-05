@@ -3,13 +3,11 @@ Show Date:  4 November 2013
 Panel<a name="panel"></a>
 -----
 
-* Al Tobey
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* Al Tobey, Open Source Mechanic at Datastax [github](https://github.com/tobert), [twitter](https://twitter.com/AlTobey)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+[Youtube Video](http://www.youtube.com/watch?v=2Iz2ydIrPA8)
 
 
 Outline/Questions
@@ -59,9 +57,26 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
+<<<<<<< HEAD
 #### lusis
 
 #### Nathen
+=======
+* Remapping the right option key on the Macbook to be a Control key
+* M-f, M-b, M-d, M-del shortcuts in the shell, see the [Emacs Readline Cheatsheet](http://www.catonmat.net/download/readline-emacs-editing-mode-cheat-sheet.pdf)
+
+#### Al 
+
+* [Vibram shoes](http://www.vibramfivefingers.com/index.htm)
+* [Serfdom](serfdom.io)
+
+#### Mike
+
+* [Basil Polenta with Poached egg and lemon roasted brussel sprouts](http://www.cuculinary.com/2013/03/basil-polenta-with-poached-egg-and-lemon-roasted-brussels-sprouts/)
+* [Ruby Monk Ruby Tutorials](http://rubymonk.com/)
+
+
+>>>>>>> 158fc6f... add picks
 
 
 
