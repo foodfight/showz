@@ -28,8 +28,9 @@ How could chef better support this?
 * Dysinger: got sense from your preso that we need to provide developers w/ better abstraction so that they don't have to learn chef. How does that work? And how we still enforce basic security?
 * if u run each app in its own docker container, what about daemons that need to interact 
 with that app? such as collectd, logstash, statsd, etc.?
+* can i use docker for my database?
 * When does it not make sense to use docker?
-
+* which Distros support docker? ahem, [rhel 6.5](http://www.redhat.com/about/news/press-archive/2013/11/red-hat-launches-latest-version-of-red-hat-enterprise-linux-6)
 
 Picks<a name="picks"></a>
 -----
