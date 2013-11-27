@@ -14,6 +14,9 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+Starting premise: The purpose of this show will not be to debate whether or not there are "best practices" for chef, but to briskly discuss common solutions to common problems. Let's aim for breadth here and not necessarily depth as each
+problem could eat up a whole show.
+
 * Twitter conversations
   * [https://twitter.com/dylannorthrup/status/403545492766064640](https://twitter.com/dylannorthrup/status/403545492766064640)
   * [https://twitter.com/dylannorthrup/status/403547696671121408](https://twitter.com/dylannorthrup/status/403547696671121408)
