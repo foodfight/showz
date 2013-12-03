@@ -84,6 +84,9 @@ Please send PR for additional topics that should be addressed.
 * Getting help
   * IRC, twitter, google-machine?
 
+* Documentation
+  * where to go?  why?
+
 * Getting started with Chef
   * Community Cookbooks or write your own?
   * Dependency management or not? (berkshelf, etc.)
