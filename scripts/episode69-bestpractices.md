@@ -52,11 +52,9 @@ Please send PR for additional topics that should be addressed.
 * Attirbute precedence levels - there are 15.  Which should be used / avoided?
   * attributes as scalar values, arrays, hashes.  Any to be avoided?
 
-* Databags
+* Databags & Sensitive data
   * Use or not?
   * Encrypted Data Bags - when, where, and how is it appropriate to use them?
-
-* Sensitive Data solutions
   * Encrypted Data Bags, ChefVault - how to decide best solution?
 
 * Community / Reusable Cookbooks
