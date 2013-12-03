@@ -56,6 +56,9 @@ Please send PR for additional topics that should be addressed.
   * Use or not?
   * Encrypted Data Bags - when, where, and how is it appropriate to use them?
 
+* Sensitive Data solutions
+  * Encrypted Data Bags, ChefVault - how to decide best solution?
+
 * Community / Reusable Cookbooks
   * Are reusable cookbooks a myth?
   * Cross-platform cookbooks?
