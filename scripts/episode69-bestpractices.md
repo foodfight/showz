@@ -7,6 +7,7 @@ Confirmed Panel<a name="panel"></a>
 * Kris Buytaert [twitter](https://twitter.com/KrisBuytaert), [github](https://github.com/KrisBuytaert), [blog](http://www.krisbuytaert.be/blog/)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
+* Tom Robison [twitter](https://twitter.com/thomasrobison) 
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -14,7 +15,6 @@ Invited Panel
 ---------------
 Do you want to join us for this episode?  [info@foodfightshow.org](mailto:info@foodfightshow.org)
 * Lamont Granquist
-* Tom Robison
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
