@@ -32,6 +32,27 @@ problem could eat up a whole show.
   * [https://twitter.com/dylannorthrup/status/403548094672818177](https://twitter.com/dylannorthrup/status/403548094672818177)
   * [https://twitter.com/dylannorthrup/status/403546057264492544](https://twitter.com/dylannorthrup/status/403546057264492544)
 
+### On Best Practices...
+
+Best practices evolve over time.  Do not take what we say here and simply cargo cult it into your organization.  Think about some of the design tenets of Chef:
+
+* whipuptitude - aptitude for whipping things up
+* Reasonability
+* Sane defaults 
+* Flexibility
+* manipulexity - manipulation of complex things
+
+How do these relate to "best practices"?  How do you apply these tenets in your organization?
+
+Also, remember [Shuhari](http://en.wikipedia.org/wiki/Shuhari)
+
+* shu - "obey" - traditional wisdom
+* ha - "detach" - break with tradition
+* ri - "separate" - transcend
+* first learn, then detach, and finally transcend
+
+Not only do best practices within the community evolve over time, the best practices for YOU will evolve as you spend more time with Chef.  There are good practices for beginners that are not so good for more advanced Chef users.
+
 ## Topics to address
 
 Please send PR for additional topics that should be addressed.
@@ -44,7 +65,7 @@ Please send PR for additional topics that should be addressed.
 * Use Roles or no?
   * Under what circumstances?
 
-* Environment sepcific run-lists
+* Environment specific run-lists
 
 * Source code management
   * is git THE answer?
