@@ -72,6 +72,7 @@ Please send PR for additional topics that should be addressed.
 
 * Attirbute precedence levels - there are 15.  Which should be used / avoided?
   * attributes as scalar values, arrays, hashes.  Any to be avoided?
+  * persistent vs ephemeral/computed attributes
 
 * Databags & Sensitive data
   * Use or not?
@@ -97,6 +98,11 @@ Please send PR for additional topics that should be addressed.
 * `.pem` file management
   * sharing the validator `.pem` with your team
   * `.pem` file rotation
+  * Protecting `.pem` files on central chef bastion host
+
+* Chef organizations
+  * Dev, Ref, Prod specific organizations?
+  * project-specific organizations?
 
 * User management
   * Chef users
@@ -134,6 +140,9 @@ Picks<a name="picks"></a>
 #### Bryan
 
 #### Dylan
+
+* [Hex TCG](http://hextcg.com/) - Digital Trading Card Game. Currently in Alpha, but available to folks who backed their Kickstarter and folks who donate.
+* [Tested.com](http://www.tested.com/) - Geeky maker focused site done in conjunction with Adam Savage and Jamie Hyneman from the Mythbusters.
 
 #### John
 
