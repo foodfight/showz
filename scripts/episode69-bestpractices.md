@@ -161,6 +161,9 @@ Picks<a name="picks"></a>
 #### Mike
 
 #### Nathen
+* [SCaLE 12x](https://www.socallinuxexpo.org/scale12x/) - CFP is closing on 15 December.
+* [#ChefConf 2014](http://chefconf.com) - CFP closes in mid-January.  Ticket prices go up at the end of the calendar year so lock-in the best rate now.
+* [Community Cookbooks blog post](http://www.opscode.com/blog/2013/11/26/community-cookbooks/)
 
 
 CLOSE
