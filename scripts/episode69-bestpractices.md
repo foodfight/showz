@@ -32,27 +32,6 @@ problem could eat up a whole show.
   * [https://twitter.com/dylannorthrup/status/403548094672818177](https://twitter.com/dylannorthrup/status/403548094672818177)
   * [https://twitter.com/dylannorthrup/status/403546057264492544](https://twitter.com/dylannorthrup/status/403546057264492544)
 
-### On Best Practices...
-
-Best practices evolve over time.  Do not take what we say here and simply cargo cult it into your organization.  Think about some of the design tenets of Chef:
-
-* whipuptitude - aptitude for whipping things up
-* Reasonability
-* Sane defaults 
-* Flexibility
-* manipulexity - manipulation of complex things
-
-How do these relate to "best practices"?  How do you apply these tenets in your organization?
-
-Also, remember [Shuhari](http://en.wikipedia.org/wiki/Shuhari)
-
-* shu - "obey" - traditional wisdom
-* ha - "detach" - break with tradition
-* ri - "separate" - transcend
-* first learn, then detach, and finally transcend
-
-Not only do best practices within the community evolve over time, the best practices for YOU will evolve as you spend more time with Chef.  There are good practices for beginners that are not so good for more advanced Chef users.
-
 ## Topics to address
 
 Please send PR for additional topics that should be addressed.
@@ -65,13 +44,14 @@ Please send PR for additional topics that should be addressed.
 * Use Roles or no?
   * Under what circumstances?
 
-* Environment specific run-lists
+* Environment sepcific run-lists
 
 * Source code management
   * is git THE answer?
 
 * Attirbute precedence levels - there are 15.  Which should be used / avoided?
   * attributes as scalar values, arrays, hashes.  Any to be avoided?
+  * persistent vs ephemeral/computed attributes
 
 * Databags & Sensitive data
   * Use or not?
@@ -86,7 +66,7 @@ Please send PR for additional topics that should be addressed.
 * Cookbook development patterns
   * application / library cookbooks
   * wrapper cookbooks
-  
+
 * Ruby!
   * rbenv, chruby, rvm or omnibus ruby?
 
@@ -97,7 +77,12 @@ Please send PR for additional topics that should be addressed.
 * `.pem` file management
   * sharing the validator `.pem` with your team
   * `.pem` file rotation
+  * Protecting `.pem` files on central chef bastion host
 
+* Chef organizations
+  * Dev, Ref, Prod specific organizations?
+  * project-specific organizations?
+  
 * User management
   * Chef users
   * system users
@@ -134,6 +119,9 @@ Picks<a name="picks"></a>
 #### Bryan
 
 #### Dylan
+
+* [Hex TCG](http://hextcg.com/) - Digital Trading Card Game. Currently in Alpha, but available to folks who backed their Kickstarter and folks who donate.
+* [Tested.com](http://www.tested.com/) - Geeky maker focused site done in conjunction with Adam Savage and Jamie Hyneman from the Mythbusters.
 
 #### John
 
