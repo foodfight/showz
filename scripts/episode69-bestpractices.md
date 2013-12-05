@@ -136,6 +136,9 @@ Picks<a name="picks"></a>
 -----
 
 #### Brandon
+* [this gif](http://i.imgur.com/41mGmuu.gif)
+* [GoAdvent 2013](http://blog.gopheracademy.com/index)
+* [SysAdvent 2013](http://sysadvent.blogspot.com/search?updated-min=2013-01-01T00:00:00-05:00&updated-max=2014-01-01T00:00:00-05:00&max-results=5)
 
 #### Bryan
 
