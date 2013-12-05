@@ -118,6 +118,10 @@ Picks<a name="picks"></a>
 
 #### Julian
 
+* [Bento](http://opscode.github.io/bento/)
+* [FreeBSD](http://www.freebsd.org/)
+* [NYU ITP Winter Show](http://itp.nyu.edu/shows/winter2013/category/projects)
+
 #### Kris
 
 #### Lamont
