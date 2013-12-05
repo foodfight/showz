@@ -139,6 +139,10 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
+* [Foodfight Future of DevOps](http://foodfightshow.org/2013/10/the-future-of-devops.html)
+* Bob Lee's presentation [Engineering Excellence](http://www.infoq.com/presentations/Square) on Square's technology stack
+* [Eclipse Moonrise](https://github.com/guari/eclipse-ui-theme)
+
 #### Dylan
 
 * [Hex TCG](http://hextcg.com/) - Digital Trading Card Game. Currently in Alpha, but available to folks who backed their Kickstarter and folks who donate.
