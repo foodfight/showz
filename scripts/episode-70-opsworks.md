@@ -8,7 +8,7 @@ Confirmed Panel<a name="panel"></a>
 Invited Panel<a name="panel"></a>
 ------------
 * Jonathan Weiss
-* Tom Duffield
+* Tom Duffield [github](http://github.com/tduffield), [twitter](http://twitter.com/tomduffield), [blog](http://tomduffield.com)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
@@ -32,6 +32,8 @@ Outline/Questions
 Picks<a name="picks"></a>
 -----
 #### Jonathan
+
+#### Tom
 
 #### Brandon
 
