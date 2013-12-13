@@ -1,15 +1,18 @@
-Show Date:  
+Show Date:  [Wednesday, December 18, 2013 at 20:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+70+-+Opsworks&iso=20131218T15&p1=419&ah=1)
 
-Panel<a name="panel"></a>
------
+Confirmed Panel<a name="panel"></a>
+---------------
 
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+
+Invited Panel<a name="panel"></a>
+------------
+* Jonathan Weiss
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* MattRay [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
+* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
 
 Outline/Questions
 -----------------
@@ -18,19 +21,28 @@ Outline/Questions
 * How does it work?
 * What components of Chef does Opsworks use?  What version?
 * Who's using Opsworks?
+* What are some of the major differences between Opsworks and Chef?
+* What operating systems does Opsworks work with?
+* What version of ruby is used with Opsworks?
 
 
 
 
 Picks<a name="picks"></a>
 -----
+#### Jonathan
+
+#### Brandon
 
 #### Bryan  
 
 #### lusis  
 
-#### Nathen  
+#### Matt
 
+#### Mike
+
+#### Nathen  
 
 
 CLOSE
