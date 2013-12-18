@@ -41,6 +41,9 @@ Picks<a name="picks"></a>
 
 #### Brandon
 
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+* [all aboard the OmniBus!](http://sysadvent.blogspot.com/2013/12/day-16-omnibusing-your-way-to-happiness.html)
+
 #### Bryan  
 
 #### lusis  
