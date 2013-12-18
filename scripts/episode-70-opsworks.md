@@ -3,13 +3,13 @@ Show Date:  [Wednesday, December 18, 2013 at 20:00 UTC](http://www.timeanddate.c
 Confirmed Panel<a name="panel"></a>
 ---------------
 
+* Jonathan Weiss [github](https://github.com/jweiss), [twitter](https://twitter.com/jweiss)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Tom Duffield [github](http://github.com/tduffield), [twitter](http://twitter.com/tomduffield), [blog](http://tomduffield.com)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel<a name="panel"></a>
 ------------
-* Jonathan Weiss
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
