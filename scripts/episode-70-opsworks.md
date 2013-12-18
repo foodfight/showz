@@ -24,9 +24,13 @@ Outline/Questions
 * Who's using Opsworks?
 * What are some of the major differences between Opsworks and Chef?
 * What operating systems does Opsworks work with?
-* What version of ruby is used with Opsworks?
-
-
+* What versions of Chef are used?
+* How does OpsWorks manage configuration drift?
+  * Scenario:  something is set-up during the setup stage (mysql client), admin logs into the box and changes the mysql client configuration by hand.  How does the server get back to the desired state?
+* Command line access to the various stages of the lifecycle?  For example can I kick off a deploy without using the web browser?
+* Can I use cookbooks from the community site?
+* Can I mix my own cookbooks and your cookbooks?
+* What does the migration path look like?  From Chef-to-OpsWorks?  From OpsWorks-to-Chef Server?
 
 
 Picks<a name="picks"></a>
