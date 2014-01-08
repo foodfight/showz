@@ -1,44 +1,48 @@
-Show Date:  Tuesday, 11 July 2012 17:00 Rome, 11:00 EDT
+Show Date:  Monday, 6 January 2014
 
 Panel<a name="panel"></a>
 -----
 
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis    )
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+[Youtube Video](http://www.youtube.com/embed/iDcpSbAvyHw)
 
-Outline / Questions
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis    )
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Ranjib Dey
+
+Links
 -------------------
+
+* [ZooKeeper](http://zookeeper.apache.org)
+* [Etcd](https://github.com/coreos/etcd)
+* [Kelsey Hightower's SysAdvent post on etcd](http://sysadvent.blogspot.it/2013/12/day-20-distributed-configuration-data.html)
+
 
 Picks<a name="picks"></a>
 -----
 
 
-  lusis
-  http://www.gocontigo.com/mugs/16-oz-autoseal-west-loop-stainless-travel-mug.html
-  http://influxdb.org/
-  my blog post
+#### Lusis
   
-  mike
-  https://www.bountysource.com/
-  http://codetriage.com
-
-  ranjib:
-  criu from openvz
-  ruby-lxc native binding to lxc
-  https://github.com/ctdk/goiardi
+* [autoseal travel mug](http://www.gocontigo.com/mugs/16-oz-autoseal-west-loop-stainless-travel-mug.html)
+* [influxdb](http://influxdb.org/)
+* [Why I'm learning Java](devopsanywhere.blogspot.com/2013/11/why-im-learning-java.html) Bryan's blog post post on why he is learning a relatively boring programming language
   
-  bryan:
-  gh 
+#### Mike
 
-#### Bryan  
+* [Bounty Source](https://www.bountysource.com/)
+* [CodeTriage](http://codetriage.com)
 
-#### Matt  
+#### Ranjib
+  
+* [Check Point Restore in Userspace](http://criu.org)
+* [ruby-lxc](https://github.com/sosedoff/lxc-ruby) native binding to lxc for Ruby
+* [Chef Server written in Go](https://github.com/ctdk/goiardi)
+  
+#### Bryan
 
-#### lusis  
+* [gh](https://github.com/jingweno/gh), command-line tool for interacting github
 
-#### Nathen  
 
 Download
---------
+\--------
