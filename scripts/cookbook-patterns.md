@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  [Wednesday, April 30, 2014 at 15:30:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Cookbook+Patterns&iso=20140430T1130&p1=419&ah=1)
 
 Panel<a name="panel"></a>
 -----
