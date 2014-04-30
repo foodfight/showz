@@ -30,7 +30,9 @@ Picks<a name="picks"></a>
 * [Orphan Black](http://www.bbcamerica.com/orphan-black/)
 * [Emergency Awesome](https://www.youtube.com/user/emergencyawesome)
 
-
+#### Brandon
+* [Changing Some Code? Instrument It!](http://blog.travis-ci.com/2014-04-28-changing-some-code-instrument-it/)
+* [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=XiXZOF6dZuE&feature=youtu.be)
 
 CLOSE
 -----
