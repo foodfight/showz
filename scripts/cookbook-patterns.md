@@ -28,6 +28,7 @@ Picks<a name="picks"></a>
 
 #### Tom
 * [Orphan Black](http://www.bbcamerica.com/orphan-black/)
+* [Emergency Awesome](https://www.youtube.com/user/emergencyawesome)
 
 
 
