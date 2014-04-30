@@ -31,6 +31,7 @@ Picks<a name="picks"></a>
 * [Emergency Awesome](https://www.youtube.com/user/emergencyawesome)
 
 #### Brandon
+* [Seedlings Show](http://seedlingsshow.com/)
 * [Changing Some Code? Instrument It!](http://blog.travis-ci.com/2014-04-28-changing-some-code-instrument-it/)
 * [Jepsen II: Linearizable Boogaloo](https://www.youtube.com/watch?v=XiXZOF6dZuE&feature=youtu.be)
 
