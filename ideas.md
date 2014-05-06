@@ -23,3 +23,4 @@ Show Ideas
 * Customizing Chef for Fun & Profit
 * Attribute validation
 * User stories from large and small companies
+* Chatops and hubot leveraging chef
