@@ -27,3 +27,4 @@ Show Ideas
 * What's new in the linux kernel? Catching up with Greg Kroah-Hartman
 * Welcoming our PID Zero overlord: What do Ops ppl need to know about systemd and how will it affect Chef users?
 * How do you orchestrate? Chef doesn't handle orchestration of a stack so how do you do it? Cloud Formation? Chef-metal? scripts around knife-{ec2,openstack,vmware}?
+* Chef on Windows with real use cases: IIS servers, Windows Services, Deploying SSL certificates. 
