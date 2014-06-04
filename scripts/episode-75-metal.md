@@ -4,6 +4,7 @@ Confirmed Panel<a name="panel"></a>
 -----
 * John Keiser [github](https://github.com/jkeiser), [twitter](https://twitter.com/jkeiser2)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Dafydd Crosby [github](https://github.com/dafyddcrosby), [twitter](https://twitter.com/dafyddcrosby), [blog](http://dafyddcrosby.com)
 
 
 Invited Panel<a name="panel"></a>
@@ -14,7 +15,6 @@ Invited Panel<a name="panel"></a>
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-* Dafydd Crosby [github](https://github.com/dafyddcrosby), [twitter](https://twitter.com/dafyddcrosby)
 * Steffen Gebert [github](https://github.com/StephenKing)
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
 
