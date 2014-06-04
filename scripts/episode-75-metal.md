@@ -3,14 +3,14 @@ Show Date:  [Friday, June 6, 2014 at 20:00 UTC](http://www.timeanddate.com/world
 Confirmed Panel<a name="panel"></a>
 -----
 * John Keiser [github](https://github.com/jkeiser), [twitter](https://twitter.com/jkeiser2)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Dafydd Crosby [github](https://github.com/dafyddcrosby), [twitter](https://twitter.com/dafyddcrosby), [blog](http://dafyddcrosby.com)
+* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
 Invited Panel<a name="panel"></a>
 -----
 
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
