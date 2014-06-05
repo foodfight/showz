@@ -6,7 +6,7 @@ Confirmed Panel<a name="panel"></a>
 * Dafydd Crosby [github](https://github.com/dafyddcrosby), [twitter](https://twitter.com/dafyddcrosby), [blog](http://dafyddcrosby.com)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-
+* Scott Smith [github](https://github.com/ohlol), [twitter](https://twitter.com/ohlol), irc: ohlol
 
 Invited Panel<a name="panel"></a>
 -----
