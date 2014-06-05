@@ -16,6 +16,7 @@ Invited Panel<a name="panel"></a>
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Ranjib Dey [github](https://github.com/ranjib), [twitter](https://twitter.com/ranjibdey), [blog](http://ranjib.posterous.com/)
+* Matt Wrock [github](https://github.com/mwrock), [twitter](https://twitter.com/mwrockx), [blog](http://www.mattwrock.com/)
 
 Outline/Questions
 -----------------
