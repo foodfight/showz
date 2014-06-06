@@ -31,7 +31,9 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
-
+#### Brandon (solarce)
+* [The Riftwar Saga by Feist](http://en.wikipedia.org/wiki/The_Riftwar_Cycle)
+* [Rebuilding a Bird in Flight talk from RICON 2012](http://vimeo.com/55503728)
 
 CLOSE
 -----
