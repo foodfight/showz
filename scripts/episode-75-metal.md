@@ -7,6 +7,7 @@ Confirmed Panel<a name="panel"></a>
 * Matt Wrock [github](https://github.com/mwrock), [twitter](https://twitter.com/mwrockx), [blog](http://www.mattwrock.com/)
 * Scott Smith [github](https://github.com/ohlol), [twitter](https://twitter.com/ohlol), irc: ohlol
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Matt Ray [github](http://github.com/mattray), [twitter](https://twitter.com/mattray), irc: mattray
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel<a name="panel"></a>
