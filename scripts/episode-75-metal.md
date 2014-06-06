@@ -35,6 +35,13 @@ Picks<a name="picks"></a>
 * [The Riftwar Saga by Feist](http://en.wikipedia.org/wiki/The_Riftwar_Cycle)
 * [Rebuilding a Bird in Flight talk from RICON 2012](http://vimeo.com/55503728)
 
+#### Matt Ray
+* http://vimeo.com/95284690 Pete Cheslock
+* http://vimeo.com/95066828 James Mickens
+* http://softwaredefinedtalk.com (@softwaredeftalk) Podcast with Michael Cote' (@cote) & Brandon Whichard (@bwhichard)
+* http://www.meetup.com/EmacsATX/ Emacs Lunch Austin
+
+
 CLOSE
 -----
 
