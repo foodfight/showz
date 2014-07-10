@@ -30,6 +30,7 @@ Picks<a name="picks"></a>
 #### Brett
 
 * http://howistart.org
+* http://burlingtonrubyconference.com
 
 
 CLOSE
