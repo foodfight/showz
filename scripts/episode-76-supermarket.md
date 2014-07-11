@@ -12,6 +12,7 @@ Invited Panel<a name="panel"></a>
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
+* Brett Chalupa [github](https://github.com/brettchalupa), [twitter](https://twitter.com/brettchalupa), [blog](http://brettchalupa.com)
 
 
 Outline/Questions
@@ -26,6 +27,10 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### Brett
+
+* http://howistart.org
+* http://burlingtonrubyconference.com
 
 
 CLOSE
