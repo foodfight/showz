@@ -8,7 +8,7 @@ Confirmend Panel<a name="panel"></a>
 Invited Panel<a name="panel"></a>
 -----
 * JJ Ashgar
-* Salim Afiune
+* Salim Afiune [github](http://github.com/afiune), [twitter](https://twitter.com/afiune)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
