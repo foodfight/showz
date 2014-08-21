@@ -8,6 +8,7 @@ Confirmend Panel<a name="panel"></a>
 * Salim Afiune [github](http://github.com/afiune), [twitter](https://twitter.com/afiune)
 * Joshua Timberman [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Scott Pustay [github](https://github.com/muskox), [twitter](https://twitter.com/spustay), [blog](http://scottpustay.com/)
 
 Invited Panel<a name="panel"></a>
 -----
