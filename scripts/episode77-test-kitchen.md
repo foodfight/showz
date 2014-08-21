@@ -78,6 +78,7 @@ There are also a number of classes being offerred online:
 * Does Test Kitchen help run pre-convergance tests like linting an unit testing?
 * Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.
 * What does the future hold for Test Kitchen?
+* Test Kitchen & Windows Guest? Uhmmm is that possible?
 
 Picks<a name="picks"></a>
 -----
