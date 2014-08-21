@@ -76,6 +76,7 @@ There are also a number of classes being offerred online:
 * How are the [Chef Development Kit](http://downloads.getchef.com/chef-dk/) and Test Kitchen related?
 * Does Test Kitchen help run pre-convergance tests like linting an unit testing?
 * What does the future hold for Test Kitchen?
+* Test Kitchen & Windows Guest? Uhmmm is that possible?
 
 Picks<a name="picks"></a>
 -----
