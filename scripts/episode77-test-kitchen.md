@@ -5,14 +5,16 @@ Confirmend Panel<a name="panel"></a>
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* JJ Ashgar [github](https://github.com/jjasghar), [twitter](http://twitter.com/jjasghar), [blog](http://jjasghar.github.io), irc: j^2
 
 Invited Panel<a name="panel"></a>
 -----
-* JJ Ashgar
+
 * Salim Afiune
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Joshua Timberman [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 
 Outline/Questions
 -----------------
@@ -70,11 +72,12 @@ There are also a number of classes being offerred online:
     * provisioner
     * platforms
     * suites
-    * bussers
+    * bussers; and the magic behind them
 * [KitchenCI Repositories on GitHub](https://github.com/test-kitchen)
 * How are [Berkshelf](http://berkshelf.com/) and Test Kitchen related?
 * How are the [Chef Development Kit](http://downloads.getchef.com/chef-dk/) and Test Kitchen related?
 * Does Test Kitchen help run pre-convergance tests like linting an unit testing?
+* Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.
 * What does the future hold for Test Kitchen?
 
 Picks<a name="picks"></a>
@@ -83,6 +86,9 @@ Picks<a name="picks"></a>
 #### Fletcher  
 
 #### Nathen  
+
+#### JJ
+The Game of Thrones board game and Cold Brew Coffee.
 
 
 
