@@ -9,6 +9,7 @@ Confirmend Panel<a name="panel"></a>
 * Joshua Timberman [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Scott Pustay [github](https://github.com/muskox), [twitter](https://twitter.com/spustay), [blog](http://scottpustay.com/)
+* Jonathan Hartman [github](http://github.com/roboticcheese), [twitter](http://twitter.com/roboticcheese), irc: roboticcheese
 
 Invited Panel<a name="panel"></a>
 -----
@@ -94,6 +95,10 @@ Picks<a name="picks"></a>
 #### JJ
 The Game of Thrones board game and Cold Brew Coffee.
 
+#### Jonathan
+* [The Wirecutter](http://thewirecutter.com)
+* [CircleCI](https://circleci.com)
+* [Tom Duffield's Chef-Container Talk](https://www.youtube.com/watch?v=S_-U949pcUA)
 
 
 CLOSE
