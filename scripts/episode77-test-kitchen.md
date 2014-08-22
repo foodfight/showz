@@ -79,6 +79,7 @@ There are also a number of classes being offerred online:
 * How are the [Chef Development Kit](http://downloads.getchef.com/chef-dk/) and Test Kitchen related?
 * Does Test Kitchen help run pre-convergance tests like linting an unit testing?
 * Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.
+* Does TK have any support for evaluating idempotence and/or run performance?
 * What does the future hold for Test Kitchen?
 * Test Kitchen & Windows Guest? Uhmmm is that possible?
 * How do bussers work? Are they run from the host machine or on the machine under test?
