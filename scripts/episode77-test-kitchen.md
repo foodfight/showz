@@ -82,6 +82,7 @@ There are also a number of classes being offerred online:
 * Interesting use cases for test-kitchen. Leveraging drivers to do development in the cloud when local machine restrictions won't allow for vagrant/vmware.
 * How to test (encrypted) databags / secrets with test-kitchen? Best practices?
 * How to automate testing Travis-CI: Steps to integrate testing via AWS / DO
+* Does TK have any support for evaluating idempotence and/or run performance?
 * What does the future hold for Test Kitchen?
 * Test Kitchen & Windows Guest? Uhmmm is that possible?
 * How do bussers work? Are they run from the host machine or on the machine under test?
