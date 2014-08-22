@@ -95,6 +95,9 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### Salim 
+[Moonwalking with Einstein](http://joshuafoer.com/moonwalking-with-einstein/)
+
 #### JJ
 The Game of Thrones board game and Cold Brew Coffee.
 
