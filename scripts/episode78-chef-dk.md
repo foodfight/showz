@@ -64,6 +64,7 @@ Outline/Questions
   * should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?
   * Is ChefDK ready for me to start using today?  What edges am I likely to find?
   * Should I consider migrating my knife plugin to a chef plugin?
+  * When can I recommend ChefDK to Windows engineers?
 
 
 Picks<a name="picks"></a>
