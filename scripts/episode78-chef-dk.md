@@ -3,7 +3,6 @@ Show Date:  [Thursday, August 28 at 1630 UTC](http://www.timeanddate.com/worldcl
 Confirmed Panel<a name="panel"></a>
 -----
 
-* Brandon Burton - [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Daniel DeLeo - [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
 * John Deatherage - [github](https://github.com/RouteLastResort), [twitter](https://twitter.com/RouteLastResort)
 * Serdar Sutay - [github](https://github.com/sersut), [twitter](https://twitter.com/serdarsutay)
@@ -18,6 +17,7 @@ Invited Panel<a name="panel"></a>
 
 * Joshua Timberman - [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 * Lamont Granquist - [github](https://github.com/lamont-granquist), [twitter](https://twitter.com/LamontGranquist)
+* Brandon Burton - [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 
 * Bryan Berry - [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis - [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
@@ -65,7 +65,7 @@ Outline/Questions
   * Is ChefDK ready for me to start using today?  What edges am I likely to find?
   * Should I consider migrating my knife plugin to a chef plugin?
   * When can I recommend ChefDK to Windows engineers?
-
+  * Is there any way to configure ChefDK, like [generator cookbook path](https://github.com/opscode/chef-dk/blob/02fd3ff8715da5583907e135187ff9d52efab2f6/lib/chef-dk/command/generator_commands.rb#L36-L61)
 
 Picks<a name="picks"></a>
 -----
