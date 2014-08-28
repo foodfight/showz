@@ -28,7 +28,7 @@ Outline/Questions
 -----------------
 
 * Intro to ChefDK
-  * The [Chef Development Kit (ChefDK)](http://downloads.getchef.com/ChefDK/)
+  * The [Chef Development Kit (ChefDK)](http://downloads.getchef.com/chef-dk)
   * What's in the box?
     * [Berkshelf 3.0](http://berkshelf.com/)
     * [Test Kitchen](http://kitchen.ci/)
@@ -66,6 +66,9 @@ Outline/Questions
   * Should I consider migrating my knife plugin to a chef plugin?
   * When can I recommend ChefDK to Windows engineers?
   * Is there any way to configure ChefDK, like [generator cookbook path](https://github.com/opscode/chef-dk/blob/02fd3ff8715da5583907e135187ff9d52efab2f6/lib/chef-dk/command/generator_commands.rb#L36-L61)
+  * Are there plans for how often a new release will be cut? How much lead time should one expect between, say, a new Berkshelf release with a critical fix and its inclusion in a new ChefDK?
+  * I just joined, so I might have missed it, but: What are everyone's thoughts on (and warnings about) using chefdk as primary ruby? Including people who use mostly chef, people who also deal with other ruby apps.
+  * Are the smoke tests executed on all platforms?
 
 Picks<a name="picks"></a>
 -----
