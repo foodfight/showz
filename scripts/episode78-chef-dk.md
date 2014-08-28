@@ -3,7 +3,9 @@ Show Date:  [Thursday, August 28 at 1630 UTC](http://www.timeanddate.com/worldcl
 Confirmed Panel<a name="panel"></a>
 -----
 
+* Brandon Burton - [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Daniel DeLeo - [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
+* John Deatherage - [github](https://github.com/RouteLastResort), [twitter](https://twitter.com/RouteLastResort)
 * Serdar Sutay - [github](https://github.com/sersut), [twitter](https://twitter.com/serdarsutay)
 * Nathen Harvey - [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -11,14 +13,12 @@ Invited Panel<a name="panel"></a>
 -----
 
 * Tara Hernandez - [twitter](https://twitter.com/tequilarista)
-* John Deatherage - [github](https://github.com/RouteLastResort), [twitter](https://twitter.com/RouteLastResort)
 * Jonathan Hartman [github](http://github.com/roboticcheese), [twitter](http://twitter.com/roboticcheese), irc: roboticcheese
 * Jason Reslock - [github](https://github.com/jreslock), [twitter](https://twitter.com/jreslock)
 
 * Joshua Timberman - [github](https://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org)
 * Lamont Granquist - [github](https://github.com/lamont-granquist), [twitter](https://twitter.com/LamontGranquist)
 
-* Brandon Burton - [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry - [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * John Vincent, aka Lusis - [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler - [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
@@ -76,7 +76,7 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
-
+* \#feedsteven - What are your favorite Food Fight Show episodes?
 
 CLOSE
 -----
