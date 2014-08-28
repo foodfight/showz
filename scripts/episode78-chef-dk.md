@@ -77,6 +77,12 @@ Picks<a name="picks"></a>
 
 #### Serdar  
 
+#### Mike
+
+- http://fnichol.github.io/dvm/
+- https://github.com/portertech/kitchen-docker
+- http://www.arresteddevops.com/
+
 #### Nathen  
 
 * \#feedsteven - What are your favorite Food Fight Show episodes?
