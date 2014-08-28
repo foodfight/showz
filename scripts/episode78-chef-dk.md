@@ -64,6 +64,7 @@ Outline/Questions
   * should the CI server use ChefDK or should the cookbook's Gemfile specify the version of testing tools?
   * Is ChefDK ready for me to start using today?  What edges am I likely to find?
   * Should I consider migrating my knife plugin to a chef plugin?
+  * Is there any way to configure ChefDK, like [generator cookbook path](https://github.com/opscode/chef-dk/blob/02fd3ff8715da5583907e135187ff9d52efab2f6/lib/chef-dk/command/generator_commands.rb#L36-L61)
 
 
 Picks<a name="picks"></a>
