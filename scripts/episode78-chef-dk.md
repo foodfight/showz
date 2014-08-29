@@ -69,6 +69,7 @@ Outline/Questions
   * Are there plans for how often a new release will be cut? How much lead time should one expect between, say, a new Berkshelf release with a critical fix and its inclusion in a new ChefDK?
   * I just joined, so I might have missed it, but: What are everyone's thoughts on (and warnings about) using chefdk as primary ruby? Including people who use mostly chef, people who also deal with other ruby apps.
   * Are the smoke tests executed on all platforms?
+  * More a general Omnibus package question, but any thoughts how to programatically find the most recent version of the packages? It looked like my only options were to scrape the links off the download pages or hardcode '0.2.0-2' in things.
 
 Picks<a name="picks"></a>
 -----
