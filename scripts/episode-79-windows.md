@@ -5,6 +5,7 @@ Panel<a name="panel"></a>
 -----
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry
+* Stephen Nelson-Smith [twitter](http://twitter.com/lordcope), irc: cope, [blog](http://agilesysadmin.net)
 
 Outline/Questions
 -----------------
@@ -12,6 +13,7 @@ Outline/Questions
 ## windows automation basics every chef user should know
 
 * package mgt w/ chocolatey
+* Oneget package management
 * key windows-specific resources u should know about, registry_key, env, 
 * best practice
 * protips for how to use windows package
@@ -20,18 +22,22 @@ Outline/Questions
 * troubleshooting powershell_script resources
 * how to edit files? notepad is horrible
 * wtf is winrm?
+* Console applications
 
 ## Key windows gotchas
 
 * Using / or \\ in strings for path delimiter
 * Some Ruby libs can't handle '\' as delimiters, such as Dir['']
 * How to deal w/ spaces and special chars in path names
+* Ruby 2.x woes
+* ETA on Test-Kitchen integration
 
 ## Windows automation for angry Neckbeards
 
 * where is my ps -ef | grep ? how do i tail a file?
 * Using GNUWIN32 utilities on windows, a bad idea? Bryan: `ls` can't read unicode files on win2k12
 * is it a bad idea to install ssh on windows?
+* Powershell 101?
 
 ## Advanced stuff
 
@@ -39,6 +45,7 @@ Outline/Questions
 * possible to do ad hoc windows tasks w/ pushy?
 * If I absolutely, positively have to use windows batch for a scripting task, are there certain things I should know?
 * How do i build windows amis for EC2?
+* WSUS / Group Policy cookbooks?
 
 Picks<a name="picks"></a>
 -----
