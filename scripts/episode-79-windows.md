@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  Thursday, October 9th
 Show Title: Windows Automation for Angry Neckbeards
 
 Panel<a name="panel"></a>
@@ -6,6 +6,8 @@ Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Bryan Berry
 * Stephen Nelson-Smith [twitter](http://twitter.com/lordcope), irc: cope, [blog](http://agilesysadmin.net)
+* Matt Stratton
+* Stephen Murawski
 
 Outline/Questions
 -----------------
@@ -46,6 +48,7 @@ Outline/Questions
 * If I absolutely, positively have to use windows batch for a scripting task, are there certain things I should know?
 * How do i build windows amis for EC2?
 * WSUS / Group Policy cookbooks?
+* Is it possible to spin up Windows desktop instances in the cloud? If so which providers?
 
 Picks<a name="picks"></a>
 -----
