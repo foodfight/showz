@@ -37,7 +37,7 @@ Outline/Questions
 ## Windows automation for angry Neckbeards
 
 * where is my ps -ef | grep ? how do i tail a file?
-* Using GNUWIN32 utilities on windows, a bad idea? Bryan: `ls` can't read unicode files on win2k12
+* Using GNUWIN32 utilities on windows, a bad idea? Bryan: `cat` can't read unicode files on win2k12, `ls` has bizarre issues
 * is it a bad idea to install ssh on windows?
 * Powershell 101?
 
