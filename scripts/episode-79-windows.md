@@ -40,6 +40,7 @@ Outline/Questions
 * Using GNUWIN32 utilities on windows, a bad idea? Bryan: `cat` can't read unicode files on win2k12, `ls` has bizarre issues
 * is it a bad idea to install ssh on windows?
 * Powershell 101?
+* How do I get a shell to a windows vm from a linux or mac os x terminal?
 
 ## Advanced stuff
 
