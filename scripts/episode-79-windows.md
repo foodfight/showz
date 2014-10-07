@@ -1,4 +1,4 @@
-# Windows Automation for Angry Neckbeards
+# Windows Automation for Frustrated Sysadmins
 
 Show Date:  [Thursday, October 9, 2014 at 11:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&iso=20141009T07&p1=419&ah=1).
 
