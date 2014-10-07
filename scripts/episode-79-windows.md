@@ -1,13 +1,14 @@
-Show Date:  Thursday, October 9th
-Show Title: Windows Automation for Angry Neckbeards
+# Windows Automation for Angry Neckbeards
+
+Show Date:  [Thursday, October 9, 2014 at 11:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Windows+Automation+for+Angry+Neckbeards&iso=20141009T07&p1=419&ah=1).
 
 Panel<a name="panel"></a>
 -----
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-* Bryan Berry
+* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Stephen Nelson-Smith [twitter](http://twitter.com/lordcope), irc: cope, [blog](http://agilesysadmin.net)
-* Matt Stratton
-* Stephen Murawski
+* Matt Stratton [github](https://github.com/mattstratton), [twitter](https://twitter.com/mattstratton)
+* Steven Murawski [github](https://github.com/smurawski), [twitter](https://twitter.com/stevenmurawski), [blog](http://stevenmurawski.com/)
 
 Outline/Questions
 -----------------
@@ -16,7 +17,7 @@ Outline/Questions
 
 * package mgt w/ chocolatey
 * Oneget package management
-* key windows-specific resources u should know about, registry_key, env, 
+* key windows-specific resources u should know about, registry_key, env,
 * best practice
 * protips for how to use windows package
 * detecting which registry keys are changed by a particular action or install
