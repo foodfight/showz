@@ -26,6 +26,8 @@ Outline/Questions
 * how to edit files? notepad is horrible
 * wtf is winrm?
 * Console applications
+* should u run the chef-client under the Administrator account or SYSTEM?
+* what is the equivalent of strace
 
 ## Key windows gotchas
 
@@ -34,6 +36,7 @@ Outline/Questions
 * How to deal w/ spaces and special chars in path names
 * Ruby 2.x woes
 * ETA on Test-Kitchen integration
+* ls, cat aliases to gc, get-childitem
 
 ## Windows automation for angry Neckbeards
 
