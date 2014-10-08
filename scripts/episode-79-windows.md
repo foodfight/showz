@@ -60,6 +60,10 @@ Picks<a name="picks"></a>
 
 #### Bryan
 
+* [Sinica podcast](http://popupchinese.com/lessons/sinica)
+* [China History Podcast](http://chinahistorypodcast.com/)
+* [Dependency Walker](http://www.dependencywalker.com/)
+
 #### Nathen  
 
 
