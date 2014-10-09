@@ -66,6 +66,11 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### Stephen
+
+* [The Inner Game](http://theinnergame.com/)
+* [The Unfettered Mind](http://terebess.hu/zen/UnfetteredMind.pdf)
+* [Shinken](http://www.shinken-monitoring.org/)
 
 CLOSE
 -----
