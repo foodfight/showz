@@ -13,35 +13,37 @@ Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
-* How do i figure out how parameterize an msi install?
-* key windows-specific resources u should know about, registry_key, env,
-* creating and managing windows services
-  * what is a windows service?
-  * tools automating creation of services?
+* How do I figure out how parameterize an MSI install?
+* Key windows-specific resources you should know about: registry_key, env
+* Creating and managing Windows services
+  * What is a windows service?
+  * Tools, automating creation of services?
   * nssm.cc, procrun
-  * how does a service resource relate to windows services?
-  * explain "Get-Service", "Start-Service", "Stop-Service"
-* If run chef under the SYSTEM user and sometimes i can weird errors that i can't reproduce while logged in
+  * How does a service resource relate to Windows services?
+  * Explaining "Get-Service", "Start-Service", "Stop-Service"
+* If run chef under the SYSTEM user and sometimes I get weird errors that I can't reproduce while logged in
   ANSWER: ```psexec -s some_command.exe```
-* what is the pstools suite? which commands are of particular interest: A: All of them
-* servercore - can i run powershell ISE or another editor w/ serer core? otherwise how do i edit files?
-* any gotchas about servercore?
-* How do i build windows amis for EC2?
-  * put code to generate SSL certificate in userdata
-  * connect to instance over winrm
-  * packer is your friend
+* What is the pstools suite? Which commands are of particular interest: 
+  ANSWER: All of them.
+* Servercore - Can I run Powershell ISE or another editor with server core? Otherwise, how do I edit files?
+* Servercore gotchas
+* Building windows amis for EC2
+  * Put code to generate SSL certificate in userdata
+  * Connect to instance over winrm
+  * Packer is your friend
 * There is a good example in the (Ansible codebase)[https://github.com/ansible/ansible/blob/devel/examples/scripts/ConfigureRemotingForAnsible.ps1], example from knife bootstrap?
-* Using GNUWIN32 utilities on windows, a bad idea? YES Bryan: `less` can't read unicode files on win2k12, `ls` has bizarre issues
+* Is using GNUWIN32 utilities on windows, a bad idea? 
+  YES Bryan: `less` can't read unicode files on win2k12, `ls` has bizarre issues
 * remote-file editing w/ ISE coming
-* protips for how to use windows package
-* licensing issues w/ many open-source windows projects, either absent or vague "This sw is in the public domain"
-* powershell basics - do both stdout and stderr return objects? There are actually 7, count 'em 7 streams
-* where is my ps -ef | grep ? how do i tail a file?
+* Pro tips for how to use windows package
+* Licensing issues with many open-source windows projects, either absent or vague "This sw is in the public domain"
+* Powershell basics: Do both stdout and stderr return objects? 
+  There are actually 7, count 'em 7 streams
+* Where is my ps -ef | grep? How do I tail a file?
 * Why do cmdlets return False instead of an exit code?
 * Is it possible to spin up Windows desktop instances in the cloud? If so which providers?
-* how to get install log for failed install
-* what is the equivalent of strace in windows? 
- 
+* How to get install log for failed install
+* What is the equivalent of (strace)[http://en.wikipedia.org/wiki/Strace] in Windows? 
 
 
 CLOSE
