@@ -1,4 +1,4 @@
-Show Date:  [Wednesday, October 29, 2014 at 11:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Consul+Template&iso=20141029T07&p1=419&ah=1)
+Show Date:  [Wednesday, October 29, 2014 at 12:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Consul+Template&iso=20141029T08&p1=419&ah=1)
 
 Panel<a name="panel"></a>
 -----
