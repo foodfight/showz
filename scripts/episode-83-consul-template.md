@@ -4,9 +4,10 @@ Panel<a name="panel"></a>
 -----
 
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Dan Phrawzty [github](https://github.com/phrawzty), [twitter](https://twitter.com/phrawzty), irc: phrawzty, [blog](https://www.dark.ca/)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -19,12 +20,19 @@ Outline/Questions
 Picks<a name="picks"></a>
 -----
 
-#### Bryan  
+#### Brandon
 
-#### lusis  
+#### Bryan
 
-#### Nathen  
+#### Dan
 
+#### Matt
+
+#### Mike
+
+#### Nathen
+
+#### lusis
 
 
 CLOSE
