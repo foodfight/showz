@@ -4,10 +4,8 @@ Panel<a name="panel"></a>
 -----
 
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
-* Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
+* Dan Phrawzty [github](https://github.com/phrawzty), [twitter](https://twitter.com/phrawzty), irc: phrawzty, [blog](https://www.dark.ca/)
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 * Seth Vargo [github](https://github.com/sethvargo), [twitter](https:/twitter.com/sethvargo), irc: sethvargo, [blog](https://sethvargo.com)
 
@@ -20,15 +18,16 @@ Outline/Questions
 Picks<a name="picks"></a>
 -----
 
-#### Bryan  
-
 #### lusis  
 
 - [Model View Culture: Q&A: Making Tech Events Accessible to the Deaf Community](https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community)
 - [Model View Culture: Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)
 - [Betraying The Martyrs - Let It Go (Official Music Video) \m/](https://www.youtube.com/watch?v=HtkGluLhnGU)
 
-#### Nathen  
+#### Nathen
+- Not hotel wifi
+
+#### Dan
 
 #### Seth
 - Consul Template, [announcement](https://www.hashicorp.com/blog/introducing-consul-template.html), [github](https://github.com/hashicorp/consul-template)
