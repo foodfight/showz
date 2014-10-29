@@ -9,6 +9,7 @@ Panel<a name="panel"></a>
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Seth Vargo [github](https://github.com/sethvargo), [twitter](https:/twitter.com/sethvargo), irc: sethvargo, [blog](https://sethvargo.com)
 
 
 Outline/Questions
@@ -25,6 +26,10 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### Seth
+- Consul Template, [announcement](https://www.hashicorp.com/blog/introducing-consul-template.html), [github](https://github.com/hashicorp/consul-template)
+- [CPOSC](http://cposc.org), especially [Charlie Reisinger](https://twitter.com/charlie3)'s [DevOps is Cool for Schools](http://lanyrd.com/2014/cposc/sdfpwm/)
+- [Write in Go](https://www.youtube.com/watch?v=LJvEIjRBSDA) (song/video)
 
 
 CLOSE
