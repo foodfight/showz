@@ -31,6 +31,10 @@ Picks<a name="picks"></a>
 - [CPOSC](http://cposc.org), especially [Charlie Reisinger](https://twitter.com/charlie3)'s [DevOps is Cool for Schools](http://lanyrd.com/2014/cposc/sdfpwm/)
 - [Write in Go](https://www.youtube.com/watch?v=LJvEIjRBSDA) (song/video)
 
+#### Brandon
+- [Game Day Exercises at Stripe: 
+Learning from `kill -9`](https://stripe.com/blog/game-day-exercises-at-stripe) by [Marc Hedlund](https://twitter.com/marcprecipice)
+- [OS X 10.10 Yosemite: The Ars Technica Review](http://arstechnica.com/apple/2014/10/os-x-10-10/) by [John Siracusa ](https://twitter.com/Siracusa)
 
 CLOSE
 -----
