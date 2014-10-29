@@ -24,6 +24,10 @@ Picks<a name="picks"></a>
 
 #### lusis  
 
+- [Model View Culture: Q&A: Making Tech Events Accessible to the Deaf Community](https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community)
+- [Model View Culture: Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)
+- [Betraying The Martyrs - Let It Go (Official Music Video) \m/](https://www.youtube.com/watch?v=HtkGluLhnGU)
+
 #### Nathen  
 
 #### Seth
