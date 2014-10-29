@@ -28,6 +28,7 @@ Picks<a name="picks"></a>
 - Not hotel wifi
 
 #### Dan
+- A challenge to everyone involved in organising tech events: how can we leverage our many social gatherings for the greater social good?  For example, consider the [1:1:1 model](http://www.salesforcefoundation.org/about-us/sharethemodel/) in the context of tech events, or even something as simple as donating some of the profits to charity (perhaps to [build a well](http://mindweather.com/2014/09/18/how-devopsdays-nyc-built-a-well-for-a-village-in-cambodia-a-devopswater-update/)).
 
 #### Seth
 - Consul Template, [announcement](https://www.hashicorp.com/blog/introducing-consul-template.html), [github](https://github.com/hashicorp/consul-template)
