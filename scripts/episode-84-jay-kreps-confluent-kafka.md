@@ -4,6 +4,7 @@ Panel<a name="panel"></a>
 -----
 
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
+* Jay Kreps [twitter](https://twitter.com/jaykreps)
 
 Outline / Questions
 -------------------
