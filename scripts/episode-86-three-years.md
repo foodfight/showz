@@ -1,4 +1,4 @@
-Show Date:  
+Show Date:  [Friday, January 16, 2015 at 15:00:00](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+3+Year+Retrospective&iso=20150116T10&p1=1928&ah=1)
 
 Confirmed Panel<a name="panel"></a>
 -----
