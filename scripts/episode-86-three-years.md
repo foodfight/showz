@@ -44,6 +44,12 @@ Picks<a name="picks"></a>
 
 #### Bryan  
 
+* [click](http://click.pocoo.org/3/)
+* [airline](https://github.com/airlift/airline)
+* [Java 8 tutorial](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
+* [Nathen Harvey](http://nathenharvey.com) because he's awesome
+
+
 #### lusis  
 
 #### Nathen  
