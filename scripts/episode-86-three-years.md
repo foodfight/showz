@@ -31,6 +31,7 @@ Outline/Questions
   * lusis hasn't solved all our problems
   * Chef hasn't been as aggressive in automating non-vm infrastructure, at least not as much as tools like ansible, i.e. managing vpcs, dns
 * big surprises:
+  * (Non)Success of Openstack!
   * rise of hashicorp stack (Bryan)
   * ruby vm is actually improving steadily (Bryan)
   * the management trend of "No Managers" seems to have crashed and burned (or at least I hope it has) (Bryan)
