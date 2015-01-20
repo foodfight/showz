@@ -50,6 +50,8 @@ Picks<a name="picks"></a>
 
 #### Brandon  
 
+- [Jon Lives on Remote Working](http://blog.jonliv.es/remote-working-3-year-retrospective/)
+
 #### Matt  
 
 #### Mike  
