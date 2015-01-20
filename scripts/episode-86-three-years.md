@@ -21,6 +21,8 @@ Outline/Questions
   * bryan
     - adrianco
     - gregkh
+  * solarce
+    - [testing in practice](http://foodfightshow.org/2013/05/testing-in-practice.html)
 * what has gotten better in devops world in last 3 years
   * less friction b/w puppet & chef communities
 * airing of grievances - what still sucks and could be a lot better?
