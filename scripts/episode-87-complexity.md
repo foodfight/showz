@@ -1,7 +1,8 @@
-Show Date:  TBD, see this [doodle poll](http://doodle.com/m636cvi4583f4zbp)
+Show Date:  [Thursday, January 29, 2015 at 17:00:00 UTC](http://www.timeanddate.com/worldclock/fixedtime.html?msg=Food+Fight+Show+-+Complexity+Theory+%26+Cynefin&iso=20150129T12&p1=1928&ah=1)
 
 Confirmed Panel<a name="panel"></a>
 -----
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
@@ -13,11 +14,8 @@ Invited Panel
 * Courtney Nash [twitter](https://twitter.com/courtneynash), [github](https://github.com/courtneynash)
 * John Willis [twitter](https://twitter.com/botchagalupe), [github](https://github.com/botchagalupe)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 
 Outline/Questions
