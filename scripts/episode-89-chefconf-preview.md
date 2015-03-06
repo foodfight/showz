@@ -2,7 +2,7 @@ Show Date:  [Friday, March 6, 2015 at 20:00:00 UTC](http://www.timeanddate.com/w
 
 Panel<a name="panel"></a>
 -----
-* Christine Draper [twitter](http://twitter.com/CristineDraper), [github](https://github.com/christinedraper)
+* Christine Draper [twitter](http://twitter.com/CristineDraper), [github](https://github.com/christinedraper), [blog] (https://christinemdraper.wordpress.com/), [website] (http://www.thirdwaveinsights.com/automate-insights/)
 * Jessica DeVita [twitter](http://twitter.com/ubergeekgirl)
 * Karolin Beck [twitter](http://twitter.com/karobeck)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
