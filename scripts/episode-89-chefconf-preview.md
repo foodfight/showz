@@ -11,7 +11,7 @@ Panel<a name="panel"></a>
 Invited Panel
 -----
 * Marlin Olson Timberman
-* Mukta A
+* Mukta Aphale  [github](http://github.com/muktaa), [twitter](http://twitter.com/muktaa), [TechLinguist](http://muktaaa.wordpress.com)
 * Bridget Kromhout
 * Jamesha Fisher
 * Rachel Chalmers
