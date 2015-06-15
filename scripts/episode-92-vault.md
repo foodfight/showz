@@ -1,5 +1,4 @@
-Show Date:  Tuesday, 11 July 2012 17:00 Rome, 11:00 EDT
-
+Show Date:  Tuesday, 16 June 2015 08:00 EST, 14:00 CET
 Panel<a name="panel"></a>
 -----
 
