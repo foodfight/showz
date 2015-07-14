@@ -10,7 +10,7 @@ Invited Panel
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
 * Steven Murawski [github](https://github.com/smurawski), [twitter](https://twitter.com/stevenmurawski), [blog](http://stevenmurawski.com/)
 * Joshua Timberman [github](http://github.com/jtimberman), [twitter](https://twitter.com/jtimberman), [blog](http://jtimberman.housepub.org/)
-* Kyleen Macgugan [github](https://github.com/kmacgugan)
+* Kyleen MacGugan [github](https://github.com/kmacgugan)
 * Elliott Davis
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
