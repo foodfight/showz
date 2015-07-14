@@ -7,6 +7,7 @@
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 
 ### Guests
+* Steven Murawski [github](https://github.com/smurawski), [twitter](https://twitter.com/stevenmurawski), [blog](http://stevenmurawski.com/)
 * Mike McGarr [twitter](https://twitter.com/jmichaelmcgarr), [blog](http://earlyandoften.wordpress.com/)
 * Jez Humble [twitter](https://twitter.com/jezhumble), [github](https://github.com/Jezhumble), [blog](http://continuousdelivery.com/)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
@@ -27,4 +28,3 @@
 * Chris Meiklejohn [twitter](https://twitter.com/cmeik), [github](https://github.com/cmeiklejohn/), [blog](http://christophermeiklejohn.com/)
 * Panos Papadomitsos (PJ) - [twitter](https://twitter.com/priestjim), [github](https://github.com/priestjim), [blog](http://ezgr.net/)
 * Steve Vinoksi [github](https://github.com/vinoski), [twitter](https://twitter.com/stevevinoski), [blog](http://steve.vinoski.net/blog/)
-
