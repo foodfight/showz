@@ -31,6 +31,7 @@ Outline/Questions
 * Blog Posts
   * [Chef Audit Mode Introduction](https://www.chef.io/blog/2015/05/06/chef-audit-mode-introduction/)
   * [Chef Audit Mode: CIS Benchmarks](https://www.chef.io/blog/2015/04/09/chef-audit-mode-cis-benchmarks/)
+  * [Towards Compliance as Code: A Real-World Example](https://www.chef.io/blog/2015/05/11/towards-compliance-as-code-a-real-world-example/)
 * How does audit mode work with Chef Analytics?
 * Wait...what is Chef Analytics?
 * How do I get started with Analytics?
