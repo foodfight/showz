@@ -3,6 +3,8 @@ Show Date:  [Thursday, October 29, 2015 at 13:00:00 UTC](http://everytimezone.co
 Confirmed Panel<a name="panel"></a>
 -----
 * Dave Zwieback [twitter](https://twitter.com/mindweather), [blog](http://mindweather.com/), [github](https://github.com/mindweather)
+* Caitlin Milligan Sheaffer [twitter](https://twitter.com/itscaitlin)
+* Lola Soto [twitter](https://twitter.com/lolasoto)
 * Christopher Webber [github](https://github.com/cwebberops), [twitter](https://twitter.com/cwebber)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
