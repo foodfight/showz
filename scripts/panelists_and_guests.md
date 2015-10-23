@@ -7,6 +7,7 @@
 * John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
 
 ### Guests
+* Dave Zwieback [twitter](https://twitter.com/mindweather), [blog](http://mindweather.com/), [github](https://github.com/mindweather)
 * Kyleen MacGugan [github](https://github.com/kmacgugan), [twitter](https://twitter.com/MacGoogly)
 * Elliott Davis [github](https://github.com/elliott-davis), [twitter](https://twitter.com/libsysguy)
 * Steven Murawski [github](https://github.com/smurawski), [twitter](https://twitter.com/stevenmurawski), [blog](http://stevenmurawski.com/)
