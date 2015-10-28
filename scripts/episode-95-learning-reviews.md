@@ -5,15 +5,14 @@ Confirmed Panel<a name="panel"></a>
 * Dave Zwieback [twitter](https://twitter.com/mindweather), [blog](http://mindweather.com/), [github](https://github.com/mindweather)
 * Caitlin Milligan Sheaffer [twitter](https://twitter.com/itscaitlin)
 * Lola Soto [twitter](https://twitter.com/lolasoto)
+* Yulia Sheynkman [about](https://about.me/yulias)
 * Christopher Webber [github](https://github.com/cwebberops), [twitter](https://twitter.com/cwebber)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
-* Yulia Sheynkman [about](https://about.me/yulias)
 
 Invited Panel
 -----
 
-* Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Robb Kidd [github](https://github.com/robbkidd), [twitter](https://twitter.com/robbkidd)
 
@@ -34,8 +33,6 @@ Picks<a name="picks"></a>
 Going to be a bit selfish, and recommend my book, [Beyond Blame: Learning from Failure and Success](http://bit.ly/beyondblame)
 
 ### Nathen
-
-### Brandon
 
 ### Bryan
 
