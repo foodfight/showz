@@ -8,6 +8,7 @@ Confirmed Panel<a name="panel"></a>
 * Christopher Webber [github](https://github.com/cwebberops), [twitter](https://twitter.com/cwebber)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Yulia Sheynkman [about](https://about.me/yulias)
 
 Invited Panel
 -----
@@ -30,6 +31,7 @@ Picks<a name="picks"></a>
 -----
 
 ### Dave
+Going to be a bit selfish, and recommend my book, [Beyond Blame: Learning from Failure and Success](http://bit.ly/beyondblame)
 
 ### Nathen
 
@@ -42,6 +44,12 @@ Picks<a name="picks"></a>
 ### Robb
 
 ### Christopher
+
+### Yulia
+
+### Caitlin
+
+### Lola
 
 
 CLOSE
