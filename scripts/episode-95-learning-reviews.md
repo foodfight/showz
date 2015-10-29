@@ -7,6 +7,7 @@ Confirmed Panel<a name="panel"></a>
 * Lola Soto [twitter](https://twitter.com/lolasoto)
 * Yulia Sheynkman [about](https://about.me/yulias)
 * Christopher Webber [github](https://github.com/cwebberops), [twitter](https://twitter.com/cwebber)
+* Robb Kidd [github](https://github.com/robbkidd), [twitter](https://twitter.com/robbkidd)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -14,7 +15,6 @@ Invited Panel
 -----
 
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Robb Kidd [github](https://github.com/robbkidd), [twitter](https://twitter.com/robbkidd)
 
 
 Outline/Questions
