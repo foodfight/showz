@@ -52,6 +52,8 @@ Going to be a bit selfish, and recommend my book, [Beyond Blame: Learning from F
 ### Yulia
 
 ### Caitlin
+* [Digital PM Summit from the Bureau of Digital](http://bureauofdigital.com/summits/digital-pm/)
+* [Hamilton](http://www.hamiltonbroadway.com/), a musical, and [the Broadway cast recording on Spotify](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc)
 
 ### Lola
 
