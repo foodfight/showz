@@ -41,6 +41,9 @@ Going to be a bit selfish, and recommend my book, [Beyond Blame: Learning from F
 ### Robb
 
 ### Christopher
+* [Silos, Politics, and Turf Wars](http://www.amazon.com/Silos-Politics-Turf-Wars-Competitors/dp/0787976385/ref=sr_1_1?ie=UTF8&qid=1446121927&sr=8-1&keywords=silos+politics+and+turf+wars)
+* [Enjoy By IPA by Stone Brewing](http://enjoyby.stonebrewing.com/stone-enjoy-103115-ipa)
+* [Chef Delivery](https://www.chef.io/delivery)
 
 ### Yulia
 
