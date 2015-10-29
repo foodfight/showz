@@ -40,6 +40,10 @@ Going to be a bit selfish, and recommend my book, [Beyond Blame: Learning from F
 
 ### Robb
 
+* Dave's new book!
+* [Incident Management for Operations](http://shop.oreilly.com/product/0636920036159.do) by Rob Schnepp, Ron Vidal, and Chris Hawley (in early release at O'Reilly)
+* [Not Your Father's Root Beer](http://smalltownbrewery.com/our-beers/) by Small Town Brewery
+
 ### Christopher
 * [Silos, Politics, and Turf Wars](http://www.amazon.com/Silos-Politics-Turf-Wars-Competitors/dp/0787976385/ref=sr_1_1?ie=UTF8&qid=1446121927&sr=8-1&keywords=silos+politics+and+turf+wars)
 * [Enjoy By IPA by Stone Brewing](http://enjoyby.stonebrewing.com/stone-enjoy-103115-ipa)
