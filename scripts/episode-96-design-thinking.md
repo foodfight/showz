@@ -5,13 +5,13 @@ Show Date:  [Wednesday, December 16, 20:00 UTC](http://everytimezone.com/#2015-1
 Confirmed Panel
 -----
 
+* Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
 
 * Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
-* Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
 * Ben Booth [twitter](https://twitter.com/benjaminbooth), [github](https://github.com/benjaminbooth)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
