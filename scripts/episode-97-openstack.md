@@ -29,8 +29,13 @@ Outline/Questions
   * Horizon - Dashboard
   * Neutron - Network Service
   * Cinder - Block Storage Service
-  * Salometer - Metering Service
+  * Ceilometer - Metering Service
   * Heat - Orchestration
+
+* OSOps - The OpenStack Operators project - [wiki](https://wiki.openstack.org/wiki/Osops)
+- OSOps is a project to help get shared Operators tools, experiences, and workflows in one location; they may range from useful scripts/configs to fully supported tools.
+- [OSOps Contribution Tooling](https://github.com/openstack/osops-tools-contrib) - A place for scripts and tools can get pushed up for the greater OpenStack Operator community to use. There are no coding standards here, but every tool is at least visually checked via the core membership for anything that looks malious. Use at your own risk.
+- [OSOps Generic Tooling](https://github.com/openstack/osops-tools-generic) - A repo of curated tools and scripts. These have been verified that do what they say, pass our coding standards and have been found useful by the Operating Community.
 
 * What are other services are part of OpenStack?
 
@@ -48,7 +53,10 @@ Outline/Questions
 Picks<a name="picks"></a>
 -----
 
-#### JJ  
+#### JJ
+- [This War of Mine](http://www.11bitstudios.com/games/16/this-war-of-mine)
+- [Labyrinth Black Ale](https://untappd.com/b/uinta-brewing-company-labyrinth-black-ale/10948)
+- [Vote for the OpenStack Board, ideally me!](https://www.openstack.org/community/members/profile/19802)
 
 #### Nick
 
