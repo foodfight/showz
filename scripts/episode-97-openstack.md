@@ -3,7 +3,7 @@ Show Date:  [Tuesday, December 29, 2015 at 22:00 UTC](http://everytimezone.com/#
 Confirmed Panel<a name="panel"></a>
 -----
 * JJ Asghar [github](https://github.com/jjasghar), [twitter](http://twitter.com/jjasghar), [blog](http://jjasghar.github.io), irc: j^2
-* Nick Silkey [github](https://github.com/filler/), [twitter](https://twitter.com/filler/)
+* Nick Silkey [github](https://github.com/filler/), [twitter](https://twitter.com/filler/), irc: filler
 * Samuel Cassiba [github](https://github.com/scassiba), [twitter](https://twitter.com/scassiba)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -64,6 +64,9 @@ Picks<a name="picks"></a>
 - [Vote for the OpenStack Board, ideally me!](https://www.openstack.org/community/members/profile/19802)
 
 #### Nick
+- [Jenkins Job Builder](http://docs.openstack.org/infra/jenkins-job-builder/)
+- [Munchkin](http://www.worldofmunchkin.com/game/)
+- [Good Ole `make`](http://www.gnu.org/software/make/manual/make.html)
 
 #### Samuel  
 * [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/)
