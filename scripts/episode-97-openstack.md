@@ -45,6 +45,11 @@ Outline/Questions
 
 * Who are the big customers using OpenStack?  Why?
 
+* OpenStack with Chef - the OpenStack Chef cookbooks - [wiki](https://wiki.openstack.org/wiki/Chef)
+  * The OpenStack Chef cookbooks are the result of a collaborative project to provide building blocks for building out OpenStack-based cloud infrastructure.
+  * [Contributing to the project](https://wiki.openstack.org/wiki/Chef/GettingStarted) - how to introduce yourself to the OpenStack Chef cookbooks and the community
+
+
 Picks<a name="picks"></a>
 -----
 
@@ -53,6 +58,9 @@ Picks<a name="picks"></a>
 #### Nick
 
 #### Samuel  
+* [Building Microservices](http://www.amazon.com/Building-Microservices-Sam-Newman/dp/1491950358/)
+* [Sierra Nevada Celebration Ale](http://www.sierranevada.com/beer/seasonal/celebration-ale)
+* [bhyve](http://bhyve.org/)
 
 #### Nathen  
 
