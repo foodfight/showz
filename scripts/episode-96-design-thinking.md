@@ -1,16 +1,16 @@
 # Design Thinking
 
-Show Date:  [Wednesday, December 16, 20:00 UTC](http://everytimezone.com/#2015-12-16,480,cn3)
+Show Date:  [Tuesday, January 19, 19:00 UTC](http://everytimezone.com/#2016-01-19,420,cn3)
 
 Confirmed Panel
 -----
 
-* Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
 
+* Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
 * Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
 * Ben Booth [twitter](https://twitter.com/benjaminbooth), [github](https://github.com/benjaminbooth)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
