@@ -5,17 +5,17 @@ Show Date:  [Tuesday, January 19, 19:00 UTC](http://everytimezone.com/#2016-01-1
 Confirmed Panel
 -----
 
+* Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
+* Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
+* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
 
-* Jeff Sussna [twitter](https://twitter.com/jeffsussna), [website](http://ingineering.it/)
-* Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
 * Ben Booth [twitter](https://twitter.com/benjaminbooth), [github](https://github.com/benjaminbooth)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 
 
 Outline/Questions
