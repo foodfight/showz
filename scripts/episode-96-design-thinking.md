@@ -39,6 +39,10 @@ Picks<a name="picks"></a>
 
 #### Nathen  
 
+#### Brandon Burton
+- [Towards an understanding of technical debt](http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/)
+- [The Principles of Product Development Flow: Second Generation Lean Product Development](http://www.amazon.com/The-Principles-Product-Development-Flow/dp/1935401009)
+
 
 
 CLOSE
