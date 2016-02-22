@@ -1,12 +1,14 @@
 Show Date:  
 
-Panel<a name="panel"></a>
+Confirmed Panel<a name="panel"></a>
+-----
+
+Invited Panel<a name="panel"></a>
 -----
 
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
-* Matt Ray [github](http://github.com/mattray), [twitter](http://twitter.com/mattray), irc: mattray, [blog](http://www.leastresistance.net/)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
-* John Vincent, aka Lusis [twitter](https://twitter.com/#!/lusis), [github](https://github.com/lusis)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
 
@@ -19,9 +21,13 @@ Outline/Questions
 Picks<a name="picks"></a>
 -----
 
-#### Bryan  
+#### Brandon
 
-#### lusis  
+#### Bryan
+
+#### Nell
+
+#### Mike  
 
 #### Nathen  
 
@@ -30,14 +36,8 @@ Picks<a name="picks"></a>
 CLOSE
 -----
 
-Make sure to subscribe to the [Foodfight Weekly Newsletter](http://bit.ly/ffsmail) and send your cookbook
-news to info@foodfightshow.org
+The Food Fight Show is brought to you by [Nathen Harvey](https://twitter.com/nathenharvey) with help from other hosts and the awesome community of Chefs.
 
-Follow [@foodfightshow](http://twitter.com/foodfightshow) on twitter.
+The show is sponsored, in part, by [Chef](http://www.chef.io).
 
-Also, you can submit show ideas to our [github repo](https://github.com/foodfight/showz)
-
-
-
-Download
---------
+Feedback, suggestions, and questions:  [info@foodfightshow.com](mailto:info@foodfightshow.com) or  [http://github.com/foodfight/showz](http://github.com/foodfight/showz).
