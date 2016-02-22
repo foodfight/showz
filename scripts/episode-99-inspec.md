@@ -27,6 +27,7 @@ Outline/Questions
     * metadata for resources
     * built-in resources
     * Creating custom resources
+  * `inspec shell`
   * Contributing to InSpec
   * Using InSpec at NIU
 * Chef Compliance
