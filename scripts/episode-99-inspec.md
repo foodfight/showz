@@ -9,6 +9,7 @@ Invited Panel<a name="panel"></a>
 * Christoph Hartmann [github](https://github.com/chris-rock), [twitter](https://twitter.com/chri_hartmann)
 * Dominik Richter [github](https://github.com/arlimus), [twitter](https://twitter.com/arlimus)
 * Gary Bright [github](https://github.com/username-is-already-taken2)
+* Paul Welch [github](https://github.com/pwelch), [twitter](https://twitter.com/pwelch)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
