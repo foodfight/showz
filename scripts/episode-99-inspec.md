@@ -47,6 +47,11 @@ Picks<a name="picks"></a>
 #### Nell
 
 #### Mike  
+- gnu libc vuln - CVE-2015-7547
+  https://googleonlinesecurity.blogspot.com/2016/02/cve-2015-7547-glibc-getaddrinfo-stack.html
+  http://dankaminsky.com/2016/02/20/skeleton/
+- Crystal programming language - http://crystal-lang.org/
+
 
 #### Nathen  
 
