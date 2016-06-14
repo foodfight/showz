@@ -5,7 +5,7 @@ Confirmed Panel<a name="panel"></a>
 
 * Christoph Hartmann [github](https://github.com/chris-rock), [twitter](https://twitter.com/chri_hartmann)
 * Dominik Richter [github](https://github.com/arlimus), [twitter](https://twitter.com/arlimus)
-* Gary Bright [github](https://github.com/username-is-already-taken2)
+* Gary Bright [github](https://github.com/username-is-already-taken2) [twitter](https://twitter.com/digitalgaz)
 * Paul Welch [github](https://github.com/pwelch), [twitter](https://twitter.com/pwelch)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
