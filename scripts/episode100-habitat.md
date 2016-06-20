@@ -16,7 +16,16 @@ Invited Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
-
+* How compare to Snappy and Nix?
+* Whic nix features does Habitat not have and why?
+* How much inspiration take from Consul?
+* Can/will one be able to do everything w/ Habitat packages that one can do w/ Chef cookbooks?
+* Does Habitat replace Chef or complement it?
+* When/how windows support? Are there some features that Windows cannot support?
+* How to set global settings like fw rules?
+* Anyone companies using Habitat already?
+* I notice that Habitat uses terraform for deployment instead of chef-provisioner. Is chef-provisioner deprecated?
+* 
 
 Picks<a name="picks"></a>
 -----
@@ -24,6 +33,10 @@ Picks<a name="picks"></a>
 #### Brandon
 
 #### Bryan
+
+* IPFS
+* The Lorax by Dr. Seuss
+* Kygo's Piano Jam
 
 #### Nell
 
