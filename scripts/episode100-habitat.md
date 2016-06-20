@@ -33,6 +33,11 @@ Picks<a name="picks"></a>
 
 #### Brandon
 
+* [Field notes - ElasticSearch at petabyte scale on AWS](https://grey-boundary.io/field-notes-elasticsearch-at-petabyte-scale-on-aws/)
+ - A great post on systems design thinking and how to apply it to scaling ElasticSearch clusters. Most of the patterns and thinking that's outlined is applicable to any distributed system.
+* [Unsung Heroes: Bringing Docker to IBM’s “Big Iron”](https://integratedcode.us/2016/06/10/unsung-heroes-bringing-docker-to-ibms-big-iron/)
+ - This excellent post details all the folks and work that's gone into bringing Docker to IBM's _mainframe_ architectures and Operating Systems, "POWER and z Systems (named `s390x` in Linux CPU architecture vernacular)"
+
 #### Bryan
 
 * IPFS
