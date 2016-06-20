@@ -25,7 +25,8 @@ Outline/Questions
 * How to set global settings like fw rules?
 * Anyone companies using Habitat already?
 * I notice that Habitat uses terraform for deployment instead of chef-provisioner. Is chef-provisioner deprecated?
-* 
+* How will Chef Inc. make $ from Habitat? Chef Inc. marketed a paid version of Chef-Server. Will there be an equivalent 
+ for Habitat?
 
 Picks<a name="picks"></a>
 -----
