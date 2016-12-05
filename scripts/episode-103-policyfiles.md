@@ -8,7 +8,7 @@ Invited Panel<a name="panel"></a>
 
 * Daniel DeLeo [github](https://github.com/danielsdeleo), [twitter](http://twitter.com/kallistec)
 * John Bellone [github](https://github.com/johnbellone), [twitter](https://twitter.com/johnbellone)
-* Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://github.com/mhedgpeth)
+* Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://github.com/mhedgpeth), [blog](http://hedge-ops.com/)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
