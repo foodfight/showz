@@ -1,4 +1,4 @@
-Show Date:  TBD
+Show Date:  [Monday, December 19, 21:00 UTC](http://everytimezone.com/#2016-12-19,540,cn3)
 
 Confirmed Panel<a name="panel"></a>
 -----
