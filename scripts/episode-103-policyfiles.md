@@ -6,11 +6,11 @@ Confirmed Panel<a name="panel"></a>
 * John Bellone [github](https://github.com/johnbellone), [twitter](https://twitter.com/johnbellone)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://github.com/mhedgpeth), [blog](http://hedge-ops.com/)
 
 Invited Panel<a name="panel"></a>
 -----
 
-* Michael Hedgpeth [github](https://github.com/mhedgpeth), [twitter](https://github.com/mhedgpeth), [blog](http://hedge-ops.com/)
 * George Miranda [github](https://github.com/gmiranda23), [twitter](https://twitter.com/gmiranda23)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
@@ -19,7 +19,45 @@ Invited Panel<a name="panel"></a>
 
 Outline/Questions
 -----------------
+Introduction: 
+  * Topic led by Michael Hedgpeth at Chef Community Summit
+  * Feedback from the session was that there wasn't enough information about the feature
 
+Question (for Daniel? someone at Chef?): What was the motivation for the feature? What problems was it trying to solve?
+
+Question (for Michael): how did you get started using the feature?
+
+  - Security and Change management a huge issue
+  - Automate not yet an option, and we had Air-Gapped environments
+  - Worked with Daniel DeLeo to finalize the implementation
+
+Question: So let's walk through how we would use the feature step by step:
+
+  1. Policyfile - declaration of dependencies
+  2. Policyfile.lock.json - dependencies frozen in time
+    - guarantees that what you ran in test runs in production; no more surprises
+  3. Deployment to a Chef server, either by:
+    A: directly, through `chef push` command
+    B: through an archive, with `chef export` command, and then `chef push-archive` command
+
+Question: It sounds like a great feature, what keeps people from using it?
+
+  1. Migrating existing structure, solved by `poise-hoist`
+  2. Perception that it's a "dead" feature, not supported
+
+Question: So is it a dead feature?
+
+Question: What are some unexpected benefits you've seen from policyfiles?
+
+  1. Easier onboarding of Chef
+  2. Source control level change management
+
+Question: what's next for policyfiles?
+
+Question: if people are interested, where do they get started?
+
+  1. #policyfile topic on Chef Community Slack
+  2. hedge-ops.com blog posts
 
 
 Picks<a name="picks"></a>
