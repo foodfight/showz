@@ -11,7 +11,7 @@ Confirmed Panel<a name="panel"></a>
 
 Outline/Questions
 -----------------
-Introduction: 
+Introduction:
   * Topic led by Michael Hedgpeth at Chef Community Summit
   * Feedback from the session was that there wasn't enough information about the feature
 
@@ -51,6 +51,7 @@ Question: if people are interested, where do they get started?
   1. #policyfile topic on Chef Community Slack
   2. hedge-ops.com blog posts
 
+[Policyfiles, Push Jobs, and Provisioning – Clarity on the current state of the Chef ecosystem](https://blog.chef.io/2016/12/16/policyfiles-push-jobs-and-provisioning-clarity-on-the-current-state/) - George's blog post on the current state of Policyfiles.
 
 Picks<a name="picks"></a>
 -----
