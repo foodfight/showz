@@ -9,6 +9,16 @@ da showz be here
 
 [Send us feedback](mailto:info@foodfightshow.org)
 
+Upcoming Episodes
+=================
+
+* [103 - Policyfiles](scripts/episode-103-policyfiles.md)
+* [Sous Chefs](scripts/episode-xx-sous-chefs.md)
+* [A3 Thinking](scripts/episode-xx-a3-thinking.md)
+* [AWS Opsworks](scripts/episode-xx-aws-opsworks.md)
+* [Terraform](scripts/episode-xx-terraform.md)
+
+
 LIVE from #ChefConf
 ==================
 
@@ -47,7 +57,7 @@ Food Fight Shows
 * [25 - ChatOps at Github With Jesse Newland](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html)
 * [24 - Jamie Winsor and Michael Ivey Skool Us on Berkshelf](http://foodfightshow.org/2012/08/jamie-winsor-and-michael-ivey-skool-us-on-berkshelf.html)
 * [23 - Interview with Theo Schlossnagle](http://foodfightshow.org/2012/07/interview-with-theo-schlossnagle.html)
-* [22 - Changing Culture &amp; Being a Force for Awesome](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html) 
+* [22 - Changing Culture &amp; Being a Force for Awesome](http://foodfightshow.org/2012/07/changing-culture-and-being-a-force-for-awesome.html)
 * [21 - Monitoring for n00bs with Jason Dixon](http://foodfightshow.org/2012/07/monitoring-for-n00bs-with-jason-dixon.html)
 * [20 - Interview with Joshua Timberman, King of Sysadmins](http://foodfightshow.org/2012/07/interview-with-joshua-timberman.html)
 * [19 - Roll Your Own PAAS! Mark Imbriaco and Alex Howells](http://foodfightshow.org/2012/07/roll-your-own-paas-mark-imbriaco-and-alex-howells.html)
