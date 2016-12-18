@@ -7,6 +7,7 @@ Confirmed Panel<a name="panel"></a>
 
 Invited Panel<a name="panel"></a>
 -----
+* John Snow
 * Joseph Holsten [twitter](https://twitter.com/josephholsten), [github](https://github.com/josephholsten)
 * Grant Ridder [github](https://github.com/shortdudey123), [twitter](https://twitter.com/shortdudey123)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
