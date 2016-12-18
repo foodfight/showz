@@ -11,9 +11,8 @@ The beginning of an outline can be found in our github page [1].  We'd love to s
 We include a "picks" section at the end of each episode so please come prepared with a pick or two as well.  The picks could be anything:  a protip, a tool, a book, a beer, whatever.  Something technical or non-technical that you've been using or interested in lately that you'd like to share.
 
 Thanks!
-Bryan & Nathen
+Nathen
 @foodfightshow
-@bryanwb
 @nathenharvey
 
 [1] https://github.com/foodfight/showz/blob/master/scripts/
