@@ -1,6 +1,6 @@
 # Sous Chefs
 
-Date:  
+Date:  [Tuesday, January 24, 2017, 21:00 UTC](http://everytimezone.com/#2017-01-24,540,cn3)
 
 Confirmed Panel<a name="panel"></a>
 -----
