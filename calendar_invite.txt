@@ -4,6 +4,8 @@ You will receive the URL for the hangout shortly before it begins, probably abou
 
 Please use a USB headset if you have one available.  Muting yourself while not speaking is always appreciated and helps with the quality of the show.  
 
+Please join the Chef Community Slack - http://community-slack.chef.io/ - so that you can join the live discussion in the #foodfight channel.
+
 The beginning of an outline can be found in our github page [1].  We'd love to see feedback, pull requests, etc. on the show notes.  At a minimum, please let me know what links you'd like to include in the "Panel" section.  We typically include your name, twitter, github, and IRC handles plus a link to your blog.  If you'd like we will include your title and company, too.
 
 We include a "picks" section at the end of each episode so please come prepared with a pick or two as well.  The picks could be anything:  a protip, a tool, a book, a beer, whatever.  Something technical or non-technical that you've been using or interested in lately that you'd like to share.
