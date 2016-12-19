@@ -66,13 +66,12 @@ Picks<a name="picks"></a>
 
 #### Michael
 
-#### Brandon
-
-#### Bryan
-
 #### Nell
 
-#### Mike  
+#### George
+* Rogue One - as a jaded Star Wars fan, still a thumbs up!
+* [DJ Adam 12 - The Purple Tribute](https://soundcloud.com/dj-adam-12/purple-tribute-the-purple-loft/)
+* [The Tacopedia](https://www.amazon.com/Tacopedia-Deborah-Holtz/dp/0714870471/) - I haven't read this version, but it's supposedly the translated form of [La Tacopedia](https://www.amazon.com/tacopedia-Enciclopedia-del-taco-Spanish/dp/6077663352) which is amazing
 
 #### Nathen  
 
