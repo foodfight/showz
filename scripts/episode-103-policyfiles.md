@@ -67,6 +67,8 @@ Picks<a name="picks"></a>
 #### Michael
 
 #### Nell
+* [Round Medication Management App](https://roundhealth.co/app/)
+* [Allegiance](http://allegiancemusical.com/)
 
 #### George
 * Rogue One - as a jaded Star Wars fan, still a thumbs up!
