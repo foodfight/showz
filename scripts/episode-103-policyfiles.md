@@ -53,6 +53,8 @@ Question: if people are interested, where do they get started?
 
 [Policyfiles, Push Jobs, and Provisioning – Clarity on the current state of the Chef ecosystem](https://blog.chef.io/2016/12/16/policyfiles-push-jobs-and-provisioning-clarity-on-the-current-state/) - George's blog post on the current state of Policyfiles.
 
+[Current state clarity, Part 2 – Policyfiles](https://blog.chef.io/2016/12/19/current-state-clarity-part-2-policyfiles/) - Part 2 in the series from George.
+
 Picks<a name="picks"></a>
 -----
 
