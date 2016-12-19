@@ -61,6 +61,7 @@ Picks<a name="picks"></a>
 #### Dan
 
 #### John
+- [Kindle Unlimited subscription](https://www.amazon.com/gp/kindle/ku/gift_landing)
 
 #### Michael
 
