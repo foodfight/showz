@@ -61,6 +61,7 @@ Picks<a name="picks"></a>
 #### Dan
 
 #### John
+- [Elite Dangerous](https://www.elitedangerous.com)
 
 #### Michael
 
