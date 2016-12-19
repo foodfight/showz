@@ -62,6 +62,7 @@ Picks<a name="picks"></a>
 
 #### John
 - [Kindle Unlimited subscription](https://www.amazon.com/gp/kindle/ku/gift_landing)
+- [Elite Dangerous](https://www.elitedangerous.com)
 
 #### Michael
 
