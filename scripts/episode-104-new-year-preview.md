@@ -15,6 +15,9 @@ Outline/Questions
   * Awesome Community Chefs
 * Community Summits
 * Slack!
+* Chef Board of Governance
+* Chef Server HA- beta program and general release
+* DCO for Chef Open Source Projects
 * InSpec
 * Habitat
 * Chef Automate
@@ -23,7 +26,7 @@ Outline/Questions
 ## 2016 Personal Updates
 
 * Brandon
-* Nell
+* Nell (Referred to as a "grizzled veteran" of Chef for the first time, Shoulder injury, Naginata Black Belt)
 * Nathen
 
 ## 2016 Episodes in review:
@@ -38,6 +41,7 @@ Outline/Questions
 ## 2017 Preview
 * [Sous Chefs](episode-105-sous-chefs.md)
   * January 24
+* [Microsoft Ignite Australia Live Show](episode-xx-microsoft-australia-live.md)
 * [A3 Thinking](episode-xx-a3-thinking.md)
 * [AWS Opsworks](episode-xx-aws-opsworks.md)
 * [Terraform](episode-xx-terraform.md)
@@ -46,6 +50,9 @@ Picks<a name="picks"></a>
 -----
 
 #### Nell
+
+* Top Chef Season 13 (10 years of Top Chef!)
+* Star Wars Commander iOS game
 
 #### Nathen
 
