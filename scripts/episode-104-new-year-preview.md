@@ -9,6 +9,23 @@ Confirmed Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+## 2016 Chef Updates
+
+* ChefConf
+  * Awesome Community Chefs
+* Community Summits
+* Slack!
+* InSpec
+* Habitat
+* Chef Automate
+* AWS Opsworks
+
+## 2016 Personal Updates
+
+* Brandon
+* Nell
+* Nathen
+
 ## 2016 Episodes in review:
 * [97 - Configuration Management Camp 2016](http://foodfightshow.org/2016/02/configuration-management-camp-2016.html)
 * [98 - Design Thinking](http://foodfightshow.org/2016/02/design-thinking.html)
