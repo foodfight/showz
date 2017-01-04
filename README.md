@@ -12,8 +12,7 @@ da showz be here
 Upcoming Episodes
 =================
 
-* [103 - Policyfiles](scripts/episode-103-policyfiles.md)
-* [Sous Chefs](scripts/episode-xx-sous-chefs.md)
+* [Sous Chefs](scripts/episode-105-sous-chefs.md)
 * [A3 Thinking](scripts/episode-xx-a3-thinking.md)
 * [AWS Opsworks](scripts/episode-xx-aws-opsworks.md)
 * [Terraform](scripts/episode-xx-terraform.md)
@@ -31,6 +30,14 @@ LIVE from #ChefConf
 
 Food Fight Shows
 =================
+* [103 - Policyfiles](http://foodfightshow.org/2016/12/policy-files.html)
+* [102 - DevOpsDays DFW](http://foodfightshow.org/2016/09/devopsdays-dfw.html)
+* [101 - Awesome Community Chefs](http://foodfightshow.org/2016/09/awesome-community-chefs.html)
+* [100 - Habitat](http://foodfightshow.org/2016/06/habitat.html)
+* [99 - InSpec](http://foodfightshow.org/2016/02/inspec.html)
+* [98 - Design Thinking](http://foodfightshow.org/2016/02/design-thinking.html)
+* [97 - Configuration Management Camp 2016](http://foodfightshow.org/2016/02/configuration-management-camp-2016.html)
+
 * [30 - Metrics-driven Engineering](http://foodfightshow.org/2012/10/metrics-driven-engineering.html)
   * [Hacker News](http://news.ycombinator.com/item?id=4645543)
   * [reddit](http://redd.it/11dbyt)
