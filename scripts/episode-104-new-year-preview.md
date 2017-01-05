@@ -114,7 +114,7 @@ Outline/Questions
 
 ## December
 
-* [AWS Opswords for Chef Automate launched]( https://blog.chef.io/2016/12/01/chef-automate-now-available-fully-managed-service-aws/)
+* [AWS OpsWorks for Chef Automate launched](https://blog.chef.io/2016/12/01/chef-automate-now-available-fully-managed-service-aws/)
 
 # 2017 Preview
 
