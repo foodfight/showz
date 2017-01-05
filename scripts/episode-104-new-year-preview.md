@@ -6,6 +6,25 @@ Confirmed Panel<a name="panel"></a>
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 
+
+Slack Transcript
+----------------
+Things posted to slack during the episode:
+
+nathenharvey [1:17 PM]  - https://blog.chef.io/2016/02/23/chef-launches-partner-cookbook-program-to-expand-devops-ready-technology-ecosystem/
+
+solarce [1:19 PM]  - an example of the _quality_ measures of a cookbook: https://supermarket.chef.io/cookbooks/datadog#quality (edited)
+
+nathenharvey [1:20 PM] - Passing foodcritic and collaborators AND a partner cookbook :slightly_smiling_face:
+
+nathenharvey [1:20]  - Other metrics we're looking to implement can be found here - https://github.com/chef-cookbooks/cookbook-quality-metrics
+
+solarce [1:38 PM]  - https://github.com/chef/chef-rfc/blob/master/rfc074-community-slack.md
+
+nathenharvey [1:38 PM]  - https://www.youtube.com/watch?v=FUla4UHlZEM
+
+nathenharvey [1:43]  - https://github.com/chef/chef-rfc/blob/master/rfc061-hugs.md
+
 Outline/Questions
 -----------------
 
@@ -28,6 +47,7 @@ Outline/Questions
 * Brandon
 * Nell (Referred to as a "grizzled veteran" of Chef for the first time, Shoulder injury, Naginata Black Belt)
 * Nathen
+
 
 ## 2016 Episodes in review:
 * [97 - Configuration Management Camp 2016](http://foodfightshow.org/2016/02/configuration-management-camp-2016.html)
