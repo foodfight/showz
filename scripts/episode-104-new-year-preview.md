@@ -137,6 +137,12 @@ Picks<a name="picks"></a>
 
 #### Brandon
 
+* [AWS Advent](https://www.awsadvent.com/)
+  * Thank you to [Jennifer Davis](https://twitter.com/sigje), [Seth Thomas](https://twitter.com/cheeseplus), [Soenke Ruempler](https://twitter.com/s0enke), and all the editor and author contributors!
+* [SysAdvent](https://sysadvent.blogspot.com)
+  * [Day 6 - No More On-Call Martyrs](https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html) by [Alice Goldfuss](https://twitter.com/alicegoldfuss)
+  
+
 CLOSE
 -----
 
