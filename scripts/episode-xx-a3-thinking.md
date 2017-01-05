@@ -1,6 +1,6 @@
 # A3 Thinking
 
-Show Date:  
+Show Date:  [Tuesday, February 28, 2017 20:00 UTC](http://everytimezone.com/#2017-2-28,480,cn3)
 
 Confirmed Panel<a name="panel"></a>
 -----
@@ -14,7 +14,7 @@ Invited Panel<a name="panel"></a>
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), irc: nathenharvey, [blog](http://nathenharvey.com)
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 
 Outline/Questions
@@ -24,6 +24,12 @@ Outline/Questions
 
 Picks<a name="picks"></a>
 -----
+
+#### Catherine
+
+#### Chuck
+
+#### Ben
 
 #### Brandon
 
