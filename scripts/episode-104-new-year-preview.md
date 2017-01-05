@@ -1,4 +1,4 @@
-Show Date:  [Thursday, January 6, 2017, 18:00 UTC](http://everytimezone.com/#2017-1-6,360,cn3)
+Show Date:  [Thursday, January 5, 2017, 18:00 UTC](http://everytimezone.com/#2017-1-5,360,cn3)
 
 Confirmed Panel<a name="panel"></a>
 -----

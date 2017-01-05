@@ -12,8 +12,9 @@ da showz be here
 Upcoming Episodes
 =================
 
-* [Sous Chefs](scripts/episode-105-sous-chefs.md)
-* [A3 Thinking](scripts/episode-xx-a3-thinking.md)
+* [Year in Review](scripts/episode-104-new-year-preview.md) - [Thursday, January 5, 2017, 18:00 UTC](http://everytimezone.com/#2017-1-5,360,cn3)
+* [Sous Chefs](scripts/episode-105-sous-chefs.md) - [Tuesday, January 24, 2017, 21:00 UTC](http://everytimezone.com/#2017-01-24,540,cn3)
+* [A3 Thinking](scripts/episode-xx-a3-thinking.md) - [Tuesday, February 28, 2017 20:00 UTC](http://everytimezone.com/#2017-2-28,480,cn3)
 * [AWS Opsworks](scripts/episode-xx-aws-opsworks.md)
 * [Terraform](scripts/episode-xx-terraform.md)
 
