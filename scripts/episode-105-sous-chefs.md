@@ -12,7 +12,7 @@ Confirmed Panel<a name="panel"></a>
 Invited Panel<a name="panel"></a>
 -----
 * John Snow [twitter](https://twitter.com/lunaticscripter)
-* Joseph Holsten [twitter](https://twitter.com/josephholsten), [github](https://github.com/josephholsten)
+* Joseph Holsten [twitter](https://twitter.com/josephholsten), [github](https://github.com/josephholsten), irc: josephholsten, [blog](http://blog.josephholsten.com/)
 * Brandon Burton [github](http://github.com/solarce), [twitter](https://twitter.com/solarce)
 * Bryan Berry [github](http://github.com/bryanwb), [twitter](http://twitter.com/bryanwb), irc: bryanwb, blog: [devopsanywhere](http://devopsanywhere.blogspot.com)
 * Mike Fiedler [github](http://github.com/miketheman), [twitter](http://twitter.com/mikefiedler), [blog](http://www.miketheman.net)
