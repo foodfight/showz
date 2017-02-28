@@ -4,6 +4,7 @@ Show Date:  [Tuesday, February 28, 2017 20:00 UTC](http://everytimezone.com/#201
 
 Confirmed Panel<a name="panel"></a>
 -----
+* Alan Kraft
 * Ben Rockwood [twitter](https://twitter.com/benr), [blog](http://cuddletech.com/?page_id=834), [github](https://github.com/benr)
 * Catherine Swetel [twitter](https://twitter.com/CatSwetel), [github](https://github.com/catswetel)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
