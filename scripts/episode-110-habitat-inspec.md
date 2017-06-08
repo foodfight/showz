@@ -4,7 +4,6 @@ Panel<a name="panel"></a>
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Adam Leff [github](https://github.com/adamleff), [twitter](https://twitter.com/adamleff)
 * Tom McLaughlin [github](https://github.com/tmclaugh), [twitter](https://twitter.com/tmclaughbos), [blog](https://blog.threatstack.com/test-driven-security-with-chef-inspec)
-
 Outline/Questions
 -----------------
 
@@ -21,8 +20,9 @@ Outline/Questions
   * Adam and Tom responded as desired
 
   * And we had a few major announcements come out of ChefConf!  
-    * The one that is nearest and dearest to my heart because I worked on it is the Habitat builder service!  It was an immense amount of work and quite a bit of crunch to get it there toward the end, but what a glorious feeling to see it work live on the main stage.
+    * The one that is nearest and dearest to my heart because I worked on it is the Habitat builder service!  It was an immense amount of work and quite a bit of crunch to get it there toward the end, but what a glorious feeling to see it work live on the main stage.  Builder is a major step forward for managing and updating dependencies - if you have a HART package that depends on the SSL package, and the SSL package is updated, Habitat will automatically rebuild the package that depends on it and deploy it to an acceptance environment for you to review - you won't have to hand update dependencies anymore.
   * The other major Habitat annoucement was scaffolding - we now have built in Habitat scaffolding for Node.js apps, Rails apps, and more.  This means you can get a Habitat package for your app up and running even faster, which I think is a great win for both developers and operations professionals.
+  * The other announcement was the beta release of Chef Compliance integration with Automate.  This will allow someone to run compliance scans of their infrastructure directly from Automate, better integrating all their configuration management tooling.  We are looking forward to seeing how this evolves as it moves to the general release in the future.
   * Awesome Community Chef Awards!
     * Annie Hedgpeth - in particular with her role around Inspec, she's written some fantastic blog post tutorials on how to use it.  Additionally, Annie is fantastic role model thanks to her honesty, humility, and infectious enthusiasm for learning. We are so thrilled she is part of our community. 
     * Ben Dang - in particular for his work with Habitat.  Ben has been an absolutely incredible representative for the Habitat community; his care and feeding of new community members, the level of effort he has put towards making people feel welcome and heard, and his overall willingness to jump in and help at the drop of a (habi)hat are the reasons we’re ecstatic about having Ben as an integral part of the community.
