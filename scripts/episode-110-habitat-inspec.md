@@ -48,7 +48,35 @@ Picks<a name="picks"></a>
 
 ## Adam
 
-# Tom
+* [Home Bridge](https://github.com/nfarina/homebridge)
+
+## Tom
+
+* Vacation
+* [Resilent Coders](http://www.resilientcoders.org/)
+
+Links<a name="links"></a>
+-----
+
+["Test-Driven Security with Chef Inspec"](https://blog.threatstack.com/test-driven-security-with-chef-inspec) by Tom McLaughlin
+
+["Learning InSpec Series"](http://www.anniehedgie.com/inspec/) by Annie Hedgpeth
+
+Tom's repo (ping to link)
+
+[Inspec.io](https://www.inspec.io/)
+
+[Chef Community Slack](http://community-slack.chef.io/)
+
+[Inspec STIGs Github Repo](https://github.com/inspec-stigs)
+
+[Dev Sec Project](http://dev-sec.io/)
+
+[Habitat Commmunity Slack (aka Habichat)](http://slack.habitat.sh/)
+
+[Habicat Twitter](https://twitter.com/habicatsh)
+
+[SecuriCats Twitter](https://twitter.com/securicats)
 
 CLOSE
 -----
