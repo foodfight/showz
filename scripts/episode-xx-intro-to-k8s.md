@@ -21,6 +21,8 @@ Outline/Questions
 * What are the various tools in the ecosystem?
 * I want to get started, what do I do first?
 * What workloads are good for k8s?  which are bad?
+* Can I forklift an existing app (Oracle, Seibel, SAP) from my datacenter and run it in k8s?  if so, how much work would that be and what's the payoff?
+* What is the developer story for k8s? i.e. how can individual devs spin up all related tooling and test their app, ideally locally?
 
 Picks<a name="picks"></a>
 -----
