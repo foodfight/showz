@@ -10,10 +10,6 @@ Confirmed Panel<a name="panel"></a>
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
-Invited Panel<a name="panel"></a>
------
-
-
 Outline/Questions
 -----------------
 
