@@ -31,6 +31,8 @@ Picks<a name="picks"></a>
 #### Chris
 
 #### Nell
+* [Quiver](http://happenapps.com/)
+* [U.S. and C.N. Women's Hockey Teams](https://en.wikipedia.org/wiki/Ice_hockey_at_the_2018_Winter_Olympics_%E2%80%93_Women%27s_tournament)
 
 #### Nathen
 
