@@ -1,4 +1,5 @@
 # Incident Management
+Episode 114
 
 Show Date:  [Monday, March 12, 2017 19:00 UTC](http://everytimezone.com/#2018-3-12,420,cn3)
 
@@ -6,16 +7,11 @@ Show Date:  [Monday, March 12, 2017 19:00 UTC](http://everytimezone.com/#2018-3-
 Confirmed Panel<a name="panel"></a>
 -----
 
+* Ron Vidal - [website](http://www.blackrock3.com/), [twitter - @br3guys](https://twitter.com/br3guys)
+* Rob Schnepp - [website](http://www.blackrock3.com/), [twitter - @br3guys](https://twitter.com/br3guys)
+* Chris Hawley - [website](http://www.blackrock3.com/), [twitter - @br3guys](https://twitter.com/br3guys)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
-
-Invited Panel<a name="panel"></a>
------
-
-* Ron Vidal
-* Rob Schnepp
-* Chris Hawley
-
 
 Outline/Questions
 -----------------
