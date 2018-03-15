@@ -13,7 +13,6 @@ Invited Panel
 
 * Charity Majors [github](https://github.com/charity), [twitter](https://twitter.com/mipsytipsy)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Outline/Questions
 -----------------
