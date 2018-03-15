@@ -17,13 +17,12 @@ Invited Panel
 Outline/Questions
 -----------------
 
-* What is Observability?
-  * [What is Observability?](https://honeycomb.io/observability/)
-* Monitoring, Metrics, Log aggregation
-* Focus your energy on instrumentation, resilience to failure, and making it fast and safe to deploy and roll back
-* gather absolutely as much context as possible
-* Instrumentation is just as important as unit tests.
-  * Does this mean we need to reconsider the way applications are built?  Do we need to start constructing observable applications?  How?
+* [What is Observability?](https://honeycomb.io/observability/)
+  * Monitoring, Metrics, Log aggregation
+  * Focus your energy on instrumentation, resilience to failure, and making it fast and safe to deploy and roll back
+  * gather absolutely as much context as possible
+  * Instrumentation is just as important as unit tests.
+    * Does this mean we need to reconsider the way applications are built?  Do we need to start constructing observable applications?  How?
 * [`o11y`?](https://twitter.com/copyconstruct/status/908493669518290944?lang=en)
 * What products, or sorts of products, are gaining traction in observability?
 * What are the trends and who are the people to follow?
