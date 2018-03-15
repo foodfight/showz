@@ -26,6 +26,7 @@ Outline/Questions
 * [`o11y`?](https://twitter.com/copyconstruct/status/908493669518290944?lang=en)
 * What products, or sorts of products, are gaining traction in observability?
 * What are the trends and who are the people to follow?
+* What blogs, papers, books should be on my Observability reading list?
 
 Picks<a name="picks"></a>
 -----
