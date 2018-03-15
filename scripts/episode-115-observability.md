@@ -6,8 +6,6 @@ Show Date:  [Friday, March 16, 2018 19:00 UTC](http://everytimezone.com/#2018-3-
 Confirmed Panel<a name="panel"></a>
 -----
 
-* Kelsey Hightower [github](https://github.com/kelseyhightower), [twitter](https://twitter.com/kelseyhightower)
-* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Invited Panel
