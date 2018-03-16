@@ -35,6 +35,8 @@ Picks<a name="picks"></a>
 #### Charity
 
 #### Nell
+* [#Wargames](https://helloeko.com/wargames/)
+* [Altered Carbon](https://www.netflix.com/title/80097140)
 
 #### Nathen
 
