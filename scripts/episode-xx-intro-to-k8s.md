@@ -1,6 +1,6 @@
 # Introduction to Kubernetes (k8s)
 
-Show Date:  [Friday, March 23, 2017 19:00 UTC](http://everytimezone.com/#2018-3-23,420,cn3)
+Show Date:  [Friday, March 23, 2018 19:00 UTC](http://everytimezone.com/#2018-3-23,420,cn3)
 
 
 Confirmed Panel<a name="panel"></a>

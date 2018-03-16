@@ -1,6 +1,6 @@
 # Facebook Cookbooks
 
-Show Date:  [Monday, March 19, 2017 19:00 UTC](http://everytimezone.com/#2018-3-19,420,cn3)
+Show Date:  [Friday, March 23, 2018 21:00 UTC](http://everytimezone.com/#2018-3-23,540,cn3)
 
 Confirmed Panel<a name="panel"></a>
 -----
