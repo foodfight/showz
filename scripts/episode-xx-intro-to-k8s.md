@@ -13,6 +13,7 @@ Confirmed Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+* What is the problem?
 * What is Kubernetes?
 * What are the various tools in the ecosystem?
 * I want to get started, what do I do first?
