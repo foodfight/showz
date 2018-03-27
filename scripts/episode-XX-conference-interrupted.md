@@ -1,6 +1,6 @@
 # Conference, Interrupted
 
-Show Date:  [Friday, April 13, 2018 14:30 UTC](http://everytimezone.com/#2018-4-13,150,cn3)
+Show Date:  [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2,420,cn3)
 
 
 Confirmed Panel<a name="panel"></a>
