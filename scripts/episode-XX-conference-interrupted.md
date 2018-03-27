@@ -6,16 +6,11 @@ Show Date:  [Monday, April 2, 2018 19:00 UTC](http://everytimezone.com/#2018-4-2
 Confirmed Panel<a name="panel"></a>
 -----
 
-* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
-
-Invited Panel<a name="panel"></a>
------
-* Jason Dixon [github](https://github.com/obfuscurity), [twitter](https://twitter.com/obfuscurity)
 * Delali Dzirasa [github](https://github.com/deld), [twitter](https://twitter.com/delalidzirasa)
 * Meghan Butler [github](https://github.com/megbutler), [twitter](https://twitter.com/_mcbee13)
 * Kevin Chung [github](https://github.com/KRS-One)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
-
+* Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Outline/Questions
 -----------------
