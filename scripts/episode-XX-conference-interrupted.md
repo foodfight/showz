@@ -13,6 +13,7 @@ Invited Panel<a name="panel"></a>
 * Jason Dixon [github](https://github.com/obfuscurity), [twitter](https://twitter.com/obfuscurity)
 * Delali Dzirasa [github](https://github.com/deld), [twitter](https://twitter.com/delalidzirasa)
 * Meghan Butler [github](https://github.com/megbutler), [twitter](https://twitter.com/_mcbee13)
+* Kevin Chung [github](https://github.com/KRS-One)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 
 
