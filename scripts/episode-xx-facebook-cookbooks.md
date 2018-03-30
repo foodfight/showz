@@ -13,6 +13,11 @@ Invited Panel<a name="panel"></a>
 
 * Phil Dibowitz
 
+Announcements<a name="announcements"></a>
+-----
+* [ChefConf](http://chefconf.chef.io/) - May 22-25 in Chicago
+* [Awesome Community Chef Awards](https://blog.chef.io/2018/03/23/awesome-community-chef-nominations-2018/)
+
 
 Outline/Questions
 -----------------
