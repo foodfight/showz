@@ -5,13 +5,13 @@ Show Date:  [Friday, March 23, 2018 21:00 UTC](http://everytimezone.com/#2018-3-
 Confirmed Panel<a name="panel"></a>
 -----
 
+* Phil Dibowitz [github](https://github.com/jaymzh), [twitter](https://twitter.com/thephild)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Invited Panel<a name="panel"></a>
 -----
 
-* Phil Dibowitz
 
 Announcements<a name="announcements"></a>
 -----
@@ -39,7 +39,7 @@ Outline/Questions
 * Mike Dodge at ChefConf
 
 
-ChefConf 2013 talk
+* [ChefConf 2013 talk](https://blog.chef.io/chefconf-talks/chefconf-2013-scaling-systems-configuration-at-facebook-the-paradigms-design-and-software-behind-managing-massive-numbers-of-systems-with-open-source-and-small-teams-phil-dibowitz/)
 
 
 Picks<a name="picks"></a>
