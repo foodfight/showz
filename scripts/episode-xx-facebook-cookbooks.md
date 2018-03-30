@@ -36,7 +36,7 @@ Picks<a name="picks"></a>
 #### Phil
 
 #### Nell
-* [Space Jame website](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
+* [Space Jam website](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
 * [Pink Gorilla Games](http://www.pinkgorillagames.com/)
 
 #### Nathen
