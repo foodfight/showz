@@ -12,7 +12,6 @@ Confirmed Panel<a name="panel"></a>
 
 Invited Panel
 -----
-* Richard Cook [twitter](https://twitter.com/ri_cook)
 
 Outline/Questions
 -----------------
