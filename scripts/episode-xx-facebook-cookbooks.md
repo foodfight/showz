@@ -16,10 +16,12 @@ Invited Panel<a name="panel"></a>
 
 Outline/Questions
 -----------------
-
+* How does Facebook use Chef?
+* How does Facebook write and maintain its Chef cookbooks?
 * Let's talk about some of the cookbooks that Facebook has open sourced:
   * https://supermarket.chef.io/users/phild
   * https://github.com/facebook/chef-cookbooks
+* What makes a quality Open Source cookbook?
 
 
 Picks<a name="picks"></a>
@@ -28,6 +30,8 @@ Picks<a name="picks"></a>
 #### Phil
 
 #### Nell
+* [Space Jame website](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
+* [Pink Gorilla Games](http://www.pinkgorillagames.com/)
 
 #### Nathen
 
