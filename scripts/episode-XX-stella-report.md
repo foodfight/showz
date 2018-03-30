@@ -1,6 +1,6 @@
 # The Stella Report
 
-Show Date:  [Friday, April 6, 2018 19:00 UTC](http://everytimezone.com/#2018-4-6,420,cn3)
+Show Date:  [Friday, April 6, 2018 18:30 UTC](http://everytimezone.com/#2018-4-6,390,cn3)
 
 Confirmed Panel<a name="panel"></a>
 -----
