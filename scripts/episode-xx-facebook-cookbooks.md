@@ -15,6 +15,7 @@ Invited Panel<a name="panel"></a>
 
 Announcements<a name="announcements"></a>
 -----
+* As always, if you have questions or comments during the episode, we are monitoring the #foodfight channel in the Chef Community Slack at http://community-slack.chef.io/
 * [ChefConf](http://chefconf.chef.io/) - May 22-25 in Chicago
 * [Awesome Community Chef Awards](https://blog.chef.io/2018/03/23/awesome-community-chef-nominations-2018/)
 
