@@ -5,13 +5,14 @@ Show Date:  [Friday, April 6, 2018 18:30 UTC](http://everytimezone.com/#2018-4-6
 Confirmed Panel<a name="panel"></a>
 -----
 
+* John Allspaw [github](https://github.com/jallspaw), [twitter](https://twitter.com/allspaw), [blog](https://medium.com/@allspaw/), [SNAFUcatchers](https://www.snafucatchers.com/)
+* Alan Kraft
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
-* John Allspaw [github](https://github.com/jallspaw), [twitter](https://twitter.com/allspaw), [blog](https://medium.com/@allspaw/), [SNAFUcatchers](https://www.snafucatchers.com/)
 * Richard Cook [twitter](https://twitter.com/ri_cook)
-* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 
 Outline/Questions
 -----------------
