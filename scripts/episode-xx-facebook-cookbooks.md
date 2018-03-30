@@ -28,6 +28,18 @@ Outline/Questions
   * https://supermarket.chef.io/users/phild
   * https://github.com/facebook/chef-cookbooks
 * What makes a quality Open Source cookbook?
+* Grocery delivery?  taste tester.
+* github vs. supermarket
+* Partnering with Chef...OSS as a requirement
+* https://github.com/facebook/between-meals
+* https://github.com/facebook/grocery-delivery
+* Will Facebook's cookbooks work for me?  
+
+* Laptops?!
+* Mike Dodge at ChefConf
+
+
+ChefConf 2013 talk
 
 
 Picks<a name="picks"></a>
@@ -35,12 +47,18 @@ Picks<a name="picks"></a>
 
 #### Phil
 
+* [Metallica:  Wherever I May Roam Black Ticket](https://www.cidentertainment.com/events/metallica-worldwired-tour/#sold-out-wherever-i-may-roam-black-ticket)
+* [White Horse](http://whitehorsepasadena.com/) - Pasadena, California
+
 #### Nell
+
 * [Space Jam website](https://www.warnerbros.com/archive/spacejam/movie/jam.htm)
 * [Pink Gorilla Games](http://www.pinkgorillagames.com/)
 
 #### Nathen
 
+* [Vintage Kitchen](http://www.thevintagekitchen.ie/) restaurant in Dublin, Ireland.
+* [Laptops with Chef - Panel Discussion - Managing the Unmanageable: Using Chef and InSpec to Securely Manage Your Endpoints](https://guidebook.com/guide/118478/event/18459485/)
 
 CLOSE
 -----
