@@ -28,7 +28,8 @@ Picks<a name="picks"></a>
 #### Delali
 
 #### Nell
-
+* [Sakura Con](http://sakuracon.org/)
+* [Forged in Fire](https://www.history.com/shows/forged-in-fire)
 #### Nathen
 
 
