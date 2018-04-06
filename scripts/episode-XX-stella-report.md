@@ -52,7 +52,7 @@ Picks<a name="picks"></a>
 
 #### John
 
-#### Richard
+#### Alan
 
 #### Nell
 
