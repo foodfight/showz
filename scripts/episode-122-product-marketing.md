@@ -2,13 +2,13 @@ Show Date:  [Friday, August 10, 2018 - 18:00 UTC](https://everytimezone.com/#201
 
 Confirmed Panel<a name="panel"></a>
 -----
+* Chris Short [twitter](https://twitter.com/chrisshort), [github](https://github.com/chris-short), [blog](https://devopsish.com/)
+* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Invited Panel<a name="panel"></a>
 -----
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
-* Chris Short [twitter](https://twitter.com/chrisshort), [github](https://github.com/chris-short), [blog](https://devopsish.com/)
-* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 
 Outline/Questions
 -----------------
