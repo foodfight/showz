@@ -3,7 +3,6 @@ Show Date:  [Thursday, July 26, 2018 - 18:00 UTC](https://everytimezone.com/#201
 Confirmed Panel<a name="panel"></a>
 -----
 * Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)
-* Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Invited Panel<a name="panel"></a>
@@ -26,8 +25,6 @@ Picks<a name="picks"></a>
 -----
 
 #### Sean
-
-#### Nell
 
 #### Nathen  
 
