@@ -13,6 +13,7 @@ Invited Panel<a name="panel"></a>
 Outline/Questions
 -----------------
 
+* Pre-listen - Food Fight Show episode 33 - [\#monitoringlove With Sensu](http://foodfightshow.org/2012/12/monitoringlove-with-sensu.html)
 * Sensu
   * What is Sensu?
   * Why was it created?
