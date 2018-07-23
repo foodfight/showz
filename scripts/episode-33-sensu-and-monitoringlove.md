@@ -22,7 +22,8 @@ Outline/Questions
 * Is Sensu tightly coupled with Chef?
 * Ruby is dog-slow, so isn't Sensu slow too?
 * Are there pre-built checks?  Can Nagios checks be used?
-* https://github.com/sensu/sensu-community-plugins* Ulf: what were your reasons for moving to Sensu?
+* https://github.com/sensu/sensu-community-plugins
+* Ulf: what were your reasons for moving to Sensu?
 * Ulf: describe the migration process
 * Ulf: What are important considerations for others who want to make the switch?
 * Ulf: tell us about graphite/sensu integration

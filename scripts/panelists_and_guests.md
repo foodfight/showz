@@ -16,7 +16,7 @@
 * Mike McGarr [twitter](https://twitter.com/jmichaelmcgarr), [blog](http://earlyandoften.wordpress.com/)
 * Jez Humble [twitter](https://twitter.com/jezhumble), [github](https://github.com/Jezhumble), [blog](http://continuousdelivery.com/)
 * Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
-* Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)A
+* Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)
 * Trotter Cashion [github](http://github.com/trotter), [twitter](http://twitter.com/cashion), [blog](http://trottercashion.com)
 * Fletcher Nichol [twitter](http://twitter.com/fnichol), [github](https://github.com/fnichol)
 * Jason Fox [twitter](https://twitter.com/jasonrobertfox), [github](https://github.com/jasonrobertfox), [blog](http://neverstopbuilding.net/)
