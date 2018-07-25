@@ -18,6 +18,7 @@ Outline/Questions
   * Why was it created?
 * [Sensu Summit](https://sensu.io/summit)
 * Sensu + Habitat <3
+  * [Indellient Helps Build Sensu Habitat Core Plans](https://www.indellient.com/indellient-helps-build-sensu-habitat-core-plans/)
 * [ChefConf 2018 Session: Chef & Sensu – Delightful Monitoring](https://chefconf.chef.io/conf-resources/chefconf-2018-session-chef-sensu-delightful-monitoring/)
 
 
