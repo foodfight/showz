@@ -3,11 +3,12 @@ Show Date:  [Thursday, July 26, 2018 - 18:00 UTC](https://everytimezone.com/#201
 Confirmed Panel<a name="panel"></a>
 -----
 * Sean Porter [twitter](https://twitter.com/portertech), [github](https://github.com/portertech)
+* John Kerry [twitter](https://twitter.com/jkerrydev), [github](https://github.com/jkerry)
+* Matt Broberg [github](https://github.com/mbbroberg), [twitter](https://twitter.com/mbbroberg)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Invited Panel<a name="panel"></a>
 -----
-* Matt Broberg [github](https://github.com/mbbroberg), [twitter](https://twitter.com/mbbroberg)
 
 Outline/Questions
 -----------------
