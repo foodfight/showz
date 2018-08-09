@@ -5,10 +5,7 @@ Confirmed Panel<a name="panel"></a>
 * Chris Short [twitter](https://twitter.com/chrisshort), [github](https://github.com/chris-short), [blog](https://devopsish.com/)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
-
-Invited Panel<a name="panel"></a>
------
-* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn)
+* Julian Dunn [twitter](https://twitter.com/julian_dunn), [github](https://github.com/juliandunn), [blog](https://www.juliandunn.net)
 
 Outline/Questions
 -----------------
@@ -18,13 +15,14 @@ Outline/Questions
 * Why did you transition from Engineer to PMM?
 * How are PMM and DevOps related?
 
-
 Picks<a name="picks"></a>
 -----
 
 #### Chris
 
 #### Julian
+* Books for Work: [The Product Marketing Manager](https://amzn.to/2viobjz) and [Rise of the Revenue Marketer](https://amzn.to/2vgnyaf)
+* Fun: [The Awesome Adventures of Captain Spirit](https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/) (if you liked the [Life Is Strange](https://store.steampowered.com/franchise/square-enix) franchise)
 
 #### Nell
 
