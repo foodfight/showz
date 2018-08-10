@@ -7,12 +7,18 @@ Confirmed Panel<a name="panel"></a>
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
+Announcements<a name="announcements"></a>
+-----------------
+* [Community Summits!](https://www.chef.io/summits/) - October 2-3 in Seattle, October 16-17 in London
+* [ChefConf 2018](http://chefconf.chef.io/) - May 20-23 in Seattle
+
 Outline/Questions
 -----------------
 
 * What is a Product Marketing Manager (PMM)?
 * How does PMM differ from other parts of marketing?
 * Why did you transition from Engineer to PMM?
+* Have you noticed a difference in how people treat you after you transistion from Engineer to PMM?
 * How are PMM and DevOps related?
 
 Picks<a name="picks"></a>
@@ -25,6 +31,8 @@ Picks<a name="picks"></a>
 * Fun: [The Awesome Adventures of Captain Spirit](https://store.steampowered.com/app/845070/The_Awesome_Adventures_of_Captain_Spirit/) (if you liked the [Life Is Strange](https://store.steampowered.com/franchise/square-enix) franchise)
 
 #### Nell
+* [Good Strategy, Bad Strategy](https://smile.amazon.com/Good-Strategy-Bad-Difference-Matters-ebook/dp/B004J4WKEC/ref=sr_1_1?ie=UTF8&qid=1533924577&sr=8-1&keywords=good+strategy+bad+strategy+by+richard+rumelt)
+* [World of Warcraft](https://worldofwarcraft.com)
 
 #### Nathen  
 
