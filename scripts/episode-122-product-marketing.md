@@ -18,7 +18,7 @@ Outline/Questions
 * What is a Product Marketing Manager (PMM)?
 * How does PMM differ from other parts of marketing?
 * Why did you transition from Engineer to PMM?
-* Have you noticed a difference in how people treat you after you transistion from Engineer to PMM?
+* Have you noticed a difference in how people treat you after your transition from Engineer to PMM?
 * How are PMM and DevOps related?
 
 Picks<a name="picks"></a>
