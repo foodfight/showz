@@ -2,11 +2,11 @@ Show Date:  [Friday, November 30, 2018 - 18:00 UTC](https://everytimezone.com/#2
 
 Confirmed Panel<a name="panel"></a>
 -----
+* Mary Thengvall [twitter](https://twitter.com/mary_grace) [blog](https://www.marythengvall.com/) [github](https://github.com/mary-grace)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
-* Mary Thengvall [twitter](https://twitter.com/mary_grace) [blog](https://www.marythengvall.com/)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 
 Announcements<a name="announcements"></a>
