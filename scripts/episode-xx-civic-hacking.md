@@ -3,11 +3,15 @@ Show Date:  [Friday, November 16, 2018 - 18:00 UTC](https://everytimezone.com/#2
 Confirmed Panel<a name="panel"></a>
 -----
 * Chris Alfano [github](https://github.com/themightychris), [twitter](https://twitter.com/themightychris)
+* Kirsten Lambertsen [github](https://github.com/MsPseudolus), [twitter](https://twitter.com/MsPseudolus)
 * Nell Shamrell-Harrington [github](https://github.com/nellshamrell), [twitter](https://twitter.com/nellshamrell), [blog](http://nellshamrell.com/)
 * Nathen Harvey [github](http://github.com/nathenharvey), [twitter](http://twitter.com/nathenharvey), [blog](http://nathenharvey.com)
 
 Invited Panel
 -----
+* Sean Marcia [github](https://github.com/seanmarcia), [twitter](https://twitter.com/seanmarcia)
+* Chris Roat [github](https://github.com/chrisroat), [twitter](https://twitter.com/chrisroat)
+* Jill Huchital [github](https://github.com/jillh510), [twitter](https://twitter.com/JillHuchital)
 * Alex Schoof [github](https://github.com/alex-luminal), [twitter](https://twitter.com/alexschoof)
 
 Announcements<a name="announcements"></a>
