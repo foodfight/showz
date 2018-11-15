@@ -30,7 +30,9 @@ Picks<a name="picks"></a>
 
 #### Chris
 
-#### Alex
+#### Jill
+
+#### Kirsten
 
 #### Nell
 
